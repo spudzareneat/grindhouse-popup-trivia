@@ -5,13 +5,14 @@ import { PassThrough } from 'node:stream';
 import fs from 'node:fs';
 import { buildPrompt, targetFactCount } from '../src/prompt.js';
 import { buildClaudeArgs, parseClaudeResult, runClaude } from '../src/claude.js';
+import { MODEL_OUTPUT_SCHEMA, SOURCE_TYPES } from '../src/schema.js';
 
 const BUNDLE = { tconst: 'tt0055830', title: 'Carnival of Souls', year: 1962, runtimeSec: 4680, plot: 'P', trivia: ['T1'], goofs: [], quotes: [], connections: ['Referenced in: Night of the Living Dead (1968)'], alternateVersions: [], crazyCredits: [], soundtrack: [], filmingLocations: ['Saltair'], people: [{ name: 'Herk Harvey', role: 'director', character: null, trivia: ['HT'], knownFor: [] }] };
 
-test('targetFactCount scales with runtime, bounded 15..40', () => {
+test('targetFactCount scales with runtime, at least 15, no upper cap', () => {
     assert.equal(targetFactCount(4680), 31);
     assert.equal(targetFactCount(1200), 15);
-    assert.equal(targetFactCount(20000), 40);
+    assert.equal(targetFactCount(20000), 133);
     assert.equal(targetFactCount(null), 30);
 });
 test('buildPrompt carries the film, runtime, sources, totals, icons and rules', () => {
@@ -47,6 +48,43 @@ test('parseClaudeResult: usage limit detected', () => {
     assert.equal(r.ok, false);
     assert.equal(r.usageLimited, true);
     assert.equal(parseClaudeResult('', 'Error: 5-hour limit reached').usageLimited, true);
+});
+test('parseClaudeResult: success without facts but usage-limit text is usageLimited', () => {
+    const r = parseClaudeResult(JSON.stringify({ subtype: 'success', is_error: false, result: 'Claude AI usage limit reached|1759550400' }));
+    assert.equal(r.ok, false);
+    assert.equal(r.usageLimited, true);
+});
+test('parseClaudeResult: auth failures stop the run (authError + usageLimited)', () => {
+    const a = parseClaudeResult(JSON.stringify({ subtype: 'success', is_error: true, result: 'Invalid API key · Please run /login' }));
+    assert.equal(a.ok, false);
+    assert.equal(a.usageLimited, true);
+    assert.equal(a.authError, true);
+    assert.match(a.error, /auth/i);
+    const b = parseClaudeResult(JSON.stringify({ subtype: 'success', is_error: false, result: 'hello' }), 'API Error: 401 OAuth token has expired');
+    assert.equal(b.authError, true);
+    assert.equal(b.usageLimited, true);
+    assert.equal(parseClaudeResult(JSON.stringify({ subtype: 'success', is_error: false, result: 'hello' })).authError, undefined);
+});
+test('MODEL_OUTPUT_SCHEMA source enum excludes transcript; SOURCE_TYPES keeps it', () => {
+    const e = MODEL_OUTPUT_SCHEMA.properties.facts.items.properties.source.properties.type.enum;
+    assert.ok(!e.includes('transcript'));
+    assert.ok(e.includes('web'));
+    assert.ok(SOURCE_TYPES.includes('transcript'));
+});
+test('buildPrompt: source honesty, no cap, web research, scene placement, spoilers', () => {
+    const p = buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: null, tmdb: null });
+    for (const s of [
+        'ONLY for facts stated in the gathered material below',
+        "if you can't give a url, leave the fact out",
+        'Fewer real facts beats padding: if you can only source 8, return 8.',
+        'there is no upper limit',
+        'Aim for at least 31',
+        'at least 3 searches',
+        'NOT already in the gathered material',
+        'must be anchor scene at that moment',
+        '(t > runtime − 900)',
+    ]) assert.ok(p.includes(s), `prompt missing: ${s}`);
+    assert.ok(!p.includes('transcript'));
 });
 test('parseClaudeResult: garbage / missing facts', () => {
     assert.equal(parseClaudeResult('not json').ok, false);

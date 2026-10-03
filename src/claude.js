@@ -7,6 +7,9 @@ import path from 'node:path';
 // (the container holds a deploy key and the OAuth token in env).
 export const CLAUDE_TOOLS = 'WebSearch,WebFetch';
 const USAGE_LIMIT_RE = /usage limit|limit reached|rate limit|out of (extra )?usage/i;
+const AUTH_RE = /invalid api key|authentication|unauthorized|oauth token|please run \/login|401/i;
+// Auth failures stop the run like a usage limit: every later movie would fail the same way.
+const authFailure = (msg) => ({ ok: false, usageLimited: true, authError: true, error: `Claude auth failed: ${msg.slice(0, 280)}` });
 
 export function buildClaudeArgs({ model, schema }) {
     return [
@@ -28,11 +31,16 @@ export function parseClaudeResult(stdout, stderr = '') {
     }
     const text = typeof j.result === 'string' ? j.result : '';
     if (j.is_error || j.subtype !== 'success') {
+        if (AUTH_RE.test(text) || AUTH_RE.test(stderr)) return authFailure(text || stderr);
         return { ok: false, usageLimited: USAGE_LIMIT_RE.test(text) || USAGE_LIMIT_RE.test(stderr) || j.api_error_status === 429, error: (text || j.subtype || 'error').slice(0, 300) };
     }
     let out = j.structured_output;
     if (!out) { try { out = JSON.parse(text); } catch { out = null; } }
-    if (!out || !Array.isArray(out.facts)) return { ok: false, usageLimited: false, error: 'no facts in output' };
+    if (!out || !Array.isArray(out.facts)) {
+        if (AUTH_RE.test(text) || AUTH_RE.test(stderr)) return authFailure(text || stderr);
+        if (USAGE_LIMIT_RE.test(text)) return { ok: false, usageLimited: true, error: text.slice(0, 300) };
+        return { ok: false, usageLimited: false, error: 'no facts in output' };
+    }
     return { ok: true, usageLimited: false, facts: out.facts, costUsd: j.total_cost_usd ?? null, numTurns: j.num_turns ?? null };
 }
 

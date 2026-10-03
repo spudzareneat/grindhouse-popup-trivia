@@ -129,5 +129,5 @@ export async function fetchWeekendMovies(fetchImpl = fetch) {
     if (!entry) throw new Error('no schedule post found in feed');
     const days = parseSchedule(entry.contentHtml);
     if (!days.length) throw new Error('no days parsed from schedule post: ' + entry.title);
-    return { postTitle: entry.title, movies: flattenMovies(days) };
+    return { postTitle: entry.title, weekendFri: parseDateRange(entry.title, entry.publishedAt).fri, movies: flattenMovies(days) };
 }

@@ -13,25 +13,16 @@ import { makeTmdb } from './tmdb.js';
 import { fetchTotals } from './driveintotals.js';
 import { runClaude } from './claude.js';
 import { makeGit } from './publish.js';
-import { processMovie, runWeekend, UsageLimitError } from './pipeline.js';
+import { processMovie, runWeekend, UsageLimitError, PublishError } from './pipeline.js';
+import { parseArgs, USAGE } from './args.js';
 
-function parseArgs(argv) {
-    const args = { _: [], dryRun: false, force: false, year: null };
-    for (let i = 0; i < argv.length; i++) {
-        const a = argv[i];
-        if (a === '--dry-run') args.dryRun = true;
-        else if (a === '--force') args.force = true;
-        else if (a === '--year') args.year = Number(argv[++i]);
-        else args._.push(a);
-    }
-    return args;
-}
-
+// Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
     const args = parseArgs(process.argv.slice(2));
     const [command, target] = args._;
-    if (!(command === 'run' || (command === 'movie' && target))) {
-        console.error('usage: cli.js run [--dry-run] [--force] | cli.js movie <tt…|"Title"> [--year N] [--dry-run] [--force]');
+    if (args.error || !(command === 'run' || (command === 'movie' && target))) {
+        console.error(USAGE);
+        if (args.error) console.error(args.error);
         process.exitCode = 64;
         return;
     }
@@ -60,16 +51,23 @@ async function main() {
             delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
             sleep,
         });
-        process.exitCode = results.some(r => /usage limit/.test(r.reason || '')) ? 2 : 0;
+        const attempted = results.filter(r => r.status !== 'skipped');
+        if (results.some(r => r.stop === 'publish')) process.exitCode = 3;
+        else if (results.some(r => r.stop === 'usage')) process.exitCode = 2;
+        else if (attempted.length && attempted.every(r => r.status === 'failed')) process.exitCode = 1;
+        else process.exitCode = 0;
     } else {
         const item = /^tt\d+$/.test(target) ? { tconst: target } : { title: target, year: args.year, akas: [] };
         try {
+            deps.git.pull();
+            deps.git.push();
             const r = await processMovie(item, deps);
             log(`${r.status}${r.reason ? `: ${r.reason}` : ''}${r.kept ? ` — ${r.kept} facts` : ''}`);
             process.exitCode = r.status === 'failed' ? 1 : 0;
         } catch (e) {
-            log(e instanceof UsageLimitError ? `usage limit: ${e.message}` : e.stack);
-            process.exitCode = e instanceof UsageLimitError ? 2 : 1;
+            if (e instanceof UsageLimitError) { log(`${e.authError ? 'Claude auth failed' : 'usage limit'}: ${e.message}`); process.exitCode = 2; }
+            else if (e instanceof PublishError) { log(`git push failed: ${e.message}`); process.exitCode = 3; }
+            else { log(e.stack); process.exitCode = 1; }
         }
     }
 }

@@ -23,7 +23,11 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
 5. Start the schedule: `docker compose up -d --build` (runs Thu & Fri 03:00 in `TZ`). Logs: `docker compose logs -f`.
 
 Manual commands: `docker compose run --rm generator run` (this weekend now), `… movie "Title" --year 1980`,
-add `--force` to regenerate an existing file. Exit code 2 = stopped by the Claude usage limit (re-run later).
+add `--force` to regenerate an existing file. Don't run a manual `docker compose run … movie` while a scheduled
+run is in progress — they share the `/work` checkout.
+
+Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth failure (re-run later / fix the token),
+3 git push failed (run stopped; the commit stays local and is pushed by the next run), 64 bad command line.
 
 Hand-editing: files in `data/` are plain JSON — fix or delete a fact on GitHub; the next run skips movies
 that already have a file.
