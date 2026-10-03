@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { processMovie, runWeekend, UsageLimitError, summarize } from '../src/pipeline.js';
+import { processMovie, runWeekend, UsageLimitError, PublishError, summarize } from '../src/pipeline.js';
 import { makeGit, writeDoc } from '../src/publish.js';
 
 const fact = (t, text) => ({ t, rank: 1, anchor: 'spread', text, icon: 'reel', source: { type: 'imdb' } });
@@ -27,7 +27,7 @@ function makeDeps(over = {}) {
             model: 'sonnet',
             dataDir: path.join(root, 'data'),
             outDir: path.join(root, 'out'),
-            git: { pull() {}, commitAndPush(p, m) { commits.push({ p, m }); return true; } },
+            git: { pull() {}, push() {}, commitAndPush(p, m) { commits.push({ p, m }); return true; } },
             force: false, dryRun: false,
             log: () => {},
             now: () => '2026-10-03T09:00:00.000Z',
@@ -89,7 +89,7 @@ test('runWeekend: pulls, processes in order, sleeps between done movies, stops o
     let n = 0, pulled = 0;
     const sleeps = [];
     const { deps } = makeDeps({
-        git: { pull() { pulled++; }, commitAndPush() { return true; } },
+        git: { pull() { pulled++; }, push() {}, commitAndPush() { return true; } },
         runClaude: async () => (++n === 2 ? { ok: false, usageLimited: true, error: 'limit' } : { ok: true, usageLimited: false, facts: FIVE }),
         imdb: { ...makeDeps().deps.imdb, searchTitle: async (title) => ({ tconst: `tt${title.length}${title.charCodeAt(0)}`, title, year: 1962 }) },
     });
@@ -110,5 +110,100 @@ test('makeGit: dry run is inert; real run adds, commits that file, pushes, retri
     assert.equal(makeGit('/r', { dryRun: true, exec }).commitAndPush('/r/data/x.json', 'm'), false);
     assert.deepEqual(cmds, []);
     makeGit('/r', { exec }).commitAndPush('/r/data/x.json', 'msg');
-    assert.deepEqual(cmds, ['add -- /r/data/x.json', 'commit -m msg -- /r/data/x.json', 'push', 'pull --rebase', 'push']);
+    assert.deepEqual(cmds, ['add -- /r/data/x.json', 'commit -m msg -- /r/data/x.json', 'push', 'pull --rebase --autostash', 'push']);
+});
+
+const THREE_MOVIES = { postTitle: 'Sched', movies: [{ title: 'Aa', year: 1962 }, { title: 'Bbb', year: 1962 }, { title: 'Cccc', year: 1962 }] };
+const distinctImdb = () => ({ ...makeDeps().deps.imdb, searchTitle: async (title) => ({ tconst: `tt${title.length}${title.charCodeAt(0)}`, title, year: 1962 }) });
+const noSleep = { delayMs: 0, sleep: async () => {} };
+
+test('runWeekend: pulls then pushes (stranded commits / read-only key) before the first movie', async () => {
+    const order = [];
+    const { deps } = makeDeps({
+        git: { pull() { order.push('pull'); }, push() { order.push('push'); }, commitAndPush() { order.push('commit'); return true; } },
+        runClaude: async () => { order.push('claude'); return { ok: true, usageLimited: false, facts: FIVE }; },
+        imdb: distinctImdb(),
+    });
+    await runWeekend(deps, { fetchWeekend: async () => ({ postTitle: 'S', movies: [{ title: 'Aa', year: 1962 }] }), ...noSleep });
+    assert.deepEqual(order, ['pull', 'push', 'claude', 'commit']);
+});
+test('runWeekend: upfront push failure propagates before any Claude usage', async () => {
+    let claude = 0;
+    const { deps } = makeDeps({
+        git: { pull() {}, push() { throw new Error('denied'); }, commitAndPush() { return true; } },
+        runClaude: async () => { claude++; return { ok: true, usageLimited: false, facts: FIVE }; },
+    });
+    await assert.rejects(runWeekend(deps, { fetchWeekend: async () => THREE_MOVIES, ...noSleep }), /denied/);
+    assert.equal(claude, 0);
+});
+test('runWeekend: a failed commitAndPush stops the run, next movie not processed', async () => {
+    let claude = 0;
+    const { deps } = makeDeps({
+        git: { pull() {}, push() {}, commitAndPush() { throw new Error('push rejected'); } },
+        runClaude: async () => { claude++; return { ok: true, usageLimited: false, facts: FIVE }; },
+        imdb: distinctImdb(),
+    });
+    const results = await runWeekend(deps, { fetchWeekend: async () => THREE_MOVIES, ...noSleep });
+    assert.equal(claude, 1);
+    assert.equal(results.length, 1);
+    assert.equal(results[0].status, 'failed');
+    assert.match(results[0].reason, /git push failed/);
+    assert.equal(results[0].stop, 'publish');
+});
+test('processMovie: commitAndPush error is rethrown as PublishError', async () => {
+    const { deps } = makeDeps({ git: { pull() {}, push() {}, commitAndPush() { throw new Error('nope'); } } });
+    await assert.rejects(processMovie({ title: 'Carnival of Souls', year: 1962 }, deps), PublishError);
+});
+test('runWeekend: auth error stops the run like a usage limit', async () => {
+    const { deps } = makeDeps({ runClaude: async () => ({ ok: false, usageLimited: true, authError: true, error: 'Claude auth failed: Invalid API key' }), imdb: distinctImdb() });
+    const results = await runWeekend(deps, { fetchWeekend: async () => THREE_MOVIES, ...noSleep });
+    assert.equal(results.length, 1);
+    assert.match(results[0].reason, /auth/);
+    assert.equal(results[0].stop, 'usage');
+});
+test('runWeekend: logs the schedule Fri date and warns when the post looks stale', async () => {
+    const logs = [];
+    const { deps } = makeDeps({ log: m => logs.push(m), now: () => '2026-10-09T03:00:00.000Z' });
+    await runWeekend(deps, { fetchWeekend: async () => ({ postTitle: 'Sched', weekendFri: '2026-10-03', movies: [] }), ...noSleep });
+    assert.ok(logs.includes('Schedule: Sched (Fri 2026-10-03) — 0 movies'), logs.join('\n'));
+    assert.ok(logs.some(l => l.includes('schedule post looks stale (Fri 2026-10-03) — new post may not be up yet')));
+    const logs2 = [];
+    const { deps: d2 } = makeDeps({ log: m => logs2.push(m), now: () => '2026-10-06T03:00:00.000Z' });
+    await runWeekend(d2, { fetchWeekend: async () => ({ postTitle: 'Sched', weekendFri: '2026-10-03', movies: [] }), ...noSleep });
+    assert.ok(!logs2.some(l => /stale/.test(l)));
+});
+test('processMovie: reason reflects the latest attempt (error, then too few facts); turns logged', async () => {
+    let n = 0;
+    const logs = [];
+    const { deps } = makeDeps({
+        log: m => logs.push(m),
+        runClaude: async () => (++n === 1 ? { ok: false, usageLimited: false, error: 'timed out' } : { ok: true, usageLimited: false, facts: FIVE.slice(0, 3), numTurns: 12 }),
+    });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.status, 'failed');
+    assert.match(r.reason, /only 3 valid facts/);
+    assert.ok(logs.some(l => l.includes(', 12 turns')));
+});
+test('makeGit: pull uses --autostash; push() exists and is inert in dry run', () => {
+    const cmds = [];
+    const exec = (bin, args) => { cmds.push(args.slice(2).join(' ')); return ''; };
+    const dry = makeGit('/r', { dryRun: true, exec });
+    dry.pull(); dry.push();
+    assert.deepEqual(cmds, []);
+    const g = makeGit('/r', { exec });
+    g.pull(); g.push();
+    assert.deepEqual(cmds, ['pull --rebase --autostash', 'push']);
+});
+test('makeGit: retry failure runs rebase --abort (errors ignored) and rethrows', () => {
+    const cmds = [];
+    const exec = (bin, args) => {
+        const c = args.slice(2).join(' ');
+        cmds.push(c);
+        if (c === 'push') throw new Error('rejected');
+        if (c === 'rebase --abort') throw new Error('no rebase in progress');
+        if (c.startsWith('pull')) throw new Error('conflict');
+        return '';
+    };
+    assert.throws(() => makeGit('/r', { exec }).commitAndPush('/r/data/x.json', 'msg'), /conflict/);
+    assert.deepEqual(cmds, ['add -- /r/data/x.json', 'commit -m msg -- /r/data/x.json', 'push', 'pull --rebase --autostash', 'rebase --abort']);
 });

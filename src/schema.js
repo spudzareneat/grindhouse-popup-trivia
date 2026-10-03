@@ -41,7 +41,8 @@ export const MODEL_OUTPUT_SCHEMA = {
                         type: 'object',
                         required: ['type'],
                         properties: {
-                            type: { type: 'string', enum: SOURCE_TYPES },
+                            // 'transcript' stays in the contract/validator but the model can't produce one.
+                            type: { type: 'string', enum: SOURCE_TYPES.filter(t => t !== 'transcript') },
                             url: { type: 'string' },
                         },
                     },

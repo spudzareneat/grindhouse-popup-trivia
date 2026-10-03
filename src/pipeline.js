@@ -5,6 +5,7 @@ import { findTotals } from './driveintotals.js';
 import { hasDoc, writeDoc } from './publish.js';
 
 export class UsageLimitError extends Error {}
+export class PublishError extends Error {}
 
 const soft = async (p) => { try { return await p; } catch { return null; } };
 
@@ -40,10 +41,11 @@ export async function processMovie(item, deps) {
     let lastError = null;
     for (let attempt = 1; attempt <= 2; attempt++) {
         const r = await runClaude(prompt, { model, schema: MODEL_OUTPUT_SCHEMA });
-        if (r.usageLimited) throw new UsageLimitError(r.error || 'usage limit');
+        if (r.usageLimited) throw Object.assign(new UsageLimitError(r.error || 'usage limit'), { authError: !!r.authError });
         if (!r.ok) { lastError = r.error; log(`  attempt ${attempt} failed: ${r.error}`); continue; }
+        lastError = null;
         const v = validateFacts(r.facts, bundle.runtimeSec);
-        log(`  attempt ${attempt}: ${r.facts.length} facts from model, ${v.facts.length} kept, dropped ${JSON.stringify(v.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}`);
+        log(`  attempt ${attempt}: ${r.facts.length} facts from model, ${v.facts.length} kept, dropped ${JSON.stringify(v.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}${r.numTurns != null ? `, ${r.numTurns} turns` : ''}`);
         if (v.facts.length > best.facts.length) best = v;
         if (v.facts.length >= MIN_FACTS) break;
     }
@@ -54,15 +56,25 @@ export async function processMovie(item, deps) {
     const doc = buildDoc({ imdbId: tconst, title: bundle.title, year: bundle.year, runtimeSec: bundle.runtimeSec, facts: best.facts, generatedAt: now() });
     const file = writeDoc(dryRun ? outDir : dataDir, doc);
     if (!dryRun) {
-        git.commitAndPush(file, `data: ${bundle.title} (${bundle.year}) — ${best.facts.length} facts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`);
+        try {
+            git.commitAndPush(file, `data: ${bundle.title} (${bundle.year}) — ${best.facts.length} facts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`);
+        } catch (e) {
+            throw new PublishError(e.message);
+        }
     }
     return { status: 'done', title: label, tconst, kept: best.facts.length, dropped: best.dropped };
 }
 
 export async function runWeekend(deps, { fetchWeekend, delayMs, sleep }) {
     deps.git.pull();
-    const { postTitle, movies } = await fetchWeekend();
-    deps.log(`Schedule: ${postTitle} — ${movies.length} movies`);
+    deps.git.push();   // deliver commits stranded by an earlier failed push; fail fast (before any Claude usage) on a read-only key
+    const { postTitle, movies, weekendFri } = await fetchWeekend();
+    deps.log(`Schedule: ${postTitle}${weekendFri ? ` (Fri ${weekendFri})` : ''} — ${movies.length} movies`);
+    if (weekendFri) {
+        const today = deps.now().slice(0, 10);
+        const cutoff = new Date(Date.parse(`${today}T00:00:00Z`) - 3 * 86400000).toISOString().slice(0, 10);
+        if (weekendFri < cutoff) deps.log(`  WARNING: schedule post looks stale (Fri ${weekendFri}) — new post may not be up yet`);
+    }
     const results = [];
     for (let i = 0; i < movies.length; i++) {
         const m = movies[i];
@@ -72,8 +84,16 @@ export async function runWeekend(deps, { fetchWeekend, delayMs, sleep }) {
             r = await processMovie(m, deps);
         } catch (e) {
             if (e instanceof UsageLimitError) {
-                results.push({ status: 'failed', title: m.title, reason: `usage limit — run stopped (${e.message})` });
-                deps.log('  Claude usage limit hit — stopping this run; finished movies are already pushed.');
+                const what = e.authError ? 'Claude auth failed' : 'usage limit';
+                results.push({ status: 'failed', title: m.title, stop: 'usage', reason: `${what} — run stopped (${e.message})` });
+                deps.log(e.authError
+                    ? '  Claude authentication failed (check CLAUDE_CODE_OAUTH_TOKEN) — stopping this run; finished movies are already pushed.'
+                    : '  Claude usage limit hit — stopping this run; finished movies are already pushed.');
+                break;
+            }
+            if (e instanceof PublishError) {
+                results.push({ status: 'failed', title: m.title, stop: 'publish', reason: `git push failed — run stopped (${e.message})` });
+                deps.log('  git push failed — stopping this run so no more research is wasted; the commit stays local and is pushed next run.');
                 break;
             }
             r = { status: 'failed', title: m.title, reason: e.message };

@@ -47,6 +47,7 @@ test('fetchWeekendMovies uses a browser UA and returns post title + movies', asy
     assert.match(seenUa, /Mozilla/);
     assert.equal(r.postTitle, 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5');
     assert.equal(r.movies.length, 5);
+    assert.equal(r.weekendFri, '2026-10-03');
 });
 test('fetchWeekendMovies throws on HTTP error and on no schedule post', async () => {
     await assert.rejects(fetchWeekendMovies(async () => ({ ok: false, status: 403, text: async () => '' })), /HTTP 403/);

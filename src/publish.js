@@ -15,15 +15,22 @@ export function writeDoc(dir, doc) {
 export function makeGit(repoDir, { dryRun = false, exec = execFileSync } = {}) {
     const git = (...args) => exec('git', ['-C', repoDir, ...args], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
     return {
-        pull() { if (!dryRun) git('pull', '--rebase'); },
+        pull() { if (!dryRun) git('pull', '--rebase', '--autostash'); },
+        // Delivers commits stranded by an earlier failed push; fails fast on a read-only deploy key.
+        push() { if (!dryRun) git('push'); },
         commitAndPush(filePath, message) {
             if (dryRun) return false;
             git('add', '--', filePath);
             git('commit', '-m', message, '--', filePath);
             try { git('push'); } catch {
                 // Remote moved (e.g. a manual edit on GitHub) -- rebase our one commit and retry once.
-                git('pull', '--rebase');
-                git('push');
+                try {
+                    git('pull', '--rebase', '--autostash');
+                    git('push');
+                } catch (e) {
+                    try { git('rebase', '--abort'); } catch { /* no rebase in progress */ }
+                    throw e;
+                }
             }
             return true;
         },
