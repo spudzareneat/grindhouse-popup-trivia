@@ -1,0 +1,465 @@
+{
+  "schema": 1,
+  "imdbId": "tt0095863",
+  "title": "Phantasm II",
+  "year": 1988,
+  "runtimeSec": 5820,
+  "generatedAt": "2026-10-03T22:23:48.457Z",
+  "facts": [
+    {
+      "t": 150,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "For the prologue, Reggie Bannister dyed his hair black so he'd look as young as he did at the end of the 1979 original.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lori Loughlin plays young Mike in the prologue, and you only ever see her from behind.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "That house was real, doomed by a freeway project. The crew bought it for $500, added a second story to match the first film, and blew it up in one take with six cameras.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "A safety officer kept limiting the explosives, until he learned the movie was Phantasm II. 'This is Phantasm?... Blow the hell out of it.'",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The grave Mike is digging up is marked 'Grant', maybe a nod to the old joke 'Who's buried in Grant's tomb?' This one is empty.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The $3 million budget was 10 times the original's and the biggest of the series. It was also the lowest budget of any Universal film in the 1980s.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jeffrey Tambor was reportedly considered for Reggie, and Reggie Bannister had to re-audition for his own role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/phantasm-ii-what-happened/"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Universal wanted to replace both Reggie Bannister and A. Michael Baldwin as unknowns. Don Coscarelli got to keep one. He kept Reggie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the hardware store cart. The items on it change position from shot to shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The road-movie idea came from the end of Stephen King's 'Salem's Lot, where the heroes drive around hunting vampires. Coscarelli turned that into Mike and Reggie chasing the Tall Man.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the nine years between films, Reggie Bannister quit acting and worked at a funeral home, where he helped embalm bodies.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Brad Pitt auditioned for Mike. Coscarelli chose James Le Gros instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Universal banned dream sequences and ambiguity. They wanted a linear plot with voice-over narration, which is a big change from the first film.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The new silver spheres owe a debt to Philip K. Dick's story 'Second Variety'. Coscarelli is a big fan, and its killer 'claws' are 'a churning sphere of blades and metal'.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "White Zombie sampled the Tall Man's 'You think that when you die you go to Heaven... you come to us!' on 'Disaster Blaster II' in 1989.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Twelve dead bodies. Exploding house. One four-barreled sawed-off shotgun. Dwarf tossing. Ten breasts. Embalming needles plunged through various parts of various bodies.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "To play the Tall Man, Angus Scrimm wore suits several sizes too small and boots with lifts inside, so he looked taller.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic John Kenneth Muir says this sequel went 'bigger is better': a quadruple shotgun, golden spheres, a chainsaw duel, and a bigger death for the Tall Man.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The United States Conference of Catholic Bishops called the film 'morally offensive' when it was released.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reggie Bannister did his own stunts, except a chainsaw jump he wasn't allowed to do.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "One headstone reads 'Alex Murphy', the name of the cop who becomes RoboCop (1987).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reggie Bannister's wife was on set the day his love scene with Samantha Phillips was shot.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A. Michael Baldwin still resents the recasting. On the Phantasm III commentary he twice called this one 'the film which shan't be named'.",
+      "icon": "mic",
+      "byline": "A. Michael Baldwin",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Ear-lopping. Forehead-drilling. Wrist-hacking. Bimbo-flinging. Grandma-bashing. Devil sex. Crematorium Fu. Flamethrower Fu.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The deadlier new spheres were built by Steve Patino and his 15-year-old assistant Steve Cotroneo. The original designer, Willard Green, had died in 1977.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Father Meyers' ear was cut off with the actor lying on a table and the camera on its side. The first take failed because the ear-cutting happened between film frames.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cuts to Father Meyers' sphere death were demanded by the studio. Coscarelli trimmed the blood and added reaction shots to satisfy the ratings board.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/phantasm-ii-what-happened/"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Coscarelli asked Universal for an extra $500,000 to finish filming, and the studio approved it.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/phantasm-ii-what-happened/"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reggie's ride is a 1971 Plymouth Hemi 'Cuda. The Hemi was a rare package, built to dominate NASCAR.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3960,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Drive-In Totals: 'The most terrifying scene I've ever witnessed--a perfectly decent 1971 Hemi Cuda flipping over, landing on its roof and bursting into flame.'",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "James Le Gros later played Wade Messer on Justified, a show about Raylan Givens. He also played Givens himself in the 1997 TV movie Pronto.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "That bag of ashes is labeled 'Mr. Sam Raimi'. Raimi visited the set, and later made Darkman (1990) for Universal.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The crew jokingly called the deadly Gold Sphere the 'Rambo' sphere during filming.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Small Soldiers (1998) spoofed this film, and so did a few others.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert gave it one star out of four, calling it an extended dream without logic. Metacritic's score is 42.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dave Kehr of the Chicago Tribune liked it. He said Coscarelli captured 'the texture of a disjointed, half-remembered nightmare' and compared it to 1920s surrealism.",
+      "icon": "reel",
+      "byline": "Dave Kehr",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It opened with $3,012,285 and finished with $7,282,851 domestically. The LA Times called it a box-office bomb.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The trailer and TV spots used a special version of the final dialogue, shot in a mausoleum instead of the hearse so the ending wasn't spoiled.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Universal rushed the release to beat De Niro's Midnight Run. Phantasm II opened in ninth place against Coming to America and Who Framed Roger Rabbit?",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/phantasm-ii-what-happened/"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Four stars. Outstanding. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 5760,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The copyright notice warns of 'civil liability, criminal prosecution, and the wrath of The Tall Man.'",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
