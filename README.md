@@ -16,6 +16,7 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
 2. Deploy key: `mkdir secrets && ssh-keygen -t ed25519 -N "" -f secrets/deploy_key`, then add
    `secrets/deploy_key.pub` at GitHub → repo Settings → Deploy keys, **Allow write access**.
    The container runs as uid 1000; if your user isn't uid 1000, `sudo chown 1000 secrets/deploy_key`.
+   The key must exist before `docker compose up` (otherwise Docker creates an empty directory there).
 3. `cp .env.example .env` and fill in `CLAUDE_CODE_OAUTH_TOKEN` (from `claude setup-token`).
 4. Try one movie without publishing: `docker compose run --rm generator movie tt0055830 --dry-run`
    then look at it: `docker compose run --rm generator shell` → `cat /work/out/tt0055830.json`.
