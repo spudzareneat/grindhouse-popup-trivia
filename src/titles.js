@@ -10,7 +10,7 @@ const ROMAN_NUMERALS = {
 export function normalizeTitle(s) {
     return (s || '')
         .toLowerCase()
-        .replace(/['']/g, '')
+        .replace(/['’]/g, '')
         .replace(/^(the|a|an)\s+/, '')
         .split(/[^a-z0-9]+/)
         .filter(Boolean)
