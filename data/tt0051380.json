@@ -1,0 +1,357 @@
+{
+  "schema": 1,
+  "imdbId": "tt0051380",
+  "title": "Attack of the 50 Foot Woman",
+  "year": 1958,
+  "runtimeSec": 3960,
+  "generatedAt": "2026-10-03T22:47:43.720Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the newscaster's globe: he reels off Barents Sea, Cairo, Capetown, Auckland, but points at South Africa while saying Auckland, then at New Zealand. Geography was not the budget's priority.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole movie was shot in just eight days for about $89,000, roughly $10,000 under budget. That's around $820,000 today.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 230,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Nathan Juran insisted on being credited as \"Nathan Hertz\", his middle name, because he thought the material was subpar and might hurt his standing in the studio system.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/384944/attack-of-the-50-foot-woman-1958-attack-of-the-50-foot-woman"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Juran's day job: he directed The 7th Voyage of Sinbad the same year, and he'd won an Oscar for art direction on How Green Was My Valley (1941).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming began January 8, 1958 under the title The Astounding Giant Woman. Other titles floated included The Mammoth Female Monster and The Colossal Female Monster.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The spaceship is called a \"satellite\" because the writer reportedly thought the word meant any spherical spacecraft. The film was rushed out in the wake of Sputnik.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Bernard Woolner and his brothers ran a chain of Deep South drive-in theaters after WWII. They moved into distribution and then production, which is how this drive-in classic got made.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Attack_of_the_50_Foot_Woman"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Yvette Vickers said her sexy dance was inspired by Rita Hayworth's number in Gilda (1946). The suggestion to do it came from Frank Chase, brother of dancer Barrie Chase.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The couples dancing in Tony's Bar and Grill are doing the Carolina shag.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The giant, bald alien is played by Michael Ross, who also plays the bartender. Some viewers say the alien looks a lot like President Eisenhower.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Corman said he first considered Allison Hayes for the lead in Last Woman on Earth (1960), then cast Betsy Jones-Moreland instead after seeing her in a Hollywood play.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Allison Hayes was a gifted concert pianist and competed in the 1949 Miss America pageant as Miss Washington, D.C.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The alien ship's beeping is the same sound used in The Amazing Colossal Man (1957) during the bomb test. The film was made to ride the wave of that hit and The Incredible Shrinking Man.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hayes' co-star William Hudson also appeared in The Amazing Colossal Man (1957). Hudson had a twin brother, actor John Hudson.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sheriff Dubbitt is played by George Douglas, the younger brother of Oscar winner Melvyn Douglas.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Despite the poster, no giant woman ever grabs cars or wrecks a highway in the film. No highway is ever even seen.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The poster, a Reynold Brown illustration, was ranked #8 on Premiere magazine's 25 Best Movie Posters Ever. IMDb says the ad was designed by Roger Corman and is in MoMA's collection.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/384944/attack-of-the-50-foot-woman-1958-attack-of-the-50-foot-woman"
+      }
+    },
+    {
+      "t": 1930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One reviewer says the Reynold Brown poster was pitched at both sci-fi fans and the \"girlie-show crowd\". It was drive-in exploitation first, art second.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://trailersfromhell.com/attack-of-the-50-foot-woman/"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie opened May 18, 1958 as a double feature with War of the Satellites. It earned about $480,000 on an $88,000 budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Harry fills a big syringe here, but a few shots later he's holding one about thirty times smaller. Hollywood math.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "At the time, a giant Hayes in a standard-size room was never explained. Reviewers also noted she's a brunette when normal-sized but a long-haired blonde once she grows.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film never says \"50 foot\". Characters call the giants \"30 foot\". Nobody on set apparently fought for the title's accuracy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The budget had no room for giant props except one big rubber hand, so much of the giant action is done with just that hand and double exposures.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/384944/attack-of-the-50-foot-woman-1958-attack-of-the-50-foot-woman"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Yvette Vickers recalled a nail on a fallen board ending up about two inches from her head during her death scene: \"It could have gone right into my skull!\"",
+      "icon": "skull",
+      "byline": "Yvette Vickers",
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/384944/attack-of-the-50-foot-woman-1958-attack-of-the-50-foot-woman"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "As the sheriff and Jess duck behind a forked tree, look at the right branch: it has a skull on it. A pun on the title at the 50-minute mark?",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Yvette Vickers posed for Playboy in July 1959, photographed by future sexploitation legend Russ Meyer. She said her only regret was not being able to show more than her bare butt.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A planned sequel in color and CinemaScope had a finished script. It never went into production.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the mid-1980s Jim Wynorski shot a photo session with Sybil Danning as the giantess for a remake, then made Not of This Earth instead. HBO's 1993 remake starred Daryl Hannah.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film echoes on. Lana Del Rey's \"Doin' Time\" video and Beyoncé's \"Attack of the 400 Foot Cowboy\" interlude both riff on it, and Monsters vs. Aliens made its giantess exactly 49' 11\".",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 75-minute TV version added a printed crawl and repeated sequences, plus hold-frames to stretch the running time past the original 66 minutes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Yvette Vickers recorded a commentary with Tom Weaver for the 2007 DVD, believed to be her final work in the industry. Stephen King once named her as one of his movie matinée idols.",
+      "icon": "mic",
+      "byline": "Yvette Vickers",
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
