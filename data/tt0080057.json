@@ -1,0 +1,332 @@
+{
+  "schema": 1,
+  "imdbId": "tt0080057",
+  "title": "Zombie",
+  "year": 1979,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-10-03T22:37:30.408Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The '2' in Zombi 2 is a cheat: Dawn of the Dead was released in Italy as Zombi, so producers sold this as its sequel. Fulci said he didn't know about the title and was displeased.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script began as 'Nightmare Island,' a riff on The Island of Doctor Moreau, written before Dawn of the Dead hit Italy. The New York scenes were added later.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Enzo G. Castellari was offered the director's chair first. He passed because he didn't feel right for a horror film, and Lucio Fulci got the job as the second choice.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ian McCulloch got the lead because producer Ugo Tucci loved the BBC series Survivors, which was a hit in Italy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cast mixed English and Italian speakers, and there was no live sound. Everyone was dubbed afterward, so lips and lines never quite match in any language.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several actors' contracts promised trailers. None were there when shooting began, and only Richard Johnson talked the producers into providing one.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Johnson was reportedly considered for James Bond in Dr. No (1962). He turned down the multi-picture contract and later played a Bond-ish Bulldog Drummond.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The shark-vs-zombie fight was producer Ugo Tucci's idea. It was shot by makeup wizard Giannetto De Rossi in Mexico without Fulci's approval, and Fulci reportedly thought it was ridiculous.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The underwater zombie was a real shark trainer, because the scheduled actor fell ill. The tiger shark was reportedly fed beforehand and sedated to keep it calm.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/2019/01/zombie-flesh-eaters-1979/"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fulci reportedly called the extras in their caked-on, multi-layer zombie makeup 'walking flower pots.'",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Zombi_2/Fun_Facts"
+      }
+    },
+    {
+      "t": 1990,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Composer Fabio Frizzi's score for the eye-gouging scene was inspired by the Beatles' 'A Day in the Life.' He also added Caribbean cues meant to 'pleasantly deceive' the audience.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2180,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Frizzi said that after first seeing the eye-splinter scene, he asked editor Vincenzo Tomassi where it was cut, to be sure it was an effect and not real.",
+      "icon": "mic",
+      "byline": "Fabio Frizzi — Composer",
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/39886/zombie-flesh-eaters-uk-blu-ray/"
+      }
+    },
+    {
+      "t": 2370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup artist Rosario Prestopino said Olga Karlatos ran to her dressing room in tears after watching footage of her character's death. The eye shot used a life mask with a prosthetic eye.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italian premiere was in Rome on 25 August 1979. It outgrossed Romero's Dawn of the Dead in Italy, which led to an official Zombi 3.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Zombi 2 cost about 410 million lire and reportedly grossed over 3 billion worldwide, roughly seven times its budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Dardano Sacchetti took his name off the credits after his father died during preproduction. A film about the dead rising felt too close to home.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The main title theme reportedly reuses music from the soundtrack of the 1977 Godzilla remix known as 'Cozzilla.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tisa Farrow's sister is Mia Farrow, and the Beatles' 'Dear Prudence' was written about her other sister, Prudence.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tisa Farrow died January 10, 2024. Dawn of the Dead star David Emge died ten days later.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lucio Fulci used to be a medical student and an art critic before becoming a filmmaker.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3890,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The UK cut 1 minute 46 seconds for its 1980 release. Then it landed on the 'video nasties' list, and the BBFC didn't pass it uncut until 2005.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fulci had three films on the original UK video nasties list: Zombie, The Beyond, and The House by the Cemetery.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The US release was unrated because the MPAA would have given it an X. Promo material reportedly included airline vomit bags.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fulci appears in a cameo as Peter's news editor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zombie was nominated for the Saturn Award for Best Make-up at the 8th Saturn Awards in 1981.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film inspired the games Dead Island and Dead Island: Riptide, which are also about escaping a zombie outbreak on a tropical island.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jay Baruchel wears a 'Zombie vs. Shark' t-shirt in This Is the End (2013).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5220,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Entertainment Weekly ranked Zombie #10 on its 'Guilty Pleasures: Testosterone Edition' list in 2007.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fulci began directing Zombi 3 but illness forced him to hand over to Bruno Mattei and Claudio Fragasso.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
