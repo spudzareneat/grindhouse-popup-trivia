@@ -1,0 +1,8 @@
+.git
+node_modules
+data
+out
+.env
+.superpowers
+test
+docs
