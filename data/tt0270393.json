@@ -1,0 +1,316 @@
+{
+  "schema": 1,
+  "imdbId": "tt0270393",
+  "title": "Groom Lake",
+  "year": 2002,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-03T22:18:09.698Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "William Shatner directed and starred. Producer J.R. Bookwalter says the two had some \"pretty gnarly spats\" over the tiny budget and Full Moon's no-frills, get-in-get-out style.",
+      "icon": "camera",
+      "byline": "J.R. Bookwalter — Producer",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole movie cost about $750,000. Not much for building a secret military base and a UFO.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bookwalter says this had the most experienced, best-known cast of any film he had produced up to then.",
+      "icon": "star",
+      "byline": "J.R. Bookwalter — Producer",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A Border Patrol agent on horseback stumbled onto the remote set. He got cast, and plays two roles in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shatner rode horseback along the U.S.-Mexico border with that agent during the shoot in Bisbee, Arizona. He later told the story on Conan O'Brien in 2001.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The agent got his part from Elizabeth Martin, who later became Mrs. Elizabeth Shatner.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shot in 2001 but not released on video until 2003, so it sat on the shelf for a while.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming happened around Arizona: Bisbee, Douglas, Lowell, Warren and Tucson. Some of it was at the Biosphere 2 complex in Oracle.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is also known as The Visitor. Shatner co-wrote it with Maurice Hurley.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It premiered September 21, 2002, at the Temecula Valley International Film Festival.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Groom_Lake_(film)"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cinematographer is Mac Ahlberg, a veteran of Swedish films and Charles Band's 1980s sci-fi and horror.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Groom_Lake_(film)"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film runs about 92 minutes. It was distributed on video by Shadow Entertainment and Koch Entertainment.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Groom_Lake_(film)"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shatner's wife Nerine died in 1999. One review says he dedicated the film to her and wanted its message to be that there is life after death.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dtvconnoisseur.blogspot.com/2007/05/groom-lake-2002.html"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The shoot was covered by daily streaming video on ScienceFiction.com from November 18 to December 11. It was an early behind-the-scenes web series.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.sffchronicles.com/threads/13312/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-producer Chuck Williams also plays the alien. Williams' producing credits include Near Dark (1987).",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.sffchronicles.com/threads/13312/"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Amy Acker trained in ballet for 13 years. A knee surgery in high school ended that, and she switched to acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Acker went on to play Fred on Angel and later starred in Person of Interest and The Cabin in the Woods.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tom Towles, who played Dietz, also played the nasty Otis in Henry: Portrait of a Serial Killer, and he later appeared in Rob Zombie's films.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tom Towles served in the Marine Corps. He was once considered for Andy Sipowicz on NYPD Blue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dick Van Patten founded the pet food company Natural Balance. He's best known as the dad on Eight Is Enough.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dan Gauthier met his wife Lisa Fuller while making Teen Witch (1989). They both appeared in it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shatner is a serious equestrian. On Star Trek: Generations he coached Patrick Stewart on horses, including a tip to wear pantyhose under his pants.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shatner married horse trainer Elizabeth Martin in 2001, around when this was shot. She had lost her first husband to cancer in 1997.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite the spats, Shatner later hosted Full Moon's Fright Night on the Sci-Fi Channel.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One reviewer called Shatner's performance 'very Captain Kirkish but effective.' The same review gave the film 4 out of 10.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fullmoonband.blogspot.com/2010/12/groom-lake-should-probably-remain.html"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One review says the film was one of the most expensive of the modern Full Moon era. The same review says $750,000 still wasn't enough for convincing effects.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fullmoonband.blogspot.com/2010/12/groom-lake-should-probably-remain.html"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Shatner conceived the story himself, then directed it and co-produced it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fullmoonband.blogspot.com/2010/12/groom-lake-should-probably-remain.html"
+      }
+    }
+  ]
+}
