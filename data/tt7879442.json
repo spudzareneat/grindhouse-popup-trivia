@@ -1,0 +1,329 @@
+{
+  "schema": 1,
+  "imdbId": "tt7879442",
+  "title": "Butt Boy",
+  "year": 2019,
+  "runtimeSec": 5940,
+  "generatedAt": "2026-10-03T22:58:29.963Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Butt Boy began as a one-minute Tiny Cinema sketch. Someone then pitched stretching the joke into a full feature.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/324094/interview-a-deep-probe-into-comedy-thriller-butt-boy-with-director-tyler-cornack/"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The whole budget was about $150,000. Director Tyler Cornack turned down double that because he wanted creative control.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2020/04/butt-boy-interview-directorstar-tyler-cornack-on-one-of-the-craziest-movies-in-recent-memory.html"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "On set, the slates read \"Fox Tail\" instead of the real title. The crew was being careful around the child actors.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/324094/interview-a-deep-probe-into-comedy-thriller-butt-boy-with-director-tyler-cornack/"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chip Gutchel is the real name of director Tyler Cornack's godfather. Cornack always thought it was a funny name.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rocky the missing dog is Cornack's real dog. His real name is Marty, the same as Chip's son in the movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cornack and co-writer Ryan Koch wrote and recorded the score while they were still writing the screenplay.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Detective Fox was written with Tyler Rice in mind. Cornack said Rice \"always brings more.\"",
+      "icon": "mic",
+      "byline": "Tyler Cornack — Director",
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2020/04/butt-boy-interview-directorstar-tyler-cornack-on-one-of-the-craziest-movies-in-recent-memory.html"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cornack's comedy philosophy: \"The plot, the circumstances, is the joke, but there's almost no jokes in between.\"",
+      "icon": "mic",
+      "byline": "Tyler Cornack — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/324094/interview-a-deep-probe-into-comedy-thriller-butt-boy-with-director-tyler-cornack/"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cast rehearsed extensively before shooting so nobody would crack up during takes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/324094/interview-a-deep-probe-into-comedy-thriller-butt-boy-with-director-tyler-cornack/"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cornack's influences include Heat, Columbo and Lethal Weapon. He also cites Society and Re-Animator for the tonal shift near the end.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2020/04/butt-boy-interview-directorstar-tyler-cornack-on-one-of-the-craziest-movies-in-recent-memory.html"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The company name RTM stands for Ryan, Tyler and Morean, the three Tiny Cinema founders.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cornack both directed and starred. He said of the double duty: \"I don't think I'll ever do that again.\"",
+      "icon": "mic",
+      "byline": "Tyler Cornack — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/324094/interview-a-deep-probe-into-comedy-thriller-butt-boy-with-director-tyler-cornack/"
+      }
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The early script had Fox in a full fist fight with Chief Lazzara. It was cut because it did nothing for the story.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chief Lazzara is played by Brad Potts, a former professional wrestler.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cornack storyboarded the whole film and printed the stills, so the cast and crew could see every shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://aiptcomics.com/2020/04/13/an-interview-with-tyler-conrack-of-butt-boy-either-youre-along-for-the-ride-or-you-despise-it/"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film nearly avoids showing the act itself. Cornack said, \"it's all alluding to it.\"",
+      "icon": "mic",
+      "byline": "Tyler Cornack — Director",
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2020/04/butt-boy-interview-directorstar-tyler-cornack-on-one-of-the-craziest-movies-in-recent-memory.html"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It premiered at Fantastic Fest 2019 to four sold-out screenings in Austin.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "With little money, the producers called in favors through shout-outs on the Tiny Cinema Instagram page.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tyler Rice, who plays Fox, was an Allstate running back in high school and grew up in Chicago.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Epic Pictures bought the US rights in February 2020, as reported by Deadline.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://deadline.com/2020/02/epic-pictures-fantastic-fest-comedy-thriller-butt-boy-efm-1202866184/"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's VOD debut was April 14, 2020. COVID-19 cancelled the limited theatrical release planned for that month.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Variety called it \"the drollest execution possible of the most juvenile concept.\"",
+      "icon": "star",
+      "byline": "Dennis Harvey — Variety",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The LA Times called it \"either the best or worst rectal-kink detective noir/addiction drama/supervillain origin story ever made.\"",
+      "icon": "star",
+      "byline": "Justin Chang — LA Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 2025, John Waters put Butt Boy on his ballot for the New York Times' 100 Best Movies of the 21st Century.",
+      "icon": "trophy",
+      "byline": "John Waters",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "ScreenAnarchy compared it to a Quentin Dupieux film shot like a TV movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Its sequel-ish title Butt Boy (2024) references this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filmmaker K S Shanti cites Butt Boy as his favorite film.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4980,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The score includes Stan Getz and João Gilberto's Corcovado, and Colin Blunstone's It's Not Easy, billed as Neil MacArthur.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
