@@ -2,7 +2,10 @@ import { SCHEMA_VERSION, ICON_KEYS, SOURCE_TYPES, URL_REQUIRED, MAX_TEXT, MIN_T,
 
 // The gate between model output and a published file. Never trusts the model:
 // drops anything malformed/uncited, clamps times into the movie, enforces spacing.
-export function validateFacts(rawFacts, runtimeSec) {
+// peopleImages: { nconst: headshotUrl|null } for the people WE fetched from IMDb --
+// a fact's `person` tag is only kept for someone in this map, and its `image` URL
+// always comes from here, never from the model.
+export function validateFacts(rawFacts, runtimeSec, peopleImages = {}) {
     const dropped = {};
     const drop = reason => { dropped[reason] = (dropped[reason] || 0) + 1; };
     const maxT = runtimeSec ? runtimeSec - END_MARGIN : Infinity;
@@ -19,6 +22,8 @@ export function validateFacts(rawFacts, runtimeSec) {
         const url = typeof f.source.url === 'string' && /^https?:\/\//i.test(f.source.url) ? f.source.url : null;
         if (URL_REQUIRED.has(type) && !url) { drop('uncited'); continue; }
         if (typeof f.t !== 'number' || !Number.isFinite(f.t)) { drop('bad-t'); continue; }
+        const person = typeof f.person === 'string' && Object.hasOwn(peopleImages, f.person) ? f.person : null;
+        const image = person ? peopleImages[person] || null : null;
         kept.push({
             t: Math.min(Math.max(Math.round(f.t), MIN_T), maxT),
             rank: [1, 2, 3].includes(f.rank) ? f.rank : 2,
@@ -27,6 +32,8 @@ export function validateFacts(rawFacts, runtimeSec) {
             icon: f.icon,
             byline: typeof f.byline === 'string' && f.byline.trim() ? f.byline.trim() : null,
             source: url ? { type, url } : { type },
+            ...(person ? { person } : {}),
+            ...(image ? { image } : {}),
         });
     }
 

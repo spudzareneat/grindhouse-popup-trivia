@@ -57,3 +57,28 @@ test('buildDoc shape', () => {
     const d = buildDoc({ imdbId: 'tt1', title: 'T', year: 1999, runtimeSec: 5000, facts: [], generatedAt: '2026-10-03T00:00:00Z' });
     assert.deepEqual(d, { schema: 1, imdbId: 'tt1', title: 'T', year: 1999, runtimeSec: 5000, generatedAt: '2026-10-03T00:00:00Z', facts: [] });
 });
+
+test('person tag kept only for fetched people; image always comes from our map', () => {
+    const imgs = { nm1: 'https://m.media-amazon.com/images/M/x._V1_QL75_UX120_CR0,0,120,120_.jpg', nm2: null };
+    const { facts } = validateFacts([
+        F(100, 'about nm1', { person: 'nm1', image: 'https://evil.example/x.jpg' }),
+        F(200, 'about nm2 (no photo)', { person: 'nm2' }),
+        F(300, 'unknown person', { person: 'nm999' }),
+        F(400, 'no person'),
+    ], 4680, imgs);
+    assert.deepEqual(facts.map(f => [f.text, f.person ?? null, f.image ?? null]), [
+        ['about nm1', 'nm1', imgs.nm1],
+        ['about nm2 (no photo)', 'nm2', null],
+        ['unknown person', null, null],
+        ['no person', null, null],
+    ]);
+    assert.equal('image' in facts[1], false);
+    assert.equal('person' in facts[2], false);
+});
+test('person tag ignored when no people map given', () => {
+    assert.equal('person' in validateFacts([F(100, 'x', { person: 'nm1' })], 4680).facts[0], false);
+});
+test('MODEL_OUTPUT_SCHEMA allows an optional person tag', () => {
+    assert.deepEqual(MODEL_OUTPUT_SCHEMA.properties.facts.items.properties.person, { type: 'string' });
+    assert.equal(MODEL_OUTPUT_SCHEMA.properties.facts.items.required.includes('person'), false);
+});

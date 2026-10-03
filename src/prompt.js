@@ -23,7 +23,7 @@ export function buildPrompt({ imdb, wikidata, wikipedia, totals, tmdb }) {
     const rt = imdb.runtimeSec;
     const n = targetFactCount(rt);
     const people = (imdb.people || []).map(p =>
-        `${p.name} (${p.role === 'director' ? 'director' : `plays ${p.character || 'unknown role'}`})`
+        `${p.name} [${p.nconst}] (${p.role === 'director' ? 'director' : `plays ${p.character || 'unknown role'}`})`
         + (p.knownFor?.length ? `; also known for ${p.knownFor.join(', ')}` : '')
         + (p.trivia?.length ? `\n    trivia: ${p.trivia.join(' | ')}` : ''));
     const wd = wikidata ? Object.entries(wikidata).filter(([k, v]) => Array.isArray(v) && v.length).map(([k, v]) => `${k}: ${v.join('; ')}`) : [];
@@ -62,6 +62,8 @@ ${ICON_KEYS.map(k => `  ${k} — ${ICON_HINTS[k]}`).join('\n')}
 - Don't reveal the ending or major twists before the final 15 minutes. Don't name or describe the climax, the ending, or its setting before the final 15 minutes (t > runtime − 900).
 - rank: 1 = best (only the best third), 2 = good, 3 = filler. Viewers on "Rare" see only rank 1.
 - byline: optional, a person's name when the fact is about or quotes them (e.g. "Joe Bob Briggs", "Herk Harvey — Director").
+- person: optional. When a fact is mainly about ONE person from the People list below, set person to their IMDb id
+  (the nm… in square brackets) — their headshot is shown instead of the icon. Leave it out for anything else.
 - No duplicates; don't restate the same fact twice in different words.
 
 ## Joe Bob Briggs' Drive-In Totals

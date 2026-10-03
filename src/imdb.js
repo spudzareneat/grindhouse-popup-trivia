@@ -30,7 +30,18 @@ const BUNDLE_Q = 'query GHBundle($id: ID!){ title(id:$id){ id titleText{ text } 
     + 'cast: credits(first: 5, filter: { categories: ["cast"] }){ edges{ node{ name{ id nameText{ text } } ... on Cast { characters{ name } } } } } '
     + 'directors: credits(first: 2, filter: { categories: ["director"] }){ edges{ node{ name{ id nameText{ text } } } } } } }';
 
-const PERSON_Q = 'query GHPerson($id: ID!){ name(id:$id){ trivia(first: 8){ edges{ node{ text{ plainText } } } } knownFor(first: 6){ edges{ node{ title{ id titleText{ text } releaseYear{ year } } } } } } }';
+const PERSON_Q = 'query GHPerson($id: ID!){ name(id:$id){ primaryImage{ url } trivia(first: 8){ edges{ node{ text{ plainText } } } } knownFor(first: 6){ edges{ node{ title{ id titleText{ text } releaseYear{ year } } } } } } }';
+
+// IMDb headshots live on Amazon's image CDN; the "._V1_..." suffix is a resize
+// spec, so any primaryImage URL can be turned into a small square crop (~2 KB).
+// Anything not on that CDN is rejected (null) -- the userscript only renders
+// images from this host too.
+const IMDB_IMAGE_PREFIX = 'https://m.media-amazon.com/images/';
+export function headshotUrl(url) {
+    if (typeof url !== 'string' || !url.startsWith(IMDB_IMAGE_PREFIX)) return null;
+    const base = url.replace(/._V1_[^/]*.jpg$/, '').replace(/.jpg$/, '');
+    return `${base}._V1_QL75_UX120_CR0,0,120,120_.jpg`;
+}
 
 const MOVIE_TYPES = ['movie', 'tvMovie', 'video'];
 const byVotesDesc = (a, b) => (b.ratingsSummary?.voteCount ?? 0) - (a.ratingsSummary?.voteCount ?? 0);
@@ -82,13 +93,14 @@ export function makeImdb(fetchImpl = fetch) {
             const n = (await query('GHPerson', PERSON_Q, { id: p.nconst })).name;
             return {
                 ...p,
+                image: headshotUrl(n?.primaryImage?.url),
                 trivia: plainList(n?.trivia?.edges),
                 knownFor: (n?.knownFor?.edges || []).map(e => e?.node?.title)
                     .filter(t => t && t.id !== excludeTconst && t.titleText?.text)
                     .map(t => `${t.titleText.text} (${t.releaseYear?.year ?? '?'})`),
             };
         } catch {
-            return { ...p, trivia: [], knownFor: [] };
+            return { ...p, image: null, trivia: [], knownFor: [] };
         }
     }
 
