@@ -1,0 +1,465 @@
+{
+  "schema": 1,
+  "imdbId": "tt0075984",
+  "title": "Emanuelle and the Last Cannibals",
+  "year": 1977,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-10-03T22:42:40.641Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch the hospital hallway signs: they read \"Farmacy\" and \"Phisical Therapy\". Spelling wasn't a priority on this NYC set.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The psychiatrist talking to Emanuelle is played by director Joe D'Amato himself, in a cameo.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.imdb.com/title/tt000000075984/trivia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's alternate title, Trap Them and Kill Them, inspired the name of the American hardcore band Trap Them.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/12/17/joe-damato-week-emanuelle-cannibal/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The end credits claim the jungle was shot in Tapurucuara, Brazil. It was actually a lake about 56 miles southeast of Rome.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The only real Amazon footage was lifted from the mondo film Porno Nights of the World (1977).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "D'Amato admitted he was \"a real copy-cat\": Deodato's Last Cannibal World had been such a hit that he wanted to do something similar commercially.",
+      "icon": "money",
+      "byline": "Joe D'Amato — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Many cannibal extras were Filipinos living in Rome or visiting on vacation, rounded up and paid to work on set for a week.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Italian Shock DVD trims a bit of dialogue in the cab scene around the 17-minute mark.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Make-up man Fabrizio Sforza recalls the shoot lasting two and a half weeks, \"with effects, extras, violence, love scenes. Incredible!\"",
+      "icon": "mic",
+      "byline": "Fabrizio Sforza — Make-up",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sforza identifies the jungle lake as Lago di Fogliano, near Rome. Fogliano is also listed as a filming location.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Laura Gemser says D'Amato tried many times to get her to film hardcore scenes. She always gave him a resounding \"No\".",
+      "icon": "star",
+      "byline": "Laura Gemser",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gemser on the Emanuelle films: \"It seemed like one long, long movie that didn't end.\" She kept going because they paid well and sent her to exotic places.",
+      "icon": "mic",
+      "byline": "Laura Gemser",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gemser was born in Java, Indonesia. She is often wrongly called Dutch, a mix-up with Emmanuelle star Sylvia Kristel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gemser fell for co-star Gabriele Tinti on Black Emanuelle (1975). They married in New York a year later and stayed together until his death in 1991.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After leaving sex-symbol roles, Gemser turned to costume design, including the 1990 cult classic Troll 2.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gabriele Tinti once guest-starred in the final episode of The Andy Griffith Show (1960s).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nieves Navarro, also billed as Susan Scott, was an early spaghetti western actress, debuting in A Pistol for Ringo. She later became a giallo regular.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Donald O'Brien added \"Donald\" to his passport because credits kept misspelling his name and banks refused to cash his misspelled paychecks.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "O'Brien started at Dublin's Gate Theatre. He credited Burt Lancaster with boosting his career on The Train (1964).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Percy Hogan was reportedly an American expat dancer living in Rome, according to Federico Fellini.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Unlike some earlier Black Emanuelle entries, this one has no hardcore sequences.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "On the Italian Shock DVD, a shot of two men glancing at each other after the group finds a body under a blanket is cut, around the 49-minute mark.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3080,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 2002 UK DVD lost 1 min 58 sec to the BBFC, trimming a rape scene, a gutting, and a breast-slicing close-up. Ontario's 1982 release was cut by 18 minutes.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Germany it was released as Nackt unter Kannibalen, and the heroine was renamed Laura, after Gemser, to distance it from the Black Emanuelle series.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Many scenes were shot without proper permits.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline: \"That Emanuelle girl is back more EROTIC & EXOTIC than ever.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 3640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "D'Amato's alias came from Silvio Amadio's L'isola delle svedesi (1969), where he worked as cinematographer. On set he used his real name, Aristide Massaccesi.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "D'Amato's partner Fabrizio De Angelis co-produced this and Emanuelle and the White Slave Trade. They then split up their company, Fulvia Cinematografica.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "D'Amato called the film \"a reasonable commercial success, especially abroad.\"",
+      "icon": "money",
+      "byline": "Joe D'Amato — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4040,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film plays NYC against Rome: the American Museum of Natural History, Roosevelt Island Tram and Rockefeller Plaza are listed as locations. The jungle was Italian.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4160,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The theme \"Make Love on the Wing\" was composed by Nico Fidenco and sung by Ulla Linder.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Severin Blu-ray includes a 27-minute interview with composer Nico Fidenco and an 11-minute audio piece with the reclusive Laura Gemser.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/273758/emanuelle-and-the-last-cannibals-blu-ray-review-savagery-sex-from-the-master-of-sleaze/"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Monthly Film Bulletin called it \"so preposterous as to be almost enjoyable.\"",
+      "icon": "mic",
+      "byline": "David Badder — Monthly Film Bulletin",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Danny Shipka found it \"fairly harmless compared to other cannibal films,\" with the violence arriving in the last 20 minutes.",
+      "icon": "skull",
+      "byline": "Danny Shipka",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "AllMovie's verdict: too gory for softcore fans and too dull for gorehounds, a film with \"no target audience whatsoever.\"",
+      "icon": "mic",
+      "byline": "Cavett Binion — AllMovie",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scout Tafoya called D'Amato \"the Luchino Visconti of trash\" in RogerEbert.com's video series The Unloved.",
+      "icon": "trophy",
+      "byline": "Scout Tafoya",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film inspired The Green Inferno (2013) and is referenced in the 2015 Jungle Holocaust, among others.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dread Central noted the film's \"dubious distinction\" of showing a penis being eaten less than 15 minutes after the opening credits.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/273758/emanuelle-and-the-last-cannibals-blu-ray-review-savagery-sex-from-the-master-of-sleaze/"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Horror.Land listed this among its 2020 \"Horror Films We Only Watch for the Nudity.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The credits say \"This is a true story as reported by Jennifer O'Sullivan.\" It's not.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Italian censors passed the film on 20 October 1977, visa #70973.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
