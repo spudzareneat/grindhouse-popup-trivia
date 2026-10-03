@@ -1,0 +1,400 @@
+{
+  "schema": 1,
+  "imdbId": "tt0090866",
+  "title": "Combat Shock",
+  "year": 1984,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-10-03T22:55:14.754Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Buddy Giovinazzo borrowed lights and camera gear from the film school where he taught, and even put money from his own wedding into the movie.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The budget is listed at about $40,000. Cast and crew worked unpaid; money mostly went to food and lab costs.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://offscreen.com/view/buddy_giovinazzo"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Troma bought it, the film played festivals under the title \"American Nightmares.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Staten Island was the whole set: shot without permits or permission on real streets, mostly in Port Richmond, where Giovinazzo grew up.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The deformed baby puppet cost just $140 to make. Its voice is Buddy's own, sped up and played backwards.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Vietnam jungle was the swamps of Staten Island. The torture hut was built in the director's mother's backyard.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Frankie's army uniform and the rest of the wardrobe came from a local Salvation Army.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Buddy shot sync-sound apartment scenes on a CP-16 and silent jungle, effects and chase scenes on a Bolex. He said the Bolex was \"like a tank.\"",
+      "icon": "camera",
+      "byline": "Buddy Giovinazzo — Director",
+      "source": {
+        "type": "web",
+        "url": "https://offscreen.com/view/buddy_giovinazzo"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's synth score was composed by Rick Giovinazzo, who also plays Frankie. He later became an orchestrator on Hollywood blockbusters like Transformers.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Other actors screen-tested for Frankie before Buddy cast his brother Rick, who was in grad school at the time.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Buddy cast friends, family and film school students in small roles. Comedian Eddie Pepitone plays a strung-out junkie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The brothers, trained as studio musicians, built oppressive industrial-factory sound design inspired by David Lynch and Alan Splet's work on Eraserhead.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://offscreen.com/view/buddy_giovinazzo"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The effects team tried aging the rented house with latex and ink. The ink bled into the walls and the whole house had to be repainted.",
+      "icon": "camera",
+      "byline": "Buddy Giovinazzo — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.bizarrocentral.com/2017/03/30/interview-buddy-giovinazzo-by-chris-kelso/"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fake blood from a bedroom scene seeped through the floorboards of the rented house and alarmed the landlord at a later showing.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bizarrocentral.com/2017/03/30/interview-buddy-giovinazzo-by-chris-kelso/"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some jungle scenes were shot with only the director, his brother Rick and one crew member. There was no production designer or line producer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bizarrocentral.com/2017/03/30/interview-buddy-giovinazzo-by-chris-kelso/"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shooting had no schedule pressure. Some days ran five hours, others fourteen.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://offscreen.com/view/buddy_giovinazzo"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Troma sold the film as a Rambo-style action flick, which misled audiences about what it was.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Troma trimmed about 8 minutes from the 100-minute \"American Nightmares\" cut. Buddy says he never sanctioned the trims on the Troma DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The R-rated version of the film is heavily cut. The unrated Troma VHS from the late 1990s is the only way to see the uncut Troma theatrical edit.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lloyd Kaufman insisted in 2004 that no footage was missing from the Troma edit. Buddy, in an interview that January, said otherwise.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The TMDB tagline: \"Fighting, killing, maiming. Agent Orange and the torture cages were the easy part!\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Canby of The New York Times called it a \"family affair\" that \"means to be shocking but it more often prompts giggles.\"",
+      "icon": "mic",
+      "byline": "Vincent Canby — The New York Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Buddy said, \"Combat Shock really hurt me. It wasn't liked by anybody for years.\" He turned to writing novels, including Life Is Hot in Cracktown.",
+      "icon": "mic",
+      "byline": "Buddy Giovinazzo — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.bizarrocentral.com/2017/03/30/interview-buddy-giovinazzo-by-chris-kelso/"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Buddy later made the short Mr. Robbie (1989) with Joe Spinell and tried to expand it into a feature before Spinell died.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critics compared it to Eraserhead and Taxi Driver. Film Threat called it an antithesis to Platoon and Apocalypse Now.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is a time capsule of 1980s Staten Island because it was shot on real streets and train stations, not in a studio. Many locations remain unchanged 25 years later.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Toxie gets a nod: The Toxic Avenger Part III references Combat Shock. So does the 2009 documentary Post Traumatic: An American Nightmare.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Troma 2009 two-disc DVD includes both the Troma cut and the original American Nightmares cut, plus a commentary with Nekromantik director Jorg Buttgereit.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Directors like Richard Stanley, Jim VanBebber and William Lustig discuss the film's impact in the documentary \"Post-Traumatic: An American Nightmare.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/combat-shock"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Buddy Giovinazzo graduated with a Masters in Cinema from the College of Staten Island. He later taught at NYU and the School of Visual Arts.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Veronica Stork, who plays Cathy, later turned up in Class of Nuke 'Em High Part II: Subhumanoid Meltdown (1991).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Severin Films released a limited edition with new commentaries, early shorts, the soundtrack and a 96-page book of Buddy's shoot diary.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hellnotes.com/extremely-limited-release-of-combat-shock-from-severin-films/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk called it \"so bleak it's almost laughable, but the pathos is too real, even with a mutant baby.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Combat Shock has since moved from reviled to cult: Troma released a 2022 Blu-ray with a new Lloyd Kaufman intro.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
