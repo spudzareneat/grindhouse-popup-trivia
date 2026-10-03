@@ -1,0 +1,530 @@
+{
+  "schema": 1,
+  "imdbId": "tt0055830",
+  "title": "Carnival of Souls",
+  "year": 1962,
+  "runtimeSec": 4680,
+  "generatedAt": "2026-10-03T22:13:03.063Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Those opening credits fade in and out, scattered across footage of the flowing river.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The bridge crash cost director Herk Harvey just $12. Lecompton, Kansas let him film for free as long as he replaced the damaged railing afterward.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 230,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: No breasts (1962). Nineteen dead bodies. Approximately 15 zombies. One motor vehicle chase, with watery crash. Zombie bus tour. Church organ Fu. Zombie Fu.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harvey's crew consisted of only five other people.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Budget: about $30,000. Harvey raised $17,000 in cash by asking Lawrence businessmen to invest $500 each; the other $13,000 was deferred.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 610,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harvey and writer John Clifford both waived their pay to make the film under budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Harvey rented the ruined Saltair Pavilion from the Salt Lake City Chamber of Commerce for one week. The price: $50.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Candace Hilligoss was the only professional actor in the film. She turned down a part in Violent Midnight (1963) to take the lead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harvey reportedly thought Hilligoss was 'too dowdy' at first and considered recasting her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181054/insider-info-carnival-of-souls-behind-the-scenes"
+      }
+    },
+    {
+      "t": 970,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "No money for rear-projection car shots, so Harvey used a battery-powered hand-held Arriflex to film inside moving cars.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Man's face in the car window was done with an angled mirror placed on the far side of the glass.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harvey wanted 'the look of Bergman and the feel of Cocteau.'",
+      "icon": "camera",
+      "byline": "Herk Harvey — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The department store scenes were shot guerrilla style. Harvey paid a saleslady $25 to ignore the crew.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The department store is the famous Z.C.M.I. in Salt Lake City.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The organ factory in the film is the real Reuter Organ Company in Lawrence, Kansas.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.criterion.com/current/posts/77-introduction-to-carnival-of-souls"
+      }
+    },
+    {
+      "t": 1510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The organ score is by Kansas City organist Gene Moore. Locations like the Saltair and the church organ pushed the film toward an all-organ soundtrack.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Portions are tinted faint cyan whenever Mary is in an altered mental state. 'Real' scenes stay pure black-and-white.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sidney Berger, who plays creepy neighbor John, was a drama teacher. His students included Randy Quaid, Dennis Quaid and Brent Spiner.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1780,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Ebert called Berger's character the 'definitive study of a nerd in lust.' Berger loved quoting it.",
+      "icon": "mic",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Berger is reportedly blind in the eye used for the keyhole shot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181054/insider-info-carnival-of-souls-behind-the-scenes"
+      }
+    },
+    {
+      "t": 1960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Drive-In Academy Award nominations for Candace Hilligoss, for 'I don't belong in the world'; Frances Feist, for 'You can take all the baths you want'; Art Ellison, as the minister.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Assistant director Reza Badiyi later designed famous TV openings, including Hawaii Five-O, Get Smart and The Mary Tyler Moore Show.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harvey and Clifford were Centron employees, an industrial-film company in Lawrence. Interiors were shot at Centron's studio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One reel was ruined in processing: ghouls slowly rising from behind rotting pylons and walking across the flats. It was overexposed and never made the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Harvey played The Man himself. At the 1989 reunion he gave interviews in full ghoul makeup.",
+      "icon": "star",
+      "byline": "Herk Harvey — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film lacked a copyright notice on its prints, which automatically put it in the public domain in the US.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The ghouls dancing at the pavilion were hired from a University of Utah dance class.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film shot in three weeks, with the cast and crew working seven days a week.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Sidney Berger, as the letch next door, nominated for 'You're gonna need me in the evening, you just don't know it yet.'",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Original release was a box-office failure, on a double bill with The Devil's Messenger. Late-night TV later built its cult following.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hilligoss's agent refused to represent her any longer after seeing the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In owners trimmed the film from 84 minutes to as little as 75 to squeeze in more showings. Theatrical prints ran about 78.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After the film, Harvey went back to industrial films. His distributor Herts-Lion sent a royalty check that bounced, and the company folded in 1964.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert called it a 'lost episode of The Twilight Zone' with an 'intriguing power.'",
+      "icon": "mic",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "George A. Romero cited this film as an inspiration for Night of the Living Dead (1968).",
+      "icon": "skull",
+      "byline": "George A. Romero",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lana Del Rey sampled Mary's line 'I don't belong in the world' in her song '13 Beaches.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2016 RiffTrax Live riffed the film, and Michael J. Nelson recorded a commentary track for the 2009 Legend Films colorized DVD.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Criterion Collection released it as spine #63.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Saltair was damaged by fires in 1967 and 1970. It was rebuilt smaller in the 1980s and is now a small concert venue.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hilligoss turned down an offer to appear in the 1998 remake. She had written her own sequel treatment in the late 1980s.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hilligoss was paid about $2,500. She described the job as a 'take-the-money-and-run type of situation.'",
+      "icon": "money",
+      "byline": "Candace Hilligoss",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Slant Magazine ranked it #32 on its '100 Best Horror Movies of All Time.'",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Herk Harvey directed over 400 educational and industrial films at Centron. This was his only feature.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film inspired Sole Survivor (1984), which is said to have inspired Final Destination (2000).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harvey later played a farmer in the nuclear TV movie The Day After (1983), mostly filmed in Lawrence.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Herk Harvey nominated for producing, directing, and playing the Head Zombie. Also in the Drive-In Hall of Fame.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Four stars. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    }
+  ]
+}
