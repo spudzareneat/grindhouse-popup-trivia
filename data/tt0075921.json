@@ -1,0 +1,430 @@
+{
+  "schema": 1,
+  "imdbId": "tt0075921",
+  "title": "Death Game",
+  "year": 1977,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-10-03T23:00:14.488Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening card says this is based on a true story. It sort of is: co-writer Michael Ronald Ross once picked up a hitchhiking hippie named Donna who wouldn't leave his place.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The house Donna overstayed in was real: Ross was subleasing Harry Nilsson's Laurel Canyon home in 1969. She burned every spoon in the house cooking drugs.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Shot in about 13 days in October 1974, on a budget of roughly $150,000. The film then sat on the shelf until 1977.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Working titles included Weekend of Terror, Mrs. Manning's Weekend and Handful of Hours. On video in 1981 it became The Seducers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Al Lettieri was first cast as George. He took a few thousand dollars in living expenses and vanished. Producers were advised not to chase him, since he was allegedly mob-connected.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The three stars were born exactly nine years apart: Seymour Cassel in 1935, Sondra Locke in 1944, Colleen Camp in 1953.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sondra Locke was about 30 playing a teenager. Audiences reportedly laughed when her character claimed to be 17.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer David Worth had to underexpose Locke's scenes to hide her crow's feet. She later said she appreciated his work.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The first editor-cinematographer was fired for bossing the director around. Locke recommended David Worth, who later credited this film for his whole career, including work with Clint Eastwood.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production designer Jack Fisk's wife Sissy Spacek worked as a set dresser. A young Bill Paxton was also on the set decoration crew.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Seymour Cassel threatened to quit every day. After wrapping he refused to re-record dialogue, so editor David Worth dubbed George's voice, uncredited.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Locke said direction often amounted to 'break something' or 'eat something.' She and Cassel ended up directing their own performances, and Camp's.",
+      "icon": "mic",
+      "byline": "Sondra Locke",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A food-dumping scene dragged on so long that Cassel nearly punched director Peter S. Traynor. Traynor said he'd fight him anytime after the shoot.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Locke slapped the makeup man after days of snide comments. He tried to slap back, and the screaming match sent the crew running. He was fired.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Comedian Marty Allen was originally the grocery delivery man. His comic scene was cut, and Worth re-edited the footage of the women teasing him into their love scene.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The house was rented for $1,000 a week. Its owner was an L.A. menswear manufacturer who loved the idea of a movie shoot, and the crew trashed the place.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Colleen Camp is almost 10 years younger than Locke but plays a character of similar age. She was one of her earliest film roles.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The character Jackson was named after Jackson Browne. The writers had written his album liner notes while working at Capitol Records.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The first draft was titled Freak, a tribute to Tod Browning's Freaks. Writers were inspired by Polanski's Repulsion.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2680,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Clint Eastwood's Malpaso once developed this script, with Eastwood set to direct and Jack Lemmon as George. He said Jo Heims' rewrite was 'more Breezy than Misty' and passed.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The writers once rewrote the lead as an African-American role, titled Nigg, hoping for Richard Pryor. Pryor and Fred Williamson were both reportedly interested.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Production stalled when the SEC investigated director Traynor's financing. He had funded his movies through limited partnerships with California doctors.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "MGM stepped in with $100,000 to finish the film and helped find distributor Levitt-Pickman. Editing took three weeks at 15 hours a day.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Locke's career-boosting turn in The Outlaw Josey Wales (1976) may be why the film got released at all, three years after it was shot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The credited writers didn't know the film existed until a Writers Guild dispute with Jo Heims. Heims' draft wasn't used, and the writers won with their original drafts.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Traynor and Spiegel apparently bought the script thinking Jo Heims, who wrote Play Misty for Me, had written it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Locke was dating Bo Hopkins during this shoot. She dumped him for Clint Eastwood in 1975, and they became one of Hollywood's best-known couples.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scholar John Kenneth Muir reads a feminist theme into the film, noting the opening song 'Good Old Dad' and the women constantly calling George 'daddy.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score is by Jimmie Haskell. 'Good Old Dad' has lyrics by Iris Rainer, who also wrote Beaches.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Leonard Maltin called it an 'unpleasant (and ultimately ludicrous) film.' Variety called it a 'grisly try at horror exploitation.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4220,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It premiered April 13, 1977 in Colonie, New York, as a 'test market' release. Box office was reported as 'poor' to 'fair.'",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4360,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Locke never liked the movie and was surprised it became a cult hit. She backed the idea of a remake shortly before she died.",
+      "icon": "mic",
+      "byline": "Sondra Locke",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Remade twice: the 1980 Spanish film Vicious and Nude, and Eli Roth's Knock Knock (2015) with Keanu Reeves. Traynor, Locke and Camp were executive producers on Knock Knock.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Camp also has a cameo in Knock Knock. Her Blu-ray commentary for this film is moderated by Eli Roth.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thedigitalbits.com/reviews/item/death-game-grindhouse-releasing-2022-bd"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grindhouse Releasing's 2-disc Blu-ray adds Little Miss Innocence (1973), the film this one is said to remake, plus a Locke phone interview.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Death_Game_BluRay_Review"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2019 restoration was transferred from the original camera negative in widescreen. Earlier home video releases were letterboxed from poor elements.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Locke, Cassel and Traynor all died within a year of each other: Locke in November 2018, Cassel in April 2019, Traynor in October 2019.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cassel and Traynor ran into each other years later at a movie theater and agreed to let bygones be bygones.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
