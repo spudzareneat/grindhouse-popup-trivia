@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "imdbId": "tt0105242",
+  "title": "The Resurrected",
+  "year": 1991,
+  "runtimeSec": 6480,
+  "generatedAt": "2026-10-03T22:56:50.597Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "That opening helicopter flyover supposedly shows Providence, Rhode Island, but the city in the shot is actually Hartford, Connecticut.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dan O'Bannon wrote Alien and directed Return of the Living Dead. This Lovecraft adaptation was his last time in the director's chair before his death in 2009.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "O'Bannon's own title was The Ancestor. Writer Brent V. Friedman's script was called Shatterbrain. Both men developed the Lovecraft story separately before the film merged their ideas.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Based on H.P. Lovecraft's novella The Case of Charles Dexter Ward. The film also played the Sitges Film Festival in Spain in 1991.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: John calls his receptionist 'Polly' here, but later he calls her 'Holly', which is her actual name.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The budget was about $5 million, small for effects work like this. Effects artist Todd Masters's team built animatronic monsters and miniatures.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/the-resurrected-wtf-adaptation/"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Todd Masters's effects crew won Fangoria's Chainsaw Award for their creature work on this film.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/todd-masters-reflects-on-the-30-anniversary-of-the-resurrected/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Principal photography took place in 1990 in Vancouver, British Columbia, even though the story is set in Rhode Island.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score is by Richard Band, a prolific horror composer who also scored Re-Animator and From Beyond.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/the-resurrected-wtf-adaptation/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Diane O'Bannon said the film was re-cut over her husband's objections and released without his approval. His attempts at humor were edited out.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "O'Bannon's first cut ran over two hours. A 2h17m work print on OFDb Filmworks' German Blu-ray restores extended dream sequences and a March/Claire romantic scene.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Sarandon was Oscar-nominated for his film debut, Dog Day Afternoon. He later voiced Jack Skellington in The Nightmare Before Christmas.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/the-resurrected-wtf-adaptation/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jane Sibbett, Claire here, later played Carol on Friends. John Terry, March here, later played Jack's dad on Lost.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3470,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: the diary entry is dated Friday, October 13, 1771. October 13, 1771 was actually a Sunday.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Everyone here says 'Pawtuxet' wrong. Rhode Islanders put the stress on the second syllable, like pawTUXet.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Unlike Lovecraft, who preferred to leave horrors undescribed, the film follows Re-Animator and From Beyond in showing lots of gore.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/the-resurrected-wtf-adaptation/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was planned for a wide US release in fall 1991, but distributor Interstar went bankrupt. It went straight to video in spring 1992.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The studio briefly considered retitling the film 'Reflex.' It was also known as The Ancestor and Shatterbrain.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This was the final film released by Scotti Brothers Pictures.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lovecraft scholars Migliore and Strysik called it 'the best serious Lovecraftian screen adaptation to date' in their book Lurker in the Lobby.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2017 Scream Factory Blu-ray has a commentary with the producers, writer Friedman, Todd Masters and Robert Romanus. Vinegar Syndrome put out a 4K disc in 2025.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
