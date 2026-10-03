@@ -1,0 +1,352 @@
+{
+  "schema": 1,
+  "imdbId": "tt0118736",
+  "title": "Six-String Samurai",
+  "year": 1998,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-10-03T22:53:29.941Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "That squashed opening title look is deliberate: a tribute to martial arts films whose widescreen titles got compressed for VHS. Many projectionists wrongly swapped lenses mid-sequence.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jeffrey Falcon and director Lance Mungia dreamed up the hero when Falcon tried on Mungia's thick glasses at a restaurant and looked just like Buddy Holly.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 395,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The ruins of an 1890s bank seen right about now are in Nevada. They also showed up in Michael Bay's The Island (2005).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jeffrey Falcon did all his own stunts, with no wires and no special effects. He'd been a Hong Kong action regular in the 80s and early 90s.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was shot only on weekends because young Justin McGuire, who plays the Kid, still had to go to school.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The gravelly radio DJ The Werewolf is a spoof of 1950s legend Wolfman Jack.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mungia and Falcon first planned to make the whole movie for about $25,000. It ended up costing $2 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ealasaid.com/main/1998/10/09/interview-the-creators-of-six-string-samurai-speak/"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Red Elvises' songs were written before the script, so the filmmakers wrote much of the story around the music instead of the other way round.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ealasaid.com/main/1998/10/09/interview-the-creators-of-six-string-samurai-speak/"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Falcon reportedly wore the Buddy costume for eight months without washing it. That's method acting, or a biohazard.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ealasaid.com/main/1998/10/09/interview-the-creators-of-six-string-samurai-speak/"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Death is a parody of Guns N' Roses guitarist Slash. The mariachi Buddy meets is a nod to Ritchie Valens, who died in the same 1959 plane crash as Buddy Holly.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Shooting in Death Valley at around 116 degrees, the crew reportedly lost four assistant camera operators to heat stroke.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmmakermagazine.com/archives/issues/summer1998/better_tomorrow.php"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Much of the film was shot on expired Fuji film stock that was about to be thrown out, and the camera was borrowed from Panavision Hollywood.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmmakermagazine.com/archives/issues/summer1998/better_tomorrow.php"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was originally titled The Blade. A Hollywood Stock Exchange contest drew 4,000 name submissions, and the winner was Six-String Samurai.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmmakermagazine.com/archives/issues/summer1998/better_tomorrow.php"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The filmmakers shot a trailer first as insurance. After spending around $50,000 and shooting under 20% of the film, they cut it at Sundance to raise money to finish.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ealasaid.com/main/1998/10/09/interview-the-creators-of-six-string-samurai-speak/"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The band with the nice shoes is Igor & The Red Elvises. The big triangular instrument is an electric balalaika.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Falcon doubled as star, fight choreographer, production designer and costume designer. Mungia planned shots while Falcon built props and choreographed at 3 a.m.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmmakermagazine.com/archives/issues/summer1998/better_tomorrow.php"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film plays loose with The Wizard of Oz: a little person says to follow the yellow brick road, and distant Lost Vegas looks like the Emerald City.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the credits, Red Elvises member Zhenya Kolykhanov is miscredited as Zhenga Kolykhanov.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It won Slamdance awards for best editing and best cinematography in 1998, and Film Threat gave it a perfect five stars.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Chris Blackwell, the Island Records founder, saw the film at Fotokem and made an immediate bid. It became the debut release of his Palm Pictures.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmmakermagazine.com/archives/issues/summer1998/better_tomorrow.php"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mungia drove to theaters to check the sound himself, saying sound is about 80 percent of the film. He also snuck flyers onto car windshields in parking lots.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://legacy.aintitcool.com/node/2194"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tiger claw Soviet soldier is Jeffrey Falcon's real-life brother, Noel Falcon.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A late-night Russian Army fight was reportedly totally ad-libbed and wrapped in two takes. That's Hong Kong style: little rehearsal.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ealasaid.com/main/1998/10/09/interview-the-creators-of-six-string-samurai-speak/"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lance Mungia plays one of the archers. His next feature, The Crow: Wicked Prayer, didn't come until 2005.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It cost $2 million and earned just $124,494 in its limited theatrical run. It still became a cult favorite.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rob Liefeld's Awesome Entertainment released a one-shot Six String Samurai comic in September 1998, written by Liefeld and Matt Hawkins.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was meant to be the first of a trilogy. The sequels never happened.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fallout: New Vegas has a melee-damage achievement called New Vegas Samurai. Its art is based on this film's poster.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's first HD release came in 2021 from Vinegar Syndrome. It was newly scanned in 4K from the original 35mm negative, with new commentaries from Mungia and the cinematographer.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://vinegarsyndrome.com/products/six-string-samurai-vsu"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Variety's Leonard Klady called it a rock 'n' roll Mad Max served up Cantonese style.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
