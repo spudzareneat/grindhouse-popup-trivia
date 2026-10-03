@@ -16,3 +16,6 @@ test('titlesMatch rejects titles sharing only connector words', () => {
 test('titlesMatch empty -> false', () => {
     assert.equal(titlesMatch('', 'x'), false);
 });
+test('titlesMatch strips curly apostrophes', () => {
+    assert.equal(titlesMatch('Don’t Look in the Basement', 'Dont Look in the Basement'), true);
+});
