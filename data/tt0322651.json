@@ -1,0 +1,167 @@
+{
+  "schema": 1,
+  "imdbId": "tt0322651",
+  "title": "Dream Warrior",
+  "year": 2003,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-10-03T22:30:32.553Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Zachary Weintraub is the youngest son of producer Fred Weintraub, who also produced this film. Dad's résumé: Enter the Dragon with Bruce Lee.",
+      "icon": "camera",
+      "byline": "Zachary Weintraub — Director",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Weintraub"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lance Henriksen was James Cameron's original pick to play The Terminator. Cameron even drew concept art of him in the role before Arnold got it.",
+      "icon": "robot",
+      "byline": "Lance Henriksen",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lance Henriksen was illiterate until age 30, when he learned to read by studying movie scripts. Not bad for a guy playing the villain here.",
+      "icon": "star",
+      "byline": "Lance Henriksen",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Henriksen and Bill Paxton are the only two actors to face off against a Terminator, an Alien and a Predator.",
+      "icon": "alien",
+      "byline": "Lance Henriksen",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was shot in Zagreb, Croatia, as a Croatia-US co-production with Jadran Film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.imdb.com/title/tt0322651/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Isaac Hayes was the first African American composer to win an Oscar for Best Original Song, for the Theme from Shaft.",
+      "icon": "trophy",
+      "byline": "Isaac Hayes",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Isaac Hayes' Chef on South Park was meant to be a one-time gig, but audiences loved him so much he became a regular.",
+      "icon": "sunglasses",
+      "byline": "Isaac Hayes",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sherilyn Fenn was once engaged to Johnny Depp. Her name is scrawled across his helmet in Platoon.",
+      "icon": "star",
+      "byline": "Sherilyn Fenn",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Lynch, who cast Sherilyn Fenn in Twin Peaks and Wild at Heart, called her 'five feet of heaven in a ponytail.'",
+      "icon": "mic",
+      "byline": "David Lynch",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sherilyn Fenn's dad Leo managed Alice Cooper for 13 years. Rock and roll runs in the family.",
+      "icon": "boombox",
+      "byline": "Sherilyn Fenn",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Weintraub once owned the Bitter End in Greenwich Village, where Bob Dylan, Woody Allen and Peter, Paul and Mary played. He also oversaw Woodstock at Warner Bros.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Weintraub"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Matthew Porretta (Caleb) was in two Mel Brooks films: Robin Hood: Men in Tights, with his brother Greg, and Dracula: Dead and Loving It.",
+      "icon": "star",
+      "byline": "Matthew Porretta",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Henriksen left home at 12 and spent time in an orphanage and a foster home. He didn't start acting until age 30.",
+      "icon": "star",
+      "byline": "Lance Henriksen",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Isaac Hayes was inducted into the Rock and Roll Hall of Fame in 2002, a year before this movie.",
+      "icon": "trophy",
+      "byline": "Isaac Hayes",
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
