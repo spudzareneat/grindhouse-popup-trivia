@@ -1,0 +1,188 @@
+{
+  "schema": 1,
+  "imdbId": "tt0251448",
+  "title": "Turbulence 3: Heavy Metal",
+  "year": 2001,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-10-03T22:35:31.748Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Slade Craven is played by John Mann, a real-life frontman of Canadian folk-rock band Spirit of the West. Wikipedia says this was his first and only leading role.",
+      "icon": "mic",
+      "byline": "John Mann",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tagline promised: One killer. Forty hostages. Ten million internet viewers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the last movie released by Trimark Pictures.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Craig Sheffer led both this film and Turbulence 2: Fear of Flying, but played a different character in each one.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Monika Schnarre won the Ford Supermodel of the World contest at 14, and at 15 she was the youngest ever in the Sports Illustrated swimsuit issue.",
+      "icon": "star",
+      "byline": "Monika Schnarre",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gabrielle Anwar once held the record as the World's Fastest Talker, set at a Guinness World Records exhibit in London while she was still at drama school.",
+      "icon": "star",
+      "byline": "Gabrielle Anwar",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Mantegna co-starred with Ray Liotta, star of the original Turbulence, in The Rat Pack (1998). Years later he'd play an FBI agent on Criminal Minds from 2007 to 2020.",
+      "icon": "link",
+      "byline": "Joe Mantegna",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Red Letter Media put this on Best of the Worst and crowned it the winner of the episode for being the most entertaining of the bunch.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.imdb.com/title/tt0251448/trivia/"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filmed in Vancouver, British Columbia, standing in for Los Angeles and a Boeing 747 flight to Toronto.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "John Mann was diagnosed with early-onset Alzheimer's at 50 and went public in 2014. Spirit of the West played their last show two years later.",
+      "icon": "mic",
+      "byline": "John Mann",
+      "source": {
+        "type": "web",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/spirit-of-the-west-s-john-mann-dead-1.5367381"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Monika Schnarre traveled behind the Iron Curtain in 1987 to help launch Burda Moden, the first fashion magazine published in the Soviet Union.",
+      "icon": "star",
+      "byline": "Monika Schnarre",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gabrielle Anwar tangoed with Al Pacino in Scent of a Woman (1992), the role that made her famous.",
+      "icon": "star",
+      "byline": "Gabrielle Anwar",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's songs include Razor Electric and Gun Love, performed by Mann as Slade Craven. Other tracks come from the bands thickliquid and Deathbyday.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rutger Hauer and John Mann both died in 2019, Hauer on July 19 and Mann on November 20.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gabrielle Anwar and Rutger Hauer played opposite each other again a year later in Flying Virus.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Later cult-movie shows kept the film alive: it's referenced in Hologram Man, Faust, and Blood Street (2018) and in Merry Kick-mas! (2017).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
