@@ -126,3 +126,10 @@ test('runClaude: temp dir is removed afterwards', async () => {
     assert.ok(cwd);
     assert.equal(fs.existsSync(cwd), false);
 });
+test('runClaude: cleanup failure (EBUSY) does not throw or lose the result', async () => {
+    const { impl } = fakeSpawn(JSON.stringify({ subtype: 'success', is_error: false, structured_output: { facts: [{ t: 1 }] } }));
+    const rmImpl = () => { throw Object.assign(new Error('EBUSY: resource busy or locked'), { code: 'EBUSY' }); };
+    const r = await runClaude('P', { model: 'sonnet', schema: {}, spawnImpl: impl, rmImpl });
+    assert.equal(r.ok, true);
+    assert.deepEqual(r.facts, [{ t: 1 }]);
+});
