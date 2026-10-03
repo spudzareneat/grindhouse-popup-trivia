@@ -2,6 +2,8 @@ services:
   generator:
     build: .
     image: grindhouse-popup-trivia
+    # Built locally from this repo -- never pull it from a registry (Portainer "re-pull" would fail).
+    pull_policy: build
     restart: unless-stopped
     # Values come from the shell / a .env file next to this file (plain docker compose)
     # or from the stack's "Environment variables" (Portainer) -- no env_file needed.
