@@ -15,8 +15,7 @@ else
   esac
 fi
 # Pinned GitHub host key (no trust-on-first-use, no dependence on network at boot).
-printf '%s
-' 'github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl' > "$HOME/.ssh/known_hosts"
+printf '%s\n' 'github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl' > "$HOME/.ssh/known_hosts"
 
 git config --global user.name "${GIT_AUTHOR_NAME:-grindhouse-popup-trivia bot}"
 git config --global user.email "${GIT_AUTHOR_EMAIL:-bot@users.noreply.github.com}"
