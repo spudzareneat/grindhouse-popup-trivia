@@ -1,0 +1,291 @@
+{
+  "schema": 1,
+  "imdbId": "tt0092795",
+  "title": "Creepozoids",
+  "year": 1987,
+  "runtimeSec": 4320,
+  "generatedAt": "2026-10-03T22:40:54.343Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening walk along the railroad tracks was shot in downtown Los Angeles without a permit. Guerrilla filmmaking, 1987 style.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Creepozoids was originally titled \"Mutant Spawn 2000.\" DeCoteau meant to save \"Creepozoids\" for another project, but Charles Band loved it so much he told him to use it here.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director David DeCoteau said it was shot in 15 days in a Los Angeles warehouse. It was his first feature shot on 35mm film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Budget reports vary wildly. DeCoteau recalled about $150K, while TMDB lists just $75,000. Either way, that's a lot of slime per dollar.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The set was the abandoned studio of Hustler photographer Suze Randall, on Washington Blvd. in Marina del Rey.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kim McKamy was first cast as Blanca and Linnea Quigley as Kate. McKamy balked at the nudity and Quigley said she was fine with it, so they swapped roles.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kim McKamy soon began a career in adult films as Ashlyn Gere. She later landed a regular role on TV's Space: Above and Beyond.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 945,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "For the shower scene, a water jug was rigged overhead. Production designer Royce Mathew reportedly used exactly 4.5 gallons from a drinking-cooler bottle, in a one-take setup.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/06/17/creepozoids-1987/"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Linnea Quigley pranked co-star Ken Abraham after this scene. He'd been working out at 5 a.m. to prep, so she told him they had to reshoot it. He started doing push-ups.",
+      "icon": "mic",
+      "byline": "Linnea Quigley",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linnea Quigley's feet were so small the production had to buy child-size boots for her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Dave Eisenstark, credited as \"Burford Hauser,\" got the story from DeCoteau in about 30 minutes. He then had seven days to deliver the script.",
+      "icon": "camera",
+      "byline": "Dave Eisenstark — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/06/17/creepozoids-1987/"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "While watching dailies, Charles Band held up ten fingers at DeCoteau. It meant a ten-picture deal. They drew up a contract and opened a $100 bottle of Dom Perignon.",
+      "icon": "money",
+      "byline": "David DeCoteau — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Carsillo designed the main monster. Thomas Floutz built the suit and also performed inside it.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/06/17/creepozoids-1987/"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is set in 1998, six years after a nuclear war. Its poster tagline: \"Your flesh will crawl right off your bones!\"",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ashlyn Gere's fight with Linnea Quigley was partly done by a stunt woman in prosthetic make-up doubling for Gere.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Quigley said in Fangoria that the script had more sex scenes involving her and the monster. Her character was to be impregnated by it.",
+      "icon": "censor",
+      "byline": "Linnea Quigley",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Employee file #213483 lists names from the Empire crowd: Forrest J Ackerman, Roger Corman, Charles Band and David DeCoteau (as David McCabe).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the first film Linnea Quigley produced. She was also credited as associate producer.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production designer Royce Mathew reportedly worked 18 hours a day, seven days a week. He built the creature's lair overnight, finishing as the crew arrived.",
+      "icon": "camera",
+      "byline": "Royce Mathew — Production Designer",
+      "source": {
+        "type": "web",
+        "url": "https://60minuteswith.co.uk/reviews/review-creepozoids/"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Psychotronic Video's Michael Weldon called the creature effects \"pretty bad.\" TV Guide gave it 1 star out of 4 and called it an Alien imitation.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It ran theatrically as a double bill with Slave Girls from Beyond Infinity (1987). It became a hit on video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob's Drive-In Theater aired Creepozoids on October 3, 1992.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://www.tvtime.com/en/show/326735/episode/8574610"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A sequel was planned in 1988 but fell through on rights issues after Empire Pictures collapsed.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Olen Ray remade it as Hybrid in 1997.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On the Blu-ray commentary, DeCoteau says \"Boom!\" so often that a drinking game would have you passed out before the end credits.",
+      "icon": "mic",
+      "byline": "David DeCoteau — Director",
+      "source": {
+        "type": "web",
+        "url": "https://60minuteswith.co.uk/reviews/review-creepozoids/"
+      }
+    }
+  ]
+}
