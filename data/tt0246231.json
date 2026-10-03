@@ -1,0 +1,244 @@
+{
+  "schema": 1,
+  "imdbId": "tt0246231",
+  "title": "Shredder Orpheus",
+  "year": 1990,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-10-03T22:19:57.296Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Most of the film's Seattle locations were used illegally. The crew shot guerrilla-style at night, dodging the authorities.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The costume designer was jailed for unpaid parking tickets mid-shoot, and her car, packed with costumes for 20+ people, was impounded. Petty cash bailed her out.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shredderorpheus.com/history/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It began as a short, Orpheus and Eurydice. Robert McGinley wanted other people to play Orpheus, then got talked into playing him himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Smoke machines once filled a building with so much haze that the Seattle Fire Department showed up with five trucks. The Coast Guard also confronted the crew.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shredderorpheus.com/history/"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some skating shots were filmed with a 16mm camera mounted on a skateboard, rigged by action stunt photographer Stan Larson.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shredderorpheus.com/history/"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The band The Shredders was played by real Seattle musicians: Dennis Rea on guitar, Amy Denio on bass, Bill Rieflin on drums and Roland Barker on keys.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shredderorpheus.com/history/"
+      }
+    },
+    {
+      "t": 1670,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Composer Roland Barker and drummer Bill Rieflin were bandmates in the Seattle band the Blackouts. Both later joined industrial metal pioneers Ministry.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cityartsmagazine.com/after-26-years-shredder-orpheus-shreds/"
+      }
+    },
+    {
+      "t": 1940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Amy Denio made her film debut here. Her bass playing shares the soundtrack with her bandmates, who all cut the score together.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gian-Carlo Scandiuzzi, who plays Hades, later became executive director of Seattle's ACT Theatre.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cityartsmagazine.com/after-26-years-shredder-orpheus-shreds/"
+      }
+    },
+    {
+      "t": 2460,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Steven Jesse Bernstein, a legendary Seattle underground poet who recorded for Sub Pop, plays Axel. He died in 1991, a couple of years after the shoot.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Steven_Jesse_Bernstein"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Axel gets around on a longboard instead of a wheelchair. He doubles as a Greek-chorus narrator.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinapse.co/2023/12/shredder-orpheus-1989-on-blu-ray-a-gutterpunk-retelling-of-the-greek-tragedy-review-and-screen-comparisons/"
+      }
+    },
+    {
+      "t": 2980,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "John Billingsley, who plays manager Linus, later became Dr. Phlox on Star Trek: Enterprise.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Billingsley"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "McGinley cited Videodrome, Mad Max 2 and Bones Brigade skate videos as influences on the film's look.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinapse.co/2023/12/shredder-orpheus-1989-on-blu-ray-a-gutterpunk-retelling-of-the-greek-tragedy-review-and-screen-comparisons/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Seattle International Film Festival rejected it in 1989. Then a Halloween midnight show at the Neptune Theater drew big crowds, and Landmark gave it a six-month Friday midnight run.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shredderorpheus.com/history/"
+      }
+    },
+    {
+      "t": 3760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot on mixed formats, 16mm and video, then blown up to 35mm for theaters.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinapse.co/2023/12/shredder-orpheus-1989-on-blu-ray-a-gutterpunk-retelling-of-the-greek-tragedy-review-and-screen-comparisons/"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A blog commenter put the budget at about $160K. A cast of Seattle performance artists and skaters filled out the movie.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://10thingszine.blogspot.com/2008/05/shredder-orpheus.html"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2014 Light in the Attic's Traction imprint pressed the soundtrack on vinyl, 17 songs, bundled with a DVD of the movie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vinegar Syndrome and AGFA's 2023 Blu-ray includes a commentary with McGinley and AGFA's Bret Berg, plus the original VHS version.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://vinegarsyndrome.com/products/shredder-orpheus"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A novelization came out from Encyclopocalypse Publications in April 2025, with scenes from an earlier draft of the script.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One critic called it a love letter to independent artistry made when Seattle was still a backwater, before grunge and the dotcom boom.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
