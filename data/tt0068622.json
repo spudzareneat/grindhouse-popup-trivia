@@ -1,0 +1,309 @@
+{
+  "schema": 1,
+  "imdbId": "tt0068622",
+  "title": "Gargoyles",
+  "year": 1972,
+  "runtimeSec": 4440,
+  "generatedAt": "2026-10-03T22:49:23.529Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening narration is by Vic Perrin, who also secretly voices the head gargoyle. He's uncredited for the creature voice.",
+      "icon": "mic",
+      "byline": "Vic Perrin",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The whole movie was shot in just 18 days with a single camera. The first director reportedly quit because he thought that schedule was impossible.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This was Stan Winston's first professional job. He and his wife sculpted the background gargoyle masks at their dining room table in two weeks, she rolling the clay scale balls.",
+      "icon": "star",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 478,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the back seat of the station wagon: the knee of the sound man is visible behind Cornel Wilde's head.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grayson Hall decided her character should hold a drink in every scene she appears in.",
+      "icon": "star",
+      "byline": "Grayson Hall",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Winston threatened to quit unless the gargoyle makers got screen credit. They did, and only credited artists were Emmy-eligible. The film won the 1973 Emmy for makeup.",
+      "icon": "trophy",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The gargoyle suits were neoprene wetsuits covered in fishnet and bits of rubber. Temperatures on set often topped 100F.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The hotel in the film was a real abandoned hotel near Carlsbad, New Mexico. It was actually burned down for the movie.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1176,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "As the shed collapses on Uncle Willie, look at the lower right: a crew member gets knocked to the floor and scrambles out of frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1379,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity check: the wagon's window is down as the Boleys flee, then a gargoyle smashes the driver's side glass.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Uncle Willie says the Native American name for the gargoyle is 'nakatekachinko', and the dance that summons them is 'nonataya'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bernie Casey's voice was replaced by Vic Perrin's in post-production because his natural voice didn't suit the head gargoyle.",
+      "icon": "mic",
+      "byline": "Bernie Casey",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bernie Casey played for the 49ers and Rams, and was also a painter and poet. Winston owned several of his paintings.",
+      "icon": "star",
+      "byline": "Bernie Casey",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The gargoyles' running and moving shots were slowed down to give them an unnatural, jerky quality.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jennifer Salt is the daughter of Midnight Cowboy screenwriter Waldo Salt. She appeared in that film too, as Crazy Annie.",
+      "icon": "star",
+      "byline": "Jennifer Salt",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2346,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Around the 39-minute mark, the cameraman's shadow can be seen on a tree.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grayson Hall was Oscar-nominated for The Night of the Iguana. She was also Dr. Julia Hoffman on Dark Shadows, a role planned to last just a few weeks.",
+      "icon": "star",
+      "byline": "Grayson Hall",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scott Glenn, here a biker, later starred in The Right Stuff and The Silence of the Lambs. He worked as a newspaper reporter before acting.",
+      "icon": "star",
+      "byline": "Scott Glenn",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cornel Wilde was picked for the 1936 US Olympic fencing team but turned it down to pursue acting. This is his only TV movie lead.",
+      "icon": "star",
+      "byline": "Cornel Wilde",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One of the stuntmen playing a biker also plays one of the gargoyles.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The credits name Ellis Burman and Stan Winston as creators of the gargoyle make-up. Winston later did Terminator, Aliens, Predator and Jurassic Park.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On the DVD cover Winston's name is most prominent. He admitted feeling embarrassed, since Sonny Burman and Del Armstrong deserved the credit more.",
+      "icon": "mic",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "William Stevens, who plays the police chief, also played Officer Jerry Walters on the TV series Adam-12.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was written by Stephen and Elinor Karpf and aired on CBS on November 21, 1972, opposite ABC and NBC programming.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/08/10/week-of-made-for-tv-movies-gargoyles-1972/"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gargoyles is referenced in Jeepers Creepers (2001), and director Bill Norton later made Convoy (1978) and a Buffy the Vampire Slayer episode.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A reviewer noted the creature design has a Sid and Marty Krofft flavor, especially in the cave birthing scenes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/it-came-from-the-tube-gargoyles-1972/"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The DVD version is a 74-minute European theatrical cut, slightly longer than the original US TV broadcast.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
