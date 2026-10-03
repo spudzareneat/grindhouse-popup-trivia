@@ -4,46 +4,36 @@
   "title": "Turbulence 3: Heavy Metal",
   "year": 2001,
   "runtimeSec": 5880,
-  "generatedAt": "2026-10-03T22:35:31.748Z",
+  "generatedAt": "2026-10-03T23:12:59.272Z",
   "facts": [
     {
-      "t": 90,
+      "t": 120,
       "rank": 1,
       "anchor": "spread",
-      "text": "Slade Craven is played by John Mann, a real-life frontman of Canadian folk-rock band Spirit of the West. Wikipedia says this was his first and only leading role.",
-      "icon": "mic",
-      "byline": "John Mann",
+      "text": "Slade Craven is played by John Mann, frontman of Canadian folk-rockers Spirit of the West, whose drinking song \"Home for a Rest\" is called Canada's unofficial national anthem.",
+      "icon": "star",
+      "byline": null,
       "source": {
-        "type": "wikipedia"
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Mann_(musician)"
       }
     },
     {
       "t": 420,
       "rank": 2,
       "anchor": "spread",
-      "text": "The tagline promised: One killer. Forty hostages. Ten million internet viewers.",
+      "text": "This was Trimark Pictures' last released movie. The studio had cranked out the Turbulence series as direct-to-video thrillers.",
       "icon": "reel",
       "byline": null,
       "source": {
-        "type": "tmdb"
+        "type": "imdb"
       }
     },
     {
       "t": 780,
       "rank": 2,
       "anchor": "spread",
-      "text": "This was the last movie released by Trimark Pictures.",
-      "icon": "tombstone",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 1150,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Craig Sheffer led both this film and Turbulence 2: Fear of Flying, but played a different character in each one.",
+      "text": "Craig Sheffer led both Turbulence 2 and this one, but plays a different character each time. Continuity was not this franchise's thing.",
       "icon": "link",
       "byline": null,
       "source": {
@@ -51,55 +41,59 @@
       }
     },
     {
-      "t": 1550,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Monika Schnarre won the Ford Supermodel of the World contest at 14, and at 15 she was the youngest ever in the Sports Illustrated swimsuit issue.",
-      "icon": "star",
-      "byline": "Monika Schnarre",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 1950,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Gabrielle Anwar once held the record as the World's Fastest Talker, set at a Guinness World Records exhibit in London while she was still at drama school.",
-      "icon": "star",
-      "byline": "Gabrielle Anwar",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2350,
+      "t": 1140,
       "rank": 2,
       "anchor": "spread",
-      "text": "Joe Mantegna co-starred with Ray Liotta, star of the original Turbulence, in The Rat Pack (1998). Years later he'd play an FBI agent on Criminal Minds from 2007 to 2020.",
-      "icon": "link",
-      "byline": "Joe Mantegna",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2750,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Red Letter Media put this on Best of the Worst and crowned it the winner of the episode for being the most entertaining of the bunch.",
-      "icon": "sunglasses",
+      "text": "Director Jorge Montesi was mostly a TV director, with credits like Andromeda, Mutant X, Relic Hunter and Queen of Swords.",
+      "icon": "camera",
       "byline": null,
       "source": {
         "type": "web",
-        "url": "https://www.imdb.com/title/tt0251448/trivia/"
+        "url": "https://fictionmachine.com/2024/11/07/review-turbulence-3-heavy-metal-2001/"
       }
     },
     {
-      "t": 3100,
+      "t": 1500,
       "rank": 2,
       "anchor": "spread",
-      "text": "Filmed in Vancouver, British Columbia, standing in for Los Angeles and a Boeing 747 flight to Toronto.",
+      "text": "Monika Schnarre won the Ford Supermodel of the World contest at 14, and at 15 was the youngest ever in the Sports Illustrated swimsuit issue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0773635",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc1MDI5ODA2MF5BMl5BanBnXkFtZTYwMDcwNjcy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1860,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gabrielle Anwar once held a record as the World's Fastest Talker, set at a Guinness exhibit in London while still at drama school.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000270",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzI4NDUwMTM1Ml5BMl5BanBnXkFtZTYwNjIwNTQ3._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tagline promised: One killer. Forty hostages. Ten million internet viewers. Webcast concerts were very much a 2001 fantasy.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filmed in Vancouver, British Columbia, where the 747 airport scenes were cast as Los Angeles.",
       "icon": "camera",
       "byline": null,
       "source": {
@@ -107,55 +101,10 @@
       }
     },
     {
-      "t": 3450,
+      "t": 2940,
       "rank": 1,
       "anchor": "spread",
-      "text": "John Mann was diagnosed with early-onset Alzheimer's at 50 and went public in 2014. Spirit of the West played their last show two years later.",
-      "icon": "mic",
-      "byline": "John Mann",
-      "source": {
-        "type": "web",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/spirit-of-the-west-s-john-mann-dead-1.5367381"
-      }
-    },
-    {
-      "t": 3800,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Monika Schnarre traveled behind the Iron Curtain in 1987 to help launch Burda Moden, the first fashion magazine published in the Soviet Union.",
-      "icon": "star",
-      "byline": "Monika Schnarre",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 4150,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Gabrielle Anwar tangoed with Al Pacino in Scent of a Woman (1992), the role that made her famous.",
-      "icon": "star",
-      "byline": "Gabrielle Anwar",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 4500,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "The film's songs include Razor Electric and Gun Love, performed by Mann as Slade Craven. Other tracks come from the bands thickliquid and Deathbyday.",
-      "icon": "boombox",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 4850,
-      "rank": 3,
-      "anchor": "spread",
-      "text": "Rutger Hauer and John Mann both died in 2019, Hauer on July 19 and Mann on November 20.",
+      "text": "Rutger Hauer and John Mann died four months apart in 2019: Hauer on July 19, Mann on November 20.",
       "icon": "tombstone",
       "byline": null,
       "source": {
@@ -163,25 +112,86 @@
       }
     },
     {
-      "t": 5300,
-      "rank": 3,
+      "t": 3300,
+      "rank": 2,
       "anchor": "spread",
-      "text": "Gabrielle Anwar and Rutger Hauer played opposite each other again a year later in Flying Virus.",
-      "icon": "link",
+      "text": "One critic said Rutger Hauer flies the plane, sighs occasionally and listens to classical music, and you can see the wry amusement in his body language.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fictionmachine.com/2024/11/07/review-turbulence-3-heavy-metal-2001/"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Wade Ferley reportedly has more credits in camera and electrical departments than for writing.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fictionmachine.com/2024/11/07/review-turbulence-3-heavy-metal-2001/"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Red Letter Media crowned this the winner of a Best of the Worst episode (Plinketto #4) for being the most entertaining of the bunch.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.imdb.com/title/tt0251448/trivia/"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Mantegna later played an FBI agent on Criminal Minds from 2007 to 2020, a longer FBI tour than here.",
+      "icon": "star",
       "byline": null,
       "source": {
         "type": "imdb"
       }
     },
     {
-      "t": 5600,
+      "t": 4740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Nathan Rabin called it a bootleg Passenger 57 with a knock-off Marilyn Manson fighting an off-brand evil Marilyn Manson.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nathanrabin.com/happy-place/2021/3/17/control-nathan-rabin-40-184-turbulence-3-heavy-metal-2001"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Mann survived colorectal cancer around 2010, then was diagnosed with early-onset Alzheimer's in September 2014. His story inspired benefit concerts and the documentary Spirit Unforgettable.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Mann_(musician)"
+      }
+    },
+    {
+      "t": 5400,
       "rank": 3,
       "anchor": "spread",
-      "text": "Later cult-movie shows kept the film alive: it's referenced in Hologram Man, Faust, and Blood Street (2018) and in Merry Kick-mas! (2017).",
+      "text": "Released May 2001, this was a final flight of the Turbulence trilogy, which started with the 1997 theatrical hit starring Ray Liotta.",
       "icon": "link",
       "byline": null,
       "source": {
-        "type": "imdb"
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Turbulence_3:_Heavy_Metal"
       }
     }
   ]
