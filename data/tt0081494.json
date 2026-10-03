@@ -1,0 +1,159 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081494",
+  "title": "Return to the 36th Chamber",
+  "year": 1980,
+  "runtimeSec": 5940,
+  "generatedAt": "2026-10-03T22:51:29.188Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ol' Dirty Bastard borrowed this movie's name for his 1995 debut album, Return to the 36 Chambers: The Dirty Version. Brooklyn Zoo and Shimmy Shimmy Ya came out of it.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Return_to_the_36_Chambers:_The_Dirty_Version"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gordon Liu played the serious monk San Te in the first film. Here he's a fake monk and a comic con man. Fans call it a very different tone.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Return_to_the_36th_Chamber"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung also choreographed all three 36th Chamber films. His father Lau Cham trained under a student of folk hero Wong Fei-hung.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.arrowfilms.com/blog/features/inside-the-36th-chamber-re-visiting-shaw-brothers-timeless-trilogy/"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gordon Liu is the adopted brother of the film's director, Lau Kar-leung. He took the Liu surname out of respect for his teacher, Hung Gar master Lau Cham.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was released in Hong Kong on August 24, 1980. Screenwriter Ni Kuang wrote it, and Mona Fong and Run Run Shaw produced it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Return_to_the_36th_Chamber"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gordon Liu later played two roles in the Kill Bill films: Johnny Mo and the white-haired master Pai Mei.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hou Hsiao trained in Chinese opera and says Yuen Wah deserves the title of best acrobat from those schools, not him.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kwon Yeong-moon, who appears here, later taught tae kwon do to Sylvester Stallone and Muhammad Ali. He also starred in the cult film Miami Connection.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Instead of kung fu lessons, our hero is ordered to build bamboo scaffolding, and that labor teaches him the skills. Critics love the idea.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.highonfilms.com/return-to-the-36th-chamber-1980-movie-review/"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lung-Wei Wang, who plays the boss, usually played villains. He was also in Five Deadly Venoms.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The trilogy ended with Disciples of the 36th Chamber in 1985, the same year Shaw Brothers stopped making films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.arrowfilms.com/blog/features/inside-the-36th-chamber-re-visiting-shaw-brothers-timeless-trilogy/"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gordon Liu started as a stuntman, then became a martial arts instructor. Fans picture him as the Kung-Fu Monk, and he's often a bald monk.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lau Kar-leung only wrote four screenplays, all for films he directed. This wasn't one of them. Ni Kuang wrote it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
