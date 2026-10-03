@@ -1,0 +1,464 @@
+{
+  "schema": 1,
+  "imdbId": "tt0084695",
+  "title": "The Slumber Party Massacre",
+  "year": 1982,
+  "runtimeSec": 4620,
+  "generatedAt": "2026-10-03T22:25:39.142Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The tall palm tree in the background of the opening credits is still standing on Mountain View Avenue in Mar Vista, as of 2021.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rita Mae Brown wrote this as a slasher parody called \"Sleepless Nights.\" The producers shot it straight, which is why it's funnier than it was meant to be.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 290,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Amy Holden Jones got the job after shooting a proof-of-concept reel at her own house over a weekend for about $1,000. Roger Corman saw it and financed the film.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones turned down a job editing Spielberg's E.T. to make this movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The whole movie cost about $220,000 and grossed $3.6 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikidata"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The synthesizer score was composed on a Casio MT-40 by Ralph Jones, the director's brother.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones had never seen Friday the 13th when she was hired. She said she added the scares and humor herself because \"I don't think her script was funny at all.\"",
+      "icon": "mic",
+      "byline": "Amy Holden Jones — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in about three weeks in the summer of 1981, in the Mar Vista and Venice neighborhoods of Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Corman reportedly pitched this to homeowners as \"Sleepless Night,\" so locals would think it was a classy thriller.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "A guy rides by on a motorcycle around now. Jones first thought it was Joe Dante, and the crew couldn't agree whether it was a production manager or an electrician.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Dodgers game the girls try to follow is real: May 17, 1981, Dodgers 6, Mets 1. And yes, Cey did homer.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones says Corman sometimes refused the crew a generator. Electricians tapped the utility poles instead, and the street lights in Mar Vista would dim.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Brinke Stevens spent 45 minutes in a parking lot screaming into a mic for her off-screen death scene. She says it helped her perfect her scream-queen scream.",
+      "icon": "star",
+      "byline": "Brinke Stevens",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brinke Stevens missed a bigger role because of a Lake Tahoe modeling job. She says she ended up in a part where she \"stripped naked, took a shower, and was murdered quickly.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline was \"You know the drill.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Michael Villella read Helter Skelter to prepare to play Russ Thorn. He also stayed in character and kept away from the cast, which helped creep out the young women.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Villella first read for the neighbor, David Contant. It was his first acting job.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Aaron Lipstadt, the pizza boy, directed the Corman-produced Android (1982). Corman also produced Hollywood Boulevard (1976), the movie Valerie watches on TV.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Rubyfruit Jungle author's own books turn up in the film. Rita Mae Brown's Six of One sits on Courtney's nightstand, and Rubyfruit Jungle is in the background of Trish's bedroom.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The girls briefly sing \"Strangers in the Night\" when the power goes out. They hum the Twilight Zone theme on the way to the fuse box.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Motörhead's \"Overkill\" is on the soundtrack.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Debra De Liso says the actresses kept getting script changes with more nudity. She did the shower scene fully nude so she wouldn't be fired, and was relieved the full-frontal shots were cut.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several actresses taped over their nipples in the shower scene so Jones couldn't use shots of their breasts. That's why you mostly see their backs.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones says the shower scene was a Corman requirement, and she shot it by the numbers just to tick the box.",
+      "icon": "mic",
+      "byline": "Amy Holden Jones — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When Gina Mari refused to do a topless shot, Jones offered extra pay to anyone who would. Michele Michaels volunteered. Mari's family still assumed it was her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film has been read as feminist. Critics note it passes the Bechdel test, and the killer's drill is a phallic joke on masculine violence.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrorhomeroom.com/the-repair-women-of-slumber-party-massacre/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "At the first test screening on Hollywood Boulevard, the audience made drilling noises at the screen. Corman told Jones it was \"the best preview in New World history.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The glass lamp in this scene belongs to Amy Holden Jones. She reused it in her next film, Love Letters (1983), and she still has it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jones notes that most of the women die off-screen, while the men get the bloody on-screen deaths. The film was still slammed for violence against women.",
+      "icon": "mic",
+      "byline": "Amy Holden Jones — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Debra De Liso was stuffed in a refrigerator and had to hold her breath, playing dead for five seconds, twice. Her gymnastics training helped.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's original cut was about 90 minutes, but it runs only about 76. A Ouija board scene spelling DEATH was cut for pacing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The overhead gym shots were done from a cherry picker because the crew couldn't afford a camera crane.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The UK video release was retitled \"Slumber Party Murders\" and lost about 30 seconds to BBFC cuts in the video-nasty panic. It was passed uncut on DVD in 2003.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones directed three more features, including Maid to Order (1987) and The Rich Man's Wife (1996). She later created the Fox medical drama The Resident.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Amy_Holden_Jones"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The pool finale was added in a reshoot. Corman gave Jones extra cash after the original ending was deemed lame.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones rewatched Taxi Driver while rewriting the ending. The constant yelling in pain in its finale struck her as \"very unnerving.\"",
+      "icon": "mic",
+      "byline": "Amy Holden Jones — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Villella hated water and wasn't a swimmer. He had to float in a freezing pool for several minutes between takes.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jones nixed Villella's idea of the killer saying \"mama\" in his last moments, for fear it would make him sympathetic.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cheerleader Massacre (2003) was filmed as Slumber Party Massacre 4 before being renamed. A 2021 reimagining aired on Syfy.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs covered the film on The Last Drive-In's Nightmareathon, which aired September 1, 2024.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://tv.apple.com/us/episode/slumber-party-massacre/umc.cmc.3hfz0zqp73kis8ui49jntty6z"
+      }
+    },
+    {
+      "t": 4570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Scream 2, Serial Mom and Grindhouse all reference this movie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
