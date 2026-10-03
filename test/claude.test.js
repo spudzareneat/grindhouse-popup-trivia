@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { EventEmitter } from 'node:events';
 import { PassThrough } from 'node:stream';
+import fs from 'node:fs';
 import { buildPrompt, targetFactCount } from '../src/prompt.js';
 import { buildClaudeArgs, parseClaudeResult, runClaude } from '../src/claude.js';
 
@@ -76,4 +77,52 @@ test('runClaude pipes the prompt on stdin from an empty temp cwd and parses outp
     assert.equal(calls[0].bin, 'claude');
     assert.equal(calls[0].input, 'PROMPT TEXT');
     assert.match(calls[0].cwd, /gpt-/);
+});
+
+test('parseClaudeResult: plain-text usage limit on stdout', () => {
+    assert.equal(parseClaudeResult('Claude AI usage limit reached|1759550400').usageLimited, true);
+});
+test('runClaude: stdin EPIPE error does not crash', async () => {
+    const impl = () => {
+        const child = new EventEmitter();
+        child.stdout = new PassThrough(); child.stderr = new PassThrough(); child.stdin = new PassThrough();
+        child.stdin.on('finish', () => {});
+        child.kill = () => {};
+        setImmediate(() => {
+            child.stdin.emit('error', Object.assign(new Error('write EPIPE'), { code: 'EPIPE' }));
+            child.stdout.end(JSON.stringify({ subtype: 'success', is_error: false, structured_output: { facts: [] } }));
+            child.stderr.end();
+            setImmediate(() => child.emit('close', 1));
+        });
+        return child;
+    };
+    const r = await runClaude('P', { model: 'sonnet', schema: {}, spawnImpl: impl });
+    assert.equal(r.ok, true);
+});
+test('runClaude: timeout resolves without close, sends SIGTERM then SIGKILL', async () => {
+    const kills = [];
+    const impl = () => {
+        const child = new EventEmitter();
+        child.stdout = new PassThrough(); child.stderr = new PassThrough(); child.stdin = new PassThrough();
+        child.kill = sig => { kills.push(sig); };
+        return child;
+    };
+    const r = await runClaude('P', { model: 'sonnet', schema: {}, spawnImpl: impl, timeoutMs: 20, killGraceMs: 20 });
+    assert.equal(r.ok, false);
+    assert.match(r.error, /timed out/);
+    assert.deepEqual(kills, ['SIGTERM']);
+    await new Promise(res => setTimeout(res, 60));
+    assert.deepEqual(kills, ['SIGTERM', 'SIGKILL']);
+});
+test('runClaude: synchronous spawn throw resolves as spawn failed', async () => {
+    const r = await runClaude('P', { model: 'sonnet', schema: {}, spawnImpl: () => { throw new Error('ENOENT'); } });
+    assert.equal(r.ok, false);
+    assert.match(r.error, /spawn failed/);
+});
+test('runClaude: temp dir is removed afterwards', async () => {
+    let cwd;
+    const { impl } = fakeSpawn(JSON.stringify({ subtype: 'success', is_error: false, structured_output: { facts: [] } }));
+    await runClaude('P', { model: 'sonnet', schema: {}, spawnImpl: (b, a, o) => { cwd = o.cwd; return impl(b, a, o); } });
+    assert.ok(cwd);
+    assert.equal(fs.existsSync(cwd), false);
 });
