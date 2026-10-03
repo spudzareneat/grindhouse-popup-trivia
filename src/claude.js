@@ -36,7 +36,7 @@ export function parseClaudeResult(stdout, stderr = '') {
     return { ok: true, usageLimited: false, facts: out.facts, costUsd: j.total_cost_usd ?? null, numTurns: j.num_turns ?? null };
 }
 
-export function runClaude(prompt, { model, schema, timeoutMs = 30 * 60 * 1000, killGraceMs = 5000, bin = 'claude', spawnImpl = spawn } = {}) {
+export function runClaude(prompt, { model, schema, timeoutMs = 30 * 60 * 1000, killGraceMs = 5000, rmImpl = fs.rmSync, bin = 'claude', spawnImpl = spawn } = {}) {
     return new Promise(resolve => {
         const cwd = fs.mkdtempSync(path.join(os.tmpdir(), 'gpt-'));
         let settled = false, timer = null, graceTimer = null;
@@ -44,8 +44,9 @@ export function runClaude(prompt, { model, schema, timeoutMs = 30 * 60 * 1000, k
             if (settled) return;
             settled = true;
             clearTimeout(timer);
-            fs.rmSync(cwd, { recursive: true, force: true });
             resolve(r);
+            // best-effort: on Windows the CLI's children can briefly hold the cwd (EBUSY); a leftover empty dir is harmless
+            try { rmImpl(cwd, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 }); } catch { /* ignore */ }
         };
         let out = '', err = '';
         let child;
