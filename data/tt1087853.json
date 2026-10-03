@@ -1,0 +1,337 @@
+{
+  "schema": 1,
+  "imdbId": "tt1087853",
+  "title": "Gutterballs",
+  "year": 2008,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-10-03T22:29:01.488Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gutterballs was made for about $250,000 — and shot in just three weeks in the summer of 2007.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Gutterballs_(film)"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered January 18, 2008 at Fangoria's Weekend of Horrors, three months before its DVD release.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Gutterballs_(film)"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Ryan Nicholson called the movie \"a love letter to the kind of horror movies I grew up watching.\"",
+      "icon": "mic",
+      "byline": "Ryan Nicholson — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?ryannicholson(9-08)"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Nicholson was a working makeup FX artist on Final Destination, Scary Movie and Blade Trinity before directing. Gutterballs was his follow-up to 2006's Live Feed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://grokipedia.com/page/Gutterballs_(film)"
+      }
+    },
+    {
+      "t": 770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The disco-themed Xcalibur Bowling Centre is a real multi-million-dollar bowling center, which gave this tiny production a lot of free production value.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?ryannicholson(9-08)"
+      }
+    },
+    {
+      "t": 940,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Nicholson pitched the film's tone as a gory adult version of Scooby-Doo.",
+      "icon": "sunglasses",
+      "byline": "Ryan Nicholson — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?ryannicholson(9-08)"
+      }
+    },
+    {
+      "t": 1110,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The word \"fuck\" is said 516 times, the most of any scripted film. Overall only a few documentary and Wolf of Wall Street-type titles beat it.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Much of the dialogue was improvised, which may explain the cussing count.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most of the gore was shot in a separate studio so fake blood wouldn't wreck the real bowling alley.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The killer's phone number, 976-3845, spells 976-EVIL, a nod to the 1988 slasher 976-EVIL.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The MPAA told Nicholson nearly 20 minutes had to go to dodge an NC-17. He released the film unrated instead.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The poster and promo campaign are a deliberate homage to the 1980 cult slasher Maniac.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is set in the 1980s, but eagle-eyed viewers spot a Daytona USA arcade cabinet (1993-94) and modern Pepsi logos.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most of the movie was shot in sequence, but the two rival bowling teams mostly filmed on separate days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italo-disco score credits \"Gianni Rossi\", which is actually a pseudonym for Steve Moore.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2009 TLA Releasing DVD came with an altered soundtrack compared to the 2008 Plotdigger original.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nicholson has said the violence is meant to be cartoony, campy overkill, like getting strangled to death by bowling shoes.",
+      "icon": "skull",
+      "byline": "Ryan Nicholson — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?ryannicholson(9-08)"
+      }
+    },
+    {
+      "t": 2980,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Nicholson cites slashers, giallo and exploitation horror from his childhood, plus Joe Dante and David Cronenberg, as influences.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?ryannicholson(9-08)"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The smoke from the waxing machine was added digitally in post-production.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Goof hunters note that in many close-ups of the dead bodies you can see the actors breathing.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A cut-down German release lost about 15 minutes for SPIO/JK approval. The FSK 'not under 18' retail version lost roughly 26.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wade Gibb, who plays Joey, was born in High Level, Alberta, and grew up on a grain farm.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A 2011 'Pin-Etration Edition' with hardcore inserts was limited to just 69 copies.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewers compared it to Troma: DVD Talk called it 'a damn fine sexually explicit, graphically violent, morally repugnant, willfully bad B movie.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mihola Terzic, who plays Sarah, is also a professional model and a published poet.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film got a sequel, Gutterballs 2: Balls Deep, which premiered at Texas Frightmare Weekend in May 2015.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The soundtrack includes tracks by Patrick Coble, such as 'Wax-O-Matic' and 'Hot Body Storage'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The credits were reportedly shot in Surrey, British Columbia, a suburb of Vancouver.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "During the end credits, BBK's identity is shown after every murder scene.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
