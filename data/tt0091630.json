@@ -1,0 +1,333 @@
+{
+  "schema": 1,
+  "imdbId": "tt0091630",
+  "title": "Night of the Creeps",
+  "year": 1986,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-10-03T22:39:13.210Z",
+  "facts": [
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The title credits were designed by Ernie Ferrino, who also worked on The Terminator. Dekker asked for \"a kind of Famous Monsters of Filmland logo.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The girl brushing her hair in the black-and-white opening is Leslie Ryan. Dekker says he asked her out on a date and she turned him down.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dekker originally wanted to shoot the whole film in black and white. He also crammed in every B-movie cliché he could think of.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Nearly every major character is named for a horror director: Romero, Carpenter, Hooper, Cronenberg, Cameron, Landis, Raimi, and Miner. Even the university is named for Roger Corman.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dekker says the script took about three weeks to write, not the five days or one week sometimes quoted. He kept tinkering after that.",
+      "icon": "reel",
+      "byline": "Fred Dekker — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefone.com/news/fred-dekker-interview-night-of-the-creeps-predator/"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A lot of the film was shot in an old Woolworth's department store converted into a makeshift studio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dekker wanted Elmer Bernstein to score the film. Bernstein was interested, but the studio wouldn't pay his full salary, so Barry DeVorzon got the job.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/NightOfTheCreeps"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tom Atkins says Night of the Creeps is his favorite of all his movies. He also came up with the idea of Cameron stopping to smell a rose.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cameron says \"Thrill me\" five times in the film. Chris says it once. Dekker says \"thrill me\" was the first thing that came to him for the movie.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://tvtropes.org/pmwiki/pmwiki.php/Trivia/NightOfTheCreeps"
+      }
+    },
+    {
+      "t": 1690,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Cameron says \"Whip Van Winkle\" instead of \"Rip Van Winkle\" around the 28-minute mark. The slip stayed in the film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Dekker's roommate Shane Black helped on the script and cameos at the police station. The next year Tom Atkins starred in Lethal Weapon, Black's first produced screenplay.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cops mention officers Dante and DePalma, named for directors Joe Dante and Brian De Palma. The Corman Clarion newspaper nods to Roger Corman too.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2298,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look in the background: a female second assistant director is waving onlookers out of frame during this crowd scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dekker was rejected by both USC and UCLA film schools. He studied English at UCLA, alongside future screenwriters Shane Black, Chris Matheson and Ed Solomon.",
+      "icon": "star",
+      "byline": "Fred Dekker — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The bathroom graffiti \"Stryper Rules\" is there because makeup artist Kyle Sweet was dating Stryper frontman Michael Sweet, later her husband. \"Go Monster Squad!\" is also scrawled in there.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Kurtzman, Greg Nicotero and Howard Berger, who later formed KNB EFX, play zombie extras in the film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dekker says the studio \"really railroaded\" him on pacing, and an executive and the editor re-cut it without him. After that, he carried a stopwatch on every film.",
+      "icon": "reel",
+      "byline": "Fred Dekker — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Phil's Diner has become a Dekker signature. It has turned up somehow in every one of his movies since.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gordon the Cat is named after producer Gordon Carroll.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jason Lively, who plays Chris, is the half-brother of Blake Lively. He originally auditioned for the role of J.C.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3860,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Lively was too playful for this tape scene, so Dekker surrounded him with atrocity photos and told him offscreen where to look. You can spot him glancing at the Auschwitz one around 1:04:20.",
+      "icon": "camera",
+      "byline": "Fred Dekker — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dekker said he staged Cynthia's top-changing scene so you wonder whether you'll see anything, and the payoff comes only at the last beat. It's Jill Whitlow's only nude scene.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The garden-shed sequence was shot after the film wrapped. A rough cut tested badly and audiences wanted more action, so Dekker added the shed scene plus a few extra beats.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The spaceship model was reused in the Star Trek: The Next Generation episode \"Booby Trap.\"",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film flopped domestically, grossing $591,366 in 70 theaters against a $5 million budget. Dekker says it did have a big following in Germany.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefone.com/news/fred-dekker-interview-night-of-the-creeps-predator/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Cincinnati and some other cities, the film was released under the title Homecoming Night.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the Philippines, early moviegoers got free \"protector\" stickers to wear during screenings.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dekker won a special first-time-director award at the 1987 Paris International Festival of Fantastic and Science-Fiction Film.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "James Wan announced in January 2023 that he wanted to remake Night of the Creeps.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
