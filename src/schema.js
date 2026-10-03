@@ -37,6 +37,7 @@ export const MODEL_OUTPUT_SCHEMA = {
                     text: { type: 'string' },
                     icon: { type: 'string', enum: ICON_KEYS },
                     byline: { type: 'string' },
+                    person: { type: 'string' },
                     source: {
                         type: 'object',
                         required: ['type'],

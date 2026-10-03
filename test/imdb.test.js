@@ -74,3 +74,22 @@ test('fetchBundle: null runtime stays null; GraphQL error with no data throws', 
     assert.equal((await imdb.fetchBundle('tt0055830')).runtimeSec, null);
     await assert.rejects(makeImdb(imdbStub(() => new Error('bad query'))).fetchBundle('tt1'), /bad query/);
 });
+
+import { headshotUrl } from '../src/imdb.js';
+
+test('headshotUrl turns an IMDb image into a 120px square crop; rejects other hosts', () => {
+    assert.equal(headshotUrl('https://m.media-amazon.com/images/M/MV5BOGRm@._V1_.jpg'),
+        'https://m.media-amazon.com/images/M/MV5BOGRm@._V1_QL75_UX120_CR0,0,120,120_.jpg');
+    assert.equal(headshotUrl('https://m.media-amazon.com/images/M/MV5Bxyz@@.jpg'),
+        'https://m.media-amazon.com/images/M/MV5Bxyz@@._V1_QL75_UX120_CR0,0,120,120_.jpg');
+    assert.equal(headshotUrl('https://evil.example/images/a.jpg'), null);
+    assert.equal(headshotUrl(null), null);
+});
+test('fetchBundle people carry a headshot (or null when IMDb has none / lookup fails)', async () => {
+    const imdb = makeImdb(imdbStub((op, v) => op === 'GHBundle' ? TITLE :
+        v.id === 'nm2' ? new Error('boom') :
+        { name: { primaryImage: { url: 'https://m.media-amazon.com/images/M/abc@._V1_.jpg' }, trivia: { edges: [] }, knownFor: { edges: [] } } }));
+    const b = await imdb.fetchBundle('tt0055830');
+    assert.equal(b.people[0].image, 'https://m.media-amazon.com/images/M/abc@._V1_QL75_UX120_CR0,0,120,120_.jpg');
+    assert.equal(b.people[1].image, null);
+});

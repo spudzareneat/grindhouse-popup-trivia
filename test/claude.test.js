@@ -171,3 +171,9 @@ test('runClaude: cleanup failure (EBUSY) does not throw or lose the result', asy
     assert.equal(r.ok, true);
     assert.deepEqual(r.facts, [{ t: 1 }]);
 });
+
+test('buildPrompt lists people with their IMDb id and explains the person tag', () => {
+    const p = buildPrompt({ imdb: { ...BUNDLE, people: [{ nconst: 'nm0367547', name: 'Herk Harvey', role: 'director', character: null, trivia: [], knownFor: [] }] }, wikidata: null, wikipedia: null, totals: null, tmdb: null });
+    assert.ok(p.includes('Herk Harvey [nm0367547]'));
+    assert.ok(p.includes('set person to their IMDb id'));
+});

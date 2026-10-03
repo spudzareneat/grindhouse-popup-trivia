@@ -35,6 +35,7 @@ export async function processMovie(item, deps) {
     ]);
     const totals = findTotals(totalsRows, bundle.title, bundle.year) ?? (item.title ? findTotals(totalsRows, item.title, item.year ?? null) : null);
     const prompt = buildPrompt({ imdb: bundle, wikidata, wikipedia, totals, tmdb: tmdbExtras });
+    const peopleImages = Object.fromEntries((bundle.people || []).map(p => [p.nconst, p.image || null]));
     log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${totals ? 'yes' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}`);
 
     let best = { facts: [], dropped: {} };
@@ -44,7 +45,7 @@ export async function processMovie(item, deps) {
         if (r.usageLimited) throw Object.assign(new UsageLimitError(r.error || 'usage limit'), { authError: !!r.authError });
         if (!r.ok) { lastError = r.error; log(`  attempt ${attempt} failed: ${r.error}`); continue; }
         lastError = null;
-        const v = validateFacts(r.facts, bundle.runtimeSec);
+        const v = validateFacts(r.facts, bundle.runtimeSec, peopleImages);
         log(`  attempt ${attempt}: ${r.facts.length} facts from model, ${v.facts.length} kept, dropped ${JSON.stringify(v.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}${r.numTurns != null ? `, ${r.numTurns} turns` : ''}`);
         if (v.facts.length > best.facts.length) best = v;
         if (v.facts.length >= MIN_FACTS) break;
