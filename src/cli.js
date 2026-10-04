@@ -3,7 +3,8 @@
 //   node src/cli.js run [--dry-run] [--force]
 //   node src/cli.js movie <tt1234567 | "Title"> [--year 1962] [--dry-run] [--force]
 // Env: DATA_REPO_DIR (git checkout to write data/ into; default cwd), CLAUDE_MODEL (default "sonnet"),
-//      TMDB_API_KEY (optional), MOVIE_DELAY_SEC (default 60), CLAUDE_TIMEOUT_MIN (default 30),
+//      TMDB_API_KEY (optional), OPENSUBTITLES_API_KEY [+ _USERNAME/_PASSWORD] (optional, scene timing),
+//      MOVIE_DELAY_SEC (default 60), CLAUDE_TIMEOUT_MIN (default 30),
 //      PRUNE_CLAUDE_STATE=1 (container only: clear the Claude CLI's scratch folders after each run).
 import path from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
@@ -11,6 +12,7 @@ import { fetchWeekendMovies } from './schedule.js';
 import { makeImdb } from './imdb.js';
 import { makeWiki } from './wiki.js';
 import { makeTmdb } from './tmdb.js';
+import { makeSubtitles } from './subtitles.js';
 import { fetchTotals } from './driveintotals.js';
 import { runClaude, pruneClaudeState } from './claude.js';
 import { makeGit } from './publish.js';
@@ -34,6 +36,7 @@ async function main() {
         imdb: makeImdb(),
         wiki: makeWiki(),
         tmdb: makeTmdb(process.env.TMDB_API_KEY || ''),
+        subtitles: makeSubtitles({ apiKey: process.env.OPENSUBTITLES_API_KEY, username: process.env.OPENSUBTITLES_USERNAME, password: process.env.OPENSUBTITLES_PASSWORD }),
         totalsRows: await fetchTotals().catch(e => { log(`Drive-In Totals unavailable: ${e.message}`); return []; }),
         runClaude: (prompt, opts) => runClaude(prompt, { ...opts, timeoutMs }),
         model: process.env.CLAUDE_MODEL || 'sonnet',

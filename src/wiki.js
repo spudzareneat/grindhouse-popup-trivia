@@ -22,6 +22,22 @@ WHERE {
 } GROUP BY ?item ?article`;
 }
 
+// Wikipedia pages for the film's people (via their IMDb nm ids) and for what frames the film:
+// its series, production company, and source work. Feeds the "famous for…" and studio-history
+// bubbles without spending Claude's research turns on looking them up.
+const RELATED_PROPS = [['P179', 'series'], ['P272', 'production company'], ['P144', 'based on']];
+function relatedSparql(qid, nconsts) {
+    const enwiki = '?article schema:about ?x ; schema:isPartOf <https://en.wikipedia.org/> .';
+    const people = nconsts.length
+        ? `{ VALUES ?key { ${nconsts.map(n => `"${n}"`).join(' ')} } ?x wdt:P345 ?key . ${enwiki} BIND("person" AS ?kind) }`
+        : '';
+    const related = qid
+        ? `{ VALUES (?prop ?kind) { ${RELATED_PROPS.map(([p, k]) => `(wdt:${p} "${k}")`).join(' ')} } wd:${qid} ?prop ?x . ${enwiki} BIND("" AS ?key) }`
+        : '';
+    return `SELECT ?kind ?key ?article WHERE { ${[people, related].filter(Boolean).join(' UNION ')} }`;
+}
+const articleTitle = url => decodeURIComponent(url.split('/wiki/')[1]).replace(/_/g, ' ');
+
 export function makeWiki(fetchImpl = fetch) {
     async function fetchWikidata(tconst) {
         if (!/^tt\d+$/.test(tconst)) throw new Error(`bad imdb id: ${tconst}`);
@@ -44,5 +60,36 @@ export function makeWiki(fetchImpl = fetch) {
         return ex ? ex.slice(0, maxChars) : null;
     }
 
-    return { fetchWikidata, fetchWikipediaExtract };
+    // Lead sections only (the "best known for" part), up to 20 titles per API call.
+    async function fetchWikipediaIntros(titles, maxChars = 1500) {
+        const out = {};
+        for (let i = 0; i < titles.length; i += 20) {
+            const batch = titles.slice(i, i + 20);
+            const url = `${WP_API}?action=query&prop=extracts&exintro=1&explaintext=1&exlimit=20&redirects=1&format=json&formatversion=2&titles=${encodeURIComponent(batch.join('|'))}`;
+            const j = await getJson(fetchImpl, url);
+            const back = {};   // follow normalization/redirects back to the title we asked for
+            for (const m of [...(j.query?.normalized || []), ...(j.query?.redirects || [])]) back[m.to] = back[m.from] ?? m.from;
+            for (const p of j.query?.pages || []) {
+                if (!p.extract) continue;
+                out[back[p.title] ?? p.title] = p.extract.trim().slice(0, maxChars);
+            }
+        }
+        return out;
+    }
+
+    // -> [{ kind: 'person'|'series'|'production company'|'based on', key: nconst|'', title, intro }]
+    async function fetchRelatedArticles(qid, nconsts = []) {
+        const ids = nconsts.filter(n => /^nm\d+$/.test(n));
+        const q = /^Q\d+$/.test(qid || '') ? qid : null;
+        if (!q && !ids.length) return [];
+        const url = `${SPARQL}?format=json&query=${encodeURIComponent(relatedSparql(q, ids))}`;
+        const j = await getJson(fetchImpl, url, { Accept: 'application/sparql-results+json' }, 30000);
+        const seen = new Set();
+        const rows = (j.results?.bindings || []).map(b => ({ kind: b.kind.value, key: b.key?.value || '', title: articleTitle(b.article.value) }))
+            .filter(r => !seen.has(r.title) && seen.add(r.title));
+        const intros = rows.length ? await fetchWikipediaIntros(rows.map(r => r.title)) : {};
+        return rows.filter(r => intros[r.title]).map(r => ({ ...r, intro: intros[r.title] }));
+    }
+
+    return { fetchWikidata, fetchWikipediaExtract, fetchWikipediaIntros, fetchRelatedArticles };
 }

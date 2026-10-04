@@ -30,7 +30,7 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
    reference `refs/heads/main`, compose path `docker-compose.yml`.
 3. Environment variables: `CLAUDE_CODE_OAUTH_TOKEN=<from claude setup-token>`,
    `DEPLOY_KEY_PATH=/opt/grindhouse-popup-trivia/deploy_key`, `TZ=America/Los_Angeles`
-   (optional: `CLAUDE_MODEL`, `TMDB_API_KEY`, `MOVIE_DELAY_SEC`, `CLAUDE_TIMEOUT_MIN`). Deploy.
+   (optional: `CLAUDE_MODEL`, `TMDB_API_KEY`, `OPENSUBTITLES_API_KEY` / `_USERNAME` / `_PASSWORD`, `MOVIE_DELAY_SEC`, `CLAUDE_TIMEOUT_MIN`). Deploy.
 4. Test: container → Console (user `node`, `/bin/sh`) → `cd /app && node src/cli.js movie tt0055830 --dry-run`
    then `cat /work/out/tt0055830.json`. The same console runs `node src/cli.js run` / `movie …` by hand.
 

@@ -23,7 +23,7 @@ function makeDeps(over = {}) {
                 searchTitle: async (title, year) => title === 'Nope' ? null : { tconst: title === 'Show' ? 'tt9' : 'tt0055830', title, year },
                 fetchBundle: async (tconst) => ({ tconst, title: 'Carnival of Souls', year: 1962, runtimeSec: 4680, isSeries: false, isEpisode: tconst === 'tt9', trivia: [], goofs: [], quotes: [], connections: [], alternateVersions: [], crazyCredits: [], soundtrack: [], filmingLocations: [], people: [] }),
             },
-            wiki: { fetchWikidata: async () => ({ wikipediaTitle: 'Carnival of Souls' }), fetchWikipediaExtract: async () => 'WP' },
+            wiki: { fetchWikidata: async () => ({ qid: 'Q1', wikipediaTitle: 'Carnival of Souls' }), fetchWikipediaExtract: async () => 'WP', fetchRelatedArticles: async () => [{ kind: 'production company', key: '', title: 'Harcourt Productions', intro: 'Industrial films in Lawrence.' }] },
             tmdb: { fetchExtras: async () => { throw new Error('tmdb down'); } },
             totalsRows: [{ title: 'Carnival of Souls', year: 1962, description: 'Nineteen dead bodies.' }],
             runClaude: async (prompt) => { prompts.push(prompt); return { ok: true, usageLimited: false, facts: FIVE }; },
@@ -49,6 +49,7 @@ test('processMovie: researches, validates, writes data/<id>.json, commits', asyn
     assert.equal(doc.generatedAt, '2026-10-03T09:00:00.000Z');
     assert.match(prompts[0], /Nineteen dead bodies/);   // totals reached the prompt
     assert.match(prompts[0], /WP/);                     // wikipedia reached it; tmdb failure tolerated
+    assert.match(prompts[0], /Harcourt Productions \(production company\): Industrial films/);
     assert.equal(commits.length, 1);
     assert.match(commits[0].m, /Carnival of Souls \(1962\)/);
 });

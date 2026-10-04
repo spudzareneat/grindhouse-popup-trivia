@@ -74,3 +74,34 @@ test('tmdb with key -> keywords, collection, tagline, money', async () => {
     assert.deepEqual(await makeTmdb('k', fetchImpl).fetchExtras('tt0055830'),
         { keywords: ['zombie', 'organ'], collection: 'Souls Collection', tagline: 'Tag', budget: 33000, revenue: null });
 });
+
+test('fetchRelatedArticles: people by nm id + studio, with lead-section intros (redirects mapped back)', async () => {
+    const urls = [];
+    const fetchImpl = async (url) => {
+        urls.push(decodeURIComponent(url));
+        if (url.includes('sparql')) return jsonResponse({ results: { bindings: [
+            { kind: { value: 'person' }, key: { value: 'nm0514904' }, article: { value: 'https://en.wikipedia.org/wiki/Gordon_Liu' } },
+            { kind: { value: 'production company' }, key: { value: '' }, article: { value: 'https://en.wikipedia.org/wiki/Shaw_Brothers_Studio' } },
+            { kind: { value: 'person' }, key: { value: 'nm1' }, article: { value: 'https://en.wikipedia.org/wiki/No_Intro' } },
+        ] } });
+        return jsonResponse({ query: { redirects: [{ from: 'Shaw Brothers Studio', to: 'Shaw Brothers' }], pages: [
+            { title: 'Gordon Liu', extract: 'Gordon Liu is an actor.' }, { title: 'Shaw Brothers', extract: 'x'.repeat(2000) }, { title: 'No Intro', missing: true },
+        ] } });
+    };
+    const r = await makeWiki(fetchImpl).fetchRelatedArticles('Q123', ['nm0514904', 'nm1', 'bad"id']);
+    assert.match(urls[0], /VALUES \?key \{ "nm0514904" "nm1" \}/);
+    assert.match(urls[0], /wd:Q123 \?prop/);
+    assert.ok(!urls[0].includes('bad"id'));
+    assert.match(urls[1], /exintro=1/);
+    assert.deepEqual(r.map(x => [x.kind, x.key, x.title, x.intro.length]), [
+        ['person', 'nm0514904', 'Gordon Liu', 23],
+        ['production company', '', 'Shaw Brothers Studio', 1500],
+    ]);
+});
+test('fetchRelatedArticles: nothing to look up -> [] without a request; bad qid ignored', async () => {
+    let calls = 0;
+    const wiki = makeWiki(async () => { calls++; return jsonResponse({ results: { bindings: [] } }); });
+    assert.deepEqual(await wiki.fetchRelatedArticles(null, []), []);
+    assert.deepEqual(await wiki.fetchRelatedArticles('Q1} DROP', []), []);
+    assert.equal(calls, 0);
+});
