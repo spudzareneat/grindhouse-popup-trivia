@@ -4,13 +4,220 @@
   "title": "Return to the 36th Chamber",
   "year": 1980,
   "runtimeSec": 5940,
-  "generatedAt": "2026-10-03T22:51:29.188Z",
+  "generatedAt": "2026-10-04T21:05:55.123Z",
   "facts": [
     {
-      "t": 90,
+      "t": 120,
       "rank": 1,
       "anchor": "spread",
-      "text": "Ol' Dirty Bastard borrowed this movie's name for his 1995 debut album, Return to the 36 Chambers: The Dirty Version. Brooklyn Zoo and Shimmy Shimmy Ya came out of it.",
+      "text": "Wu-Tang Clan's Ol' Dirty Bastard borrowed this film's title for his 1995 debut solo album, Return to the 36 Chambers: The Dirty Version.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wu-Tang Clan's '36 Chambers' tag is math: 9 members x 4 heart chambers = 36. It also nods to the first film in this series, The 36th Chamber of Shaolin (1978).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Enter_the_Wu-Tang_(36_Chambers)"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the first and third 36th Chamber films, star Gordon Liu plays the real Shaolin monk San Te. Here he plays Chu Jen-chieh, a small-time con man who only pretends to be one.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Ni Kuang wrote this film. He is credited with over 400 film scripts and 300 novels, and he fled mainland China in 1956 after escaping a ten-year sentence.",
+      "icon": "reel",
+      "byline": "Ni Kuang — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ni_Kuang"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung was reportedly reluctant to make a 36th Chamber sequel, so he made a spoof with a comic con-artist hero instead of a straight follow-up.",
+      "icon": "reel",
+      "byline": "Lau Kar-leung — Director",
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/shawscope-collection-volume-2-blu-ray-collection-review"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shaw Brothers' Movietown was once the largest privately owned film studio in the world, with 15 stages and 1,300 employees. This movie was made on that lot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Shaw_Brothers_Studio"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Yeong-moon Kwon, who plays Yuan Li-hao, was a tae kwon do instructor to both Sylvester Stallone and Muhammad Ali. He later turned up in the cult oddity Miami Connection.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0473928"
+    },
+    {
+      "t": 1320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kara Hui (Hsiao Hung) got her start by luck. On Dirty Ho (1979) the lead actress quit over the stunt strain, and director Lau Kar-leung cast Hui, then an extra, after seeing her audition tape.",
+      "icon": "star",
+      "byline": "Kara Hui",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kara_Hui"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kara Hui (Hsiao Hung) joined Shaw Brothers at 17 via director Chang Cheh. Lau Kar-leung's films like this one made her a kung fu heroine, and she won Best Actress for My Young Auntie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dev.avenueofstars.com.hk/en/?p=2180"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Johnny Wang Lung-wei, who plays mill owner Boss Wang, was usually cast as the villain in his Hong Kong movie roles.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0910979",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2I2MDVhYjktYWMyOS00ZTgwLWFjNTctNTBmZWUwMDM5NWE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One reviewer called this film's broad slapstick, laxative gags included, 'a prototype Stephen Chow comedy, minus the irony.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/shawscope-collection-volume-2-blu-ray-collection-review"
+      }
+    },
+    {
+      "t": 2030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Ni Kuang also wrote the screenplay for Fist of Fury (1972), the Bruce Lee classic. He wasn't credited as creator of Chen Zhen, the hero Lee played.",
+      "icon": "link",
+      "byline": "Ni Kuang — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ni_Kuang"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hsiao Ho, who plays mill worker Ah Chao here, went on to star as folk hero Fong Sai-yuk in the series' third film, Disciples of the 36th Chamber (1985).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mail.lovehkfilm.com/reviews/return_36th_chamber.htm"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gordon Liu's con man Chu Jen-chieh is given a huge chore at the Shaolin temple: build scaffolding around the whole complex. It takes him more than a year, and it becomes his secret kung fu training.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Gordon Liu later played two roles in Kill Bill: yakuza bodyguard Johnny Mo in Vol. 1 and the cruel kung fu master Pai Mei in Vol. 2.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2725,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hsiao Ho's funniest set mishap came on Mad Monkey Kung Fu. During an acrobatic stunt he smashed his face into the backside of a co-star.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0369136"
+    },
+    {
+      "t": 2900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Quentin Tarantino planned to play Pai Mei himself in Kill Bill Vol. 2, but found directing took everything he had. He gave it to Gordon Liu: 'almost criminal' not to.",
+      "icon": "mic",
+      "byline": "Quentin Tarantino",
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1195590/quentin-tarantino-almost-played-the-martial-arts-master-in-kill-bill-vol-2"
+      }
+    },
+    {
+      "t": 3075,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ol' Dirty Bastard's 'Return to the 36 Chambers' sold 81,000 copies its first week in 1995, peaked at #7 on the Billboard 200, and earned a Best Rap Album Grammy nomination.",
       "icon": "boombox",
       "byline": null,
       "source": {
@@ -19,91 +226,172 @@
       }
     },
     {
-      "t": 450,
-      "rank": 1,
+      "t": 3250,
+      "rank": 2,
       "anchor": "spread",
-      "text": "Gordon Liu played the serious monk San Te in the first film. Here he's a fake monk and a comic con man. Fans call it a very different tone.",
-      "icon": "star",
+      "text": "Wu-Tang's Masta Killa took his name from 'Master Killer,' an alternate title of the first film. This sequel's alternate English title is Return of the Master Killer.",
+      "icon": "boombox",
       "byline": null,
       "source": {
         "type": "web",
-        "url": "https://en.wikipedia.org/wiki/Return_to_the_36th_Chamber"
+        "url": "https://en.wikipedia.org/wiki/The_36th_Chamber_of_Shaolin"
       }
     },
     {
-      "t": 900,
+      "t": 3425,
       "rank": 2,
       "anchor": "spread",
-      "text": "Director Lau Kar-leung also choreographed all three 36th Chamber films. His father Lau Cham trained under a student of folk hero Wong Fei-hung.",
-      "icon": "camera",
-      "byline": null,
-      "source": {
-        "type": "web",
-        "url": "https://www.arrowfilms.com/blog/features/inside-the-36th-chamber-re-visiting-shaw-brothers-timeless-trilogy/"
-      }
-    },
-    {
-      "t": 1350,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Gordon Liu is the adopted brother of the film's director, Lau Kar-leung. He took the Liu surname out of respect for his teacher, Hung Gar master Lau Cham.",
-      "icon": "star",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 1800,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "The film was released in Hong Kong on August 24, 1980. Screenwriter Ni Kuang wrote it, and Mona Fong and Run Run Shaw produced it.",
-      "icon": "reel",
-      "byline": null,
-      "source": {
-        "type": "web",
-        "url": "https://en.wikipedia.org/wiki/Return_to_the_36th_Chamber"
-      }
-    },
-    {
-      "t": 2250,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Gordon Liu later played two roles in the Kill Bill films: Johnny Mo and the white-haired master Pai Mei.",
+      "text": "The first film's hero San Te was loosely based on a real 17th-century martial artist. His famous invention of the three-section staff is pure movie fiction.",
       "icon": "link",
       "byline": null,
       "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2700,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Hou Hsiao trained in Chinese opera and says Yuen Wah deserves the title of best acrobat from those schools, not him.",
-      "icon": "knuckles",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 3150,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Kwon Yeong-moon, who appears here, later taught tae kwon do to Sylvester Stallone and Muhammad Ali. He also starred in the cult film Miami Connection.",
-      "icon": "knuckles",
-      "byline": null,
-      "source": {
-        "type": "imdb"
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_36th_Chamber_of_Shaolin"
       }
     },
     {
       "t": 3600,
       "rank": 2,
       "anchor": "spread",
-      "text": "Instead of kung fu lessons, our hero is ordered to build bamboo scaffolding, and that labor teaches him the skills. Critics love the idea.",
+      "text": "Director Lau Kar-leung avoided wirework and trampolines, saying: 'My only aim in making a film is to exalt the martial arts.'",
       "icon": "knuckles",
+      "byline": "Lau Kar-leung — Director",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lau_Kar-leung"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Behind-the-scenes footage from this film appears in Citizen Shaw (1980), a rare documentary about the Shaw Brothers studio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://asianactioncinema.co.uk/?p=2259"
+      }
+    },
+    {
+      "t": 4125,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shaw Brothers wasn't only kung fu. The studio also invested in Western productions including Blade Runner and Meteor.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Shaw_Brothers_Studio"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hsiao Ho, who plays Ah Chao, said in a 2004 interview that he doesn't watch his old movies, except for Mad Monkey Kung Fu.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0369136"
+    },
+    {
+      "t": 4475,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This sequel is much lighter in tone than the 1978 original, which disappointed some fans. Reviewers still praise its martial arts choreography.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://asianactioncinema.co.uk/shawscope-volume-2-disc-2-blu-ray-review"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung later choreographed Jackie Chan's Drunken Master II (1994). They clashed over fighting style, and he left before the final fight was shot.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lau_Kar-leung"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4825,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One reviewer calls the third film, Disciples of the 36th Chamber (1985), the weakest of the trilogy. They still note top-notch martial arts and acrobatics.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://asianactioncinema.co.uk/shawscope-volume-2-disc-2-blu-ray-review"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gordon Liu was born a different surname. Out of respect for his master Cham Lau, whose Hung Gar school trained him, he took the surname Liu (Lau in Cantonese).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5175,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Ni Kuang's son, Joe Nieh, is married to Hong Kong actress Vivian Chow. Ni Kuang also wrote the Wisely sci-fi novels, which became films and TV shows.",
+      "icon": "sunglasses",
+      "byline": "Ni Kuang — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ni_Kuang"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Eddie Wang's 'twangy' hero theme for this film is singled out by critics as one of its musical highlights.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/shawscope-collection-volume-2-blu-ray-collection-review"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kara Hui (Hsiao Hung) returned to acting in 2005 after a long career lull. She went on to win three Hong Kong Film Award Best Actress prizes and a Bronze Bauhinia Star in 2018.",
+      "icon": "trophy",
+      "byline": "Kara Hui",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kara_Hui"
+      }
+    },
+    {
+      "t": 5650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The real monk San Te is played here by Lee King-chue, not by Gordon Liu, who played him in the original 1978 film.",
+      "icon": "link",
       "byline": null,
       "source": {
         "type": "web",
@@ -111,48 +399,15 @@
       }
     },
     {
-      "t": 4000,
+      "t": 5820,
       "rank": 3,
       "anchor": "spread",
-      "text": "Lung-Wei Wang, who plays the boss, usually played villains. He was also in Five Deadly Venoms.",
-      "icon": "star",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 4400,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "The trilogy ended with Disciples of the 36th Chamber in 1985, the same year Shaw Brothers stopped making films.",
-      "icon": "link",
+      "text": "One reviewer says this film is 'perhaps overlooked because of the comedy.' He still calls it a formidable piece of entertainment that is its own creation, not a remake of the first film.",
+      "icon": "reel",
       "byline": null,
       "source": {
         "type": "web",
-        "url": "https://www.arrowfilms.com/blog/features/inside-the-36th-chamber-re-visiting-shaw-brothers-timeless-trilogy/"
-      }
-    },
-    {
-      "t": 4800,
-      "rank": 3,
-      "anchor": "spread",
-      "text": "Gordon Liu started as a stuntman, then became a martial arts instructor. Fans picture him as the Kung-Fu Monk, and he's often a bald monk.",
-      "icon": "star",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 5300,
-      "rank": 3,
-      "anchor": "spread",
-      "text": "Lau Kar-leung only wrote four screenplays, all for films he directed. This wasn't one of them. Ni Kuang wrote it.",
-      "icon": "camera",
-      "byline": null,
-      "source": {
-        "type": "imdb"
+        "url": "https://fareastfilms.com/review/return-to-the-36th-chamber/"
       }
     }
   ]
