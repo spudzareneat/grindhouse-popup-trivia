@@ -18,15 +18,17 @@ const SEARCH_Q = 'query MainSearch($term: String!) { mainSearch(first: 20, optio
 // unfiltered, IMDb returns dozens of "Edited into"/"Featured in" clip-show rows first.
 const CONNECTION_CATEGORIES = ['references', 'referenced_in', 'spoofs', 'spoofed_in', 'remake_of', 'remade_as', 'follows', 'followed_by', 'version_of', 'features'];
 
+// Page sizes are generous on purpose: famous titles have hundreds of trivia/goof items and the
+// model picks the best ones; an obscure title just returns what it has.
 const BUNDLE_Q = 'query GHBundle($id: ID!){ title(id:$id){ id titleText{ text } releaseYear{ year } titleType{ id isSeries isEpisode } runtime{ seconds } plot{ plotText{ plainText } } '
-    + 'trivia(first: 50){ edges{ node{ text{ plainText } } } } '
-    + 'goofs(first: 20){ edges{ node{ text{ plainText } category{ text } } } } '
-    + 'quotes(first: 10){ edges{ node{ lines{ characters{ character } text } } } } '
-    + `connections(first: 40, filter: { categories: ${JSON.stringify(CONNECTION_CATEGORIES)} }){ edges{ node{ category{ text } associatedTitle{ id titleText{ text } releaseYear{ year } } } } } `
-    + 'alternateVersions(first: 10){ edges{ node{ text{ plainText } } } } '
+    + 'trivia(first: 250){ edges{ node{ text{ plainText } } } } '
+    + 'goofs(first: 150){ edges{ node{ text{ plainText } category{ text } } } } '
+    + 'quotes(first: 40){ edges{ node{ lines{ characters{ character } text } } } } '
+    + `connections(first: 60, filter: { categories: ${JSON.stringify(CONNECTION_CATEGORIES)} }){ edges{ node{ category{ text } associatedTitle{ id titleText{ text } releaseYear{ year } } } } } `
+    + 'alternateVersions(first: 20){ edges{ node{ text{ plainText } } } } '
     + 'crazyCredits(first: 5){ edges{ node{ text{ plainText } } } } '
-    + 'soundtrack(first: 10){ edges{ node{ text comments{ plainText } } } } '
-    + 'filmingLocations(first: 10){ edges{ node{ text } } } '
+    + 'soundtrack(first: 30){ edges{ node{ text comments{ plainText } } } } '
+    + 'filmingLocations(first: 25){ edges{ node{ text } } } '
     + 'cast: credits(first: 5, filter: { categories: ["cast"] }){ edges{ node{ name{ id nameText{ text } } ... on Cast { characters{ name } } } } } '
     + 'directors: credits(first: 2, filter: { categories: ["director"] }){ edges{ node{ name{ id nameText{ text } } } } } } }';
 

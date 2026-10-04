@@ -1,5 +1,5 @@
-import { buildPrompt } from './prompt.js';
-import { MODEL_OUTPUT_SCHEMA, MIN_FACTS } from './schema.js';
+import { buildPrompt, buildTopUpPrompt, targetFactCount, maxFactCount } from './prompt.js';
+import { MODEL_OUTPUT_SCHEMA, MIN_FACTS, WEB_SHARE } from './schema.js';
 import { validateFacts, buildDoc } from './validate.js';
 import { findTotals } from './driveintotals.js';
 import { hasDoc, writeDoc } from './publish.js';
@@ -8,6 +8,7 @@ export class UsageLimitError extends Error {}
 export class PublishError extends Error {}
 
 const soft = async (p) => { try { return await p; } catch { return null; } };
+const webCount = facts => facts.filter(f => f.source.type === 'web' || f.source.type === 'interview').length;
 
 async function resolveTconst(item, imdb) {
     if (item.tconst) return item.tconst;
@@ -34,7 +35,10 @@ export async function processMovie(item, deps) {
         soft(tmdb.fetchExtras(tconst)),
     ]);
     const totals = findTotals(totalsRows, bundle.title, bundle.year) ?? (item.title ? findTotals(totalsRows, item.title, item.year ?? null) : null);
-    const prompt = buildPrompt({ imdb: bundle, wikidata, wikipedia, totals, tmdb: tmdbExtras });
+    const material = { imdb: bundle, wikidata, wikipedia, totals, tmdb: tmdbExtras };
+    const prompt = buildPrompt(material);
+    const target = targetFactCount(bundle.runtimeSec);
+    const cap = maxFactCount(bundle.runtimeSec);
     const peopleImages = Object.fromEntries((bundle.people || []).map(p => [p.nconst, p.image || null]));
     log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${totals ? 'yes' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}`);
 
@@ -45,13 +49,30 @@ export async function processMovie(item, deps) {
         if (r.usageLimited) throw Object.assign(new UsageLimitError(r.error || 'usage limit'), { authError: !!r.authError });
         if (!r.ok) { lastError = r.error; log(`  attempt ${attempt} failed: ${r.error}`); continue; }
         lastError = null;
-        const v = validateFacts(r.facts, bundle.runtimeSec, peopleImages);
+        const v = validateFacts(r.facts, bundle.runtimeSec, peopleImages, cap);
         log(`  attempt ${attempt}: ${r.facts.length} facts from model, ${v.facts.length} kept, dropped ${JSON.stringify(v.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}${r.numTurns != null ? `, ${r.numTurns} turns` : ''}`);
         if (v.facts.length > best.facts.length) best = v;
         if (v.facts.length >= MIN_FACTS) break;
     }
     if (best.facts.length < MIN_FACTS) {
         return { status: 'failed', title: label, tconst, reason: lastError || `only ${best.facts.length} valid facts` };
+    }
+
+    // Top-up: one more pass when the film came back thin or leaning on IMDb trivia viewers have seen.
+    // Best effort -- a failure here keeps what we have; a usage limit publishes it, then stops the run.
+    let stopForUsage = null;
+    const web = webCount(best.facts);
+    if (best.facts.length < cap && (best.facts.length < target || web < best.facts.length * WEB_SHARE)) {
+        const need = Math.max(8, target - best.facts.length, Math.ceil(best.facts.length * WEB_SHARE) - web);
+        log(`  top-up: ${best.facts.length} facts (${web} web), asking for ${need} more`);
+        const r = await runClaude(buildTopUpPrompt(material, best.facts, need), { model, schema: MODEL_OUTPUT_SCHEMA });
+        if (r.usageLimited) stopForUsage = r;
+        else if (!r.ok) log(`  top-up failed: ${r.error}`);
+        else {
+            const merged = validateFacts([...best.facts, ...r.facts], bundle.runtimeSec, peopleImages, cap);
+            log(`  top-up: ${r.facts.length} facts from model, now ${merged.facts.length} (${webCount(merged.facts)} web), dropped ${JSON.stringify(merged.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}${r.numTurns != null ? `, ${r.numTurns} turns` : ''}`);
+            if (merged.facts.length > best.facts.length) best = merged;
+        }
     }
 
     const doc = buildDoc({ imdbId: tconst, title: bundle.title, year: bundle.year, runtimeSec: bundle.runtimeSec, facts: best.facts, generatedAt: now() });
@@ -63,7 +84,12 @@ export async function processMovie(item, deps) {
             throw new PublishError(e.message);
         }
     }
-    return { status: 'done', title: label, tconst, kept: best.facts.length, dropped: best.dropped };
+    const done = { status: 'done', title: label, tconst, kept: best.facts.length, dropped: best.dropped };
+    if (stopForUsage) {
+        const what = stopForUsage.authError ? 'Claude auth failed' : 'usage limit';
+        return { ...done, stop: 'usage', reason: `${what} during top-up — published what we had, run stopped` };
+    }
+    return done;
 }
 
 export async function runWeekend(deps, { fetchWeekend, delayMs, sleep }) {
@@ -101,6 +127,7 @@ export async function runWeekend(deps, { fetchWeekend, delayMs, sleep }) {
         }
         results.push(r);
         deps.log(`  -> ${r.status}${r.reason ? `: ${r.reason}` : ''}`);
+        if (r.stop) break;
         if (r.status === 'done' && i < movies.length - 1) await sleep(delayMs);
     }
     deps.log(summarize(results));

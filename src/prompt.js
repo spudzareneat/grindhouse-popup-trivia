@@ -1,4 +1,4 @@
-import { ICON_KEYS, MAX_TEXT, MIN_T, MIN_GAP, END_MARGIN } from './schema.js';
+import { ICON_KEYS, MAX_TEXT, MIN_T, MIN_GAP, END_MARGIN, MAX_DENSITY } from './schema.js';
 
 const ICON_HINTS = {
     skull: 'death, gore, horror', tombstone: 'deaths, final films, lost films', reel: 'general film history (default)',
@@ -17,11 +17,18 @@ export function targetFactCount(runtimeSec) {
     return Math.max(15, Math.round(runtimeSec / 150));
 }
 
+// The ceiling: one bubble a minute. Extra facts past this are trimmed by rank.
+export function maxFactCount(runtimeSec) {
+    if (!runtimeSec) return 90;
+    return Math.max(targetFactCount(runtimeSec), Math.floor((runtimeSec - MIN_T - END_MARGIN) / MAX_DENSITY));
+}
+
 const section = (name, items) => items && items.length ? `\n### ${name}\n${items.map(s => `- ${s}`).join('\n')}\n` : '';
 
 export function buildPrompt({ imdb, wikidata, wikipedia, totals, tmdb }) {
     const rt = imdb.runtimeSec;
     const n = targetFactCount(rt);
+    const max = maxFactCount(rt);
     const people = (imdb.people || []).map(p =>
         `${p.name} [${p.nconst}] (${p.role === 'director' ? 'director' : `plays ${p.character || 'unknown role'}`})`
         + (p.knownFor?.length ? `; also known for ${p.knownFor.join(', ')}` : '')
@@ -32,7 +39,7 @@ export function buildPrompt({ imdb, wikidata, wikipedia, totals, tmdb }) {
     return `You are writing VH1 "Pop-up Video" style trivia bubbles for a late-night grindhouse movie stream.
 The movie: ${imdb.title} (${imdb.year}) — IMDb ${imdb.tconst}. Runtime: ${rt ? `${rt} seconds` : 'unknown (assume about 5400 seconds)'}.
 ${imdb.plot ? `Plot: ${imdb.plot}\n` : ''}
-Your job: short, surprising, fun facts that pop up while people watch. Find as many good, sourced facts as you can — there is no upper limit; more is better (they'll pop up more often). Aim for at least ${n} (fewer is fine if that's all you can source).
+Your job: short, surprising, fun facts that pop up while people watch. Find as many good, sourced facts as you can — there is no upper limit; more is better (they'll pop up more often). Aim for at least ${n}, and up to ${max} (about one a minute) for a film with that much good material; fewer is fine if that's all you can source.
 
 ## Research
 Use the gathered material below FIRST, then use WebSearch/WebFetch to find more, especially for obscure films.
@@ -80,6 +87,18 @@ on another bubble for context.
 - Before returning, reread each bubble as if it were the only one a viewer ever sees, and fix any bare surname,
   unexplained pronoun, or unexplained "the director" / "the studio".
 
+## What earns a bubble
+Every bubble is about this film, or ties it to something viewers know.
+- Great: how it was made, cast and crew stories from this production, money, censorship, reception then vs. now, what it
+  inspired or who referenced it, and shout-outs to famous work by its people ("Star Adam West also played Batman in 120
+  episodes of the 1966 TV series"). Studio or franchise history is good when it frames this film (the studio's big hits,
+  the series it belongs to).
+- Spread it around: at most 3 bubbles about any one person's life or career outside this film, and at most 3 about
+  studio, franchise or genre history. Lead with their best-known work, not their lifetime awards.
+- Skip: what's on a DVD/Blu-ray (extras, audio tracks, which disc set it's in), bare credit lists ("the score was by X,
+  the cinematographer was Y") with nothing surprising attached, running time, and history two steps removed from the film
+  (a martial-arts lineage, folklore, a studio's founding years) unless it pays off with a link back to this movie.
+
 ## Joe Bob Briggs' Drive-In Totals
 ${totals
         ? `Split this into 2–4 bubbles that start with "Drive-In Totals:" (icon joebob, byline "Joe Bob Briggs", source driveintotals), spread across the movie.
@@ -90,5 +109,24 @@ TOTALS: ${totals}`
 ## Gathered material
 ${section('IMDb trivia', imdb.trivia)}${section('IMDb goofs', imdb.goofs)}${section('Quotes', imdb.quotes)}${section('Connections to other movies', imdb.connections)}${section('Alternate versions / cuts', imdb.alternateVersions)}${section('Crazy credits', imdb.crazyCredits)}${section('Soundtrack', imdb.soundtrack)}${section('Filming locations', imdb.filmingLocations)}${section('People', people)}${section('Wikidata', wd)}${section('TMDB', tm)}
 ${wikipedia ? `### Wikipedia article (source type "wikipedia")\n${wikipedia}\n` : ''}
+Return only the JSON object with a "facts" array.`;
+}
+
+// Second pass for a film that came back thin or IMDb-heavy: same material, plus the
+// bubbles we already have, asking only for new ones (merged and re-validated by the caller).
+export function buildTopUpPrompt(material, existing, need) {
+    const have = existing.map(f => `- [t=${f.t}, ${f.source.type}] ${f.text}`).join('\n');
+    return `${buildPrompt(material).replace(/\nReturn only the JSON object with a "facts" array\.$/, '')}
+## Top-up pass: NEW bubbles only
+These ${existing.length} bubbles are already written for this film:
+${have}
+
+Return ONLY new facts — at least ${need} — that say something these don't (no restating, no rewording).
+Most of them should come from fresh web research (source web/interview with url): do at least 5 searches, and dig into the
+sources listed above that you haven't used. Gathered material the list above doesn't cover yet is fine too.
+Place spread facts in the biggest gaps between the existing t values.
+"What earns a bubble" counts the bubbles above too: don't add a 4th bubble about the same person or topic. If you run out
+of good material, return fewer than ${need} — filler is worse than a gap.
+
 Return only the JSON object with a "facts" array.`;
 }
