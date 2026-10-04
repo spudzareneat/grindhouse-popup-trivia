@@ -36,7 +36,10 @@ async function main() {
         imdb: makeImdb(),
         wiki: makeWiki(),
         tmdb: makeTmdb(process.env.TMDB_API_KEY || ''),
-        subtitles: makeSubtitles({ apiKey: process.env.OPENSUBTITLES_API_KEY, username: process.env.OPENSUBTITLES_USERNAME, password: process.env.OPENSUBTITLES_PASSWORD }),
+        subtitles: process.env.OPENSUBTITLES_API_KEY ? makeSubtitles({
+            apiKey: process.env.OPENSUBTITLES_API_KEY, username: process.env.OPENSUBTITLES_USERNAME, password: process.env.OPENSUBTITLES_PASSWORD,
+            cacheDir: path.join(repoDir, '.cache', 'subtitles'),
+        }) : null,
         totalsRows: await fetchTotals().catch(e => { log(`Drive-In Totals unavailable: ${e.message}`); return []; }),
         runClaude: (prompt, opts) => runClaude(prompt, { ...opts, timeoutMs }),
         model: process.env.CLAUDE_MODEL || 'sonnet',
