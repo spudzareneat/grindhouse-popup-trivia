@@ -8,6 +8,9 @@ import { makeGit, writeDoc } from '../src/publish.js';
 
 const fact = (t, text) => ({ t, rank: 1, anchor: 'spread', text, icon: 'reel', source: { type: 'imdb' } });
 const FIVE = [fact(100, 'a'), fact(300, 'b'), fact(500, 'c'), fact(700, 'd'), fact(900, 'e')];
+// Tests about run flow don't care about the top-up pass: it answers with nothing new.
+const isTopUp = prompt => /Top-up pass/.test(prompt);
+const skipTopUp = fn => async (prompt, opts) => isTopUp(prompt) ? { ok: true, usageLimited: false, facts: [] } : fn(prompt, opts);
 
 function makeDeps(over = {}) {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), 'gpt-test-'));
@@ -90,7 +93,7 @@ test('runWeekend: pulls, processes in order, sleeps between done movies, stops o
     const sleeps = [];
     const { deps } = makeDeps({
         git: { pull() { pulled++; }, push() {}, commitAndPush() { return true; } },
-        runClaude: async () => (++n === 2 ? { ok: false, usageLimited: true, error: 'limit' } : { ok: true, usageLimited: false, facts: FIVE }),
+        runClaude: skipTopUp(async () => (++n === 2 ? { ok: false, usageLimited: true, error: 'limit' } : { ok: true, usageLimited: false, facts: FIVE })),
         imdb: { ...makeDeps().deps.imdb, searchTitle: async (title) => ({ tconst: `tt${title.length}${title.charCodeAt(0)}`, title, year: 1962 }) },
     });
     const results = await runWeekend(deps, {
@@ -121,7 +124,7 @@ test('runWeekend: pulls then pushes (stranded commits / read-only key) before th
     const order = [];
     const { deps } = makeDeps({
         git: { pull() { order.push('pull'); }, push() { order.push('push'); }, commitAndPush() { order.push('commit'); return true; } },
-        runClaude: async () => { order.push('claude'); return { ok: true, usageLimited: false, facts: FIVE }; },
+        runClaude: skipTopUp(async () => { order.push('claude'); return { ok: true, usageLimited: false, facts: FIVE }; }),
         imdb: distinctImdb(),
     });
     await runWeekend(deps, { fetchWeekend: async () => ({ postTitle: 'S', movies: [{ title: 'Aa', year: 1962 }] }), ...noSleep });
@@ -140,7 +143,7 @@ test('runWeekend: a failed commitAndPush stops the run, next movie not processed
     let claude = 0;
     const { deps } = makeDeps({
         git: { pull() {}, push() {}, commitAndPush() { throw new Error('push rejected'); } },
-        runClaude: async () => { claude++; return { ok: true, usageLimited: false, facts: FIVE }; },
+        runClaude: skipTopUp(async () => { claude++; return { ok: true, usageLimited: false, facts: FIVE }; }),
         imdb: distinctImdb(),
     });
     const results = await runWeekend(deps, { fetchWeekend: async () => THREE_MOVIES, ...noSleep });
@@ -206,4 +209,61 @@ test('makeGit: retry failure runs rebase --abort (errors ignored) and rethrows',
     };
     assert.throws(() => makeGit('/r', { exec }).commitAndPush('/r/data/x.json', 'msg'), /conflict/);
     assert.deepEqual(cmds, ['add -- /r/data/x.json', 'commit -m msg -- /r/data/x.json', 'push', 'pull --rebase --autostash', 'rebase --abort']);
+});
+
+const webFact = (t, text) => ({ ...fact(t, text), source: { type: 'web', url: 'https://example.com/' + text } });
+
+test('processMovie: thin result gets a top-up pass listing existing bubbles; new facts merged', async () => {
+    const prompts = [];
+    const { deps } = makeDeps({
+        runClaude: async (prompt) => {
+            prompts.push(prompt);
+            return { ok: true, usageLimited: false, facts: isTopUp(prompt) ? [webFact(1500, 'new one'), fact(100, 'a')] : FIVE };
+        },
+    });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(prompts.length, 2);
+    assert.match(prompts[1], /These 5 bubbles are already written/);
+    assert.match(prompts[1], /\[t=100, imdb\] a/);
+    assert.match(prompts[1], /at least 26/);   // target 31 for 4680s minus the 5 we have
+    assert.equal(prompts[1].match(/Return only the JSON object/g).length, 1);
+    assert.equal(r.kept, 6);                    // duplicate 'a' dropped, 'new one' added
+    const doc = JSON.parse(fs.readFileSync(path.join(deps.dataDir, 'tt0055830.json'), 'utf8'));
+    assert.ok(doc.facts.some(f => f.text === 'new one' && f.source.url));
+});
+test('processMovie: no top-up when the film already has enough facts with enough web ones', async () => {
+    let calls = 0;
+    const many = Array.from({ length: 40 }, (_, i) => (i % 2 ? webFact : fact)(100 + i * 100, `f${i}`));
+    const { deps } = makeDeps({ runClaude: async () => { calls++; return { ok: true, usageLimited: false, facts: many }; } });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(calls, 1);
+    assert.equal(r.kept, 40);
+});
+test('processMovie: top-up failure keeps the first pass; usage limit publishes then stops the run', async () => {
+    const { deps } = makeDeps({ runClaude: async p => isTopUp(p) ? { ok: false, usageLimited: false, error: 'timed out' } : { ok: true, usageLimited: false, facts: FIVE } });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.status, 'done');
+    assert.equal(r.kept, 5);
+    assert.equal(r.stop, undefined);
+
+    let n = 0;
+    const { deps: d2, commits } = makeDeps({
+        imdb: distinctImdb(),
+        runClaude: async p => { n++; return isTopUp(p) ? { ok: false, usageLimited: true, error: 'limit' } : { ok: true, usageLimited: false, facts: FIVE }; },
+    });
+    const results = await runWeekend(d2, { fetchWeekend: async () => THREE_MOVIES, ...noSleep });
+    assert.equal(n, 2);
+    assert.equal(commits.length, 1);
+    assert.equal(results.length, 1);
+    assert.equal(results[0].status, 'done');
+    assert.equal(results[0].stop, 'usage');
+    assert.match(summarize(results), /1 done, 0 skipped, 0 failed/);
+});
+test('processMovie: facts capped at one per minute of runtime, best rank kept', async () => {
+    const lots = Array.from({ length: 120 }, (_, i) => ({ ...webFact(60 + i * 37, `x${i}`), rank: i < 20 ? 1 : 3 }));
+    const { deps } = makeDeps({ runClaude: async () => ({ ok: true, usageLimited: false, facts: lots }) });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.kept, 76);                   // floor((4680 - 60 - 30) / 60)
+    const doc = JSON.parse(fs.readFileSync(path.join(deps.dataDir, 'tt0055830.json'), 'utf8'));
+    assert.equal(doc.facts.filter(f => f.rank === 1).length, 20);
 });

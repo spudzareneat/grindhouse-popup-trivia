@@ -5,7 +5,8 @@ import { SCHEMA_VERSION, ICON_KEYS, SOURCE_TYPES, URL_REQUIRED, MAX_TEXT, MIN_T,
 // peopleImages: { nconst: headshotUrl|null } for the people WE fetched from IMDb --
 // a fact's `person` tag is only kept for someone in this map, and its `image` URL
 // always comes from here, never from the model.
-export function validateFacts(rawFacts, runtimeSec, peopleImages = {}) {
+// maxFacts: keep at most this many, best rank first (scene-anchored before spread on a tie).
+export function validateFacts(rawFacts, runtimeSec, peopleImages = {}, maxFacts = Infinity) {
     const dropped = {};
     const drop = reason => { dropped[reason] = (dropped[reason] || 0) + 1; };
     const maxT = runtimeSec ? runtimeSec - END_MARGIN : Infinity;
@@ -37,19 +38,28 @@ export function validateFacts(rawFacts, runtimeSec, peopleImages = {}) {
         });
     }
 
-    kept.sort((a, b) => a.t - b.t || a.rank - b.rank);
-    const facts = [];
     const seenText = new Set();
-    for (const f of kept) {
+    let unique = kept.filter(f => {
         const key = f.text.toLowerCase();
-        if (seenText.has(key)) { drop('duplicate'); continue; }
+        if (seenText.has(key)) { drop('duplicate'); return false; }
+        seenText.add(key);
+        return true;
+    });
+    if (unique.length > maxFacts) {
+        const best = new Set(unique.slice().sort((a, b) => a.rank - b.rank || (a.anchor === 'scene' ? 0 : 1) - (b.anchor === 'scene' ? 0 : 1)).slice(0, maxFacts));
+        dropped['over-cap'] = unique.length - maxFacts;
+        unique = unique.filter(f => best.has(f));
+    }
+
+    unique.sort((a, b) => a.t - b.t || a.rank - b.rank);
+    const facts = [];
+    for (const f of unique) {
         const prev = facts[facts.length - 1];
         if (prev && f.t - prev.t < MIN_GAP) {
             const shifted = prev.t + MIN_GAP;
             if (shifted > maxT) { drop('no-room'); continue; }
             f.t = shifted;
         }
-        seenText.add(key);
         facts.push(f);
     }
     return { facts, dropped };

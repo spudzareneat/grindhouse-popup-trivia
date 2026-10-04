@@ -63,7 +63,7 @@ async function main() {
             deps.git.push();
             const r = await processMovie(item, deps);
             log(`${r.status}${r.reason ? `: ${r.reason}` : ''}${r.kept ? ` — ${r.kept} facts` : ''}`);
-            process.exitCode = r.status === 'failed' ? 1 : 0;
+            process.exitCode = r.stop === 'usage' ? 2 : r.status === 'failed' ? 1 : 0;
         } catch (e) {
             if (e instanceof UsageLimitError) { log(`${e.authError ? 'Claude auth failed' : 'usage limit'}: ${e.message}`); process.exitCode = 2; }
             else if (e instanceof PublishError) { log(`git push failed: ${e.message}`); process.exitCode = 3; }

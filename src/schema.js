@@ -18,6 +18,8 @@ export const MIN_T = 60;       // no fact in the first minute
 export const MIN_GAP = 45;     // seconds between consecutive facts
 export const END_MARGIN = 30;  // latest fact = runtime - END_MARGIN
 export const MIN_FACTS = 5;    // fewer than this after a retry = movie fails
+export const MAX_DENSITY = 60; // at most one fact per this many seconds of runtime
+export const WEB_SHARE = 0.3;  // below this share of web/interview facts, a top-up pass digs for more
 
 // Passed to `claude -p --json-schema`. Kept to plain JSON Schema (type/enum/required)
 // -- validateFacts() is the real gate, this just steers the model's output shape.
