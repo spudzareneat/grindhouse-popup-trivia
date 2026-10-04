@@ -3,8 +3,10 @@ import assert from 'node:assert/strict';
 import { EventEmitter } from 'node:events';
 import { PassThrough } from 'node:stream';
 import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
 import { buildPrompt, targetFactCount } from '../src/prompt.js';
-import { buildClaudeArgs, parseClaudeResult, runClaude } from '../src/claude.js';
+import { buildClaudeArgs, parseClaudeResult, runClaude, callLeftovers, pruneClaudeState } from '../src/claude.js';
 import { MODEL_OUTPUT_SCHEMA, SOURCE_TYPES } from '../src/schema.js';
 
 const BUNDLE = { tconst: 'tt0055830', title: 'Carnival of Souls', year: 1962, runtimeSec: 4680, plot: 'P', trivia: ['T1'], goofs: [], quotes: [], connections: ['Referenced in: Night of the Living Dead (1968)'], alternateVersions: [], crazyCredits: [], soundtrack: [], filmingLocations: ['Saltair'], people: [{ name: 'Herk Harvey', role: 'director', character: null, trivia: ['HT'], knownFor: [] }] };
@@ -37,8 +39,8 @@ test('buildClaudeArgs restricts tools to web only, no MCP, JSON schema output', 
     assert.ok(a.includes('--no-session-persistence'));
 });
 test('parseClaudeResult: structured_output success', () => {
-    const r = parseClaudeResult(JSON.stringify({ type: 'result', subtype: 'success', is_error: false, result: '', structured_output: { facts: [{ t: 1 }] }, total_cost_usd: 0.5, num_turns: 7 }));
-    assert.deepEqual(r, { ok: true, usageLimited: false, facts: [{ t: 1 }], costUsd: 0.5, numTurns: 7 });
+    const r = parseClaudeResult(JSON.stringify({ type: 'result', subtype: 'success', is_error: false, result: '', structured_output: { facts: [{ t: 1 }] }, total_cost_usd: 0.5, num_turns: 7, session_id: 's1' }));
+    assert.deepEqual(r, { ok: true, usageLimited: false, facts: [{ t: 1 }], costUsd: 0.5, numTurns: 7, sessionId: 's1' });
 });
 test('parseClaudeResult: falls back to JSON in result text', () => {
     assert.equal(parseClaudeResult(JSON.stringify({ subtype: 'success', is_error: false, result: '{"facts":[]}' })).ok, true);
@@ -183,4 +185,27 @@ test('buildPrompt requires every bubble to stand alone (full names + roles, self
     for (const s of ['Every bubble stands alone', 'Never a bare surname', 'director Fred Dekker', 'Characters are characters', 'Say why it matters', "Don't copy gathered trivia verbatim", 'reread each bubble']) {
         assert.ok(p.includes(s), `prompt missing: ${s}`);
     }
+});
+
+test('runClaude: removes the per-call CLI leftovers (projects/<cwd>, session-env/<id>, file-history/<id>)', async () => {
+    let cwd;
+    const removed = [];
+    const { impl } = fakeSpawn(JSON.stringify({ subtype: 'success', is_error: false, session_id: 'abc-123', structured_output: { facts: [] } }));
+    await runClaude('P', { model: 'sonnet', schema: {}, configDir: '/cfg', rmImpl: p => removed.push(p),
+        spawnImpl: (b, a, o) => { cwd = o.cwd; return impl(b, a, o); } });
+    assert.deepEqual(removed, [cwd, ...callLeftovers('/cfg', cwd, 'abc-123')]);
+    assert.ok(removed[1].endsWith(cwd.replace(/[^a-zA-Z0-9]/g, '-')));
+    assert.ok(removed.some(p => p.endsWith(path.join('session-env', 'abc-123'))));
+});
+test('callLeftovers ignores a session id that could escape the config dir', () => {
+    assert.equal(callLeftovers('/cfg', '/tmp/gpt-x', '../../etc').length, 1);
+    assert.equal(callLeftovers('/cfg', '/tmp/gpt-x', null).length, 1);
+});
+test('pruneClaudeState clears only the scratch folders under the config dir', () => {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), 'gpt-prune-'));
+    for (const d of ['projects/x', 'session-env/y', 'debug', 'plugins', 'skills']) fs.mkdirSync(path.join(root, d), { recursive: true });
+    fs.writeFileSync(path.join(root, '.credentials.json'), '{}');
+    pruneClaudeState(root);
+    assert.deepEqual(fs.readdirSync(root).sort(), ['.credentials.json', 'plugins', 'skills']);
+    fs.rmSync(root, { recursive: true, force: true });
 });

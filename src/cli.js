@@ -3,7 +3,8 @@
 //   node src/cli.js run [--dry-run] [--force]
 //   node src/cli.js movie <tt1234567 | "Title"> [--year 1962] [--dry-run] [--force]
 // Env: DATA_REPO_DIR (git checkout to write data/ into; default cwd), CLAUDE_MODEL (default "sonnet"),
-//      TMDB_API_KEY (optional), MOVIE_DELAY_SEC (default 60), CLAUDE_TIMEOUT_MIN (default 30).
+//      TMDB_API_KEY (optional), MOVIE_DELAY_SEC (default 60), CLAUDE_TIMEOUT_MIN (default 30),
+//      PRUNE_CLAUDE_STATE=1 (container only: clear the Claude CLI's scratch folders after each run).
 import path from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { fetchWeekendMovies } from './schedule.js';
@@ -11,7 +12,7 @@ import { makeImdb } from './imdb.js';
 import { makeWiki } from './wiki.js';
 import { makeTmdb } from './tmdb.js';
 import { fetchTotals } from './driveintotals.js';
-import { runClaude } from './claude.js';
+import { runClaude, pruneClaudeState } from './claude.js';
 import { makeGit } from './publish.js';
 import { processMovie, runWeekend, UsageLimitError, PublishError } from './pipeline.js';
 import { parseArgs, USAGE } from './args.js';
@@ -72,4 +73,6 @@ async function main() {
     }
 }
 
-main().catch(e => { console.error(e.stack || e); process.exitCode = 1; });
+main().catch(e => { console.error(e.stack || e); process.exitCode = 1; })
+    // Container only: the CLI's scratch state would otherwise grow in the container layer forever.
+    .finally(() => { if (process.env.PRUNE_CLAUDE_STATE === '1') pruneClaudeState(); });

@@ -5,6 +5,12 @@ services:
     # Built locally from this repo -- never pull it from a registry (Portainer "re-pull" would fail).
     pull_policy: build
     restart: unless-stopped
+    # Cap the container log (every run logs a few hundred lines; the default driver never rotates).
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: "3"
     # Values come from the shell / a .env file next to this file (plain docker compose)
     # or from the stack's "Environment variables" (Portainer) -- no env_file needed.
     environment:
