@@ -10,6 +10,17 @@ export class PublishError extends Error {}
 const soft = async (p) => { try { return await p; } catch { return null; } };
 const webCount = facts => facts.filter(f => f.source.type === 'web' || f.source.type === 'interview').length;
 
+// Subtitles from a different cut would put every scene fact at the wrong moment: dialogue that runs
+// past the film's end, or stops well short of it, means the file doesn't match -- don't use it.
+export function usableTranscript(subs, runtimeSec, log = () => {}) {
+    if (!subs?.text) return null;
+    if (runtimeSec && (subs.lastCueSec > runtimeSec + 120 || subs.lastCueSec < runtimeSec * 0.6)) {
+        log(`  subtitles ignored: last line at ${subs.lastCueSec}s vs runtime ${runtimeSec}s (different cut?)`);
+        return null;
+    }
+    return subs;
+}
+
 async function resolveTconst(item, imdb) {
     if (item.tconst) return item.tconst;
     for (const title of [item.title, ...(item.akas || [])]) {
@@ -20,7 +31,7 @@ async function resolveTconst(item, imdb) {
 }
 
 export async function processMovie(item, deps) {
-    const { imdb, wiki, tmdb, totalsRows, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
+    const { imdb, wiki, tmdb, subtitles, totalsRows, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
     const label = item.title ? `${item.title}${item.year ? ` (${item.year})` : ''}` : item.tconst;
     const tconst = await resolveTconst(item, imdb);
     if (!tconst) return { status: 'failed', title: label, reason: 'not found on IMDb' };
@@ -30,17 +41,20 @@ export async function processMovie(item, deps) {
     if (bundle.isSeries || bundle.isEpisode) return { status: 'skipped', title: label, tconst, reason: 'TV series/episode' };
 
     const wikidata = await soft(wiki.fetchWikidata(tconst));
-    const [wikipedia, tmdbExtras] = await Promise.all([
+    const [wikipedia, tmdbExtras, related, subs] = await Promise.all([
         wikidata?.wikipediaTitle ? soft(wiki.fetchWikipediaExtract(wikidata.wikipediaTitle)) : null,
         soft(tmdb.fetchExtras(tconst)),
+        soft(wiki.fetchRelatedArticles(wikidata?.qid, (bundle.people || []).map(p => p.nconst))),
+        subtitles ? soft(subtitles.fetchTranscript(tconst)) : null,
     ]);
+    const transcript = usableTranscript(subs, bundle.runtimeSec, log);
     const totals = findTotals(totalsRows, bundle.title, bundle.year) ?? (item.title ? findTotals(totalsRows, item.title, item.year ?? null) : null);
-    const material = { imdb: bundle, wikidata, wikipedia, totals, tmdb: tmdbExtras };
+    const material = { imdb: bundle, wikidata, wikipedia, related, transcript, totals, tmdb: tmdbExtras };
     const prompt = buildPrompt(material);
     const target = targetFactCount(bundle.runtimeSec);
     const cap = maxFactCount(bundle.runtimeSec);
     const peopleImages = Object.fromEntries((bundle.people || []).map(p => [p.nconst, p.image || null]));
-    log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${totals ? 'yes' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}`);
+    log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${totals ? 'yes' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}, related pages: ${related?.length ?? 0}, subtitles: ${transcript ? `${transcript.cues} cues` : 'no'}`);
 
     let best = { facts: [], dropped: {} };
     let lastError = null;

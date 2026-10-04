@@ -209,3 +209,15 @@ test('pruneClaudeState clears only the scratch folders under the config dir', ()
     assert.deepEqual(fs.readdirSync(root).sort(), ['.credentials.json', 'plugins', 'skills']);
     fs.rmSync(root, { recursive: true, force: true });
 });
+
+test('buildPrompt: transcript adds the timing rule and the [m:ss] section; absent otherwise', () => {
+    const base = { imdb: BUNDLE, wikidata: null, wikipedia: null, totals: null, tmdb: null };
+    const p = buildPrompt({ ...base, transcript: { text: '[1:05] They\'re coming to get you, Barbara!' } });
+    assert.ok(p.includes('### Dialogue transcript'));
+    assert.ok(p.includes('[1:05] They\'re coming to get you'));
+    assert.ok(p.includes('anchor "scene". Place every fact you can'));
+    assert.ok(p.trimEnd().endsWith('Return only the JSON object with a "facts" array.'));
+    const q = buildPrompt(base);
+    assert.ok(!q.includes('Dialogue transcript'));
+    assert.ok(!q.includes('Place every fact you can'));
+});
