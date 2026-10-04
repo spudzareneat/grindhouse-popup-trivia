@@ -111,7 +111,7 @@ export async function processMovie(item, deps) {
     const done = { status: 'done', title: label, tconst, kept: best.facts.length, dropped: best.dropped };
     if (stopForUsage) {
         const what = stopForUsage.authError ? 'Claude auth failed' : 'usage limit';
-        return { ...done, stop: 'usage', reason: `${what} during top-up — published what we had, run stopped` };
+        return { ...done, stop: 'usage', reason: `${what} during top-up (${(stopForUsage.error || "").slice(0, 160)}) — published what we had, run stopped` };
     }
     return done;
 }
