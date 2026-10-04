@@ -39,6 +39,15 @@ test('parseSchedule + flattenMovies: days, akas, typo paren, yearless, dedupe', 
         ['Mystery Film', null, 'Saturday'],
     ]);
     assert.deepEqual(movies[1].akas, ['Alligator: The Bite']);
+    assert.ok(movies.every(m => Number.isInteger(m.block)));
+});
+test('flattenMovies: block is the section index within its night; a repeat keeps the earliest', () => {
+    const it = title => ({ title, year: '1980', akas: [] });
+    const movies = flattenMovies([
+        { day: 'Friday', sections: [{ name: 'A', items: [it('One')] }, { name: 'B', items: [it('Two')] }, { name: 'C', items: [it('Three')] }] },
+        { day: 'Saturday', sections: [{ name: 'D', items: [it('Three')] }] },
+    ]);
+    assert.deepEqual(movies.map(m => [m.title, m.block]), [['One', 0], ['Two', 1], ['Three', 0]]);
 });
 test('fetchWeekendMovies uses a browser UA and returns post title + movies', async () => {
     let seenUa = null;

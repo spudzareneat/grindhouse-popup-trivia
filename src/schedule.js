@@ -110,15 +110,17 @@ export function parseSchedule(contentHtml) {
 }
 
 // One entry per distinct (title, year) across the whole weekend, in schedule order.
+// block: the section's position within its night (0 = first block); a film shown twice keeps its earliest.
 export function flattenMovies(days) {
-    const seen = new Set();
+    const seen = new Map();
     const out = [];
-    for (const d of days) for (const s of d.sections) for (const it of s.items) {
+    for (const d of days) d.sections.forEach((s, block) => { for (const it of s.items) {
         const key = `${it.title.toLowerCase()}|${it.year ?? ''}`;
-        if (seen.has(key)) continue;
-        seen.add(key);
-        out.push({ title: it.title, year: it.year ? Number(it.year) : null, akas: it.akas, day: d.day, section: s.name });
-    }
+        if (seen.has(key)) { const m = seen.get(key); m.block = Math.min(m.block, block); continue; }
+        const m = { title: it.title, year: it.year ? Number(it.year) : null, akas: it.akas, day: d.day, section: s.name, block };
+        seen.set(key, m);
+        out.push(m);
+    } });
     return out;
 }
 

@@ -21,6 +21,14 @@ export function usableTranscript(subs, runtimeSec, log = () => {}) {
     return subs;
 }
 
+export const SUBTITLE_BLOCKS = 2;
+function subsNote(subtitles, wanted, transcript) {
+    if (!subtitles) return 'off';
+    if (!wanted) return 'skipped (late block)';
+    if (transcript) return `${transcript.cues} cues${transcript.cached ? ', cached' : ''}`;
+    return subtitles.isExhausted?.() ? 'daily quota used up' : 'none';
+}
+
 async function resolveTconst(item, imdb) {
     if (item.tconst) return item.tconst;
     for (const title of [item.title, ...(item.akas || [])]) {
@@ -40,12 +48,14 @@ export async function processMovie(item, deps) {
     const bundle = await imdb.fetchBundle(tconst);
     if (bundle.isSeries || bundle.isEpisode) return { status: 'skipped', title: label, tconst, reason: 'TV series/episode' };
 
+    // Subtitles cost one download from a small daily quota: spend it on the first blocks of each night only.
+    const wantSubs = !!subtitles && (item.block == null || item.block < SUBTITLE_BLOCKS);
     const wikidata = await soft(wiki.fetchWikidata(tconst));
     const [wikipedia, tmdbExtras, related, subs] = await Promise.all([
         wikidata?.wikipediaTitle ? soft(wiki.fetchWikipediaExtract(wikidata.wikipediaTitle)) : null,
         soft(tmdb.fetchExtras(tconst)),
         soft(wiki.fetchRelatedArticles(wikidata?.qid, (bundle.people || []).map(p => p.nconst))),
-        subtitles ? soft(subtitles.fetchTranscript(tconst)) : null,
+        wantSubs ? soft(subtitles.fetchTranscript(tconst)) : null,
     ]);
     const transcript = usableTranscript(subs, bundle.runtimeSec, log);
     const totals = findTotals(totalsRows, bundle.title, bundle.year) ?? (item.title ? findTotals(totalsRows, item.title, item.year ?? null) : null);
@@ -54,7 +64,7 @@ export async function processMovie(item, deps) {
     const target = targetFactCount(bundle.runtimeSec);
     const cap = maxFactCount(bundle.runtimeSec);
     const peopleImages = Object.fromEntries((bundle.people || []).map(p => [p.nconst, p.image || null]));
-    log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${totals ? 'yes' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}, related pages: ${related?.length ?? 0}, subtitles: ${transcript ? `${transcript.cues} cues` : 'no'}`);
+    log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${totals ? 'yes' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}, related pages: ${related?.length ?? 0}, subtitles: ${subsNote(subtitles, wantSubs, transcript)}`);
 
     let best = { facts: [], dropped: {} };
     let lastError = null;
