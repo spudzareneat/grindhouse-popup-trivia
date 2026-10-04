@@ -4,68 +4,50 @@
   "title": "Gargoyles",
   "year": 1972,
   "runtimeSec": 4440,
-  "generatedAt": "2026-10-03T22:49:23.529Z",
+  "generatedAt": "2026-10-04T21:05:04.371Z",
   "facts": [
     {
       "t": 90,
-      "rank": 2,
+      "rank": 1,
       "anchor": "scene",
-      "text": "The opening narration is by Vic Perrin, who also secretly voices the head gargoyle. He's uncredited for the creature voice.",
+      "text": "The opening narration is by Vic Perrin, uncredited. He was also \"The Control Voice\" of The Outer Limits, and he voices the lead gargoyle here too.",
       "icon": "mic",
       "byline": "Vic Perrin",
       "source": {
-        "type": "imdb"
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Vic_Perrin"
       }
+    },
+    {
+      "t": 140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Bill L. Norton came to Gargoyles after his debut feature Cisco Pike (1971). He later directed More American Graffiti (1979) and episodes of Buffy the Vampire Slayer and Angel.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bill_L._Norton"
+      },
+      "person": "nm0636165"
     },
     {
       "t": 200,
       "rank": 1,
       "anchor": "spread",
-      "text": "The whole movie was shot in just 18 days with a single camera. The first director reportedly quit because he thought that schedule was impossible.",
-      "icon": "camera",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 330,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "This was Stan Winston's first professional job. He and his wife sculpted the background gargoyle masks at their dining room table in two weeks, she rolling the clay scale balls.",
-      "icon": "star",
+      "text": "Gargoyles was the first film job for makeup artist Stan Winston, fresh out of Disney's apprenticeship. He later won four Oscars for Aliens, Jurassic Park and Terminator 2.",
+      "icon": "trophy",
       "byline": "Stan Winston",
       "source": {
-        "type": "imdb"
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Stan_Winston"
       }
     },
     {
-      "t": 478,
-      "rank": 3,
-      "anchor": "scene",
-      "text": "Watch the back seat of the station wagon: the knee of the sound man is visible behind Cornel Wilde's head.",
-      "icon": "camera",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 600,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Grayson Hall decided her character should hold a drink in every scene she appears in.",
-      "icon": "star",
-      "byline": "Grayson Hall",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 760,
+      "t": 300,
       "rank": 1,
       "anchor": "spread",
-      "text": "Winston threatened to quit unless the gargoyle makers got screen credit. They did, and only credited artists were Emmy-eligible. The film won the 1973 Emmy for makeup.",
+      "text": "Winston threatened to quit unless makeup artists got screen credit. He got it, and the credit let him share the 1973 Emmy for Outstanding Achievement in Makeup.",
       "icon": "trophy",
       "byline": "Stan Winston",
       "source": {
@@ -73,10 +55,21 @@
       }
     },
     {
-      "t": 900,
+      "t": 400,
       "rank": 2,
       "anchor": "spread",
-      "text": "The gargoyle suits were neoprene wetsuits covered in fishnet and bits of rubber. Temperatures on set often topped 100F.",
+      "text": "Winston sculpted the background gargoyle masks at his dining room table in two weeks. His wife Karen rolled the clay balls that became the scales.",
+      "icon": "camera",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 478,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Goof: in this car ride to Uncle Willie's, the knee of a sound man is visible in the back seat behind Dr. Boley (Cornel Wilde).",
       "icon": "camera",
       "byline": null,
       "source": {
@@ -84,10 +77,340 @@
       }
     },
     {
-      "t": 1050,
+      "t": 580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The whole movie was shot with a single camera in just 18 days. A previous director reportedly turned the job down as impossible, so Bill L. Norton stepped in.",
+      "icon": "camera",
+      "byline": "Bill L. Norton — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
       "rank": 2,
       "anchor": "spread",
-      "text": "The hotel in the film was a real abandoned hotel near Carlsbad, New Mexico. It was actually burned down for the movie.",
+      "text": "Temperatures in Carlsbad, New Mexico often topped 100°F (38°C) during the shoot, while the gargoyle actors wore neoprene wetsuits covered in fishnet and rubber bits.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grayson Hall (Mrs. Parks, and Dark Shadows' Dr. Julia Hoffman) came up with the idea of holding a drink in every scene she appears in.",
+      "icon": "star",
+      "byline": "Grayson Hall",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0355621",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIwOTEwODI2OV5BMl5BanBnXkFtZTcwOTY2NTcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grayson Hall's husband, Sam Hall, became a Dark Shadows writer after producer Dan Curtis met him at a party at the couple's home. She was already on the show at the time.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0355621",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIwOTEwODI2OV5BMl5BanBnXkFtZTcwOTY2NTcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grayson Hall was Oscar-nominated for The Night of the Iguana (1964). On Dark Shadows she was meant to be killed off within weeks, but was so good she stayed for the whole run.",
+      "icon": "star",
+      "byline": "Grayson Hall",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0355621",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIwOTEwODI2OV5BMl5BanBnXkFtZTcwOTY2NTcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bernie Casey, the lead gargoyle, played for the 49ers and Rams. He was also a serious painter with a fine arts master's, and Stan Winston owned several of his paintings.",
+      "icon": "star",
+      "byline": "Bernie Casey",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0143378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNjc0NTQyM15BMl5BanBnXkFtZTcwMjk3MTI0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Casey's own voice was swapped out in post-production. It didn't suit the head gargoyle, so Vic Perrin dubbed him.",
+      "icon": "mic",
+      "byline": "Bernie Casey",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0143378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNjc0NTQyM15BMl5BanBnXkFtZTcwMjk3MTI0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1176,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Goof: as the shed collapses on Uncle Willie, a crew member or the director gets knocked down in the lower right corner and scrambles out of frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The burned-out building was a real abandoned motel, the Cactus Motel on US 62 near Carlsbad, NM. Its ruins were later registered as an archaeological site with the state.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.roadsideamerica.com/tip/4596"
+      }
+    },
+    {
+      "t": 1379,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: as the Boleys flee in the station wagon, a gargoyle smashes the driver's window, yet the gargoyle beside the headlights vanishes when they back up.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The gargoyle action was slowed down on purpose to give the creatures an unnatural, jerky look. One reviewer called it \"arty jerky-slow-motion photography.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2019/02/19/gargoyles-1972/"
+      }
+    },
+    {
+      "t": 1540,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One reviewer figured most of the budget went into the monsters: the gargoyle costumes get plenty of screen time, while the script, direction and acting got short shrift.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2019/02/19/gargoyles-1972/"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jennifer Salt (Diana Boley) is the daughter of Midnight Cowboy screenwriter Waldo Salt, and she played Crazy Annie in that film. She later produced American Horror Story.",
+      "icon": "star",
+      "byline": "Jennifer Salt",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jennifer_Salt"
+      },
+      "person": "nm0759022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTk3Mzc2N15BMl5BanBnXkFtZTcwODM3OTM3Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Salt reunited with director Brian De Palma the same year for Sisters (1972). She also roomed with Margot Kidder and partied with young Spielberg and Scorsese.",
+      "icon": "star",
+      "byline": "Jennifer Salt",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0759022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTk3Mzc2N15BMl5BanBnXkFtZTcwODM3OTM3Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Cornel Wilde (Dr. Mercer Boley) was on the 1936 U.S. Olympic fencing team and was Oscar-nominated for playing Chopin in A Song to Remember (1945).",
+      "icon": "star",
+      "byline": "Cornel Wilde",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Cornel_Wilde"
+      },
+      "person": "nm0664273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2NDQ0OTQ4MF5BMl5BanBnXkFtZTcwODUyNjgyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wilde directed as well as acted, including the survival classic The Naked Prey (1965). Gargoyles was the only made-for-TV movie he ever starred in.",
+      "icon": "star",
+      "byline": "Cornel Wilde",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0664273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2NDQ0OTQ4MF5BMl5BanBnXkFtZTcwODUyNjgyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gargoyles was produced by Tomorrow Entertainment for CBS, with Roger Gimbel as executive producer. Cinematographer Earl Rath shot it around Carlsbad, Carlsbad Caverns and Laredo, Texas.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Gargoyles_(film)"
+      }
+    },
+    {
+      "t": 2080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wilde spoke six languages, and his role as Tybalt in a 1940 Broadway Romeo and Juliet with Laurence Olivier and Vivien Leigh led to his Warner Bros. contract.",
+      "icon": "star",
+      "byline": "Cornel Wilde",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0664273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2NDQ0OTQ4MF5BMl5BanBnXkFtZTcwODUyNjgyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scott Glenn plays biker James Reeger. He went on to The Right Stuff, Silence of the Lambs and The Hunt for Red October, and was a Kenosha, Wisconsin newspaper reporter before acting.",
+      "icon": "star",
+      "byline": "Scott Glenn",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001277",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3NzAwMzE1OF5BMl5BanBnXkFtZTYwMjkzOTY0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriters Stephen and Elinor Karpf also wrote the TV movie The Jayne Mansfield Story and the horror film Devil Dog: The Hound from Hell, so killer creatures were a recurring theme.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/07/03/cbs-late-movie-month-gargoyles-1972/"
+      }
+    },
+    {
+      "t": 2346,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: around here the cameraman's shadow falls across a tree.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Winston wasn't even supposed to apply the lead gargoyle makeup. He got that job because of friction between Bernie Casey and designer Ellis \"Sonny\" Burman Jr.",
+      "icon": "camera",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sonny Burman, who designed the lead gargoyle, was the son of a monster-mask sculptor who worked on Universal's Frankenstein and Wolf Man films. He later won an Emmy for Star Trek: DS9.",
+      "icon": "trophy",
+      "byline": "Ellis Burman Jr.",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ellis_Burman_Jr."
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vic Perrin, the gargoyle leader's voice, also voiced the Metron in Star Trek's 'Arena' and Nomad in 'The Changeling', and uncredited narrated Spartacus (1960) and One Million Years B.C.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Vic_Perrin"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Many cars are listed in the continuity goofs: the cops' car chasing the dirt bikes flips between a Chevy Impala and a Ford LTD.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bernie Casey, the lead gargoyle, later became the first Black actor to play James Bond's CIA ally Felix Leiter, in Never Say Never Again (1983).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0143378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNjc0NTQyM15BMl5BanBnXkFtZTcwMjk3MTI0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Uncle Willie says the Native American name for the creatures is \"nakatekachinko\", and the dance that summons them is \"nonataya\".",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A stuntman who plays one of the bikers also suited up as one of the gargoyles.",
       "icon": "explosion",
       "byline": null,
       "source": {
@@ -95,10 +418,10 @@
       }
     },
     {
-      "t": 1176,
+      "t": 3000,
       "rank": 2,
-      "anchor": "scene",
-      "text": "As the shed collapses on Uncle Willie, look at the lower right: a crew member gets knocked to the floor and scrambles out of frame.",
+      "anchor": "spread",
+      "text": "Before Gargoyles, Stan Winston was working in Disney's mailroom. His mentor Bob Schiffer recommended him to makeup supervisor Del Armstrong, and that call landed his first professional job.",
       "icon": "camera",
       "byline": null,
       "source": {
@@ -106,142 +429,34 @@
       }
     },
     {
-      "t": 1379,
-      "rank": 3,
-      "anchor": "scene",
-      "text": "Continuity check: the wagon's window is down as the Boleys flee, then a gargoyle smashes the driver's side glass.",
-      "icon": "reel",
+      "t": 3060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A reviewer noted the lead gargoyle gets increasingly interested in the human Diana, calling it \"interspecies erotica\", which is unusual for early-70s network TV.",
+      "icon": "censor",
       "byline": null,
       "source": {
-        "type": "imdb"
+        "type": "web",
+        "url": "https://musingsofamiddleagedgeek.blog/2024/11/27/retro-musings-1972s-gargoyles-is-a-cheesy-tv-movie-showcasing-some-creative-creature-effects"
       }
     },
     {
-      "t": 1500,
+      "t": 3180,
       "rank": 1,
       "anchor": "spread",
-      "text": "Uncle Willie says the Native American name for the gargoyle is 'nakatekachinko', and the dance that summons them is 'nonataya'.",
+      "text": "Gargoyles aired on CBS on November 21, 1972. It was written by Stephen and Elinor Karpf and repeated on the CBS Late Movie in 1973 and twice in 1975.",
       "icon": "reel",
       "byline": null,
       "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 1650,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Bernie Casey's voice was replaced by Vic Perrin's in post-production because his natural voice didn't suit the head gargoyle.",
-      "icon": "mic",
-      "byline": "Bernie Casey",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 1800,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Bernie Casey played for the 49ers and Rams, and was also a painter and poet. Winston owned several of his paintings.",
-      "icon": "star",
-      "byline": "Bernie Casey",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 1950,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "The gargoyles' running and moving shots were slowed down to give them an unnatural, jerky quality.",
-      "icon": "camera",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2150,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Jennifer Salt is the daughter of Midnight Cowboy screenwriter Waldo Salt. She appeared in that film too, as Crazy Annie.",
-      "icon": "star",
-      "byline": "Jennifer Salt",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2346,
-      "rank": 3,
-      "anchor": "scene",
-      "text": "Around the 39-minute mark, the cameraman's shadow can be seen on a tree.",
-      "icon": "camera",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2500,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Grayson Hall was Oscar-nominated for The Night of the Iguana. She was also Dr. Julia Hoffman on Dark Shadows, a role planned to last just a few weeks.",
-      "icon": "star",
-      "byline": "Grayson Hall",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2700,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Scott Glenn, here a biker, later starred in The Right Stuff and The Silence of the Lambs. He worked as a newspaper reporter before acting.",
-      "icon": "star",
-      "byline": "Scott Glenn",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 2900,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Cornel Wilde was picked for the 1936 US Olympic fencing team but turned it down to pursue acting. This is his only TV movie lead.",
-      "icon": "star",
-      "byline": "Cornel Wilde",
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 3100,
-      "rank": 3,
-      "anchor": "spread",
-      "text": "One of the stuntmen playing a biker also plays one of the gargoyles.",
-      "icon": "knuckles",
-      "byline": null,
-      "source": {
-        "type": "imdb"
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/07/03/cbs-late-movie-month-gargoyles-1972/"
       }
     },
     {
       "t": 3300,
       "rank": 2,
       "anchor": "spread",
-      "text": "The credits name Ellis Burman and Stan Winston as creators of the gargoyle make-up. Winston later did Terminator, Aliens, Predator and Jurassic Park.",
-      "icon": "robot",
-      "byline": null,
-      "source": {
-        "type": "imdb"
-      }
-    },
-    {
-      "t": 3500,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "On the DVD cover Winston's name is most prominent. He admitted feeling embarrassed, since Sonny Burman and Del Armstrong deserved the credit more.",
+      "text": "Winston later called the Gargoyles credit pushback part of his ego: he asked for a title card again on The Bat People (1974). He said it helped raise the status of makeup artists.",
       "icon": "mic",
       "byline": "Stan Winston",
       "source": {
@@ -249,10 +464,21 @@
       }
     },
     {
-      "t": 3650,
-      "rank": 3,
+      "t": 3420,
+      "rank": 2,
       "anchor": "spread",
-      "text": "William Stevens, who plays the police chief, also played Officer Jerry Walters on the TV series Adam-12.",
+      "text": "Winston said he was embarrassed when the DVD cover billed it as a \"Stan Winston\" film. He felt Sonny Burman and makeup supervisor Del Armstrong deserved more credit.",
+      "icon": "mic",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actor William Stevens, the police chief here, is also known for playing Officer Jerry Walters on the TV series Adam-12.",
       "icon": "star",
       "byline": null,
       "source": {
@@ -260,22 +486,10 @@
       }
     },
     {
-      "t": 3800,
+      "t": 3660,
       "rank": 2,
       "anchor": "spread",
-      "text": "The film was written by Stephen and Elinor Karpf and aired on CBS on November 21, 1972, opposite ABC and NBC programming.",
-      "icon": "reel",
-      "byline": null,
-      "source": {
-        "type": "web",
-        "url": "https://bandsaboutmovies.com/2017/08/10/week-of-made-for-tv-movies-gargoyles-1972/"
-      }
-    },
-    {
-      "t": 3950,
-      "rank": 3,
-      "anchor": "spread",
-      "text": "Gargoyles is referenced in Jeepers Creepers (2001), and director Bill Norton later made Convoy (1978) and a Buffy the Vampire Slayer episode.",
+      "text": "Gargoyles is name-checked in the horror film Jeepers Creepers (2001), and in Stan Winston tribute documentaries.",
       "icon": "link",
       "byline": null,
       "source": {
@@ -283,23 +497,56 @@
       }
     },
     {
-      "t": 4150,
+      "t": 3780,
       "rank": 3,
       "anchor": "spread",
-      "text": "A reviewer noted the creature design has a Sid and Marty Krofft flavor, especially in the cave birthing scenes.",
-      "icon": "reel",
+      "text": "Of the ten actors billed in the end titles, five die in the film.",
+      "icon": "skull",
       "byline": null,
       "source": {
-        "type": "web",
-        "url": "https://dailydead.com/it-came-from-the-tube-gargoyles-1972/"
+        "type": "imdb"
       }
     },
     {
-      "t": 4350,
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The DVD runs 74 minutes: the European theatrical cut, slightly longer than the original US TV broadcast.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4020,
       "rank": 3,
       "anchor": "spread",
-      "text": "The DVD version is a 74-minute European theatrical cut, slightly longer than the original US TV broadcast.",
-      "icon": "censor",
+      "text": "Vic Perrin also voiced Dr. Zin in Jonny Quest and the original narration of Epcot's Spaceship Earth.",
+      "icon": "mic",
+      "byline": "Vic Perrin",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Vic_Perrin"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The rolling end credits include \"Creators of Gargoyle Make-Up: Ellis Burman & Stan Winston,\" the credit Winston fought for.",
+      "icon": "trophy",
+      "byline": "Stan Winston",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: a cable can be seen holding up a gargoyle as it flies in the finale.",
+      "icon": "explosion",
       "byline": null,
       "source": {
         "type": "imdb"
