@@ -11,6 +11,28 @@ const AUTH_RE = /invalid api key|authentication|unauthorized|oauth token|please 
 // Auth failures stop the run like a usage limit: every later movie would fail the same way.
 const authFailure = (msg) => ({ ok: false, usageLimited: true, authError: true, error: `Claude auth failed: ${msg.slice(0, 280)}` });
 
+// The CLI leaves per-call state behind even with --no-session-persistence: a projects/<cwd> folder
+// (our cwd is a fresh temp dir every call, so one new folder per call), session-env/<id> and
+// file-history/<id>. In a long-lived container that piles up forever, so each call removes its own.
+export const claudeConfigDir = () => process.env.CLAUDE_CONFIG_DIR || path.join(os.homedir(), '.claude');
+const projectDirName = cwd => cwd.replace(/[^a-zA-Z0-9]/g, '-');
+export function callLeftovers(configDir, cwd, sessionId) {
+    const out = [path.join(configDir, 'projects', projectDirName(cwd))];
+    if (sessionId && /^[\w-]+$/.test(sessionId)) {
+        out.push(path.join(configDir, 'session-env', sessionId), path.join(configDir, 'file-history', sessionId));
+    }
+    return out;
+}
+
+// Container-only (PRUNE_CLAUDE_STATE=1): after a whole run, clear the CLI's other scratch folders.
+// Never run this on a dev machine -- these folders hold your own interactive sessions.
+export const PRUNE_DIRS = ['projects', 'session-env', 'file-history', 'shell-snapshots', 'debug', 'todos', 'paste-cache', 'statsig', 'telemetry', 'backups'];
+export function pruneClaudeState(configDir = claudeConfigDir(), rmImpl = fs.rmSync) {
+    for (const d of PRUNE_DIRS) {
+        try { rmImpl(path.join(configDir, d), { recursive: true, force: true }); } catch { /* best effort */ }
+    }
+}
+
 export function buildClaudeArgs({ model, schema }) {
     return [
         '-p',
@@ -41,10 +63,10 @@ export function parseClaudeResult(stdout, stderr = '') {
         if (USAGE_LIMIT_RE.test(text)) return { ok: false, usageLimited: true, error: text.slice(0, 300) };
         return { ok: false, usageLimited: false, error: 'no facts in output' };
     }
-    return { ok: true, usageLimited: false, facts: out.facts, costUsd: j.total_cost_usd ?? null, numTurns: j.num_turns ?? null };
+    return { ok: true, usageLimited: false, facts: out.facts, costUsd: j.total_cost_usd ?? null, numTurns: j.num_turns ?? null, sessionId: j.session_id ?? null };
 }
 
-export function runClaude(prompt, { model, schema, timeoutMs = 30 * 60 * 1000, killGraceMs = 5000, rmImpl = fs.rmSync, bin = 'claude', spawnImpl = spawn } = {}) {
+export function runClaude(prompt, { model, schema, timeoutMs = 30 * 60 * 1000, killGraceMs = 5000, rmImpl = fs.rmSync, bin = 'claude', spawnImpl = spawn, configDir = claudeConfigDir() } = {}) {
     return new Promise(resolve => {
         const cwd = fs.mkdtempSync(path.join(os.tmpdir(), 'gpt-'));
         let settled = false, timer = null, graceTimer = null;
@@ -54,7 +76,9 @@ export function runClaude(prompt, { model, schema, timeoutMs = 30 * 60 * 1000, k
             clearTimeout(timer);
             resolve(r);
             // best-effort: on Windows the CLI's children can briefly hold the cwd (EBUSY); a leftover empty dir is harmless
-            try { rmImpl(cwd, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 }); } catch { /* ignore */ }
+            for (const dir of [cwd, ...callLeftovers(configDir, cwd, r.sessionId)]) {
+                try { rmImpl(dir, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 }); } catch { /* ignore */ }
+            }
         };
         let out = '', err = '';
         let child;

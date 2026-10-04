@@ -22,6 +22,6 @@ COPY docker ./docker
 RUN chmod +x docker/entrypoint.sh
 
 USER node
-ENV DATA_REPO_DIR=/work HOME=/home/node DISABLE_AUTOUPDATER=1
+ENV DATA_REPO_DIR=/work HOME=/home/node DISABLE_AUTOUPDATER=1 PRUNE_CLAUDE_STATE=1
 ENTRYPOINT ["/app/docker/entrypoint.sh"]
 CMD ["cron"]
