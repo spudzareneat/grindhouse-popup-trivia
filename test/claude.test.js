@@ -177,3 +177,10 @@ test('buildPrompt lists people with their IMDb id and explains the person tag', 
     assert.ok(p.includes('Herk Harvey [nm0367547]'));
     assert.ok(p.includes('set person to their IMDb id'));
 });
+
+test('buildPrompt requires every bubble to stand alone (full names + roles, self-check)', () => {
+    const p = buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: null, tmdb: null });
+    for (const s of ['Every bubble stands alone', 'Never a bare surname', 'director Fred Dekker', 'Characters are characters', 'Say why it matters', "Don't copy gathered trivia verbatim", 'reread each bubble']) {
+        assert.ok(p.includes(s), `prompt missing: ${s}`);
+    }
+});
