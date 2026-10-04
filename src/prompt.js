@@ -66,6 +66,20 @@ ${ICON_KEYS.map(k => `  ${k} — ${ICON_HINTS[k]}`).join('\n')}
   (the nm… in square brackets) — their headshot is shown instead of the icon. Leave it out for anything else.
 - No duplicates; don't restate the same fact twice in different words.
 
+## Every bubble stands alone
+Viewers see one bubble at a time, often out of order (people join late and get missed bubbles later), so never rely
+on another bubble for context.
+- Name people fully, with their role, in every bubble: "director Fred Dekker", "star Tom Atkins", "Jason Lively (Chris)".
+  Never a bare surname, and never "he", "she", "they" or "the director" without the name. Use the roles and characters
+  from the People list.
+- Characters are characters: write "Tom Atkins' character, Detective Ray Cameron", not just "Cameron".
+- Say why it matters: if a person isn't widely known, frame the fact around what makes it fun (e.g. "The girl in the
+  opening, Leslie Ryan, turned down a date with director Fred Dekker"), or leave the name out if it adds nothing.
+- Don't copy gathered trivia verbatim: IMDb trivia assumes the reader already knows the film. Rewrite it so a stranger
+  gets it. Stay within the length limit by dropping a minor detail, never the context.
+- Before returning, reread each bubble as if it were the only one a viewer ever sees, and fix any bare surname,
+  unexplained pronoun, or unexplained "the director" / "the studio".
+
 ## Joe Bob Briggs' Drive-In Totals
 ${totals
         ? `Split this into 2–4 bubbles that start with "Drive-In Totals:" (icon joebob, byline "Joe Bob Briggs", source driveintotals), spread across the movie.
