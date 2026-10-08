@@ -1,0 +1,560 @@
+{
+  "schema": 1,
+  "imdbId": "tt0090094",
+  "title": "The Stuff",
+  "year": 1985,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-10-08T10:12:27.053Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The movie's Georgia quarry opening is credited to a real quarry: the Ferrante Bros. Quarry in Bernardsville, New Jersey, listed among the film's shooting locations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Twenty nine dead bodies. Two fist fights. One motor vehicle chase. One brawl. Ground-seepage goo tasting. And Drive-In Academy Awards for Michael Moriarty and Paul Sorvino.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Larry Cohen stretched a budget of about $1.7 million into this movie. In 1983 the Hollywood Reporter had listed it, as \"Stuff!\", with a $10 million budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Larry Cohen encouraged star Michael Moriarty to improvise, and Moriarty's jazzy, ad-libbed one-liners became the film's signature. Cohen likened his method to jazz: change things as you go.",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://physicalimpossibility.com/2014/03/12/larry-cohen-on-the-stuff-1985/"
+      }
+    },
+    {
+      "t": 485,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jason and his bullying older brother are played by real-life brothers Scott and Brian Bloom. Brian later played Pike in the 2010 film version of The A-Team.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0089231",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4NDg3Nzk3Ml5BMl5BanBnXkFtZTcwODY5NTk5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The day The Stuff opened in New York, a hurricane hit and newspapers weren't delivered. Director Larry Cohen says nobody got to read the great reviews.",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Clara Peller, famous for Wendy's 1984 \"Where's the Beef?\" ads, appears in a parody commercial in this film asking \"Where's the Stuff?\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Monologuist and actor Eric Bogosian (Talk Radio) has an uncredited bit part as one of the grocery clerks.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 925,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "An unseasonable blizzard hit the location shoot, so director Larry Cohen simply wrote the snow into the movie. The lights weren't built for snow and exploded, though nobody was hurt.",
+      "icon": "camera",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://physicalimpossibility.com/2014/03/12/larry-cohen-on-the-stuff-1985/"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Larry Cohen said he got the idea from endless product recalls in the news and our daily junk food habit: an imaginary dessert that millions gobble up while it harms them.",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Drive-In Totals: One rabid junkie dog. Bureaucrat devoured by a canine.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 1335,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Georgia is played by New York's Hudson Valley, between Kingston and New Paltz. Every license plate you see in the movie is from New York State.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1395,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Garrett Morris' 'Chocolate Chip' Charlie is modeled on Wally 'Famous' Amos, who built a chocolate chip cookie empire.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0606541",
+      "image": "https://m.media-amazon.com/images/M/MV5BODg0NDI1MDM4OF5BMl5BanBnXkFtZTcwNjc3NTIwNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1465,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Larry Cohen wanted rising star Arsenio Hall as Chocolate Chip Charlie. New World Pictures wanted someone better known and cast SNL original Garrett Morris.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Asked about working with Larry Cohen in an A.V. Club interview, Garrett Morris said if you have nothing nice to say, say nothing, and added nothing more.",
+      "icon": "mic",
+      "byline": "Garrett Morris",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The in-movie Stuff commercials are stuffed with cameos: Abe Vigoda (The Godfather, Barney Miller), Brooke Adams, Laurene Landon, Tammy Grimes and Jason Evers all pitch the dessert.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Stuff"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The FBI contact Moriarty's character names, Special Agent Frank Herbert, shares a name with the author of the sci-fi novel Dune.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "For some chase scenes, director Larry Cohen used foam made from blended fish bones. It stank so badly the actors ran to a river to wash after shooting.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2065,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Nightline segment about missing families uses real footage of ABC's news show Nightline, which is credited as a feature in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2155,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Michael Moriarty once stopped a 1971 Houston stage performance mid-show, told the audience he was too tired, and walked off. He's also a jazz pianist.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0605363",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyNTI2MzA3MF5BMl5BanBnXkFtZTYwNTA5NjM3._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Larry Cohen was a guerrilla filmmaker: he reportedly slipped money to security guards to shoot in places like New York's Chrysler Building.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/why-larry-cohens-the-stuff-is-a-work-of-scruffy-80s-genius/"
+      }
+    },
+    {
+      "t": 2360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Besides upstate New York, the shoot used the Riverdale neighborhood of the Bronx, a cement factory in Cementon, the town of Accord, and a few days in New Jersey.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/58378"
+      }
+    },
+    {
+      "t": 2470,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Drive-In Totals: Shaving cream fu. Kung fu. One sucker punch. Food tossing. Gratuitous bikini models. Infected attack bed.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stand-ins for the Stuff included Häagen-Dazs ice cream, yogurt, Tofutti and whipped cream, plus fire-extinguisher foam for the giant wave that bursts through a wall.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Future Oscar winner Mira Sorvino debuts as a factory worker. She was visiting her father, star Paul Sorvino (Colonel Spears), on set, so he and director Larry Cohen stuck her in front of the camera.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Stuff"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Stuff turns up as a movie playing at the Starcourt Mall in Stranger Things season 3, another story about compulsive consumption turning people into mindless zombies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2956,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The motel room where the Stuff attacks was built to rotate upside down. Director Larry Cohen says it's the same room used in A Nightmare on Elm Street for Johnny Depp's bed scene.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3020,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "For the motel scene, director Larry Cohen borrowed the rotating-room trick from the Fred Astaire musical Royal Wedding. Crew clung to the outside of the set to spin it upside down.",
+      "icon": "camera",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://physicalimpossibility.com/2014/03/12/larry-cohen-on-the-stuff-1985/"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Larry Cohen's first cut ran about 30 minutes longer. New World Pictures wanted it faster, so he cut commercials and a romance scene. That long cut resurfaced on Arrow's 2025 release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Larry Cohen says New World Pictures wanted a gory horror film and got a satire. He feels selling it as horror hurt it, and it flopped on release.",
+      "icon": "money",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Larry Cohen said the film takes cigarettes and alcohol to an extreme, noting tobacco companies probably killed more people than all the wars combined.",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/why-larry-cohens-the-stuff-is-a-work-of-scruffy-80s-genius/"
+      }
+    },
+    {
+      "t": 3525,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Stuff is one of Harry Potter star Rupert Grint's favorite films.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On VHS, rental stores got a promo of an inflatable tub of the Stuff with the creature oozing out, made to hang from the ceiling.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Colonel Spears' castle headquarters is the gatehouse of the Mohonk Mountain House in New Paltz, New York.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3745,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Michael Moriarty and Paul Sorvino (Colonel Spears) later reunited for 31 Law & Order episodes as prosecutor Ben Stone and Sergeant Phil Cerreta. Sorvino's daughter Mira made her debut here.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000649",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNjkyMjk1OV5BMl5BanBnXkFtZTYwNjE1NjQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After flopping in about 30 theaters, The Stuff found its audience on video, where its gross, misleading cover art lured in plenty of 1980s splatter fans.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/stuff"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Exploding heads. Exploding bodies. Multiple exploding buildings. Exploding Garrett Morris. Goo burning. A worker sliced in half by an eighteen-wheeler. Organized child abuse.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's exploding-factory effects led to a lawsuit. Director Larry Cohen paid half the price, and Effects Associates v. Cohen became a landmark US copyright case on written transfers.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Larry Cohen's wife Cynthia Costas Cohen is a psychotherapist and sculptor, while Cohen dictated his scripts into a hand-held tape recorder rather than typing.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eight tons of firefighting foam were used for one sequence. Per director Larry Cohen's team, the foam was made partly from fish bones, which gave it a fetid smell.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/58378"
+      }
+    },
+    {
+      "t": 4340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The radio station is said to be near Atlanta, but its signs read WGHQ and the exterior is WBPM, both in Kingston, New York.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Larry Cohen's longer 118-minute first cut was reportedly one he was begrudgingly forced to trim and rescore for New World Pictures.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/stuff"
+      }
+    },
+    {
+      "t": 4580,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Four models of Garrett Morris' head were built for Charlie's transformation. Director Larry Cohen has claimed he still owns one.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0606541",
+      "image": "https://m.media-amazon.com/images/M/MV5BODg0NDI1MDM4OF5BMl5BanBnXkFtZTcwNjc3NTIwNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Stuff's consumerism-as-horror satire predates John Carpenter's They Live by three years.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/the-stuff-larry-cohen-review-retrospective-anniversary-junk-food-advertising-enough"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Germany cut about 10 seconds for violence to get an 18 rating. In 2016 the cut was waived and the uncut film received a 16 rating.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4830,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The executives' office, stuffed polar bear included, looks uncannily like Mr. Burns' office in The Simpsons, which later referenced the film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Listen for a car horn between the executive's lines \"We tested it. We tested it in a small Illinois town.\" It's a stray street noise left in.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Two and a half stars. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    }
+  ]
+}
