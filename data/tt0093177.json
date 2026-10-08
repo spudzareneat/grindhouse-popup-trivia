@@ -1,0 +1,780 @@
+{
+  "schema": 1,
+  "imdbId": "tt0093177",
+  "title": "Hellraiser",
+  "year": 1987,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-10-08T10:52:57.304Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Clive Barker's first film as director cost about $900,000 to $1 million and grossed around $30 million worldwide.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephen King's quote \"I have seen the future of horror, and his name is Clive Barker\" was plastered on posters and trailers. It helped sell the film before anyone had seen it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 155,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The puzzle box was inspired by a box that director Clive Barker's grandfather brought back from the Far East.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/12-sharp-facts-about-hellraiser"
+      },
+      "person": "nm0000850",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk2MjMyMzU5Nl5BMl5BanBnXkFtZTYwNDQ3MTY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 245,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A face-rebuilding shot was meant to show the Butterball Cenobite, using real eyes and a tongue from a butcher. It was reshot with Pinhead's hand. Actor Simon Bamford only learned this decades later.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's house, 187 Dollis Hill Lane in London, is now split into five flats. Its landlord says being a movie gateway to Hell hasn't hurt its value.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.timeout.com/london/news/london-on-screen-the-house-from-hellraiser-030918"
+      }
+    },
+    {
+      "t": 335,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The working title was \"Sadomasochists from Beyond the Grave.\" Producer Christopher Figg suggested \"Hellraiser\" because it sounded like \"something coming at you.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 395,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The house is a real one at 187 Dollis Hill Lane, London. The budget had no room for sets, so only the attic was rebuilt on a soundstage.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "First-time director Clive Barker went to the library for books on directing. The only two copies were both checked out.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000850",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk2MjMyMzU5Nl5BMl5BanBnXkFtZTYwNDQ3MTY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clare Higgins, who plays Julia, hates horror movies. She left her own premiere after 10 minutes and has never watched the whole film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0383354",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY2NTM1NTY4MV5BMl5BanBnXkFtZTYwNDIzNzc4._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Andrew Robinson, who plays Larry, was also the Scorpio Killer in Dirty Harry (1971) and later Garak on Star Trek: Deep Space Nine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0732367",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDQzMzAzMV5BMl5BanBnXkFtZTgwODYyNzc3MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actor Lance Henriksen was offered Frank but feared sequels and took Near Dark (1987) instead. He later appeared in Hellraiser: Hellworld (2005).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ashley Laurence (Kirsty) was a drama student with no film credits. A fellow student interning at New World Pictures recommended her to director Clive Barker, who fought for her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0491090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2OTUzNjAyM15BMl5BanBnXkFtZTgwNjI1MjYzMDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 870,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "English actor Sean Chapman, who plays Frank, had his lines dubbed by American actor Bob Sessions when the film was moved to America. Chapman had earlier starred in the borstal drama Scum (1979).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0152521",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyNzA5MjAwMV5BMl5BanBnXkFtZTcwNTg5Mzk2Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1010,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The MPAA told director Clive Barker he could have two consecutive buttock thrusts from Frank in this seduction, but three would be obscene.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Clive Barker deliberately cast experienced British theatre actors instead of the pretty teenage victims typical of 1980s horror.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/12-sharp-facts-about-hellraiser"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clive Barker wanted industrial band Coil for the score, saying their records \"made my bowels churn.\" New World made hiring its own composer a condition of extra funding.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://treblezine.com/coil-hellraiser-soundtrack-blood-tracks"
+      }
+    },
+    {
+      "t": 1255,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hellraiser got odd titles abroad: \"Lords of Hell\" in Croatia and Serbia, \"Son of the Devil\" in India, and \"Raise Ghosts and Eat People\" in Taiwan.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://creepycatalog.com/hellraiser-1987-facts-and-trivia/"
+      }
+    },
+    {
+      "t": 1365,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "After New World asked for an American setting, many English cast members were dubbed. Watch for supporting characters whose accents slip between British and American.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1455,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "London has a \"Hellraiser bus shelter\" where fans of the film have left VHS copies as tributes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.timeout.com/london/news/london-on-screen-the-house-from-hellraiser-030918"
+      }
+    },
+    {
+      "t": 1545,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This resurrection scene was added after the studio liked early footage. About $25,000 went into it, shot on a soundstage using reverse photography and puppets.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Effects designer Bob Keen's crew leaned on condoms (latex) and lube for the gore, and pumped methylcellulose \"by the gallon.\" Staff were mortified buying supplies.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1640,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch for the train passing at about 27 minutes: it is a British Rail Intercity 125, which gives away that the film was shot in London despite its American setting.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Actor Oliver Smith played skinless Frank. He chain-smoked between takes, so director Clive Barker added shots of Frank smoking.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0809483",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmFlNDI3OTQtMjI1Ni00YWE0LTgxNWEtMWNhN2I1NWU1NzVjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: 78 gallons of blood. 147 gallons of slime. Two breasts. Ten dead bodies.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Effects designer Bob Keen was only in his mid-twenties. His credits included the original Star Wars films and Highlander, which led producer Christopher Figg to hire him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1970,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Studios rejected the skinless Frank for promotion, so Pinhead became the poster face. Actor Doug Bradley said nobody knew who he was: \"There was no way to prove to anyone that it was actually me.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/12-sharp-facts-about-hellraiser"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "To avoid an X rating, the MPAA made cuts to the first hammer killing. These included a close-up of the hammer lodged in the victim's head.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Coil's rejected score included tracks like \"Box Theme\" and \"Main Title.\" It was later released as The Unreleased Themes for Hellraiser. Christopher Young scored the film instead.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://treblezine.com/coil-hellraiser-soundtrack-blood-tracks"
+      }
+    },
+    {
+      "t": 2225,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "For years, Germany's youth-protection index made the uncut Hellraiser illegal to sell. The first official German DVD didn't arrive until 2011, and the cut one ran about 2 minutes shorter.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For the photos of Frank with a prostitute, the production hired a real prostitute. Crew members kept trying to peek into the tiny room.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Barker phoned actor Doug Bradley from Los Angeles to say: \"You're currently 30 feet high over Sunset Boulevard for your first job.\" Bradley had assumed Pinhead would be quickly forgotten.",
+      "icon": "mic",
+      "byline": "Doug Bradley",
+      "source": {
+        "type": "web",
+        "url": "https://loudersound.com/features/hellraiser-story-behind-horror-movie"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Chains. Character actor taffy pull. Flaying. Clawing. Manacling. Gratuitous body parts. Gratuitous maggots.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ontario banned the film at first for \"brutal, graphic violence.\" It passed only after about 40 seconds were cut, including hook torture and squirming nailed-up rats.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The homeless man who haunts Kirsty was not played by director Clive Barker or comic writer Alan Moore, despite the rumors. He was actor Frank Baker, credited as \"Derelict.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2755,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Britain's BBFC passed Hellraiser uncut for cinemas in June 1987. The 1988 video release lost 4 seconds of Julia's hammer killing, and that cut version stayed until the 2004 DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://melonfarmers.co.uk/bbfc_cuts_hellraiser.htm"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "British censors made the producers prove that the rat skinned in the film was a mechanical one and that no real rats were harmed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/12-sharp-facts-about-hellraiser"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert gave Hellraiser half a star, calling it \"a movie without wit, style or reason.\" British magazine Melody Maker called it the best horror film ever made in Britain.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hellraiser had two editors: credited Richard Marden and uncredited Tony Randel. Randel also suggested composer Christopher Young after Coil's score was rejected.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cockroaches were brought from America because they looked bigger. British law required that they all be male, so escapees couldn't start an infestation.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "At the wrap party, Doug Bradley, who plays Pinhead, was nearly refused entry because nobody recognized him without the makeup.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Paul W. S. Anderson cited Clive Barker as a major influence on Event Horizon (1997), comparing its other dimension and Sam Neill's mutilated look to the Cenobites.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Devil sex. Blood gurgling. Glopola skeleton chasing. Head bashing. Rat impaling. Rat skinning. Face nailing. Claw Hammer Fu.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clive Barker drew the Cenobites from punk fashion, Catholicism and visits to S&M clubs, including New York's Cellblock 28. Pinhead also drew on African fetish sculptures.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Time Out London polled horror authors, directors, actors and critics in the early 2010s. Hellraiser placed number 80 on their top 100 horror films.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3670,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Clive Barker thought the Cenobites looked \"ludicrous\" in the bright hospital scene and feared people would laugh. He pushed to show them anyway, and the neon glare worked.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000850",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk2MjMyMzU5Nl5BMl5BanBnXkFtZTYwNDQ3MTY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actor Doug Bradley first read Pinhead as a cross between Oscar Wilde and Noel Coward. He had trouble hitting marks because his black contact lenses blinded him.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Engineer was added at the studio's request for more jump scares. It was a performer on a wheeled platform pushed by crew in a 15-foot set. Ashley Laurence ran slowly to look fast.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3935,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Pinhead's nickname came from a special effects crew member, not director Clive Barker. Barker called it undignified and said the character had no name in his script.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://looper.com/1321410/hellraisers-pinhead-was-actually-named-by-special-effects-artist"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Clive Barker insisted that Pinhead be articulate and intelligent like Christopher Lee's Dracula. Producers had wanted a quipping Freddy or a silent Jason.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4080,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pinhead looms over Kirsty thanks to a teeterboard. Doug Bradley stood on one end while first assistant director Selwyn Roberts, a \"massive man,\" counterbalanced the other.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4140,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Nicholas Vince, the Chatterer, wore a mask that blinded him. During the finger-down-the-throat moment he accidentally scraped Ashley Laurence's palate.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pinhead's roots go back to a 1973 play, Hunters in the Snow, in which Doug Bradley played an undead torturer called the Dutchman.",
+      "icon": "reel",
+      "byline": "Doug Bradley",
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/12-sharp-facts-about-hellraiser"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Grace Kirby, a cousin of Clive Barker, first played the Female Cenobite. She couldn't sit in the costume, and mime Barbie Wilde took over in the sequel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The studio wanted stuntmen as Cenobites to save money. Clive Barker insisted on actors, and most Cenobite shots were filmed separately from Ashley Laurence, so they rarely share the frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A Hellraiser remake was long stuck in development. David Bruckner's reimagining finally arrived on Hulu in October 2022.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Prop maker Simon Sayce built the puzzle boxes from wood and cut brass. He lay on the floor under the Cenobites during takes to catch a dropped one and save eight hours of work.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4690,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Clive Barker threw handfuls of real maggots down Ashley Laurence's cleavage, and they stuck in her bra. It reportedly happened the day investors visited the set.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4780,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "When Clive Barker's mother saw his name in the opening credits, she cried happy tears. He whispered that it would be her happiest moment for the next two hours.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The MPAA cut a longer version of this hook-torture scene, and a final shot of a head exploding. The uncut shot appears in the recap that opens Hellbound: Hellraiser II (1988).",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4965,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Andrew Robinson ad-libbed much of his dialogue. He talked director Clive Barker into the shot line \"Jesus wept\" instead of the scripted \"Fuck off.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0732367",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDQzMzAzMV5BMl5BanBnXkFtZTgwODYyNzc3MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5030,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cradle of Filth frontman Dani Filth sees Hellraiser as a fairy tale, \"the whole Narnia-type scenario, gone to Hell.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://loudersound.com/features/hellraiser-story-behind-horror-movie"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "With the money gone, Clive Barker and a friend hand-animated the blue lightning over one weekend, after plenty of drinking. Barker thinks it turned out well anyway.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Four stars. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects designer Bob Keen had only about 700 pounds left for the final winged demon, which explains its crude look and movement.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Doug Bradley, Nicholas Vince and Simon Bamford all followed Hellraiser into Clive Barker's next film, Nightbreed (1990).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A Hellraiser vs. Halloween crossover was once considered, with Clive Barker writing and John Carpenter directing. It fell through when Halloween rights holder Moustapha Akkad objected.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/12-sharp-facts-about-hellraiser"
+      }
+    },
+    {
+      "t": 5580,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hellraiser's first public showing was at London's Prince Charles Cinema on 10 September 1987. It screened there again in 2017 for the 30th anniversary.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
