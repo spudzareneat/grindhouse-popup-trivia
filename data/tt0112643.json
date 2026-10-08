@@ -1,0 +1,561 @@
+{
+  "schema": 1,
+  "imdbId": "tt0112643",
+  "title": "Castle Freak",
+  "year": 1995,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-10-08T10:55:49.052Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon spotted a Castle Freak poster in producer Charles Band's office: a Quasimodo-like man chained to a wall. Band's pitch: \"Well, that's a castle and there's a freak.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 115,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity goof: the bread the Duchess carries to her prisoner has a big hole in it in the kitchen, but it's whole by the time it reaches the dungeon.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stuart Gordon made Castle Freak for about $500,000, tiny even for Full Moon. His trade: no rating, final cut, and any cast he wanted.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Castle Freak poster art was designed before anybody wrote the script. The screenplay was built around a picture.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stuart Gordon first heard the pitch in winter and was shooting by June 1994. Production moved fast, and he said the castle gave the film its scale.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The castle is real and was owned by Full Moon boss Charles Band. Director Stuart Gordon had already shot The Pit and the Pendulum there four years earlier.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Eight dead bodies. Seven breasts. One dead cat, skinned. One extended chase scene. One motor vehicle crash. Random skull paintings. Abandoned toy room. Dangling clown doll.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jeffrey Combs (John Reilly) has starred in five movies based on H.P. Lovecraft stories. Fans call him \"the first Lovecraftian actor.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001062",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3Njg1NDEzN15BMl5BanBnXkFtZTcwNTk4Nzg5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The end credits give special thanks to H.P. Lovecraft and \"the wonderful people of Giove, Italy,\" the Umbrian town where the film was shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the car-crash flashback, the portable game console JJ plays with is a Sega Game Gear.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Barbara Crampton (Susan Reilly) has appeared in five H.P. Lovecraft adaptations, starting with Re-Animator (1985) and From Beyond (1986), both directed by Stuart Gordon.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0186225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1075,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon told his crew he wanted realistic performances and a documentary feel, a deliberate contrast to the wild comic gore of his earlier Lovecraft films like Re-Animator.",
+      "icon": "camera",
+      "byline": "Stuart Gordon — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/castle-freak-best-horror-movie-you-never-saw/amp/"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stuart Gordon shot the film handheld to save time. It adds a subtle hover that makes it feel like the creature is always watching.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/entertainment/castle-freak-30-year-anniversary"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jonathan Fuller, who plays the castle freak Giorgio, lost weight for the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0298268"
+    },
+    {
+      "t": 1325,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Full Moon's Paramount distribution deal collapsed during post-production. The American actors reportedly refused to record dialogue until they were paid owed overtime.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/castle-freak-best-horror-movie-you-never-saw/amp/"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital calls the film one of the best in the Full Moon catalog. It credits a terrific physical performance by Jonathan Fuller and a jittery score by Richard Band.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/castlefreak.html"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is loosely based on H.P. Lovecraft's \"The Outsider,\" about a being who leaves his dungeon and sees his own distorted body in a mirror. Gordon and writer Dennis Paoli both cited it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The 1996 UK video release lost 1 min 9 sec to the BBFC, including a cat being dragged through a hatch, a woman's breast being bitten and mutilated female bodies.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The freak makeup took six hours to apply every day on actor Jonathan Fuller.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0298268"
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Richard Band wrote the score mostly for strings, inspired by Bernard Herrmann, and had percussionists strike the strings with mallets for the violent moments.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://richardbandmusic.com/cd-castle-freak"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Charles Band owns the castle, and the crew once had to scrub blood and guts off the floors and walls fast because a Band family reunion was about to be held there.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Dennis Paoli says the monster Giorgio was never meant as a zombie. He was conceived as the manifestation of familial dread and abuse.",
+      "icon": "mic",
+      "byline": "Dennis Paoli — Screenwriter",
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/dennis-paoli-on-the-conception-legacy-of-castle-freak/"
+      }
+    },
+    {
+      "t": 2144,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity goof: the mirror Giorgio smashes is broken differently in the next shot, when the family arrives.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Castle Freak was slated for a Halloween 1994 theatrical release. It was pushed to direct-to-video in November 1995, the first Full Moon film released outside of Paramount.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Full Moon was short on money during production. Stuart Gordon said, \"I don't think there was any money to do one-sheets,\" so the film had no real posters, though it found its audience.",
+      "icon": "money",
+      "byline": "Stuart Gordon — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The castle is the Castello di Giove (Castle of Jupiter) in Umbria. Director Stuart Gordon knew it well, and the real setting pulled the script closer to Lovecraft's atmospheric style.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/dennis-paoli-on-the-conception-legacy-of-castle-freak/"
+      }
+    },
+    {
+      "t": 2564,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The police say the castle has more than 150 rooms. The real location gave the production plenty of room to explore.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/entertainment/castle-freak-30-year-anniversary"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Chain strangling. Forehead wall-bashing. Crypt destruction. Casket cracking. Eye chewing. Spine stabbing. Whip wielding. Wine bottle bashing. Hooker shackling.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before playing a monster, Jonathan Fuller was chosen in a nationwide search in 1984 to play Jesus Christ in The Glory of Easter at the Crystal Cathedral.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0298268"
+    },
+    {
+      "t": 2950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jeffrey Combs on his character John and the creature: \"The beast, the freak, and I are Yin and Yang.\" He called the film \"cruel, graphic, but beautiful.\"",
+      "icon": "mic",
+      "byline": "Jeffrey Combs",
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/entertainment/castle-freak-30-year-anniversary"
+      },
+      "person": "nm0001062",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3Njg1NDEzN15BMl5BanBnXkFtZTcwNTk4Nzg5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3025,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jeffrey Combs (John Reilly) said of his guilt-ridden character: \"I can never really release myself from the terrible things my character feels guilty about.\"",
+      "icon": "mic",
+      "byline": "Jeffrey Combs — John Reilly",
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/castle-freak-best-horror-movie-you-never-saw/amp/"
+      },
+      "person": "nm0001062",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3Njg1NDEzN15BMl5BanBnXkFtZTcwNTk4Nzg5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This is the third Stuart Gordon film in which Barbara Crampton's character bares her breasts and is groped by the monster, after Re-Animator and From Beyond.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0186225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Castle Freak was meant for a Full Moon sub-label called PulsePounders, for extreme unrated horror. The name ended up on a kids' video line instead.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jeffrey Combs auditioned for Commander Riker on Star Trek: The Next Generation. He lost, but later played Weyoun and Brunt on Deep Space Nine and Shran on Enterprise.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001062",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3Njg1NDEzN15BMl5BanBnXkFtZTcwNTk4Nzg5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The unrated director's cut has more explicit sex and gore than the R-rated version. Both were released on VHS and Laserdisc in November 1995.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3625,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Besides the unrated cut, there is an R-rated version of Castle Freak that runs about 54 seconds shorter.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/castle-freak-best-horror-movie-you-never-saw/amp/"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stuart Gordon was originally going to direct Lurking Fear (1994), a Full Moon Lovecraft film. Castle Freak became his Full Moon film instead.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3824,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Drive-In Totals: Eye chewing aside, the film has Chambermaid bludgeoning. Ear ripping. Chain jerking. Butcher knife to the forearm. Sexual assault by claw. Thumb rolls. Breast rolls. Eye rolls.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 3890,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Barbara Crampton (Susan Reilly) said the film \"preys on human weaknesses in a crude, realistic way.\" She was reunited with Re-Animator director Stuart Gordon and co-star Jeffrey Combs.",
+      "icon": "mic",
+      "byline": "Barbara Crampton — Susan Reilly",
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/castle-freak-best-horror-movie-you-never-saw/amp/"
+      },
+      "person": "nm0186225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film got a shout-out in the Full Moon spoof Demonic Toys: Personal Demons (2010).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jonathan Fuller's film diary says the crew was a day and a half behind on July 7, 1994. On July 8, Charles Band arrived with his wife and father and said filming must end by July 9.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Barbara Crampton began on soap operas, debuting on Days of Our Lives in 1983. She became a horror icon through Re-Animator, From Beyond and You're Next.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0186225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Real brain matter was reportedly used for the film's gory finale.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A remake of Castle Freak, produced by Barbara Crampton and directed by Tate Steinsiek, debuted on video-on-demand on December 4, 2020.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Dennis Paoli says most of his script got shot, with little cut. The finale was shortened in the edit for more impact.",
+      "icon": "reel",
+      "byline": "Dennis Paoli — Screenwriter",
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/dennis-paoli-on-the-conception-legacy-of-castle-freak/"
+      }
+    },
+    {
+      "t": 4994,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Barbara Crampton was meant to be fully naked in this scene. She felt the castle was too cold, so she only removed her blouse and bra.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0186225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5060,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Basic TV airings cut this scene entirely, so it's unclear how Susan lures the creature away from her daughter.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
