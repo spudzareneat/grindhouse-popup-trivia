@@ -1,0 +1,475 @@
+{
+  "schema": 1,
+  "imdbId": "tt0101591",
+  "title": "Class of Nuke 'Em High Part II: Subhumanoid Meltdown",
+  "year": 1991,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-10-08T10:08:48.292Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Drive-In Totals: Forty-six breasts. Twenty-two dead bodies. Five motor vehicle chases. Mutant sex. Exploding faces. Exploding high school. Bulemic trained dolphin. Baby-throwing.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Unlike the 1986 original, which was shot in New York, this sequel was shot in Yuma, Arizona. That may be why no characters carry over from the first Class of Nuke 'Em High.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Eric Louzil began as a UCLA film student and produced two early Kevin Costner films, Sizzle Beach, U.S.A. and Shadows Run Black, before turning to Troma.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Eric_Louzil"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-director Donald G. Jackson also made the cult favorite Hell Comes to Frogtown (1987) and the Roller Blade movies.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Donald_G._Jackson"
+      }
+    },
+    {
+      "t": 550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The new school is the Tromaville Institute of Technology, and the acronym is T.I.T. Troma, naturally, did that on purpose.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Look at the posters on the wall of Roger Smith's room: they advertise Troma's own The Toxic Avenger, the original Class of Nuke 'Em High, and Sgt. Kabukiman N.Y.P.D.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Brick Bronsky (Roger Smith) was a bodybuilder who became Mr. Teenage Pennsylvania in 1984, then a pro wrestler in Stu Hart's Calgary Stampede Wrestling.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0111498"
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brick Bronsky (Roger Smith) had a thug role as Jughead in Troma's Sgt. Kabukiman N.Y.P.D. a year earlier. He later took a small part in Jean-Claude Van Damme's The Quest (1996).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0111498"
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A reviewer called this one of Troma's better-funded productions: \"a better than usual budget,\" with stop-motion creatures and Cronenberg-style stomach-mouth makeup.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The story is set in Tromaville, New Jersey, but the film was shot in Arizona. A reviewer noticed Arizona license plates on the cars.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stop-motion animation is rare in Troma productions, but this film uses it.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Smith's narration to a character named Diane spoofs David Lynch's TV series Twin Peaks, where Agent Cooper dictates to Diane. The show was a 1990 hit.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 1235,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stop-motion creature construction and animation were handled by Brett Piper and Alex Pirnie. The green 'Greenie' monster was created by Gary Young.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Pubbles of green scum where students used to be. Green stomach monsters. Gene splicing. Denim jean splicing. Dolphin burgers. Foot-eating, slam-dancing squirrels.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lloyd Kaufman co-founded Troma in 1974 with Michael Herz. Here Kaufman co-wrote the script with five others and produced, but left directing to Eric Louzil and Donald G. Jackson.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Class_of_Nuke_%27Em_High_2:_Subhumanoid_Meltdown"
+      }
+    },
+    {
+      "t": 1510,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lisa Gaye (Professor Holt) also played Mona Malfaire in Troma's Toxic Avenger sequels. Joe Bob's Drive-In Totals nominates her for a beehive hairdo \"37 feet high.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/26/usa-up-all-night-month-class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991/"
+      },
+      "person": "nm0310847"
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the belly-button-lips transformation scene, one person in the crowd wears a T-shirt from Troma's The Toxic Avenger Part III: The Last Temptation of Toxie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leesa Rowland (Victoria) later wrote a book, Discovering the It Factor within You, and founded the New York charity Animal Ashram in 2013.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0738058",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2OWMxMWItYjExMy00OTk1LWIzNTgtY2NlODMxMGY5ZDhlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The crazy credits list \"People Who Did Not Act in this Film,\" including Eduard Shevardnadze, Debbie Gibson, Jodi Foster and Zsa Zsa Gabor.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The end credits claim the cast and crew \"were also handled with the utmost care and are never drugged or sedated.\" The squirrels are credited as Acorn Al, Nutty and Rocky.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "School scenes were shot at Kofa High School in Yuma, Arizona. Some sources instead say Calabasas High School in California.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2115,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One reviewer described star Brick Bronsky's Roger Smith as a blonde bodybuilder who spends the entire film going around in a pink singlet.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 2170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming reportedly took place in February 1990, and the film wasn't released until April 12, 1991.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Class_of_Nuke_%27Em_High_2:_Subhumanoid_Meltdown"
+      }
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's title spoofs the earlier Love Story, and a classic romance line gets sent up too. Roger Smith: \"Just because Victoria had lips on her belly didn't stop me from loving her.\"",
+      "icon": "mic",
+      "byline": "Roger Smith (Brick Bronsky)",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2335,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital compared the film's latex belly-button mouth effect to the one in the then-recent horror film Dr. Caligari.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/classnuketwo.html"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Brick Bronsky did his own stunts and credited Troma with making him a better performer, according to his Wikipedia biography.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brick_Bronsky"
+      },
+      "person": "nm0111498"
+    },
+    {
+      "t": 2520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brick Bronsky and his wrestling partner Doug Flex, as The Brat Pack, won the Canadian International Tag Team title twice.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brick_Bronsky"
+      },
+      "person": "nm0111498"
+    },
+    {
+      "t": 2640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's title references Love Is a Many-Splendored Thing and Love Story, and it also spoofs King Kong (1933).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Beer-bottle eating. Mutant bat-baby. Head ripping. Gratuitous Toxic Avenger. Drive-In Academy Award nominations for Brick Bronsky as a nerd body builder.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Toxic Avenger, Troma's mop-wielding mascot hero from 1984, makes a cameo here, played by Thomas Perry.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Troma bosses Michael Herz and Lloyd Kaufman have an uncredited cameo as the voices of the helicopter pilots.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Troma's Lloyd Kaufman wrote the lyrics for the film's theme song, sung by Glenn Acker (credited as Glenn Roberts) and Michael Brody.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sweet Little Roxana performs songs on the soundtrack, including Kick Me, Coyote Ugly and Total Rock & Roll, all written by David Craig Ellis.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TV Guide liked the film as a good example of Troma style, praising its social commentary and decent effects. Other critics called it an amiable splatstick comedy stretched out to feature length.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "USA Network's Up All Night aired this film on March 20 and June 6, 1992, and again in 1993 and twice in 1994.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/26/usa-up-all-night-month-class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991/"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A sequel followed in 1994, Class of Nuke 'Em High Part 3, with Brick Bronsky and Leesa Rowland returning. Troma revived the series in 2013 with Return to Nuke 'Em High Volume 1.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie is name-checked in the later films Orgazmo (1997), The Big Hit (1998), The Forsaken (2001), and Return to Nuke 'Em High Volume 1 (2013).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A reviewer noted the model vehicles being crushed by the giant squirrel look \"quite clearly\" like models. It's cheap, charming Troma.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Brick Bronsky died of COVID-19 on August 23, 2021, at 57, in Allentown, Pennsylvania.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brick_Bronsky"
+      },
+      "person": "nm0111498"
+    },
+    {
+      "t": 4900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Two stars. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    }
+  ]
+}
