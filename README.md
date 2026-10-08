@@ -20,7 +20,7 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
 3. `cp .env.example .env` and fill in `CLAUDE_CODE_OAUTH_TOKEN` (from `claude setup-token`) — compose reads `.env` for variable substitution.
 4. Try one movie without publishing: `docker compose run --rm generator movie tt0055830 --dry-run`
    then look at it: `docker compose run --rm generator shell` → `cat /work/out/tt0055830.json`.
-5. Start the schedule: `docker compose up -d --build` (runs Wed 00:00, Thu 03:00 and Fri 00:01 in `TZ`). Logs: `docker compose logs -f`.
+5. Start the schedule: `docker compose up -d --build` (runs at midnight ending Wed, Thu 03:00 and Fri 00:01 in `TZ`). Logs: `docker compose logs -f`.
 
 ### Portainer
 
