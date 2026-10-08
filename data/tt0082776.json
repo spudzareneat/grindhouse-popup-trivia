@@ -1,0 +1,479 @@
+{
+  "schema": 1,
+  "imdbId": "tt0082776",
+  "title": "Ms .45",
+  "year": 1981,
+  "runtimeSec": 4800,
+  "generatedAt": "2026-10-08T10:47:04.763Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ms .45 was made for roughly $62,000, a shoestring even by 1980 standards. Director Abel Ferrara shot it in New York City.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 142,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Zoë Lund, who plays the mute seamstress Thana, was only 17 when she shot this, her very first film role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the U.S., Ms .45 came out via Rochelle Films. Warner Bros. handled overseas, where it was retitled Angel of Vengeance.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 336,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Abel Ferrara cast himself as the masked first attacker, wearing a clear plastic mask over makeup, a wink to his earlier film The Driller Killer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hometheaterforum.com/ms-45-limited-edition-4k-uhd-review/"
+      },
+      "person": "nm0001206",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE2NDM1OTk5Nl5BMl5BanBnXkFtZTgwNjgzMjY4MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming took just four weeks in February and March 1980 on real New York streets, often without official filming permits.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script by Nicholas St. John was so thin that cinematographer James Lemmo noted it; St. John added dialogue as shooting went on.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The MPAA first slapped Ms .45 with an X rating. Two rape scenes and some explicit dialogue were trimmed to earn an R.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the dead burglar draped over the bathtub: the actor can be spotted breathing, his back rising and falling slightly.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 967,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Zoë Lund's character Thana echoes Thanatos, the Greek personification of death. Freud used the word for the human 'death drive'.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Abel Ferrara told composer Joe Delia to write a score that was both modern and atonal, hence the jittery sax-heavy sound.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Nicholas St. John went to high school with director Abel Ferrara and wrote many of his films, including The Driller Killer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The title says .45, but Thana's pistol is actually a Spanish-made 9mm Star Model BM, a lookalike of the Colt 1911.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "One of the body-part shopping bags Thana carries out is from Fiorucci, the trendy New York store of the era.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zoë Lund said her face is on camera with no dialogue about 98% of the time, so she was heavily involved in shaping the character.",
+      "icon": "mic",
+      "byline": "Zoë Lund — Thana",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Zo%C3%AB_Lund"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1607,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bogey, the dog who plays Mrs. Nasone's pooch Phil, was rescued from a dog pound.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Zoë Lund went on to co-write and act in Abel Ferrara's 1992 cult classic Bad Lieutenant.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Zo%C3%AB_Lund"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ms .45 nods to Taxi Driver, Repulsion, Psycho, Carrie and I Spit on Your Grave, a grindhouse revenge mix.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2097,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This crowded Fifth Avenue shot was filmed from a tarp-covered van with director Abel Ferrara inside. The couple walking behind are crew hiding the mic under a jacket.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001206",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE2NDM1OTk5Nl5BMl5BanBnXkFtZTgwNjgzMjY4MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2175,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Abel Ferrara found Zoë Lund after she placed third for a role in the 1980 film Times Square. She reportedly earned more as a two-night extra on that film than she was paid for Ms .45.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://editorial.rottentomatoes.com/article/interview-abel-ferrara-says-ms-45-terrified-a-grindhouse-crowd/"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the studio shooting, the camera whips away and a bearded crew member in a red shirt flashes by, just after fake blood is hurled in from off-camera.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "New York Times critic Janet Maslin trashed it in 1981, calling most of the supporting cast 'disastrous' but praising Zoë Lund and Abel Ferrara's direction.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spot the continuity glitch: as Thana loads a bag into a stranger's trunk, a yellow car parked in front suddenly vanishes several car-lengths away.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Britain's BBFC cut 1m 42s from the 1990s video release, including a bread-knife shot and nunchakus. Some uncut tapes escaped by mistake.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Abel Ferrara's best-known works include The Driller Killer, King of New York and Bad Lieutenant.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001206",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE2NDM1OTk5Nl5BMl5BanBnXkFtZTgwNjgzMjY4MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2925,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Shooting with a dog who had no training was one of the headaches on this street-level shoot, says creative consultant Jack McIntyre, who also helped keep the production cheap and moving.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/ms-45-4k-uhd-review"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Once hated, Ms .45 now holds 86% on Rotten Tomatoes and is considered a landmark of underground, independent cinema.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3075,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ms .45 got its own full-length book: film scholar Alexandra Heller-Nicholas wrote 'Ms. 45', published by Columbia University Press in 2017.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After Ms .45, Zoë Lund avoided being part of 'Abel's stable', but later turned up in Miami Vice and Special Effects (1984).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Zo%C3%AB_Lund"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Barroom continuity slip: when the shoe salesman handles Thana's gun, the hammer is cocked, then not, and a shadow from the gun appears and disappears.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ms .45 aired on Joe Bob Briggs' Joe Bob's Drive-In Theater on August 29, 1992, with guest Anita Rosenberg.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://www.thetvdb.com/series/joe-bobs-drive-in-theater/episodes/8574545"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Riot grrrl band L7 wrote a song called 'Ms. 45', inspired by this movie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A fan edited scenes from Ms .45 into an unofficial music video for John Maus's 'Streetlight' that went semi-viral and caught Maus's attention.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3755,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "As Thana walks the neighbor's dog, a red truck rolls by with the name Ferrara on its front, a sly nod to director Abel Ferrara.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jack McIntyre, Abel Ferrara's creative consultant on Ms .45, also played saxophone on the film's sleazy, sax-driven rock tracks.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/ms-45-4k-uhd-review"
+      }
+    },
+    {
+      "t": 3990,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "At the party, the band's player mimes a trumpet but the music is saxophone, so the sound and the instrument don't match.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Abel Ferrara directed episodes of Miami Vice and Crime Story for his friend Michael Mann, who gives him editing tips in return for private screenings.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001206",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE2NDM1OTk5Nl5BMl5BanBnXkFtZTgwNjgzMjY4MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2000 U.S. DVD re-edit moved the killing of the man in the yellow T-shirt at the Halloween party offscreen. The 1983 U.S.A. Home Video VHS kept it uncut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Halloween party massacre is shot largely in slow motion, a flickering effect one reviewer says heightens the sense of psychotic delirium.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/ms-45/"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ms .45 is namechecked in Bad Lieutenant, Machete, The Greasy Strangler and MaXXXine.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4540,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "That one word, 'Sister', is the only thing Zoë Lund's mute character Thana says in the entire film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
