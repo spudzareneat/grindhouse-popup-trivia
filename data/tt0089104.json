@@ -1,0 +1,426 @@
+{
+  "schema": 1,
+  "imdbId": "tt0089104",
+  "title": "Escape from the Bronx",
+  "year": 1983,
+  "runtimeSec": 5340,
+  "generatedAt": "2026-10-08T10:16:31.971Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "\"Leave the Bronx!\" from these loudspeaker announcements became an instant catchphrase among Mystery Science Theater 3000 fans after the show riffed this film as \"Escape 2000\" in 1996.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mst3kinfo.com/?p=3513"
+      }
+    },
+    {
+      "t": 252,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mark Gregory (Trash) was a shoe-shop worker discovered in a Rome gym, then beat out 2,000 hopefuls to play Trash in the first Bronx Warriors film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0339888",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2E4OGRkNDEtMDI0Yy00ODdkLTg1YjgtMTVjZWVmNmU0ZWVmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 310,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: during the helicopter attack on Trash (Mark Gregory), the gunner goes through the motions of firing, but there's no muzzle flash and no gunfire sound.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 397,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The big black-and-white poster on the wall of Trash's parents' apartment is of Mark Gregory, the actor playing Trash, from the first film, 1990: The Bronx Warriors.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: when Trash's father smashes a Disinfestor's helmet with a baseball bat in slow motion, the next shot shows the falling man with a perfectly undamaged helmet.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 573,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Enzo G. Castellari was unhappy that Mark Gregory (Trash) had lost muscle since the first film, so Trash keeps his jacket on for about 90% of the movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0144758",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MzkwOTYwOV5BMl5BanBnXkFtZTcwNTMyMTQwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 660,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dablone's subterranean gang hideout was a real cave under Rome, not New York.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 723,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The \"relocate to New Mexico\" line has real-world echoes: Rio Rancho, New Mexico ran 1970s ads luring New Yorkers there, per an MST3K fan site's notes on this film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mst3kinfo.com/?p=3513"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Valeria D'Obici (journalist Moon Grey) is credited as 'Valerie Dobson' and Giancarlo Prete (Strike) as 'Timothy Brent', typical Italian-exploitation English pseudonyms for the export market.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1163,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Henry Silva (villain Floyd Wrangler) never set foot in the Bronx for this film: all of his scenes were shot in Rome. New York footage took only about two weeks.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0798328",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg2OTgwOTA3MV5BMl5BanBnXkFtZTYwMzk1OTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1490,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Wrangler calls the killing 'disinfestation'. Henry Silva later voiced Bane in Batman: The Animated Series, Superman: The Animated Series and The New Batman Adventures.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0798328",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg2OTgwOTA3MV5BMl5BanBnXkFtZTYwMzk1OTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first film, 1990: The Bronx Warriors, shot on location in the real Bronx, with interiors built in Rome to satisfy Italian rules requiring about 50% domestic production.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/1990:_The_Bronx_Warriors"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film was one of many Italian knock-offs of Mad Max 2 and Escape from New York, including Endgame, Warriors of the Wasteland, 2020 Texas Gladiators and Exterminators of the Year 3000.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Britain's censors cut 11 seconds from the original UK release, including an exploding chest in this bomb-rigged hostage sequence. The footage was restored for the 2003 Vipco DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2121,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Antonio Sabato (rebel leader Dablone) earned a Golden Globe nomination for New Star of the Year for 1966's Grand Prix. His son, Antonio Sabato Jr., became an actor too.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Antonio_Sabàto_Sr."
+      }
+    },
+    {
+      "t": 2212,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Moana Pozzi (Birdy) became one of Italy's biggest adult-film stars, reportedly appearing in about 100 films. She started in 1981 while also working on a children's TV show, causing a scandal.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Moana_Pozzi"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was shot partly in New York (Roosevelt Island, Grand Central, Alphabet City) but the 'Bronx' scenes look like Queens, which a goof listing notes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The uncut film has a body count of 174: 110 shot, 40 blown up, 9 flamed, 6 electrocuted, 1 stabbed, plus a face turned to red mush by a shotgun butt.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The US version sold as 'Escape 2000' was cut even more heavily, trimming violence and swear words. The Media Home Entertainment VHS even changed the plot so the Vice President just drives away.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Enio Girolami (as GC Corporation president Clark, credited as Thomas Moore) is director Enzo G. Castellari's real-life brother. Almost all his work from 1960 on was with their father or Enzo.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Enio_Girolami"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before Dablone, Antonio Sabato was first cast in the 1968 sci-fi cult film Barbarella, but was replaced by David Hemmings and all his scenes were reshot.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Antonio_Sabàto_Sr."
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Enzo G. Castellari cast himself as the mustached radio operator. He's best remembered for Inglorious Bastards (1978), the film that inspired Tarantino's title.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/bronx-warriors-2-1983.htm"
+      },
+      "person": "nm0144758",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MzkwOTYwOV5BMl5BanBnXkFtZTcwNTMyMTQwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "MST3K fans compared Toblerone (the show's mishearing of Dablone) to Torgo, the beloved hapless caretaker from the show's \"Manos: The Hands of Fate\" episode.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mst3kinfo.com/?p=3513"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Francesco De Masi scored over 200 films and started writing western scores slightly before Ennio Morricone. He also scored Enzo G. Castellari's 1978 war film Inglorious Bastards.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Francesco_De_Masi"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film got the MST3K treatment as 'Escape 2000' (season 7, episode 5, aired March 2, 1996). The crew misheard Dablone as 'Toblerone' and cheered him every time he appeared.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer Blasco Giurato shot this film's slow-motion action. He later shot Cinema Paradiso, and Francesco De Masi's score borrows spaghetti-western sounds.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/escape-from-the-bronx"
+      }
+    },
+    {
+      "t": 4040,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer Blasco Giurato earned a BAFTA nomination for Cinema Paradiso. His brother Luca Giurato is a well-known Italian TV journalist, and his brother Flavio is a singer-songwriter.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Blasco_Giurato"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Enzo Castellari's spaghetti-western roots show in the slow-motion explosions and extreme zooms; reviewers see this sequel as more polished than the first Bronx Warriors.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/bronx-warriors-2-1983.htm"
+      }
+    },
+    {
+      "t": 4303,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Mark Gregory (Trash) later left film and lived as a recluse near Rome. He died in 2013, which a fan site only confirmed in 2022 after years of searching for him.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0339888",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2E4OGRkNDEtMDI0Yy00ODdkLTg1YjgtMTVjZWVmNmU0ZWVmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4387,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Goof: as the gas hits, Dablone yells 'Moana, this way!' Moana Pozzi, who plays Birdy, was the actress's real first name slipping into the take.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moana Pozzi (Birdy) died in 1994 at age 33, and Italy still argues over the cause. Disney even retitled its film Moana as \"Oceania\" there to avoid confusion with her.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Moana_Pozzi"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Henry Silva's coffee tantrum (\"No sugar, you idiot!\") is a highlight reviewers single out; he retired in 2001 after Ocean's Eleven, having also been in the original 1960 Ocean's 11.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/escape-from-the-bronx"
+      },
+      "person": "nm0798328",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg2OTgwOTA3MV5BMl5BanBnXkFtZTYwMzk1OTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The sequel was released in the UK in September 1983, but didn't reach US theaters via New Line Cinema until January 18, 1985.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Massimo Vanni (Big Little Man) is director Enzo G. Castellari's cousin and a former stuntman. He later acted for Bruno Mattei under the name Alex McBride and appeared in Zombi 3.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Massimo_Vanni"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One reviewer noticed J&B whisky product placement throughout the film, a favorite of Italian genre cinema of the era.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://regrettablesincerity.com/?p=9123"
+      }
+    }
+  ]
+}
