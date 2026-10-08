@@ -1,0 +1,570 @@
+{
+  "schema": 1,
+  "imdbId": "tt0113376",
+  "title": "Ice Cream Man",
+  "year": 1995,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-10-08T10:23:07.706Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The computer game on screen during the opening credits is The Journeyman Project, a real 1993 PC adventure game.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The word \"MILF\" is scrawled on the roundabout in the opening. Justin Isfeld, who plays kid Johnny Spodak, later played the \"MILF Guy\" in American Pie (1999).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0410835",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzQyMjE0NF5BMl5BanBnXkFtZTcwNDEwNjgzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 195,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clint Howard on playing Gregory Tudor: \"Both Norman and I knew exactly what kind of movie we were making. It was a tongue-in-cheek horror movie.\"",
+      "icon": "mic",
+      "byline": "Clint Howard",
+      "source": {
+        "type": "interview",
+        "url": "https://willharris.substack.com/p/random-anecdotes-from-early-interviews-440"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "To get Gregory's raspy voice, star Clint Howard screamed at the top of his lungs while driving to the set every day.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clint Howard modeled Gregory on a real ice cream man in his hometown who swore at children.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Paul Norman was an adult-film director who made about 134 porn movies. Ice Cream Man was his one and only mainstream feature.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0032540"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Eyeball chewing. Waffle-iron to the face. Head on a cone. Heads on ice cream scoops.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The first draft of the script was written in just three days. An earlier draft was reportedly a straight spoof of the horror genre.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer David Dobkin later directed Wedding Crashers (2005) and Shanghai Knights (2003).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/David_Dobkin_(director)"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Norman was inspired by The Goonies, The Monster Squad and the miniseries It, and set out to make a horror film aimed at kids.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shot in March 1994 on about a $2 million budget, partly in director Paul Norman's own neighborhood and inside his own house.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was partly sponsored by Converse, so actors were told to wear Chuck Taylor All-Stars. Notice how many shots feature shoes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gregory's flavor menu is gross: reviewers note eyeballs folded into pistachio and fingernails in cookie dough, all served to unsuspecting kids.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://morbidlybeautiful.com/tubi-tuesday-ice-cream-man/"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Real ice cream would have melted under the lights, so mashed potatoes stood in for ice cream in many shots.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The supermarket lipstick woman, credited as Britannica Paris, is adult star Tori Welles, then Norman's wife. They wrote the scene because she wanted to be in the movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The supermarket manager is played by Doug Llewelyn, original host and reporter of TV's The People's Court.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gregory's van has the vanity plate \"AAH BOO.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Child actor JoJo Adams wore a pillow under his shirt to play the chubby Tuna Cassera, a name that puns on tuna casserole.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0011092"
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Norman's son Nicholas appears as a little boy waiting in line for Gregory's ice cream.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clint Howard says strangers still shout \"Hey, man, you were the ice cream man!\" at him on the street. He calls the odd, campy movie \"a notch on my gun belt.\"",
+      "icon": "mic",
+      "byline": "Clint Howard",
+      "source": {
+        "type": "interview",
+        "url": "https://willharris.substack.com/p/random-anecdotes-from-early-interviews-440"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Clint Howard is the younger brother of director Ron Howard and has appeared in 17 of Ron's films, including Apollo 13 and Solo.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-star David Naughton, who plays Martin Cassera, reportedly loved the script because it reminded him of An American Werewolf in London, in which he starred.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1875,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sandahl Bergman (Marion Cassera) was Valeria in Conan the Barbarian (1982), winning a Golden Globe as New Star of the Year. Here she plays a kid's mom.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Sandahl_Bergman"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "David Warner, who plays Reverend Langley, shot all his scenes in just two days.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Baseball star Steve Garvey, who plays Mr. Spodak, worked one day and spent half of it signing baseballs for fans who came to the set.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2175,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Olivia Hussey, who plays Nurse Wharton, was Juliet in Zeffirelli's Romeo and Juliet (1968) and the lead in proto-slasher Black Christmas (1974). Hence her scream-queen label.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Olivia_Hussey"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jan-Michael Vincent, who plays Detective Gifford, was reportedly drunk through much of production.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2325,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jan-Michael Vincent was once TV's highest-paid actor, earning $200,000 per episode of Airwolf. A decade later he was playing Detective Gifford in a direct-to-video ice cream slasher.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jan-Michael_Vincent"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Icepick through the mouth. Kung fu. Joe Bob also notes the special effects are surprisingly decent.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Wishing Well Sanatorium scenes were shot at an abandoned hospital in Altadena, near Pasadena. The satanic graffiti was already on the walls.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The ice cream plant was filmed in Topanga Canyon, and the kids' playground in Canoga Park.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filmmakers wanted a PG-13 rating, but the blood, gore and gross-out imagery earned an R.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Norman admitted he made \"a movie for preteens that no mother of preteens would allow them to see.\"",
+      "icon": "mic",
+      "byline": "Paul Norman — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clint Howard's first horror lead since Evilspeak (1981).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A victim's scream from this film was reused in German K-fee energy drink commercials.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie debuted at Chicago's Brew and View, at a Clint Howard Film Festival in 1995.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3525,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ice Cream Man hit video on May 9, 1995, from Ardustry Home Entertainment. It was a direct-to-video release, not a theatrical one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/324770/this-day-in-horror-history-clint-howard-was-born-in-1959"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Mill Creek DVD runs about 83 minutes and cuts roughly three minutes, including many death scenes. Vinegar Syndrome later released the full uncut version.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer David Goldstein called the film a \"total disaster\" because of a financial miscalculation.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mystery Science Theater 3000 alumni Michael J. Nelson, Bill Corbett and Kevin Murphy riffed the film as RiffTrax, released August 17, 2018.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Anndi McAfee, who plays Heather Langley, later voiced Cera in The Land Before Time sequels and Ashley Armbruster in Recess.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0563884",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzMDg3NDg2NF5BMl5BanBnXkFtZTcwMjkzMzMxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A 2014 Kickstarter for a sequel, Ice Cream Man 2: Sundae Bloody Sundae, wanted $300,000 but raised about $4,000 from 70 backers.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clint Howard announced in September 2025 that a sequel was in pre-production.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clint Howard reprised his Star Trek (1966) role as Balok for a gag in Comedy Central's Roast of William Shatner.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0397212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Heads on ice cream scoops, an icepick through the mouth, and a waffle iron to the face.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals: Three and a half stars. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eli Roth's 2026 horror film Ice Cream Man is NOT a remake or sequel of this one. It's a completely new story with the same title, which Roth reportedly developed for 20+ years.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://guides.justwatch.com/es/ice-cream-man-eli-roth-1995"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "There's also an acclaimed Ice Cream Man comic series from Image Comics by W. Maxwell Prince and Martin Morazzo, about a demonic ice cream vendor. It's unrelated to this movie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://guides.justwatch.com/es/ice-cream-man-eli-roth-1995"
+      }
+    }
+  ]
+}
