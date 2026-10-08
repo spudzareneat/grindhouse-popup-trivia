@@ -66,7 +66,7 @@ Node 22, no framework. Pipeline per run:
 5. **Validate** — schema check; drop uncited/too-long/unknown-icon facts; enforce spacing; clamp `t` to runtime; sort. <5 good facts → one retry.
 6. **Publish** — one commit per movie, push via deploy key.
 
-Runtime: Dockerfile (node:22-slim + `npm i -g @anthropic-ai/claude-code` + git + supercronic); `.env`: `CLAUDE_CODE_OAUTH_TOKEN` (from `claude setup-token`), `TMDB_API_KEY?`, `GIT_REMOTE`; deploy key mounted read-only. Cron Thu & Fri 03:00 local; movies processed sequentially with delay. CLI: `run`, `movie <tt|title>`, `--dry-run`, `--force`. Logs to stdout + end-of-run summary.
+Runtime: Dockerfile (node:22-slim + `npm i -g @anthropic-ai/claude-code` + git + supercronic); `.env`: `CLAUDE_CODE_OAUTH_TOKEN` (from `claude setup-token`), `TMDB_API_KEY?`, `GIT_REMOTE`; deploy key mounted read-only. Cron Wed 00:00, Thu 03:00, Fri 00:01 local; movies processed sequentially with delay. CLI: `run`, `movie <tt|title>`, `--dry-run`, `--force`. Logs to stdout + end-of-run summary.
 
 Errors: per-movie failure logged and skipped; feed failure → non-zero exit (next cron retries); CLI usage-limit → stop cleanly, finished movies already pushed.
 
