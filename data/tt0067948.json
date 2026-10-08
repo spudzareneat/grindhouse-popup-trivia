@@ -1,0 +1,167 @@
+{
+  "schema": 1,
+  "imdbId": "tt0067948",
+  "title": "The Invisible Dead",
+  "year": 1970,
+  "runtimeSec": 4920,
+  "generatedAt": "2026-10-08T10:58:05.613Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "For years fans assumed director Pierre Chevalier was a pseudonym for Spanish cult filmmaker Jess Franco. Reviewers say that's not true; Franco had no hand in this film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2017/03/11/orloff-against-the-invisible-man-1970/"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Howard Vernon first played Dr. Orloff in Jess Franco's 1962 chiller The Awful Dr. Orloff. This film is a loose, Franco-less spin on that character.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Howard Vernon appeared in about 40 of Jess Franco's films and nearly 200 productions overall, working with Godard, Fritz Lang, and Woody Allen too.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0894677",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzNkZTY3MWMtNTVmOS00YjEyLTg0ZTItMDQyOTQ3ZGNhOTI5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "During WWII, Howard Vernon (Professor Orloff) was a presenter on the Nazi-controlled Paris TV station Fernsehsender Paris, since he was Swiss and bilingual.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0894677",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzNkZTY3MWMtNTVmOS00YjEyLTg0ZTItMDQyOTQ3ZGNhOTI5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some scenes with nudity were shot twice: once bare, once with the actresses dressed or covered. That let distributors tailor the film to different markets.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film went by many titles: Orloff and the Invisible Man, Orloff Against the Invisible Man, Dr. Orloff's Invisible Monster, and The Love Life of an Invisible Man.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/orloffinvisible.html"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filmed in France at the Château de Verderonne, in the Oise region north of Paris. The nearby village cemetery also appears in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital's review calls the film a mix of 'Gothic ambience and Ed Wood insanity.' It's a European exploitation oddity.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/orloffinvisible.html"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-star Paco Valladares (Dr. Garondet) was the Spanish dubbing voice of Clint Eastwood in The Good, the Bad and the Ugly.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0884844",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM5ZTczNjktMmUzYi00MzczLWE3YjAtZWY1NzZlNzkwOGVjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was a French-Spanish co-production, released by Eurociné in 1970. It reached Canada in 1974 as Secret Love Life of the Invisible Man.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Orloff_and_the_Invisible_Man"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fernando Sancho, who plays the gamekeeper, was a Spaghetti Western staple. He also played a Turkish sergeant in Lawrence of Arabia.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0761100",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDI5ZmJkZDQtYWEwZS00OGNiLTgxNjQtY2VlMjk2MzYzNmM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wizard Video put this out on American VHS as The Invisible Dead. The Orloff name only returned with the later DVD release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/orloffinvisible.html"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Pierre Chevalier began as an assistant to Marcel Carné and René Clément. He later made erotic and porn films, plus this one horror cult item.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0156668"
+    }
+  ]
+}
