@@ -1,0 +1,347 @@
+{
+  "schema": 1,
+  "imdbId": "tt0108223",
+  "title": "Stepmonster",
+  "year": 1993,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-10-08T10:01:37.782Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stepmonster was made at Roger Corman's New Horizons, which Billy Corben (Todd) recalls shot \"literally a movie a month\" in an \"insane B-movie factory\" system.",
+      "icon": "camera",
+      "byline": "Billy Corben — Todd",
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Billy Corben, who plays Todd, grew up to be a documentary director (Cocaine Cowboys, The U). He was 14 on this shoot, acting beside TV dads he knew from Nick at Nite reruns.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      },
+      "person": "nm0169253",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQ0MDNhNTQtNzQxNi00MjljLWExM2MtZmIxZjk5YWJlMzRjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The monster's name, \"Tropopkin,\" wasn't in Fred Olen Ray's first script. Screenwriter Craig Nevius, who rewrote it, coined the name.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/166442/cult-film-legend-fred-olen-ray-talks-birth-stepmonster"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ami Dolenz (Wendy) is the daughter of Micky Dolenz of The Monkees, who visited the set, according to costar Billy Corben.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alan Thicke (George) is best known as Dr. Jason Seaver on the sitcom Growing Pains, and is the father of singer Robin Thicke.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0005484",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIxOTU2OTg4M15BMl5BanBnXkFtZTYwMjk1ODc0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Fred Olen Ray first wanted cult actress Mary Woronov (Eating Raoul) as the stepmother, but he chose Robin Riker, whom he knew from the sitcom Get a Life with Chris Elliott.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/166442/cult-film-legend-fred-olen-ray-talks-birth-stepmonster"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On her last day, Robin Riker (Denise) gave the whole cast and crew framed, personalized Tropopkin comic book art, says Billy Corben.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      },
+      "person": "nm0726939",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTMxMTEtNWVkYy00YjYxLTliZDItMTA4MmIwNGU2N2Q5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A music video on the TV in this movie is \"Open Your Eyes\" by Lords of the New Church.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alan Thicke (George) co-wrote and sang the theme songs to the sitcoms Diff'rent Strokes and The Facts of Life.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Corey Feldman (Phlegm) told young Billy Corben's mother that Billy reminded him of himself at that age.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Olen Ray's original script had a kid rigging Rube Goldberg-style traps for his stepmother, like an unmade bed wired to a bear trap that would nearly slice her in half.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/166442/cult-film-legend-fred-olen-ray-talks-birth-stepmonster"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jeremy Stanford's first cut reportedly earned an R rating for gore, so he trimmed the monster attacks to get a softer rating.",
+      "icon": "censor",
+      "byline": "Billy Corben — Todd",
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cinematographer Wally Pfister shot Stepmonster years before winning the Best Cinematography Oscar for Christopher Nolan's Inception (2010).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Molly Cheek (Abby) later played Jim's mom in American Pie and its sequels.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0154882",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjA3MjczNV5BMl5BanBnXkFtZTcwNzM4MDAxMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Tropopkin makeup was created by Gabe Bartalos, whose credits include Gremlins 2, Frankenhooker and Leprechaun.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/tag/robin-riker/"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline: \"She's mean. She's green. She's your new mom!\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stepmonster was Roger Corman's bid to cash in on the kid-friendly monster movies Charles Band's Moonbeam label was selling. Fred Olen Ray was a guest producer.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/tag/robin-riker/"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alice Hirson played Shirley here and later became well known as the mother of Ellen DeGeneres' character on the sitcom Ellen from 1994 to 1998.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists 0% positive reviews from five critics, but Dread Central's retrospective called it \"full of ridiculous humor, a fun monster, and enjoyable cast performances.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Though a direct-to-video horror comedy, Stepmonster later aired on the Disney Channel during free preview weekends.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/tag/robin-riker/"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fans have noted similarities to 1985's Fright Night: a horror-loving kid discovers a real monster that nobody else believes in.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robin Riker (Denise) made her film debut in the 1980 killer-gator horror film Alligator, thirteen years before playing this monster.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0726939",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTMxMTEtNWVkYy00YjYxLTliZDItMTA4MmIwNGU2N2Q5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Billy Corben (Todd) thought composer Terry Plumeri's score was \"brilliant,\" calling it a clever Bernard Herrmann pastiche in the style of a 1990s children's horror movie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Young Billy Corben (Todd) asked George Gaynes, who plays Todd's grandfather Norman and was TV's Punky Brewster co-star, to say his famous catchphrase on set.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Billy Corben (Todd) was thrilled to act with John Astin, who plays the minister. Corben knew him as Gomez from the original The Addams Family, which he watched on Nick at Nite.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Edie McClurg, who plays psychiatrist Dr. Emmerson, was also the school secretary in Ferris Bueller's Day Off. Billy Corben (Todd) was excited to meet her.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Billy Corben (Todd) says the cast understood the material: nobody took the B-movie too seriously, \"and yet nobody was making fun of it.\"",
+      "icon": "mic",
+      "byline": "Billy Corben",
+      "source": {
+        "type": "interview",
+        "url": "https://www.dreadcentral.com/news/170113/embracing-roger-cormans-stepmonster-filmmaker-billy-corben/"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stepmonster was released by Roger Corman's Concorde-New Horizons on February 24, 1993, and played limited theatrical dates advertised in the Los Angeles Times before hitting video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/166442/cult-film-legend-fred-olen-ray-talks-birth-stepmonster"
+      }
+    }
+  ]
+}
