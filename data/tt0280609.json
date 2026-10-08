@@ -1,0 +1,896 @@
+{
+  "schema": 1,
+  "imdbId": "tt0280609",
+  "title": "Dog Soldiers",
+  "year": 2002,
+  "runtimeSec": 6300,
+  "generatedAt": "2026-10-08T10:05:54.643Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The silver letter opener in the opening scene was nicknamed 'Excalibur' by director Neil Marshall. It's more than a gag: silver matters in a werewolf movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dog Soldiers is set in the Scottish Highlands but was shot mostly in Luxembourg, thanks to tax deals. Director Neil Marshall remembers it 'was all covered in mud.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A producer pushed to retitle the film 'Night of the Werewolves.' Director Neil Marshall and others fought it off. It was always Dog Soldiers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 225,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jason Statham was first choice for Private Cooper, the role played here by Kevin McKidd. He dropped out for John Carpenter's Ghosts of Mars, so Cooper kept McKidd's natural Scottish voice.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0571727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjUxNTQ3OV5BMl5BanBnXkFtZTcwOTg4Mjc5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The budget was only about £2.3 million, and director Neil Marshall shot it as his first feature. It went on to cult status in the UK.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 380,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Insurance didn't cover the actors jumping from the helicopter, so ex-army crew members did it instead. They also doubled as Sgt. Wells' soldiers in some marching shots.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 425,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A soldier refusing to leave the helicopter ('I'm not going!') is a nod to Apocalypse Now (1979), where a soldier also refuses to leave the chopper and is pulled out.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Sean Pertwee (Sgt. Wells) signed on before the film had any funding, hoping his name would help. Marshall says Pertwee told him: 'come back to me when you've got the money.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmstories.co.uk/features/neil-marshall-interview-dog-soldiers-on-4k-game-of-thrones-centurion/"
+      },
+      "person": "nm0675730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDcwNjkxMV5BMl5BanBnXkFtZTgwNTM5MzcwMTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 515,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Simon Pegg was offered the role of Spoon (the soldier who forgot his watch). He turned it down because he'd promised Edgar Wright that his first horror would be Shaun of the Dead.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The England v Germany match is real: England won 5-1 in Munich on 1 September 2001, a full-moon night. The film's end credits show that headline.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 605,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Sgt. Harry G. Wells is named for H.G. Wells, a favorite author of director Neil Marshall. His line 'I'll count, won't I?' about the missing watch is a time-machine joke.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Neil Marshall wrote the first draft in 1996. Financing took six years, and by the shoot he was on roughly the 17th or 18th draft.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 712,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cooper's 'escaped lunatic' line echoes An American Werewolf in London (1981). Villagers there use the same phrase for the attacker.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 770,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kevin McKidd (Cooper) cracked a rib in his first days of shooting and hid it for about two weeks, fearing he'd be recast.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjUxNTQ3OV5BMl5BanBnXkFtZTcwOTg4Mjc5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 830,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The photo of Sgt. Wells' wife is a picture of director Neil Marshall's sister, Sue.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 875,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Campfire game: every soldier's named fear foreshadows how they die. Joe dreads a penalty shoot-out and Terry fears watching one with Joe. Both get grim payoffs later.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For years Dog Soldiers was reportedly among the most-watched films among British forces in Afghanistan and Iraq.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 965,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sean Pertwee (Sgt. Wells) got the script via actor Jason Isaacs. He found the dialogue dense at first, but ended up perfect as the squad's boss.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/dog-soldiers-wild-history-of-most-action-packed-werewolf-movie-ever-made"
+      },
+      "person": "nm0675730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDcwNjkxMV5BMl5BanBnXkFtZTgwNTM5MzcwMTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1010,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "'Eddie Oswald' is a running gag: director Neil Marshall has slipped that name into every feature he has made, as dialogue or on signs, never as a real character.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1065,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The flying cow scene once ran longer. The soldiers cut steaks to cook, with Sgt. Wells calling them savages, but it was trimmed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs showed Dog Soldiers on The Last Drive-In (Season 7). He praised it as a 'soldier flick with werewolves' rather than a werewolf flick with soldiers.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://joebobbriggs.com/the-last-drive-in-season-7-episode-5-dog-soldiers-and-bad-moon/"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Neil Marshall's father and grandfather both served in the military. He says that's where the soldiers' gallows humor comes from.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1265,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kevin McKidd (Cooper) was sent the script at the theatre, two weeks before shooting. He wasn't keen, but after 15 minutes with Neil Marshall he flew to Luxembourg the morning after his play closed.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.eyeforfilm.co.uk/feature/2003-06-20-trainspotting-star-gets-teeth-into-scottish-werewolf-movie-feature-story-by-brian-pendreigh"
+      },
+      "person": "nm0571727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjUxNTQ3OV5BMl5BanBnXkFtZTcwOTg4Mjc5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1327,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Sgt. Wells' Little Red Riding Hood line is part of a fairytale motif. Later come Goldilocks (they eat the family's food) and Three Little Pigs jokes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the US, Dog Soldiers skipped cinemas and premiered on the Sci-Fi Channel. Marshall blames producers taking the first offer, though it played a week at LA's Egyptian Theatre.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1505,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Spoon's 'Kobayashi Maru' line is a Star Trek II: The Wrath of Khan (1982) reference: a no-win test they say has been rigged against them.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sean Pertwee's gut-wound scenes used raw sausages. They went off and stank, and the sticky fake blood nearly froze on him in the cold.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0675730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDcwNjkxMV5BMl5BanBnXkFtZTgwNTM5MzcwMTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The stilt-walking dancers inside the werewolf suits could barely see out of tiny mouth holes. Director Neil Marshall recalls them 'staggering around on stilts' in the Luxembourg mud.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/dog-soldiers-wild-history-of-most-action-packed-werewolf-movie-ever-made"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes gives Dog Soldiers 82%: 'Frightening, funny, and packed with action,' marking Neil Marshall as a talent to watch.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1875,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Neil Marshall says he wrote Dog Soldiers as a knee-jerk reaction to An American Werewolf in Paris (1997), which he thought was terrible.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bad weather made outdoor driving shots impossible, so the scene of Megan's van carrying the soldiers was filmed inside a barn with crew members rocking the vehicle.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2072,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "'Little pigs, little pigs, we've come to nick your video!' is one of the film's many folk-tale jokes about soldiers holing up in a house to keep out the wolves.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Sam the border collie's real name was Villrikke's Acer. Marshall calls him 'very lovely' but the worst-trained movie dog he's worked with.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2190,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The farmhouse is two builds: the exterior was a front wall, side wall and roofs on location, while the interiors were on a separate set. Production designer Simon Bowles planned it with models.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2260,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Kevin McKidd (Cooper) is Scottish and spotted that nowhere in Scotland is a four-hour drive from anywhere, as Megan claims here. He kept quiet.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjUxNTQ3OV5BMl5BanBnXkFtZTcwOTg4Mjc5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2332,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Neil Marshall used dancers instead of stuntmen for the werewolves to give them grace. The creatures also wore stilts, making them about a foot taller.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scifinow.co.uk/interviews/dog-soldiers-interview-with-neil-marshall/"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Actor Leslie Simpson (Terry) vomits on Liam Cunningham's head, and director Neil Marshall says it took several takes. His laughter on the commentary suggests the 'had to' is suspect.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Neil Marshall could only afford two mechanical werewolf heads and three body suits, so sound design and clever camera tricks made the pack seem bigger.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.eyeforfilm.co.uk/feature/2003-06-20-trainspotting-star-gets-teeth-into-scottish-werewolf-movie-feature-story-by-brian-pendreigh"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2548,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Spoon's Rorke's Drift speech is one of several nods to the 1964 film Zulu. Wells later paraphrases Zulu's Colour Sgt. Bourne: 'you'll upset the lads.'",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2634,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'Short controlled bursts' is a direct Aliens (1986) homage. The film has several more, including the siege, the generator cut-out and a debate over interrogating the man who knows most.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2706,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The super-glue idea came late. The scene was just going to have Wells stitched up, but director Neil Marshall heard about glue used in the Vietnam War and rewrote it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2779,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "'Sausages!' was an ad-lib by Sean Pertwee (Sgt. Wells).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0675730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDcwNjkxMV5BMl5BanBnXkFtZTgwNTM5MzcwMTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2834,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Sean Pertwee was really drunk for this scene, with director Neil Marshall's okay. Kevin McKidd's second punch accidentally clipped his nose, and Pertwee barely felt it.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Neil Marshall skipped CGI morphs for the transformations. They happen mostly offscreen, a nod to his love of Hammer-style horror and Carry On Screaming.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2975,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Emma Cleasby (Megan) made her film debut here. She later reunited with director Neil Marshall and star Sean Pertwee in Marshall's 2008 sci-fi action film Doomsday.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0165881",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWI5YTExNzctYmMxOC00MGM4LWJhOTAtMzZhZmU2NzI5NzFmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cooper wasn't written as Scottish, since Jason Statham was the frontrunner. That may be why nobody questions Megan's claim that the nearest town is four hours away.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The piano piece Megan plays is Debussy's 'Clair de Lune' ('moonlight'), possibly a nod to An American Werewolf in London, whose soundtrack was all songs with 'moon' in the title.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3275,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The squad's shoulder badge, a wolf's head with a spear through it, was designed by director Neil Marshall himself. He admits it's not easy to spot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin McKidd (Cooper) later voiced Captain 'Soap' MacTavish in Call of Duty: Modern Warfare 2 and 3. He's also the Disney-Pixar voice of Lord MacGuffin in Brave.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0571727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjUxNTQ3OV5BMl5BanBnXkFtZTcwOTg4Mjc5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3412,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actor Craig Conway, who plays the doomed camper in the opening, was cast late. The first actor dropped out, so Conway faked illness to skip a stage play and fly to Luxembourg for two days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3475,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script had the dog pull at the wounded soldier's exposed intestines. Director Neil Marshall softened it to a bandage, but people think it's guts anyway.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Liam Cunningham (Captain Ryan) is an Irish actor and a former electrician. He later played Ser Davos Seaworth in Game of Thrones.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0192377",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMDM0NzQ5NV5BMl5BanBnXkFtZTcwNDkyODQyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Planned sequels for Dog Soldiers never happened. One idea had Cooper committed to a mental asylum with a werewolf inside, and director Neil Marshall says he doesn't own the rights.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The backstory linking Megan and Captain Ryan was added at producers' request. Director Neil Marshall says on the commentary that he dislikes it and that it doesn't make sense.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Neil Marshall was once set to direct Drive (2011) but was replaced by Nicolas Winding Refn.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Chris Robson (Joe) admitted on the night of this scene that he couldn't drive. Director Neil Marshall made him try it anyway, and he drove off the road on the first take.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spoon's taunt 'Come on, you beauties!' echoes a line from the war movie The Wild Geese (1978).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Darren Morfitt (Spoon) is a trained boxer, so his one-on-one fight with a werewolf used his real boxing skills.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Neil Marshall later directed Game of Thrones episodes 'Blackwater' and 'The Watchers on the Wall', earning an Emmy nomination for the latter.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dog Soldiers won the Golden Raven (top prize) and the audience Pegasus award at the Brussels International Festival of Fantasy Film in 2002.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4575,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Neil Marshall once planned Dog Soldiers as the first of a trilogy, with Cooper facing zombie and Frankenstein-inspired sequels. It never happened.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.eyeforfilm.co.uk/feature/2003-06-20-trainspotting-star-gets-teeth-into-scottish-werewolf-movie-feature-story-by-brian-pendreigh"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original negative went missing for years. Marshall joked it was like finding 'the lost Ark of the Covenant', and an old Pathé print was used for a Blu-ray before the negative turned up.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmstories.co.uk/features/neil-marshall-interview-dog-soldiers-on-4k-game-of-thrones-centurion/"
+      }
+    },
+    {
+      "t": 4695,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Liam Cunningham (Captain Ryan) was recommended for the Eighth Doctor in the 1996 Doctor Who TV movie. Paul McGann got it, so Cunningham missed becoming the first non-British Doctor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0192377",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMDM0NzQ5NV5BMl5BanBnXkFtZTcwNDkyODQyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4740,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cooper's 'Zabriskie Point' line is a nod to the 1970 film's explosions. Director Neil Marshall thinks it features 'one of the greatest cinematic explosions ever.'",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Neil Marshall edited professionally for about eight years before this. Studios kept saying horror wasn't 'their cup of tea' before it was finally financed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scifinow.co.uk/interviews/dog-soldiers-interview-with-neil-marshall/"
+      }
+    },
+    {
+      "t": 5010,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Neil Marshall was knocked back by the shock wave of the real barn explosion and burst out laughing, forgetting the cameras were running.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dog Soldiers made Marshall's name. His next film, The Descent (2005), is the other title he's best known for as a horror director.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0551076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5225,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The long-planned sequel Dog Soldiers: Fresh Meat was announced in 2004 with a $5.5 million budget. Its werewolves were to be a trained military unit, but it never got made.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Neil Marshall wanted the werewolves to be a straight enemy, not a tragic curse. He steered clear of 'how awful it is to be a werewolf' clichés.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dog Soldiers got shout-outs in later comedies, including Tucker and Dale vs Evil (2010) and Hot Tub Time Machine (2010).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5510,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Some of the corpses in the cellar were reused from Event Horizon (1997). Sean Pertwee (Sgt. Wells) was in both movies.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0675730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDcwNjkxMV5BMl5BanBnXkFtZTgwNTM5MzcwMTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5555,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'There is no Spoon' is a nod to The Matrix (1999). Marshall says the character wasn't named just to set up the joke.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5605,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Spoon was originally to be ripped in half by the werewolves. Director Neil Marshall cut it, afraid the gore would kill the laugh from his punchline.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The shot of Ryan's head exploding was improvised. The shoot ran ahead of schedule, so the crew grabbed a prop werewolf head and asked director Neil Marshall what else he'd like.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5900,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dog Soldiers made about $3.5 million on a reported $2 million budget, per TMDB. It grew mostly by word of mouth.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 6000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The closing-credits tabloid headline 'Werewolves Ate My Platoon!' sits under a front page celebrating England's 5-1 win over Germany.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
