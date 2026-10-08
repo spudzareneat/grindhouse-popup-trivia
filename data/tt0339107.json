@@ -1,0 +1,329 @@
+{
+  "schema": 1,
+  "imdbId": "tt0339107",
+  "title": "Hayride Slaughter",
+  "year": 2001,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-10-08T10:30:33.461Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Gary Whitson's New Jersey studio W.A.V.E. Productions has made over 400 shot-on-video features since 1987, often letting fans script and finance their own custom horror movies.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lunchmeatvhs.com/products/mail-order-murder-the-story-of-w-a-v-e-productions-vhs"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2020 documentary on director Gary Whitson's W.A.V.E. Productions cost only about $10,000 to make, $9,000 of it raised on Indiegogo, and took three years. Very on-brand for W.A.V.E.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://headpress.com/blog/2021/08/19/i-ended-up-being-in-two-of-their-films-that-night/"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A documentary, Mail Order Murder: The Story of W.A.V.E. Productions, interviews Hayride Slaughter's Tina Krause and Debbie D about working for director Gary Whitson's no-budget horror factory.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lunchmeatvhs.com/products/mail-order-murder-the-story-of-w-a-v-e-productions-vhs"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Hayride Slaughter director Gary Whitson was a math teacher who spotted video's potential for horror in 1987, then quit the classroom to make W.A.V.E. movies full-time.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://headpress.com/blog/2021/08/19/i-ended-up-being-in-two-of-their-films-that-night/"
+      },
+      "person": "nm0926387",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk4OWEyYTctOGNhOS00ZDRmLTgyYjktODA2OTQxYWRiYjgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Tina Krause (Desire Varga) began her film career in director Gary Whitson's Sorority Slaughter (1994), a gore flick famous for its absurdly long car-washing scenes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://vinegarsyndrome.com/products/sorority-slaughter-saturns-core"
+      },
+      "person": "nm0470268",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NTIzOTU0OF5BMl5BanBnXkFtZTcwMDg1MTU0MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "W.A.V.E. Productions' first title was Sisters (1988). Hayride Slaughter came out of the same New Jersey shot-on-video operation 13 years later.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nostalgiakinky.com/2023/04/02/mail-order-murder-the-story-of-w-a-v-e-productions-2021/"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tina Krause was discovered at New York's Chiller Theatre convention and has since appeared in dozens of indie horror and erotic comedy features, earning the nickname \"Indie Horror Queen.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tina_Krause"
+      },
+      "person": "nm0470268",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NTIzOTU0OF5BMl5BanBnXkFtZTcwMDg1MTU0MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "W.A.V.E. Productions, the studio behind Hayride Slaughter, also made several films devoted entirely to women sinking in quicksand. Custom orders were a specialty.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/01/31/mail-order-murder-the-story-of-w-a-v-e-productions-2020/"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Directors who worked for Gary Whitson's W.A.V.E. in the 1990s were astounded to learn in 2016 that their old boss was still cranking out his strange shot-on-video films.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/01/31/mail-order-murder-the-story-of-w-a-v-e-productions-2020/"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tina Krause also directed: her 1999 horror film Limbo was inspired by her own nightmares.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tina_Krause"
+      },
+      "person": "nm0470268",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NTIzOTU0OF5BMl5BanBnXkFtZTcwMDg1MTU0MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1975,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The W.A.V.E. documentary's co-director William Hellfire worked for Gary Whitson in the 90s. He says the films inspired him: 'how hard can it be' if no one expects more than mediocre?",
+      "icon": "mic",
+      "byline": "William Hellfire",
+      "source": {
+        "type": "web",
+        "url": "https://headpress.com/blog/2021/08/19/i-ended-up-being-in-two-of-their-films-that-night/"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tina Krause says her dad got her into horror as a kid. Her favorites include The Thing, The Shining, Hereditary and the Korean revenge thriller I Saw the Devil.",
+      "icon": "mic",
+      "byline": "Tina Krause",
+      "source": {
+        "type": "web",
+        "url": "https://www.grimoireofhorror.com/the-banshee/an-interview-with-tina-krause-indie-scream-queen/"
+      },
+      "person": "nm0470268",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NTIzOTU0OF5BMl5BanBnXkFtZTcwMDg1MTU0MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2425,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One Blu-ray reviewer says about a third of Hayride Slaughter is padding: a long magic act and characters chatting in a motel room, with little murder and few actual hayrides.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://brianorndorf.com/2024/03/09/blu-ray-review-hayride-slaughter/"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Jim O'Rear (Clifford James) didn't just act: he also wrote and sold horror screenplays, including Hayride Slaughter itself, plus Vampyre Tales, Wolfsbayne and The Deepening.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.imdb.com/name/nm1252668/"
+      },
+      "person": "nm1252668",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODg1Nzg3M15BMl5BanBnXkFtZTcwNzQ2MzAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2875,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A Letterboxd reviewer notes the film doubles as a document of a real-life haunted attraction, Frightland, with plenty of runtime spent just wandering its scares.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://letterboxd.com/jlalibs/film/hayride-slaughter/"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before leading Hayride Slaughter, Jim O'Rear worked as a stuntman and effects artist on projects like Star Trek IV, Lethal Weapon 3 and Stephen King's The Boogeyman, according to his bio.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://watch.plex.tv/da/person/jim-orear"
+      },
+      "person": "nm1252668",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODg1Nzg3M15BMl5BanBnXkFtZTcwNzQ2MzAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3325,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "W.A.V.E. alumni went mainstream: Misty Mundae landed a role on Showtime's Masters of Horror after W.A.V.E.-style shoestring work.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://headpress.com/blog/2021/08/19/i-ended-up-being-in-two-of-their-films-that-night/"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jim O'Rear returned as his character Clifford James in the 2003 sequel Hayride Slaughter II, where he is reportedly hellbent on revenge.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cuevana3.jpn.com/peliculas/hayride-slaughter-2001-927803y/"
+      },
+      "person": "nm1252668",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODg1Nzg3M15BMl5BanBnXkFtZTcwNzQ2MzAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3775,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dean Paul (Joseph Peale) also turned up in the W.A.V.E.-era titles The Necktie Strangler (2000) and The Blind Date Strangler (2003). Stranglers were a running theme.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0666799"
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Despite the 85-minute running time on this stream, Hayride Slaughter was listed at about 80 minutes on its June 15, 2001 US release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cuevana3.jpn.com/peliculas/hayride-slaughter-2001-927803y/"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Veronika Blu, the film's 1st Victim, also appeared in The Necktie Strangler (2000) and The Go-Go Girl Strangler! (2000). Her horror résumé is full of strangler titles.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm6995322"
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "W.A.V.E. Productions' Sorority Slaughter and its sequel later got a Blu-ray debut, mastered from the original S-VHS tape, from Vinegar Syndrome's Saturn's Core label.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://vinegarsyndrome.com/products/sorority-slaughter-saturns-core"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Gary Whitson is still at it: he's credited on Mad Doctor of Zombie Island (2008) and Giftwrapped & Gutted (2019), nearly two decades after Hayride Slaughter.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0926387",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk4OWEyYTctOGNhOS00ZDRmLTgyYjktODA2OTQxYWRiYjgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jim O'Rear later premiered a haunt-themed horror film, Scream Farm: The Movie, at OmegaCon, a fitting return to Halloween attractions.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1252668",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODg1Nzg3M15BMl5BanBnXkFtZTcwNzQ2MzAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Debbie D (Erica Phillips) appears at sci-fi and fantasy conventions as her comic-book alter ego 'Destiny the Vampire Mermaid,' who is featured monthly in Scary Monsters Magazine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0213352",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0ODIwNTY4MF5BMl5BanBnXkFtZTYwNTU5Njky._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
