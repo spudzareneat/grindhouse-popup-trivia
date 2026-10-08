@@ -1,0 +1,622 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081159",
+  "title": "Midnight Madness",
+  "year": 1980,
+  "runtimeSec": 6720,
+  "generatedAt": "2026-10-08T10:34:08.434Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This theme song was written by director David Wechter and his father, composer Julius Wechter. Disney demanded disco, which both of them hated, and they had to beat out rival songwriters.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Disney released this without its name on it, hoping teens wouldn't shy away from 'kiddie' Disney fare. It was only the second Disney film rated PG, after The Black Hole.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/56253/15-fun-facts-about-midnight-madness"
+      }
+    },
+    {
+      "t": 235,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Star David Naughton (Adam) was Dr Pepper's 'Be a Pepper' pitchman while filming, and he's seen drinking one on screen. He later starred in An American Werewolf in London.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Alan Solomon, who plays game master Leon, was picked out of a crowd for his unusual looks. He later went on to supervise and produce game shows.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Working titles went from The All-Night Treasure Hunt to The Ultimate Game to The Great All-Nighter. Midnight Madness won out in audience research tests.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://d23.com/a-to-z/midnight-madness-film/"
+      }
+    },
+    {
+      "t": 465,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Eddie Deezen, playing debate-team leader Wesley, had the role written for him. Directors Michael Nankin and David Wechter noticed him in I Wanna Hold Your Hand (1978).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 545,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Maggie Roswell, who plays feminist Red Team leader Donna, was making her feature debut here. She later voiced Maude Flanders and others on The Simpsons.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/56253/15-fun-facts-about-midnight-madness"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Debra Clinger (Laura) sang the original demo of the theme song but got sick on recording day. Singer Donna Fein, a veteran studio vocalist, did the final vocal.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Stephen Furst (Harold) had just been in Animal House, and Disney wanted him. After a salary dispute, he went around his agents to the directors, who convinced the studio to pay up.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 915,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Harold's van hides small details: a framed photo of his dad in back and a 'WILL WIN' license plate.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1015,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Carol Gwynn Thompson told the directors she had a twin sister, so they invented the Red Team's giggling twins Peggy and Lulu. She'd played a gym teacher in their short Junior High School.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Disney production chief Ron Miller backed this after hearing the all-night scavenger hunt pitch. Young directors Michael Nankin and David Wechter grew it from a 20-page treatment to a 70-page outline.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Midnight_Madness_(1980_film)"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film is based on a real LA all-night scavenger hunt, first staged in 1973 by graphic designer Don Luskin.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/56253/15-fun-facts-about-midnight-madness"
+      }
+    },
+    {
+      "t": 1275,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Green Team's 'Meat Machine' chant got a nod in Robot Chicken's 2006 episode '1987.' The show also parodied this film in its episode 'Badunkadunk.'",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film cost about $4.5 million, and Variety reported the night shoot ran over by $500,000 or more. It grossed just $2.9 million, so it earned back less than two-thirds of its budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56465"
+      }
+    },
+    {
+      "t": 1545,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Irene Tedrow plays landlady Mrs. Grimhaus, but Joan Blondell was cast first. She clashed with the directors and was fired.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Directors Michael Nankin and David Wechter needed a special Directors Guild waiver to co-direct. It was granted June 13, 1979, as a 'one-time, non-precedential' exception for their feature debut.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56465"
+      }
+    },
+    {
+      "t": 1735,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Griffith Observatory scenes were shot on location in Los Angeles. The film used 25 LA locations, from the Hollywood Wax Museum to Occidental College.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://d23.com/a-to-z/midnight-madness-film/"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Locations besides the famous ones included Osko's Disco and the Sherman Clay Piano Museum. In all, the crew shot at 25 Los Angeles spots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://d23.com/a-to-z/midnight-madness-film/"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "John Fiedler, who plays tenant Wally Thorpe, was the voice of Piglet in Disney's Winnie the Pooh films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/56253/15-fun-facts-about-midnight-madness"
+      }
+    },
+    {
+      "t": 2190,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Michael J. Fox, playing Adam's kid brother Scott, made his film debut here. He was over 18 but could pass for 15, so the studio did makeup tests and had him stand beside tall cast members.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2310,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The infamous nonsense word 'Fagabeefe' comes from the Pabst Blue Ribbon jingle's notes. Budweiser turned the filmmakers down, so they used Pabst's brewery instead.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The all-night shoots wore out cinematographer Frank V. Phillips, who was nearly 70. His wife wrote the directors begging them not to kill him, and he left; an uncredited replacement finished.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2570,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The brewery scenes were shot at the real Pabst Brewery in Los Angeles, at 1980 N. Main Street.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2775,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Johnie's Coffee Shop on Wilshire Boulevard played 'Johnie's Fat Boy' and closed in 2000. The building has been used for filming ever since.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sal Lopez, who plays the switchblade-flicking Blue Team member Blade, kept begging the directors for a line of dialogue. They never gave him one.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Busty Waitress was played by stuntwoman Donna Garrett, a frequent double for Raquel Welch. She was hired for her physique and her ability to do pratfalls.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brad Wilkin, who plays Green Team leader Lavitas, is the son of the film's casting director. She used her maiden name, so Disney executives didn't know until production was underway.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3413,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'This is the happiest day of my life!' came from director David Wechter's family. His brother said it at 13, the first time he got drunk.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film inspired Joe Belfiore, a Florida high-schooler, to create a similar game. Later at Microsoft it became 'The Game,' which in turn inspired the 1997 David Fincher movie The Game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brooklyn hip-hop duo Heltah Skeltah sampled this movie's theme song for their own track, also titled 'Midnight Madness.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in summer 1979, and the short nights meant the crew kept fighting the first light of dawn.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Julius Wechter, leader of the Baja Marimba Band and father of co-director David Wechter, co-wrote the songs. It was his first major film score.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56465"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Atlanta's 'Get A Clue' all-night game, running since 1989, credits this movie as its inspiration. Many other real-life all-night hunts have borrowed the title.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://adamjahnke.substack.com/p/disney-plus-or-minus-midnight-madness"
+      }
+    },
+    {
+      "t": 4270,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "During the LAX airport shoot, Eddie Deezen (Wesley) amused the crew by crawling into the X-ray machine.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4430,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Kojak jab refers to the 1970s cop show Kojak, starring Telly Savalas, one of the TV references the film makes.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Paul Reubens plays the Pinball City proprietor. Directors Michael Nankin and David Wechter saw him workshopping Pee-wee Herman live, and Disney execs thought he was too weird.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Star Fire game is a real 1978 arcade title, but the production built a special stand-up cabinet. The real one was an enclosed sit-down cockpit.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4865,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Oscar-winning screenwriter Diablo Cody programmed this film at LA's New Beverly Cinema in 2008. She got cast and crew to join a Q&A.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/56253/15-fun-facts-about-midnight-madness"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pinball City was a real miniature golf course, Castle Park in North Hollywood, closed in 1998. About 20 real pinball machines are visible, including Wizard and Evel Knievel.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Directors Michael Nankin and David Wechter were barely in their twenties when Disney hired them. That made them among the studio's youngest live-action filmmakers.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://adamjahnke.substack.com/p/disney-plus-or-minus-midnight-madness"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nankin and Wechter had Disney hold a huge open casting call. They interviewed over 2,000 actors, and seven of 25 featured roles came from open calls.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://d23.com/a-to-z/midnight-madness-film/"
+      }
+    },
+    {
+      "t": 5230,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Andy Tennant (Blue Team's Melio) shot the van interrogation scene with the flu and a fever over 103 degrees. He later became a Hollywood director.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film grossed only $2.9 million in North America, and Disney reportedly lost $1.6 million. It still became a cult favorite on cable and video.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film got a second life on early-1980s HBO, where kids discovered it. Disney didn't put its own name on the film until a 2004 DVD.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://adamjahnke.substack.com/p/disney-plus-or-minus-midnight-madness"
+      }
+    },
+    {
+      "t": 5584,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The 'mean machine between your legs' line is from Julius Wechter, father of director David Wechter. He said it to someone who showed up on a motorcycle in a Speedo.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert had loved the early work of directors Nankin and Wechter, so he was disappointed. Reviews were bad, and the release was limited.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Assistant director Bob Gossom worked on the directors' student films. When Disney assigned them someone else, they said the man was impossible to work with and finagled the job for Gossom.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The final night at the Westin Bonaventure became the most expensive shoot in Disney history up to then. Every cast and crew member and many extras were present, and it ran into overtime.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Poster artist David McMacken also painted posters for Steven Spielberg's 1941 and Frank Zappa's 200 Motels, plus album art for AC/DC and The Beach Boys.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6130,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Room 2704 and its hallway were sets built on a soundstage, not the real hotel. The Bonaventure's real corridors are curved.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-director Michael Nankin went on to direct episodes of Battlestar Galactica (2004) and was nominated for a Humanitas Prize for his writing.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002749",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZlZTVhMDAtM2UwMS00ZGZjLWE3MWQtNmZhNGZkN2QwMzQ1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 6330,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "For the wrap party, the producers ran a real 'Great All-Nighter' game for the cast and crew.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Years later, young Hollywood executives who grew up on the film would greet directors Michael Nankin and David Wechter starstruck in meetings.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
