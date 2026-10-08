@@ -1,0 +1,499 @@
+{
+  "schema": 1,
+  "imdbId": "tt0094597",
+  "title": "976-EVIL",
+  "year": 1988,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-08T10:20:01.084Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In this phone-booth explosion, the wire yanking the stuntman around is visible through the flames if you look closely.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 140,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actress Mindy Seeger, the film's Female Victim, is billed in the opening credits but is missing from the end credits. She was cast after the originally intended actress never showed up.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/58211-976-EVIL"
+      }
+    },
+    {
+      "t": 185,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Robert Englund, famous as Freddy Krueger, used his Elm Street clout to land this, his directorial debut. He took it because he loved the script by his longtime friend Rhet Topham.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 230,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "J.J. Cohen (poker bully Marcus) tested for Biff in Back to the Future but wasn't big enough next to Eric Stoltz. He played one of Biff's gang in all three BTTF films instead.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0169454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwMTA2MzgyN15BMl5BanBnXkFtZTcwMjE5OTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 275,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Brian Helgeland also wrote A Nightmare on Elm Street 4 in 1988. A decade later he won an Oscar for the L.A. Confidential screenplay.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brian_Helgeland"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Sandy Dennis, playing the Bible-thumping Aunt Lucy, won the Best Supporting Actress Oscar for Who's Afraid of Virginia Woolf? (1966) and two Tonys.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Sandy_Dennis"
+      }
+    },
+    {
+      "t": 365,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Stephen Geoffreys (Hoax) played the unforgettable 'Evil Ed' in Fright Night (1985). He was a 1984 Tony nominee for the Broadway musical The Human Comedy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0313267",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4Njc3ODk3N15BMl5BanBnXkFtZTcwNDk5NDIzNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 470,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "To promote the film, New Line Cinema ran a real daily 'Horrorscope' phone line at (900) 909-DARE, just like the one on screen.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/58211-976-EVIL"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The title refers to the 976 exchange, a late-80s premium-rate phone system since superseded by 900 numbers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Lisa M. Hansen brought the script to Robert Englund, then at peak fame as Freddy Krueger in Elm Street 4. He loved it and also got involved in many behind-the-scenes decisions.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.flickeringmyth.com/2020/10/blu-ray-review-976-evil-1988/"
+      }
+    },
+    {
+      "t": 798,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Jim Metzler (magazine reporter Marty Palmer) was a Dartmouth pitcher drafted by the Boston Red Sox. He got dropped and went to drama school.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0582773",
+      "image": "https://m.media-amazon.com/images/M/MV5BODM4M2U4MDktMWQ1Yy00ZDg0LThhMmMtM2U5ODc3MmRlOTNhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 905,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Hoax's head goes into the toilet with his hair soaking wet. Seconds later, when his cousin Spike saves him, it's totally dry.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Made for roughly $2 million, 976-EVIL grossed only $2,955,917 after a delay from its planned August 1988 release to a regional March 1989 opening.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/58211-976-EVIL"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The effects on this film came from Kevin Yagher, who created Freddy Krueger's makeup in Elm Street 2-4 and later built the Crypt Keeper puppet for TV's Tales from the Crypt.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kevin_Yagher"
+      }
+    },
+    {
+      "t": 1340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spike dials '666' at this pay phone, but the third tone sounds different from the first two. Three identical sixes should match.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1530,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spike's usual order at this diner is a deviled egg sandwich, a devilish touch for the movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1575,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lezlie Deane (Suzie) is a former Dallas Cowboys cheerleader. She fronted the rock band Scary Cherry and the Bang Bangs. This was her feature debut.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0213034",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjYzZjY1ZGMtNDBiMi00MWE3LTg2YWQtMjQzYmE1MTJhZjQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Washington Post was not kind: 'From start to finish, 976-EVIL is a sorry, wrong number.' It holds a 15% on Rotten Tomatoes, though AllMovie calls it underrated.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1815,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The El Diablo theater exterior is a miniature only four feet long and two feet high. Director Robert Englund says it was blended in with a technique called 'Inter-vision'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stephen Geoffreys, who played Evil Ed in Fright Night, can be spotted next to a Fright Night poster in the El Diablo projection room. It's a cheeky in-joke.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2080,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Stephen Geoffreys (Hoax) turned down the chance to reprise Evil Ed in Fright Night Part 2 (1988).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0313267",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4Njc3ODk3N15BMl5BanBnXkFtZTcwNDk5NDIzNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Robert Englund met his wife, set decorator Nancy Booth, while making this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2585,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The 'devil's root' Hoax uses has leaves said to resemble a devil's tail. The movie is loaded with devil puns.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2635,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Suzie sets her oven timer for 25 minutes, but the close-up of the clock reads 15.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2685,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Look behind Suzie's TV dinner: a box of snack cakes called 'Devil Twins', planted by the art department.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2735,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "About 150 tarantulas were used in this scene, but the atmospheric smoke made them so sluggish that the crew had to blow on them through straws to make them move.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/58211-976-EVIL"
+      }
+    },
+    {
+      "t": 2870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The original home-video version of 976-EVIL runs more than ten minutes longer than the standard theatrical cut, with extra character moments the theaters never saw.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://setthetape.com/2020/10/19/976-evil-1988-blu-ray-review/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewers have noted that parts of the film were reportedly touched up by an uncredited director. In a 2020 documentary, Robert Englund blamed producer interference for the choppiness.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/976-evil-1988.htm"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Picardo, who plays phone-line boss Mark Dark, debuted as werewolf killer Eddie Quist in The Howling (1981). Later he became the holographic Doctor on Star Trek: Voyager.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_Picardo"
+      }
+    },
+    {
+      "t": 3180,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "As the 976 company employee leads Marty to Mark Dark, the man says 'Follow me' but his mouth never moves.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3266,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mark Dark (Robert Picardo) laments that nobody cares about the underworld anymore, only 'Ewoks and E.T.' Both were 1980s blockbusters, and the film name-checks them.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Hoax's surgical glove vanishes and reappears from shot to shot through the frog dissection and the bathroom that follows.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3419,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The 'R + N' scrawled in the bathroom was placed by set decorator Nancy Booth so director Robert Englund would find it in the dailies, after the two began dating.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A rape scene between Marcus and Suzie was filmed, but it's missing from both the R-rated and unrated cuts.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "New Line released the producer's cut in theaters, straining relations with Robert Englund. The home-video release used his director's cut, and the studio then courted him for a sequel.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4096,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Hoax was to throw Marcus off a building roof, but the low budget moved the kill into a bathroom.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4455,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Aunt Lucy's parrot, credited as Quigley the Parrot, gets the last word with 'That's what the plastic's for.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4855,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "For Aunt Lucy's death by cats, the dummy of Sandy Dennis was stuffed with chunks of tuna fish. Robert Englund says the cats obeyed direction, unlike the spiders.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 1991 sequel, 976-EVIL II: The Astral Factor, was directed by Jim Wynorski and shares only actor Patrick O'Bryan (Spike) from the original.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/976-evil-1988.htm"
+      }
+    },
+    {
+      "t": 5130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Englund's pitch for 976-EVIL part two involved a cursed crisis line.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Brian Helgeland won both an Oscar and a Razzie in 1998 (L.A. Confidential and Conspiracy Theory). Only three people have done that.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brian_Helgeland"
+      }
+    },
+    {
+      "t": 5420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alt-metal band Deftones named a song on their album Diamond Eyes after this movie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
