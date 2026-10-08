@@ -1,0 +1,458 @@
+{
+  "schema": 1,
+  "imdbId": "tt0094886",
+  "title": "Clownhouse",
+  "year": 1989,
+  "runtimeSec": 4860,
+  "generatedAt": "2026-10-08T10:26:43.524Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Francis Ford Coppola, of The Godfather fame, bankrolled this film with $250,000 after being impressed by director Victor Salva's 1986 short Something in the Basement.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Victor Salva's 1986 short Something in the Basement won first place in the Sony/AFI Home Video Competition. That win put him on Francis Ford Coppola's radar.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Victor_Salva"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Coppola loaned director Victor Salva the same cameras George Lucas used to shoot American Graffiti (1973).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 345,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Coppola's $250,000 is the figure usually quoted for Clownhouse's budget, but TMDB lists it at just $200,000. Either way, it's a tiny budget for a Sundance entry.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This was Sam Rockwell's film debut. He plays eldest brother Randy, and decades later won an Oscar for Three Billboards Outside Ebbing, Missouri.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0005377",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU5NDc1OTMtNGIyOC00YTBiLTg1MTctNzgxZTU0YWM0ZmJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brian McHugh, who plays middle brother Geoffrey, was only about 14 during filming. Sam Rockwell, playing eldest brother Randy, was 18.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/03/13/clownhouse-1989/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Parts of the film were shot at Francis Ford Coppola's own home in Napa Valley, California.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline was \"...A circus of the mind.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clownhouse premiered at the Sundance Film Festival in January 1989 and was nominated for the Grand Jury Prize in the dramatic category.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Francis Ford Coppola's own 1963 horror debut, Dementia 13, is featured in Clownhouse. The film's executive producer got a nod to his own first movie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clownhouse was shot around the same time as Killer Klowns from Outer Space. Director Victor Salva said the two killer-clown productions felt like a race over who copied whom.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity goof: at the clown show, the spotlight lands on Casey's face a moment before the clowns actually aim it at him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: as Geoffrey leaves the clown tent looking for Casey, the shadow of the camera is visible.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Robin Mortarotti also co-produced Clownhouse with director Victor Salva and Michael Danty. Reviewers single out his shadowy, Halloween-style photography.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/clownhouse-1989.htm"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The fairground crowd extras were drama students from De Anza High School in Richmond, California, recommended by their teachers when the film shot locally.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Jerome West, who plays the lunatic clown Cheezo, made his feature debut here. He later became a stand-up comedian and appeared on Nash Bridges.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0871670"
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is set in fictional Poho County, which director Victor Salva reused in Jeepers Creepers and several of his other films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A poster on one brother's bedroom door is for Something in the Basement, the 1986 short that got director Victor Salva his Coppola deal.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Clownhouse is full of movie nods. It references The Wizard of Oz (1939), The Wolf Man (1941) and S.E. Hinton adaptation The Outsiders (1983).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Victor Salva has a cameo in a yellow shirt in line behind Casey at the carnival ball-toss game. He also voices a radio newscaster.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Body count for Clownhouse: seven. Not bad for a film that reviewers often call a bloodless thriller.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The loud cameras ruined the on-set sound, so the dialogue was re-recorded in post-production. Young star Nathan Forrest Winters spent about a month on it at Coppola's home.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Reviewer Richard Scheib of Moria gave Clownhouse four stars. He called it the only film in the whole slasher cycle to conjure anything like the eerie suspense of Halloween.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/clownhouse-1989.htm"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Kindertrauma praised Clownhouse as a bare-bones thriller that captures the thrill of being left home alone for the first time, even likening it to early John Carpenter.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.kindertrauma.com/clownhouse/"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Continuity goof: the film is set weeks before Halloween, yet the calendar in the mom-and-pop store still shows May.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After Clownhouse, Sam Rockwell moved to New York and trained at the William Esper Studio. He worked as a busboy and a burrito-delivery cyclist before acting paid the bills.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Sam_Rockwell"
+      },
+      "person": "nm0005377",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU5NDc1OTMtNGIyOC00YTBiLTg1MTctNzgxZTU0YWM0ZmJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite its Sundance debut, the 1990 US theatrical release was brief and mostly in second-run cinemas in places like Iowa, Oklahoma, Vermont and Nebraska.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/03/13/clownhouse-1989/"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety put Clownhouse on its 2017 list of the creepiest clowns in movies, praising its claustrophobic setting and eerie atmosphere.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "British viewers got Clownhouse on VHS in March 1990 from Entertainment in Video, months before its mid-1990 US theatrical run.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/03/13/clownhouse-1989/"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "TV Guide gave Clownhouse two of four stars, saying it plays cleverly on the visceral dislike many people feel for clowns. Rotten Tomatoes currently shows 33%.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dread Central put Clownhouse on its Top Six Killer Clown Movies countdown. It called the film a genuinely unsettling tale that delves into the psychology of coulrophobia, the fear of clowns.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/lists/42785/countdown-top-six-killer-clown-movies/"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sam Rockwell was 18 when he shot Clownhouse, the summer of 1987, and plays the oldest of the three brothers.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/03/13/clownhouse-1989/"
+      },
+      "person": "nm0005377",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU5NDc1OTMtNGIyOC00YTBiLTg1MTctNzgxZTU0YWM0ZmJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: Casey yanks a lamp from the wall and the socket sparks, even though the power in the house has been cut.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Victor Salva's 2001 film Jeepers Creepers opened Labor Day weekend with $15.8 million, a record for the holiday. Coppola's American Zoetrope financed it.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Salva was convicted of abusing 12-year-old star Nathan Forrest Winters. At Winters' family's request, the film was pulled from home video, and it has been out of print since the 2003 MGM DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After his 1992 release from prison, Clownhouse director Victor Salva worked as a telemarketer while writing scripts. His next theatrical film was Powder (1995).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Victor_Salva"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shout! Factory turned down releasing Clownhouse through its Scream Factory label because of the controversy around director Victor Salva's conviction.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Years later, Winters picketed a Westwood screening of Salva's 1995 film Powder, which hurt its box office.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The film closes on a title card: \"No man can hide from his fears; as they are a part of him, they will always know where he is hiding.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
