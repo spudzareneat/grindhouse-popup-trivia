@@ -1,4 +1,4 @@
 # Times are in TZ (America/Los_Angeles by default). Each run skips movies that already have a file.
 0 0 * * 4 cd /app && node src/cli.js run
-0 3 * * 4 cd /app && node src/cli.js run
+0 6 * * 4 cd /app && node src/cli.js run
 1 0 * * 5 cd /app && node src/cli.js run
