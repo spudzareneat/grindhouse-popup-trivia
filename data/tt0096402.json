@@ -1,0 +1,632 @@
+{
+  "schema": 1,
+  "imdbId": "tt0096402",
+  "title": "Voyage of the Rock Aliens",
+  "year": 1984,
+  "runtimeSec": 5820,
+  "generatedAt": "2026-10-08T10:43:22.238Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film's on-screen title is actually 'When the Rain Begins to Fall.' Vinegar Syndrome's 2022 Blu-ray is packaged as Voyage of the Rock Aliens, but the print says something else.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer James Guidotti's original script, 'Attack of the Aliens,' wasn't a musical at all. It was a B-movie spoof, until producers Edward Gold and Charles Hairston turned it into a rock musical.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pia Zadora's husband, multimillionaire Meshulam Riklis, bankrolled the film, which made it something of a vanity vehicle for the star.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nanarland.com/interviews/entretiens/en/crag-jensen-and-marc-jackson.html"
+      },
+      "person": "nm0001871",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjczODY0MjEwNV5BMl5BanBnXkFtZTYwMzkyOTkz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This opening 'When the Rain Begins to Fall' video was shot in Italy in April 1984 with a totally different cast and crew, then tacked on after weak test screenings. It was meant to close the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pia Zadora looks puffy in this opening video because she was pregnant. It was shot months after the main shoot, in April 1984.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jermaine Jackson only appears in this opening video, and Pia Zadora's duet with him became her biggest hit. Craig Sheffer mimes Jackson's vocals later in the film.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/voyage-of-the-rock-aliens-1984-when-the-rains-begin-to-fall.htm"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The aliens' costumes are loosely modeled on the flying monkeys from The Wizard of Oz (1939). Later, Dee Dee wears a low-cut variation of Dorothy's dress to the cotillion.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 685,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The aliens are played by the band RHEMA, short for Rebel Heretics Electronic Music Alliance. It's pronounced 'ray-ma,' not 'ree-ma.'",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 730,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Their names spell out the alphabet: ABCD, FGHI, JKLM, NOPQR, STUVWXYZ. Band member Marc Jackson barely made the cast, so his character AEIOU got a list of vowels for a name.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "'New Orleans' is a Neil Sedaka and Gary U.S. Bonds duet produced by Dan Hartman. It's one of many Curb Records artists loaded onto this soundtrack.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The chorus of Pia Zadora's 'Real Love' uses the same chord progression as Toni Basil's 1982 hit 'Mickey,' only slower.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "To psych himself up for Frankie's entrance, Craig Sheffer went to the woods and whacked himself on the back with a big stick. The crew worried he was too intense, and there was talk of replacing him.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1115,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Ruth Gordon, playing the Sheriff, was 88 and got only about five minutes of screen time. The Rosemary's Baby Oscar winner died in August 1985, so this was among her last roles.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/voyage-of-the-rock-aliens-1984-when-the-rains-begin-to-fall.htm"
+      },
+      "person": "nm0002106",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkzNDU5MjM5OV5BMl5BanBnXkFtZTgwNTIyMjM2MDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "RHEMA's Crag Jensen says the band's synth sound came from a cheap Roland Juno 60, an entry-level keyboard, because it was all they could afford. He says the cheesy sound fit the movie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nanarland.com/interviews/entretiens/en/crag-jensen-and-marc-jackson.html"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director James Fargo gave the RHEMA band members free rein to invent their alien salute and mannerisms.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sheffer was cast partly for acting ability, since the Frankie character sings only two songs. He picked this over a TV series, another film and the Broadway play Torch Song Trilogy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jimmy & the Mustangs, who play Frankie's gang The Pack, had no acting experience, so they got two months of acting classes. Their teacher, Peter Steltzer, was cast as the deputy sheriff.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Craig Sheffer thought he was hired for his long hair. He was sent straight to a barber, and his first haircut was judged 'too ordinary,' so he got a second one.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spyder, the sax-playing Pack member, was scripted as 'Beef.' Saxophonist Spyder Mittleman joined Jimmy & the Mustangs just two days before rehearsals began.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The extras in the malt shop scenes earned $50 a day.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "'You Bring Out the Lover in Me' was left off the soundtrack album, but it ended up on Pia Zadora's 1984 album 'Let's Dance Tonight.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Exterior scenes were shot in Fairburn, Georgia, where locals worked as extras. That included members of the Fairburn Volunteer Fire Department.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The lyrics of 'Combine Man' are word-for-word ramblings of a mental patient named Eugene, whom RHEMA's Craig Quiter cared for at his day job. His pay from this film let him quit that job.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "During 'Combine Man,' RHEMA missed their mark and sent a phone booth toppling toward 88-year-old Ruth Gordon. Crew members grabbed it just in time.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tom Nolan, who plays the alien commander Absid, was hired as an actor and lip-syncs to prerecorded songs. The experience pushed him to start his own band, and he left acting for music.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2345,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'Little Bit of Heaven' was meant to play later, after Dee Dee boards the spaceship. It was re-edited and moved up to become Absid's fantasy.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When the spaceship portion of 'Little Bit of Heaven' was shot, Pia Zadora zoomed around on an ATV between takes, which had the crew panicking that she'd get hurt.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some regions retitled the film 'When the Rains Begin to Fall' to cash in on the hit duet, even though that opening music video has nothing to do with the rest of the movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/voyage-of-the-rock-aliens-1984-when-the-rains-begin-to-fall.htm"
+      }
+    },
+    {
+      "t": 2690,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Mark Spiro, who sings 'She Doesn't Mean a Thing to Me,' shot a tie-in music video where Diane and Chainsaw appear as recurring video-game characters.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director James Fargo was Clint Eastwood's assistant director before directing the third Dirty Harry film, The Enforcer (1976). He was also assistant director on Steven Spielberg's Duel.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "RHEMA's Marc Jackson, who plays the alien AEIOU, said of the movie years later: 'It certainly is not consistent with who I was, or have become as an artist.'",
+      "icon": "mic",
+      "byline": "Marc Jackson — RHEMA",
+      "source": {
+        "type": "web",
+        "url": "https://nanarland.com/interviews/entretiens/en/crag-jensen-and-marc-jackson.html"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Craig Sheffer was in his feature debut here. He later played Norman Maclean in A River Runs Through It (1992) and Keith Scott on TV's One Tree Hill.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/voyage-of-the-rock-aliens-1984-when-the-rains-begin-to-fall.htm"
+      }
+    },
+    {
+      "t": 3152,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Michael Berryman, who plays killer Chainsaw, refused to do a stunt with the real chainsaw. He noticed that a crew member had put the chain on backwards and stopped him before he got hurt.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Berryman was born with hypohidrotic ectodermal dysplasia, which prevents hair, fingernails and sweat glands from forming. He became a horror icon in The Hills Have Eyes (1977).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3295,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'Back on the Street,' on the soundtrack, was co-written by Vinnie Vincent, who joined the band Kiss as lead guitarist.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Guidotti said his script was like channel-surfing late on a Saturday night. It mixed a Beach Party movie, an alien invasion, a homicidal maniac and a rock show in one film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cinematographer Gilbert Taylor loudly worried that the Battle of the Bands wouldn't work. Taylor had shot Star Wars (1977), and most scenes used two or three cameras.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In rehearsal for this number, RHEMA's Marc Jackson launched into a windmill spin and punched Pia Zadora's stand-in in the eye, knocking her to the floor.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Pia Zadora's 'Let's Dance Tonight' was recorded in an Atlanta studio for this scene. David Hasselhoff covered the song on his 1990 album 'Crazy for You.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The older man dancing with Dee Dee during the Battle of the Bands was one of the film's choreographers.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Patrick Byrnes, who plays the comic-relief alien Stovitz, practiced the character in a mirror for hours. His RHEMA bandmates resented that he got the funny role.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pia Zadora got a Golden Globe for New Star of the Year and a Razzie for Worst Actress in the same year, both for Butterfly. As a child she was in Santa Claus Conquers the Martians (1964).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film barely played American theaters, only limited regional test runs, but Europeans got a bigger release. In Germany it is a cult entry in the 'SchleFaZ' bad-movie TV series.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/voyagerock.html"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dee Dee compares her alien romance to Fay Wray and King Kong. The movie also spoofs Beach Party (1963) and references Xanadu (1980).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Filming 'Nature of the Beast' was postponed when a dancer got her period. The animal wrangler warned the scent of blood could make the cougar on set attack her.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4560,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Craig Sheffer hurt his back doing the dance over the ravine in 'Nature of the Beast.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most Americans first met this movie on cable. Airings on HBO reportedly drew stunned reactions from unsuspecting subscribers, a few years before the 1988 Prism Entertainment VHS release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/voyagerock.html"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "According to RHEMA's Crag Jensen, Pia Zadora and her husband Meshulam Riklis shelved the film because it didn't fit the image she wanted. Curb Records then wouldn't release RHEMA's records.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nanarland.com/interviews/entretiens/en/crag-jensen-and-marc-jackson.html"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most of the film was shot in November and December 1983 in Atlanta, but the opening 'Rain' video was shot in April 1984. It was meant for a summer 1984 release.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Vinegar Syndrome Blu-ray has a 40-minute making-of documentary and a nearly 50-minute RHEMA reunion featurette. It was a big push for a film that spent years barely seen.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmobsessive.com/film/film-features/physical-media/feature-presentations/is-voyage-of-the-rock-aliens-a-galactic-home-run-well/"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This movie was the subject of episode 285 of the comedy podcast How Did This Get Made?, where hosts Paul Scheer, June Diane Raphael and Jason Mantzoukas picked it apart.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thetvdb.com/series/how-did-this-get-made/episodes/10667729"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UK version replaced the finale with a montage set to an instrumental of 'When the Rain Begins to Fall,' cutting out Pia Zadora and Craig Sheffer's vocal performances.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5440,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch Craig Sheffer's lips: during this reprise of 'When the Rain Begins to Fall' he mimes Pia Zadora's line 'We'll be together.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's mute alien AEIOU was set up for a deleted gag: he was to be zapped into a punk's clothes and say 'Gnarly!' to the camera. It was shot but cut in the editing room.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's failure ended RHEMA, the band playing the Rock Aliens. Without the promised theatrical springboard, Curb Records declined to release their music, and they dissolved by spring 1985.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nanarland.com/interviews/entretiens/en/crag-jensen-and-marc-jackson.html"
+      }
+    }
+  ]
+}
