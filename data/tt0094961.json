@@ -1,0 +1,464 @@
+{
+  "schema": 1,
+  "imdbId": "tt0094961",
+  "title": "Dead Heat",
+  "year": 1988,
+  "runtimeSec": 5040,
+  "generatedAt": "2026-10-09T04:14:00.691Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The hero's name is a pun: Treat Williams plays Detective Roger Mortis, which sounds like \"rigor mortis\" and is also Latin for \"death.\" Dead cop, dead-on name.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001852",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0MzcwOTkzNV5BMl5BanBnXkFtZTcwMDc3NTA3MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 140,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's theme song was written by John Huckert, Patrick Read Johnson and Phil Settle, and performed by Settle. Johnson also worked on the movie as visual effects supervisor.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 205,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch the store windows and the van in this first car scene: the film crew is briefly visible in the reflections.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Roger Mortis' undercover car is a 1960 Chevrolet Impala convertible. Even dead cops like a classic ride.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Mark Goldblatt was a veteran editor (The Terminator, RoboCop, The Howling) who got his start under Roger Corman at New World. Dead Heat was his directing debut.",
+      "icon": "camera",
+      "byline": "Mark Goldblatt — Director",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      },
+      "person": "nm0325358",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTNmZDEwMDctNzEzZS00ZjMxLWI2OTctNmM5MjA5MDZlMTVmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dead Heat was shot in just 37 days on a budget of about $5 million, effects-heavy zombie gore included.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 440,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The commentary track recalls a bumpy first day of shooting for Mel Stewart, who plays the cops' Captain Mayberry in this scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dead Heat was reportedly put into production after the success of 1987's buddy-cop hit Lethal Weapon and the cop-and-alien thriller The Hidden.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Terry Black's little brother is Shane Black, the Lethal Weapon writer, who has a cameo here as a patrolman.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Darren McGavin (Dr. Ernest McNab) was TV's Kolchak: The Night Stalker, a reporter chasing monsters. Fitting that he runs a morgue full of walking dead here.",
+      "icon": "star",
+      "byline": "Darren McGavin",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0569000",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTc1Njk1NF5BMl5BanBnXkFtZTcwMDMyMjMzOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 830,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The building used for Dante Pharmaceuticals later appeared in the Pauly Shore comedy Bio-Dome, eight years after this film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 890,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lindsay Frost (Randi James) is the sister of Mark Frost, co-creator of Twin Peaks, and the daughter of actor Warren Frost.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0296534",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzFhN2Q3N2EtYmRmOS00NTQwLTgwMmEtNjM5OWQ5OTg3ZDQ3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Piscopo was in his bodybuilding phase. Makeup effects artist Steve Johnson reportedly said Piscopo had a gym on wheels parked on set.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      },
+      "person": "nm0685472",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzODcwNTk5OV5BMl5BanBnXkFtZTcwNTk0MDYzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "British stand-up comic Bernard Manning reportedly auditioned for Doug Bigelow, the role that went to Joe Piscopo.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Treat Williams was a real pilot: he flew professionally for a year in the early 1980s and became a certified flight instructor for planes and helicopters.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001852",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0MzcwOTkzNV5BMl5BanBnXkFtZTcwMDc3NTA3MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The filmmakers say they aimed more for horror than comedy and felt thwarted. A producer recalls another studio saw it as a flat-out comedy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/dead-heat-dvd-review/"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A promo reel for Dead Heat was scored with \"Shakedown\" from Beverly Hills Cop, hinting that studio New World was selling it as a comedy.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/dead-heat-dvd-review/"
+      }
+    },
+    {
+      "t": 1475,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Visual effects artist Ernest Farino used his rotoscoping experience to create the lightning effects for the resurrection machine.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      }
+    },
+    {
+      "t": 1675,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Roger is declared pulseless and doesn't bleed when cut here. Later he bleeds plenty when shot. Zombie physiology is inconsistent.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Mark Goldblatt's film suffered numerous gore cuts to win an R rating instead of an X.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dead Heat cost about $5 million and earned roughly $3.59 million, a box office flop that later built a cult following on home video.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikidata"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-star Joe Piscopo was a Saturday Night Live cast member from 1980 to 1984 and starred in the gangster spoof Johnny Dangerously.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0685472",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzODcwNTk5OV5BMl5BanBnXkFtZTcwNTk0MDYzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2440,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "When production fell behind schedule, Patrick Read Johnson took over as second unit director and directed this cleaver-wielding butcher scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      }
+    },
+    {
+      "t": 2560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dead Heat's zombie-cop idea got name-checked later in the cult comedy Zombie Cop (1991) and Leslie Nielsen-less spoof Loaded Weapon 1 (1993).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A reviewer praised Treat Williams for playing monster-movie material with a wry tone, the same approach he later took in the creature feature Deep Rising (1998).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      },
+      "person": "nm0001852",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0MzcwOTkzNV5BMl5BanBnXkFtZTcwMDc3NTA3MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Ernest Troost, who also scored Tremors, wrote the music. Director Mark Goldblatt reportedly forbade trumpets in the score.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadheat"
+      }
+    },
+    {
+      "t": 3220,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "TV versions extend this mausoleum sequence and add an appearance by B-movie regular Dick Miller, who is not in the theatrical cut.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3440,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Finding Doug dead and Randi explaining everything echoes the big reveal of the 1949 noir D.O.A., another story about a man who's been fatally poisoned and is hunting his killer.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3685,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The code number from the crypt, 2639362867, decodes on a phone keypad to \"BODYDOC\" (and the extra digits fit \"BodyDoctor\"), Dr. McNab's license plate.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "New World asked screenwriter Terry Black for a sequel. He noted everyone dies at the end. The exec replied: \"You've got a resurrection machine... you figure it out.\" It was never made.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Mark Goldblatt recalls a disappointing initial reception for Dead Heat, followed by a resurgence as a cult film.",
+      "icon": "trophy",
+      "byline": "Mark Goldblatt — Director",
+      "source": {
+        "type": "web",
+        "url": "https://filmobsessive.com/film/film-features/physical-media/feature-presentations/zombies-comedy-and-joe-piscopo-yes-its-dead-heat-on-4k/"
+      }
+    },
+    {
+      "t": 4060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After Dead Heat, director Mark Goldblatt directed The Punisher (1989), then returned to editing and earned an Oscar nomination for Terminator 2: Judgment Day.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0325358",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTNmZDEwMDctNzEzZS00ZjMxLWI2OTctNmM5MjA5MDZlMTVmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4195,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Horror icon Vincent Price filmed all of his scenes as Arthur P. Loudermilk in just three days.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup effects artist Steve Johnson made a life cast of Vincent Price for the film's effects.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmobsessive.com/film/film-features/physical-media/feature-presentations/zombies-comedy-and-joe-piscopo-yes-its-dead-heat-on-4k/"
+      }
+    },
+    {
+      "t": 4560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vincent Price also played Egghead on TV's Batman and the villain Professor Ratigan in Disney's The Great Mouse Detective (1986), two years before this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Darren McGavin (Dr. McNab) is famously uncredited in The Natural (1984) after a billing and salary dispute, yet billed here as a lead villain.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0569000",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTc1Njk1NF5BMl5BanBnXkFtZTcwMDMyMjMzOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4815,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Roger's closing line, \"Perhaps this is the end of a beautiful friendship,\" is the film's parody of Casablanca's famous final line.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drive-In Totals verdict: Two and a half stars. Joe Bob says check it out.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "driveintotals"
+      }
+    }
+  ]
+}
