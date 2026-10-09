@@ -1,0 +1,356 @@
+{
+  "schema": 1,
+  "imdbId": "tt0052844",
+  "title": "Ghost of Dragstrip Hollow",
+  "year": 1959,
+  "runtimeSec": 3900,
+  "generatedAt": "2026-10-09T04:08:09.749Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's working titles were \"Drag Race\" and \"The Ghost of the Dragstrip Hollow\" before AIP settled on the release title.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/52891"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This was a fast one: AFI records production running from May 11 to late May 1959, with a July release. Quick, cheap and aimed straight at drive-ins.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/52891"
+      }
+    },
+    {
+      "t": 185,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The flood-channel race crash: the deep pool of water vanishes by the time the motorcycle cop arrives. Not enough time passes for that much water to drain away.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It's a sequel to AIP's 1958 Hot Rod Gang, and the cast carries over, including Jody Fair (Lois Cavendish) and Henry McCann (Dave).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-producer Lou Rusoff was AIP boss Sam Arkoff's brother-in-law and the studio's most prolific screenwriter. He also wrote The Day the World Ended and It Conquered the World.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lou_Rusoff"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer-producer Lou Rusoff died in 1963 of brain cancer while editing Beach Party. This film is often called a forerunner of that Beach Party series.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lou_Rusoff"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drag racer \"TV\" Tommy Ivo plays himself, and both his white-top Model T and his Buick-powered dragster in the film were his real cars.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tommy Ivo started as a child actor in I Remember Mama (1948). He was later ranked No. 25 on the NHRA's Top 50 Drivers list.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tommy_Ivo"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tommy Ivo also played Herbie Bailey on The Donna Reed Show (1959-61). He raced a twin-Buick dragster billed as the first gas dragster under nine seconds.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tommy_Ivo"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "AFI notes the film was shot at Amco Studios in Los Angeles. Rusoff kept costs down by limiting the number of sets and locations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.streetmusclemag.com/?p=6485"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-star Russ Bender (journalist Tom Hendry) was a B-movie regular: he appeared in The Amazing Colossal Man, War of the Colossal Beast and It Conquered the World.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jody Fair (Lois Cavendish) worked as a secretary in MGM's law department before acting. She turned down a Playboy centerfold offer and later went into real estate.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 910,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity slip: the cook Frenchie dances in front of the counter, throws up his hands, walks off, then reappears doing the exact same thing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jimmie Maddin, credited as music coordinator, wrote \"Tongue Tied\" for the film. AIP released the songs on American International Records.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/52891"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Songwriter Bruce Johnston co-wrote \"I Promise You\" for this film. He later joined the Beach Boys.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/52891"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Reviewers said the sparse plot and many pop numbers made it \"little more than publicity for the tunes\" released on AIP's own record label.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/52891"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's girl-group number is a dead-on parody of the girl groups popular at the time. Fans count it among the highlights.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actress Nancy Anderson (Nita) made her screen debut in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film spoofs AIP's own 1950s monster and drag-racing movies. One critic said it's tired of the car-movie formula the studio kept churning out.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/12/12/the-ghost-of-dragstrip-hollow-1959/"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Dennis Schwartz graded it a D: \"A dreadful hot rod teen comedy for the drive-in crowd. This one stinks even for AIP.\" He did enjoy the hipster slang.",
+      "icon": "mic",
+      "byline": "Dennis Schwartz",
+      "source": {
+        "type": "web",
+        "url": "https://dennisschwartzreviews.com/?p=27180"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Paul Blaisdell, AIP's top monster-maker, recycled the She-Creature suit from The She-Creature (1956) and the alien head from Invasion of the Saucer Men (1957) here.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Street Muscle's review says the film has \"very little racing action, even less hot rods,\" but plenty of hokey slang.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.streetmusclemag.com/?p=6485"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In January 1960 the film was widely shown at drive-ins on a double bill with The Diary of a High School Bride (1959).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The first mention of a ghost, in a film called Ghost of Dragstrip Hollow, comes about 40 minutes in. The movie runs only about 64 minutes.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blaisdell's Beast with a Million Eyes (1955) prop was left in direct sunlight until it fell apart.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Blaisdell"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The closing credit reads \"The Endest, Man,\" a joke on the usual \"The End.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3290,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the saxophonist's close-up: his fingers never move on the keys, so he isn't even pretending to play.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blaisdell has said the She-Creature costume \"just wasn't the same costume any more\" after AIP had him alter it for reuse.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Blaisdell"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blaisdell's tearful unmasking speech name-drops his earlier AIP work. It was his last film, and no Hollywood paper ran his obituary when he died in 1983.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Blaisdell"
+      }
+    },
+    {
+      "t": 3740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blaisdell's monster-suit complaint that AIP didn't use him in Horrors of the Black Museum came true: he never worked on another film after this one.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
