@@ -1,0 +1,388 @@
+{
+  "schema": 1,
+  "imdbId": "tt1161404",
+  "title": "Blood Night: The Legend of Mary Hatchet",
+  "year": 2009,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-10-09T04:06:01.485Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Frank Sabatella, a Long Island native, based the story on a local legend of a girl who killed her family with a hatchet. He says the film expands on why she did it.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sabatella was 29 when he made his first feature. He cites Slumber Party Massacre, April Fool's Day and the early Friday the 13th films as inspirations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The effects team of five, led by Jeremy Selenfriend of Monster In My Closet, had two artists spend months hair-punching 14 silicone heads for the kills.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Frank Sabatella fused two Long Island legends: the hatchet-wielding ghost girl, Mary Hatchet, and the haunted Kings Park asylum, which locals say hides patient abuse and mass graves.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/frank-sabatella-director-blood-night-the-legend-of-mary-hatchet/"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fangoria reported 29 onscreen kills and 20 to 30 gallons of fake blood used on set.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writing began around May 2007 and cameras rolled that December. Director Frank Sabatella finished his cut a year later and hoped for a 2009 release.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/frank-sabatella-director-blood-night-the-legend-of-mary-hatchet/"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Frank Sabatella wanted the 1980s slasher feel without the camp, so he paired it with modern cinematography, editing and color.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Graveyard Gus, played by Bill Moseley, is dressed as an homage to Crazy Ralph, the doom-saying local from Friday the 13th (1980) and Part 2.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the real Long Island legend, Hatchet Mary killed her family and herself, and her house sank into the ground, leaving only a chimney. Huntington's own trail guide for Mt. Misery retells it.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://huntingtonny.gov/filestorage/13749/13843/15187/99828/153038/17956/Trails_Guide_Mt__Misery_Nature_Preserve.pdf"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Because the cemetery shoot ran past sunrise, the crew built a tent to keep filming close-ups after the sun came up.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The shoot was mostly overnight in the dead of a East Coast winter, often below freezing. Actress Samantha Facchi's exterior nude scenes were shot in subfreezing weather.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The cemetery crew ate \"lunch\" in a mausoleum to escape the cold. It held Hollywood legend Mae West, and the cast and crew reportedly paid her a visit one night.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite being set on Long Island and made by many Long Islanders, the production was reportedly harassed, fined and eventually sued by a local mayor who didn't want a horror movie filmed there.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Jeremy Selenfriend said he had a childhood crush on Danielle Harris after seeing her in Halloween 4. He later got to work on her film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bill Moseley and Danielle Harris were both in Rob Zombie's Halloween (2007) before this film. Danielle Harris also played Jamie Lloyd in Halloween 4 and 5.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot on hi-definition video by cinematographer Jarin Blaschke. He later became an Oscar-nominated cinematographer for The Lighthouse (2019).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A signature kill sends a pair of scissors through a victim's neck and out the mouth. The effects team built a giant mouth interior and used 3-foot scissor blades.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The production wanted to shoot at the real Kings Park asylum on Long Island but it was too deteriorated to be safe. Essex Mountain Sanatorium in New Jersey stood in for it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Jeremy Selenfriend recalled Bill Moseley being cheerful at a 6 a.m. life-cast session. Moseley swapped stories about his band and travels while his face was molded for a silicone head.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fangoria says the real Kings Park asylum was off limits because the production couldn't get filming permits. The film also weaves in the asylum's own haunting legend.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/make-it-a-blood-night/"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Props in the sanatorium were left over from when it was abandoned. The owners reportedly couldn't keep a cleaning crew past a week, as workers quit after supernatural experiences.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Essex Mountain Sanatorium, used as the film's asylum, was a tuberculosis hospital. It closed in 1970 and later housed the 1987 horror-comedy Doom Asylum. Its buildings have since been demolished.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://weirdnj.com/stories/abandoned/essex-mountain-sanatorium/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The sanatorium had no heat. Portable heaters warmed the holding areas, but the sets themselves had none.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The candlelit séance was lit with Christmas tree lights.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most of the broken windows in the sanatorium hallways came from a distraught crew member who smashed them with a hammer during a break.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most special effects were shot in one day after the main shoot wrapped. Silicone heads cast from the actors were enhanced digitally, with the actors' faces composited on top.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The real Kings Park Psychiatric Center opened in 1885 and peaked at over 9,000 patients in 1954. Its last patients left in 1996, and it is now a state park.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kings_Park_Psychiatric_Center"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's opening story about Mary Hatchet's childhood was shot months after the main schedule, with a different cinematographer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The interior house bathroom and the sanatorium file room were built on a Brooklyn soundstage, right next to each other.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A strip tease scene was accidentally deleted during production and had to be shot all over again.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The story spans 1978, 1989 and 2008. The Wikipedia plot names the local teen tradition 'Blood Night', a Mischief Night-style celebration of Mary Hatchet.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews were split. Bloody Disgusting praised its head-severing kills as a 'dose of steroids' for the 80s slasher, while DVD Talk gave it one star for being too slow.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film premiered on October 10, 2009 at the Freak Show Horror Film Festival, with a reported budget of $3 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
