@@ -1,0 +1,617 @@
+{
+  "schema": 1,
+  "imdbId": "tt0068290",
+  "title": "Blood from the Mummy's Tomb",
+  "year": 1971,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-10-09T04:11:33.380Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Seth Holt died partway through shooting this film, his last. Hammer boss Michael Carreras finished it himself.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Ahmed Osman, who plays the Egyptian priest in this opening, later played Yussef in The Awakening (1980), another adaptation of Bram Stoker's novel The Jewel of Seven Stars.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Christopher Wicking wanted to keep Bram Stoker's book title, but Hammer boss James Carreras refused. They brainstormed this one, which Wicking figured they'd never actually use.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Hammer couldn't insure director Seth Holt because of his poor health. Production manager Christopher Neame and Roy Skeggs let him keep working and hid it from the cast and crew.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      },
+      "person": "nm0392519"
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Andrew Keir (Professor Fuchs) was a last-minute replacement. Peter Cushing quit after one day when his wife Helen fell gravely ill; Keir got the call on a Friday and started Monday.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/?p=102691"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Andrew Keir also played the heroic scientist Professor Quatermass in Hammer's Quatermass and the Pit (1967).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-esoterica.net/Blood%20from%20the%20Mummys%20Tomb.html"
+      },
+      "person": "nm0445139",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3MTE0OTg4Nl5BMl5BanBnXkFtZTgwNTgwNTE1MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 605,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The seven stars of the Big Dipper, nodding to Stoker's novel The Jewel of Seven Stars, are hidden throughout the film in crystal balls and ruby rings like this one.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Michael Carreras shot the last week of the film, including all of George Coulouris' asylum scenes as Berigan. He said Seth Holt's footage didn't cut together.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 775,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "George Coulouris (Berigan) is best known as a member of Orson Welles' circle. He played Walter Parks Thatcher in Citizen Kane (1941).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0183459",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJmYTU5MmItZjRiMi00N2JjLTk3NTUtYjAwZDU2YjU2ODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 945,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Fiancé Tod Browning is named for the director of Dracula (1931). Newcomer Mark Edwards, an Australian actor, got an 'And Introducing' credit for the role.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/?p=102691"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Valerie Leon refused to appear nude, so a body double was used. She says Hammer never hired her again, despite glowing reviews.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before this, star Valerie Leon was Britain's 'Hai Karate' aftershave ad girl and a Carry On regular. She later popped up in two Bond films, The Spy Who Loved Me and Never Say Never Again.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1296,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Valerie Leon, playing Queen Tera, said she hated wearing the black wig for the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The story comes from Bram Stoker's 1903 novel The Jewel of Seven Stars. Stoker's original ending was far more shocking than the film's.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-esoterica.net/Blood%20from%20the%20Mummys%20Tomb.html"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This was the fourth and last of Hammer's Mummy films, after The Mummy (1959), The Curse of the Mummy's Tomb (1964) and The Mummy's Shroud (1967).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Christopher Wicking criticized the production so openly that he was banned from the set. A contact on the inside still kept him informed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Valerie Leon's voice was completely redubbed by another actress in post-production.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/?p=102691"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1820,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Aubrey Morris plays Dr. Putnam here. He's the actor Seth Holt reportedly collapsed beside on set, and he later popped up in the 1997 Stoker adaptation Legend of the Mummy.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A to-let sign in the film reads 'Neame and Skeggs', an in-joke naming production manager Christopher Neame and production supervisor Roy Skeggs.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Christopher Wicking has said the film was modelled on AIP's The Abominable Dr. Phibes: an ancient queen punishing a team of men who wronged her.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "James Villiers, who plays the sinister Corbeck, was described by The Independent as having a flair for supercilious arrogance that put him in the Vincent Price class of screen villains.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0898376",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmViN2FlMWEtYjQ1ZC00M2MwLTk2OTEtODc1M2IxYjBjOTMwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In Bram Stoker's novel, Queen Tera's spirit seems to inhabit a mummified cat. The film swaps in a very much alive pet cat, credited as played by 'Sunbronze Danny Boy'.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Jewel_of_Seven_Stars"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's budget was about £200,000. It shot at Elstree Studios in Hertfordshire.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2390,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Hugh Burden, who plays Geoffrey Dandridge, is one of two actors, with Peter Ustinov, in both One of Our Aircraft Is Missing (1942) and One of Our Dinosaurs Is Missing (1975).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0120926",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTQxYzI5Y2MtNTAyZC00NDQ3LWJjYWQtYTY0MjFjOTA1NDBiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hammer asked composer Tristram Cary for lots of electronic sounds. He mostly ignored that, scoring with harp glissandi, tam-tams and vibraphones for an eerie feel.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Seth Holt was once slated to direct the classic If.... (1968) but was too unwell, so Lindsay Anderson took over. He is best known for the thrillers The Nanny and Scream of Fear.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0392519"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UK cinema cut removed a shot of male nurse James Cossins slapping George Coulouris' character in the asylum, because of public concern over how mental patients were treated.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming began six weeks early at Elstree because another project had collapsed and left studio space empty.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/?p=102691"
+      }
+    },
+    {
+      "t": 2925,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Valerie Leon, who plays Margaret and Queen Tera, calls the production jinxed 'without a doubt' and says she was 'totally devastated' when director Seth Holt died.",
+      "icon": "mic",
+      "byline": "Valerie Leon",
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/movies/the-den-of-geek-interview-valerie-leon"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Howard Brandy and director Seth Holt wanted Amy Grant for the female lead, but Hammer boss Sir James Carreras insisted on Valerie Leon.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Swedish master Ingmar Bergman owned a tape of this film in his collection on Fårö island, according to the documentary Trespassing Bergman (2013).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Seth Holt reportedly collapsed into the arms of actor Aubrey Morris and died of a heart attack, five weeks into a six-week shoot.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3395,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Seth Holt kept his editing plans in his head, not on paper. Michael Carreras couldn't make sense of the footage, so he shot roughly 15 minutes of missing scenes himself.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      }
+    },
+    {
+      "t": 3490,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Valerie Leon said she got far more direction from Seth Holt than from Michael Carreras, who took over after Holt died.",
+      "icon": "mic",
+      "byline": "Valerie Leon",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Christopher Wicking's screenplay was called 'unshootable' by producer Howard Brandy, who claimed director Seth Holt rewrote it constantly.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Michael Carreras fired the film's editor, Oswald Hafenrichter, who died two years later.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/?p=102691"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This is the only Hammer Mummy movie without regular Hammer player Michael Ripper.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4025,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer Christopher Wicking's first treatment reportedly had a black-magic ritual and an orgy-like sequence. Both were cut when the script was rewritten.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Anthony Head, later Giles on Buffy the Vampire Slayer, has a brief uncredited role here with long blonde 1970s hair.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After Hammer's co-production deal with Seven Arts ended, budgets shrank. One review says the film never escapes a very stage-bound feel.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-esoterica.net/Blood%20from%20the%20Mummys%20Tomb.html"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fans praise Tristram Carey's eerie score and Scott MacGregor's production design as part of the film's growing cult appeal.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Valerie Leon said distributors were disappointed: they wanted a bandaged mummy, not a reincarnated Egyptian queen. There is no actual mummy in this film.",
+      "icon": "reel",
+      "byline": "Valerie Leon",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0502538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlYjE5OTQtZTA3NS00MDg5LWJlZjktNzM3ZmU0NDRiZTIxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Christopher Wicking said he wanted a mummy movie without 'someone stumbling about in sheets and bandages'.",
+      "icon": "mic",
+      "byline": "Christopher Wicking",
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/?p=102691"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Released in October 1971, it was dumped as the bottom half of a double bill with Hammer's Dr. Jekyll and Sister Hyde.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "American International Pictures bought the US distribution rights in January 1972.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews were split. The New York Times called it 'tremendous fun, skilful and wonderfully energetic', while Variety found it 'polished and well-acted but rather tame'.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One reviewer argues Stephen Sommers borrowed from this film for his 1990s Mummy movies: a resurrected witch-queen, deadly grave goods, and a mummy less dried-out than it should be.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmhounds.co.uk/2026/04/01/blood-from-the-mummys-tomb-4k-review/"
+      }
+    },
+    {
+      "t": 5180,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Michael Carreras, son of Hammer founder James Carreras, produced The Curse of Frankenstein and Dracula (1958) before becoming a director.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0140257"
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Andrew Keir also played Marcus Agrippa opposite Elizabeth Taylor and Richard Burton in Cleopatra (1963).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0445139",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3MTE0OTg4Nl5BMl5BanBnXkFtZTgwNTgwNTE1MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5470,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Seth Holt's funeral reportedly used one of Hammer's own antique hearses, recalled later by assistant Derek Whitehurst and actor James Villiers.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.framerated.co.uk/?p=13564"
+      }
+    },
+    {
+      "t": 5590,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The end credits include 'Sunbronze Danny Boy as Tod's Cat'.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
