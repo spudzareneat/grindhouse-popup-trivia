@@ -1,0 +1,382 @@
+{
+  "schema": 1,
+  "imdbId": "tt0096046",
+  "title": "Scarecrows",
+  "year": 1988,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-10-09T04:23:08.182Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Scarecrows' star Ted Vernon (Corbin) was the only Florida local in the cast. He got the role in return for financing $150,000 of the budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0894724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4Njg0ODkyNl5BMl5BanBnXkFtZTgwMjYyMDk0MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer-director William Wesley and producer Cami Winikoff missed their flight to LA by going to the wrong airport. It was Delta Flight 191, which crashed in Dallas. Wrong airport saved their lives.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Composer Terry Plumeri ghostwrote more than twenty film scores for other composers before Scarecrows. This horror film was the first one he scored under his own name.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://musiquefantastique.com/in-remembrance-terry-plumeri-in-the-musique-fantastique/"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The whole theatrical release was one week at a single Des Moines, Iowa theater, just so distributors could be told the film had a \"theatrical release.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Terry Plumeri said the tiny budget limited his Scarecrows score to just thirteen instruments. He still called it one of his favorites, and stick percussion evokes rustling straw and twine.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://musiquefantastique.com/in-remembrance-terry-plumeri-in-the-musique-fantastique/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in 24 days in Davie, Florida. The airplane landing and takeoff shots were filmed in Mexico six weeks after the main shoot wrapped.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reports differ on the budget. Wikidata lists $425,000, while one retelling says star Ted Vernon raised and bankrolled a $300,000 budget before the shoot ran over.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/02/28/repost-scarecrows-1988/"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The creepy farmhouse was a real derelict house on the edge of a swamp, rented for $250 a month. Producer Cami Winikoff said it was literally falling apart.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scarecrows was sold to Manson International, whose catalog of 80-odd titles included Brain Damage, Terror at Red Wolf Inn and Slaughterhouse Rock, before the company went bankrupt.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/02/28/repost-scarecrows-1988/"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The entire special effects budget was reportedly $5,000. Makeup artist Norman Cabrera was only about 18 when he built the film's gore.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup effects artist Norman Cabrera trained under Rick Baker. He later worked on Wishmaster, Thir13en Ghosts, The Walking Dead and the Hellboy films.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/104953/scarecrows-blu-ray/"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Wesley met makeup effects artist Norman Cabrera in a comic book store. Cabrera went on to create the film's scarecrows.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director William Wesley, a U.S. Army veteran, made Scarecrows as his first feature. His later film Route 666 (2001) was scored by Terry Plumeri, who was asked to go heavy metal.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/02/28/repost-scarecrows-1988/"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Peter Deming shot this film before going on to Evil Dead II and Hellraiser: Hellbound's era of horror favorites, including Hellraiser's splatter-world peers.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Peter Deming went from this swamp shoot to Mulholland Drive for David Lynch and Drag Me to Hell for Sam Raimi.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/06/02/scarecrows-1988-field-of-screams/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cast and crew were plagued by mosquitoes through the swampy Florida night shoot, and the production ran out of money mid-shoot, needing extra financing to finish.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Ted Vernon (Corbin) was a pro boxer. Ted \"Wolfman\" Vernon knocked out Armando Royo in just 17 seconds in 1980 at the Miami Beach Convention Center.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0894724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4Njg0ODkyNl5BMl5BanBnXkFtZTgwMjYyMDk0MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ted Vernon's character, Corbin, has few lines because director William Wesley limited them, since Vernon was an inexperienced actor. Wesley said that caused friction between them.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0894724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4Njg0ODkyNl5BMl5BanBnXkFtZTgwMjYyMDk0MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The radio newscast voice belongs to Don Herbert, TV's beloved \"Mr. Wizard,\" who taught science to generations of kids. This was his only film project.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fangoria ran a full Scarecrows retrospective in issue #267, when the film finally reached DVD in 2007. That DVD had no extras, though a commentary had already been recorded.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/06/02/scarecrows-1988-field-of-screams/"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Wesley said his first assembled cut was almost silent for the first third. He fixed it by adding lots of radio chatter afterward.",
+      "icon": "mic",
+      "byline": "William Wesley — Director",
+      "source": {
+        "type": "web",
+        "url": "https://cinapse.co/2015/06/scarecrows-1988-killer-concept-straw-filled-execution/"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scarecrows was shot almost entirely at night, and was originally titled Evil Stalks before it got its final name.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/scarecrows-blu-ray-review"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Its distributor, Manson International, went bankrupt seven months after buying it. The film surfaced on home video years later and reportedly earned around $3 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wesley and Vernon reportedly disliked each other during production. One retelling says Vernon physically choked Wesley, and Wesley's then-girlfriend's father put up the extra money.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/02/28/repost-scarecrows-1988/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewers link Scarecrows to the killer-scarecrow cycle: Dark Night of the Scarecrow (1981), Night of the Scarecrow (1995) and Husk (2011), called an unofficial sequel-cum-remake.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/06/02/scarecrows-1988-field-of-screams/"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cast list in the end credits is split into two groups: Crows and Scarecrows.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs' Drive-In Theater aired Scarecrows in its 1989 season, per TheTVDB's episode guide.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://www.thetvdb.com/series/joe-bobs-drive-in-theater/episodes/8570813"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Scarecrows was shot at night in the swamp, and its monsters are men in tattered costumes. Makeup artist Norman Cabrera's gore was where the small budget went.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gonewiththetwins.com/scarecrows-1988/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Cabin in the Woods (2011) references Scarecrows, a sign of its cult status.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "An unrated cut runs about four minutes longer than the R-rated version, with extended action and gore that the R cut trims.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Richard Jefferies and director William Wesley wrote the script by each writing drafts and passing them back and forth, editing each other's work.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4940,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The closing radio report names station WORC and gives a San Diego weather report, but stations west of the Mississippi start with K. The real WORC is in Massachusetts.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
