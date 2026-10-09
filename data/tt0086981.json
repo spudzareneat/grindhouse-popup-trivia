@@ -1,0 +1,620 @@
+{
+  "schema": 1,
+  "imdbId": "tt0086981",
+  "title": "Bloodbath at the House of Death",
+  "year": 1984,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-09T04:30:29.570Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Goof alert: the opening title card says 12 August 1975 was a Thursday. It was a Tuesday. The next card hedges with \"give or take a couple of days,\" which makes the error oddly correct.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Ray Cameron's son, comedian Michael McIntyre, was the uncredited voice of E.T. in this film at age 6 or so. It stayed secret until his 2010 autobiography, Life & Laughing.",
+      "icon": "mic",
+      "byline": "Michael McIntyre",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Kenny Everett kept forgetting which leg his limping character, Dr. Lukas Mandeville, limps on. Director Ray Cameron put up \"Limp!\" signs and had a clapper boy remind Everett before every take.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 460,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Executive producer Laurence Myers later admitted: \"It's a fairly terrible film.\" Censor James Ferman liked it but thought the reels were being shown in the wrong order. They weren't.",
+      "icon": "mic",
+      "byline": "Laurence Myers — Executive Producer",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Price is billed third but appears in only five scenes. He plays the Sinister Man, a 700-year-old Satanic priest.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Price was famously averse to coarse language, but he relented and swore in this film because it was played for laughs.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Production overlapped with Kenny Everett's infamous 1983 Young Conservatives speech (\"Let's bomb Russia!\"). The press kept invoking the film's title, 'Bloodbath', against him.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per one review, director Michael Winner (Death Wish) dared Kenny Everett to wear giant foam hands at a 1983 Young Conservatives rally and shout \"Let's bomb Russia!\" The fallout hurt this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/07/02/bloodbath-at-the-house-of-death-1984/"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was meant to spoof the Hammer and Amicus horror anthologies that were hugely popular in the UK in the early 1970s.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1175,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Executive producer Stuart Donaldson says money was tight, but the set was cheerful. He also arranged locations near his family farm in Hertfordshire to keep costs down.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/bloodbath.html"
+      }
+    },
+    {
+      "t": 1240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script is by Ray Cameron and Barry Cryer, Kenny Everett's regular TV writers. Both also cameo: Cameron as a policeman, Cryer as a police inspector.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1370,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The movie was nearly dead in pre-production when funding fell through. Executive producer Laurence Myers stepped in and saved it from going back into development hell.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The reported budget was about $2.5 million, and one review says everyone involved lost money. Box Office Mojo lists no grosses at all.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Headstone Manor is really Northaw Place in Hertfordshire, a Grade II listed building that was formerly a school and children's home. It's now part of a residential development.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelstreets.com/films/bloodbath-at-the-house-of-death/"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The pub scene was shot at Leggatts Park in Potters Bar. A DVD featurette says the location was the producer's family estate.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelstreets.com/films/bloodbath-at-the-house-of-death/"
+      }
+    },
+    {
+      "t": 1825,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The village pub scene riffs on the Slaughtered Lamb from An American Werewolf in London. It ends with the whole pub recounting the murders to the tune of a Christmas carol.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.containsmoderateperil.com/blog/category/Kenny+Everett"
+      }
+    },
+    {
+      "t": 1890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The pub's local reaction to strangers asking about the manor nods to An American Werewolf in London. Kenny Everett's German limping scientist nods to Peter Sellers in Dr. Strangelove.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The country pub is called the Duck & Pullet Inn, a double-entendre in the spirit of the Old Cock Inn in Carry On Dick (1974).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Pamela Stephenson (Dr. Barbara Coyle) was pregnant during filming. She later earned a PhD in psychology in 1996, so the 'doctor' part eventually came true.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0827298",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3Njc4NDA5Nl5BMl5BanBnXkFtZTcwMjQwNzcxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pamela Stephenson is married to comedian Billy Connolly. When Michael McIntyre brought this film up to him, Connolly deadpanned: \"Pamela's been in a lot of shit movies.\"",
+      "icon": "mic",
+      "byline": "Billy Connolly",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0827298",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3Njc4NDA5Nl5BMl5BanBnXkFtZTcwMjQwNzcxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pamela Stephenson was a star of the satirical sketch show Not the Nine O'Clock News and also appeared in Superman III (1983) before this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0827298",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3Njc4NDA5Nl5BMl5BanBnXkFtZTcwMjQwNzcxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In Scary Movie 2 (2001), the scene where an invisible ghost seduces Tori Spelling, then a cigarette floats beside her in bed, is a homage to the ghost sex scene in this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film spoofs Alien's chestburster scene: when star Kenny Everett convulses at the dinner table, the thing that emerges is just trapped wind.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://eatmybrains.com/showreview.php?id=384"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script uses the phrase \"paranormal activity\" about 23 years before the film Paranormal Activity (2007).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2865,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1975 body count is 18: one hanged, one blown up, two axed, two throats slit, two struck by lightning, four skewered in one bed, and six shot and found in a freezer wrapped in cling film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kenny Everett had trained as a Catholic priest as a teenager before becoming a DJ. Co-star Sheila Steafel, who plays a devout Catholic here, was actually Jewish.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3060,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kenny Everett was fired from BBC Radio 1 in 1970 for joking that a Transport Minister's wife had bribed her driving examiner. He was later reinstated.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/07/02/bloodbath-at-the-house-of-death-1984/"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This is Kenny Everett's only theatrical feature starring role. He had earlier voiced Captain Kremmen in a 24-minute compilation, Kremmen: The Movie (1980), too short to count as a feature.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3255,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline: \"The movie that took a lot of guts to make!\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was Vincent Price's last British horror movie. He had been in nine with 'house' in the title, from House of Wax (1953) to House on Haunted Hill (1959) and this one.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Price reportedly took the role through a mutual friend of Kenny Everett's, comedian Frankie Howerd, who persuaded him to do it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gareth Hunt (Elliot Broome) was famous for playing Mike Gambit in The New Avengers and for the Nescafe coffee ads where he shook coffee beans in his hands.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0402451",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDc1NGU4MDEtZGJlZi00NmE0LWFhMTgtODM0OWIxYjhiYjE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3710,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Don Warrington (Stephen Wilson) is best known as Philip Smith in the sitcom Rising Damp, and now stars in Death in Paradise as Commissioner Selwyn Patterson.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0913116",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3NDQyNzk5MF5BMl5BanBnXkFtZTcwMTE5ODcwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3775,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film spoofs Carrie too. Its stand-in for the knife-crucifixion kill is a victim dispatched with a can opener, one of the cheap gore gags from special effects man Ian Rowley.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/bloodbath-at-the-house-of-death-1984.htm"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film spoofs Alien, The Shining, Carrie, Friday the 13th, The Entity, The Tingler and more. Ray Cameron said none of it needed to make sense; the plot is loosely nicked from The Haunting.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Martyn Auty called the film \"Presumably intended as high camp; looks like low-grade Carry On.\"",
+      "icon": "mic",
+      "byline": "Martyn Auty — Critic",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4035,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital praises the gore effects, even comparing some to Tom Savini's work (Friday the 13th, Dawn of the Dead). The score is by Mike Moran and Mark London.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/bloodbath.html"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UK cinema release was rated 18 by the BBFC. When the film hit DVD in 2008, it was re-rated 15.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4230,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was reportedly pulled from UK cinemas quickly after poor business. It then found a cult audience on VHS, and everyone involved is said to have lost money.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://eatmybrains.com/showreview.php?id=384"
+      }
+    },
+    {
+      "t": 4360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ray Cameron also directed The New Kenny Everett Naughty Video (1982). Barry Cryer, Cleo Rocos, Sheila Steafel and Debbie Linden appear in both productions.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4425,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kenny Everett's character, Dr. Lukas Mandeville, was once a German surgeon named Ludwig Mannheim, before a humiliation reduced him to what he calls \"smart-arse paranormal research crap.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cleo Rocos (Deborah Kedding) was Kenny Everett's regular glamorous sidekick on his TV shows, where her curvaceous figure was often used for comic effect.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1984 novelization names Marcel Wave, one of Kenny Everett's TV characters, as the resident who spontaneously combusts.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vincent Price, billed third as the Sinister Man, had mostly done voice work since The Monster Club (1981). This was one of his few on-camera roles of the period.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.impulsegamer.com/bloodbath-at-the-house-of-death-1984-dvd-review"
+      }
+    },
+    {
+      "t": 4760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film has apparently never been released in Italy, the home of the giallo and directors like Mario Bava, Lucio Fulci and Dario Argento.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Ray Cameron never directed another theatrical feature. His son Michael McIntyre went on to become one of Britain's biggest stand-up comedians.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0131708"
+    },
+    {
+      "t": 5050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Price went on to voice Professor Ratigan in Disney's The Great Mouse Detective (1986) and appear in The Whales of August (1987).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5125,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One Moria reviewer finds no real plot and says the film might have worked better as unconnected five-minute TV sketches, the format star Kenny Everett was famous for.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/bloodbath-at-the-house-of-death-1984.htm"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kenny Everett's top-ten UK hit \"Snot Rap\" (1983) was co-written with Mike Moran and based on catchphrases from his TV characters.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0263547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzYjI1ZDUtZjU4Ny00NjExLTlhOGItMWMxNTY3ZGJlNjZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes shows only 5 reviews, 40% positive. Financial Times critic Nigel Andrews called it \"painfully unfunny.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rottentomatoes.com/m/bloodbath_at_the_house_of_death"
+      }
+    },
+    {
+      "t": 5420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The closing twist borrows from The Rocky Horror Picture Show, per Bands About Movies. Both end on a spaceship.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/07/02/bloodbath-at-the-house-of-death-1984/"
+      }
+    }
+  ]
+}
