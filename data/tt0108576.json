@@ -1,0 +1,389 @@
+{
+  "schema": 1,
+  "imdbId": "tt0108576",
+  "title": "Witch Academy",
+  "year": 1995,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-10-09T04:03:04.536Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Fred Olen Ray said the main reason he made Witch Academy was the chance to work with Robert Vaughn, who plays the Devil.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 225,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Robert Vaughn, who plays the Devil here, was Oscar-nominated for Best Supporting Actor for The Young Philadelphians, playing a disabled, alcoholic veteran.",
+      "icon": "trophy",
+      "byline": "Robert Vaughn",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_Vaughn"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Fred Olen Ray called Witch Academy the last of his 'scream queen' movies. He figured the bottom was about to drop out of that market.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 435,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At the height of The Man from U.N.C.L.E., Robert Vaughn (the Devil here) said he got 70,000 fan letters a month as superspy Napoleon Solo.",
+      "icon": "star",
+      "byline": "Robert Vaughn",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_Vaughn"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Witch Academy was made for about $140,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 645,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Devil, Robert Vaughn, is a real Dr. Vaughn: he earned a communications PhD from USC in 1970. His dissertation on Hollywood blacklisting was published as the book Only Victims.",
+      "icon": "reel",
+      "byline": "Robert Vaughn",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_Vaughn"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's alternate title is Little Devils. One retrospective review called it maybe the best of director Fred Olen Ray's 'bottle films', which are movies set in a single location.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 855,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Vaughn, the Devil here, won a 1978 Emmy for supporting actor in the miniseries Washington: Behind Closed Doors. He later played the villain Ross Webster in Superman III (1983).",
+      "icon": "trophy",
+      "byline": "Robert Vaughn",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_Vaughn"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cinematographer Gary Graver shot this after years as Orson Welles' last cameraman. Welles once handed him his Citizen Kane Oscar as a prop, and Graver sold it in 1994 for $50,000.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Gary_Graver"
+      }
+    },
+    {
+      "t": 1065,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Witch Academy writer Mark Thomas McGee was once pulled off Transylvania Twist by producer Roger Corman. Jim Wynorski later hired McGee for Hard to Die, and Corman didn't object.",
+      "icon": "reel",
+      "byline": "Mark Thomas McGee — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Mark_Thomas_McGee"
+      }
+    },
+    {
+      "t": 1170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Gary Graver also directed and shot more than 135 adult features as 'Robert McCallum'. One of them, Unthinkable, won an AVN Award in 1985.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Gary_Graver"
+      }
+    },
+    {
+      "t": 1275,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Witch Academy writer Mark Thomas McGee also writes books about cheap movies, including Fast and Furious, a history of American International Pictures, and Roger Corman: The Best of the Cheap Acts.",
+      "icon": "reel",
+      "byline": "Mark Thomas McGee — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Mark_Thomas_McGee"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Mark Thomas McGee, who wrote Witch Academy, worked on Equinox (1970) as a teenager, alongside future effects wizard Dennis Muren.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Mark_Thomas_McGee"
+      }
+    },
+    {
+      "t": 1485,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Several of Mark Thomas McGee's script drafts for Sorority House Massacre II (1989) went unused. The Witch Academy writer is a veteran of Roger Corman-style sorority movies.",
+      "icon": "reel",
+      "byline": "Mark Thomas McGee — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Mark_Thomas_McGee"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Priscilla Barnes was Terri on Three's Company, but said those years were the unhappiest of her career. She nearly quit as soon as she was cast.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0055733",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGYxMmU5YTEtMDE1ZS00OGI4LTlhNGMtY2I2NmQ1ZGI4MDM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1695,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michelle Bauer (Tara) was Penthouse's Pet of the Month in July 1981. The centerfold led to work on the Playboy Channel, and from there to scream-queen stardom.",
+      "icon": "star",
+      "byline": "Michelle Bauer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Michelle_Bauer"
+      },
+      "person": "nm0000292",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MTMxMzEzN15BMl5BanBnXkFtZTcwMzExOTAyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Steven Spielberg wanted Priscilla Barnes (Edith) for the Willie Scott role in Indiana Jones and the Temple of Doom. Her Three's Company schedule got in the way.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0055733",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGYxMmU5YTEtMDE1ZS00OGI4LTlhNGMtY2I2NmQ1ZGI4MDM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2010,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Priscilla Barnes, who plays Edith, later played Magda on the CW series Jane the Virgin from 2014 to 2019. She was also in Licence to Kill (1989).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2115,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Fred Olen Ray co-directed Scream Queen Hot Tub Party (1991) with Jim Wynorski. It was reportedly shot in a single day.",
+      "icon": "camera",
+      "byline": "Fred Olen Ray — Director",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Olen_Ray"
+      },
+      "person": "nm0676248",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyOTU3NTg1MF5BMl5BanBnXkFtZTcwMTAyNjIyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michelle Bauer (Tara) got into scream-queen movies after meeting a producer on a Playboy Channel series. He introduced her to director Fred Olen Ray, who cast her as the lead in The Tomb (1986).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000292",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MTMxMzEzN15BMl5BanBnXkFtZTcwMzExOTAyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2325,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2011 documentary Screaming in High Heels covers the rise and fall of the scream queen era, with Michelle Bauer. Witch Academy director Fred Olen Ray is one of the people interviewed.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/screaming-in-high-heels-the-rise-and-fall-of-the-scream-queen-era-2011.htm"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Michelle Bauer (Tara) was originally cast in Vamp (1986) but left because of how the extras were treated. She also has a long record of doubling nude scenes for stars who declined them.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000292",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MTMxMzEzN15BMl5BanBnXkFtZTcwMzExOTAyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ruth Collins (Darla) was the lead dancer in the Beastie Boys' 'No Sleep Till Brooklyn' video. She later produced a TV show hosted by William Shatner.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0172662",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTNhYmRiYmMtYWEyZi00MGE5LTgxY2QtMThlMGNiNjRiZTZhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Witch Academy was the last role for Ruth Collins (Darla), who had appeared in many low-budget films in the 80s and 90s, usually naked.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0172662",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTNhYmRiYmMtYWEyZi00MGE5LTgxY2QtMThlMGNiNjRiZTZhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Suzanne Ager, who plays Wanda Warden, is an ex-girlfriend of director Fred Olen Ray.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0012975"
+    },
+    {
+      "t": 3270,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Fred Olen Ray loaned a 16mm camera to a young Quentin Tarantino, who used it to shoot My Best Friend's Birthday.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0676248",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyOTU3NTg1MF5BMl5BanBnXkFtZTcwMTAyNjIyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Fred Olen Ray moonlights as a pro wrestler named 'Fabulous' Freddie Valentine in his own promotion, ACW.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0676248",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyOTU3NTg1MF5BMl5BanBnXkFtZTcwMTAyNjIyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Fred Olen Ray has made more than 200 films. One reviewer called them 'rushed, cheap, and sleazy, but you can't help but love them.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0676248",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyOTU3NTg1MF5BMl5BanBnXkFtZTcwMTAyNjIyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film spoofs John Carpenter's The Thing (1982), and later turned up in the Fred Olen Ray Triple Feature (2009).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4110,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Witch Academy gets name-checked in the 1992 Fred Olen Ray scream-queen documentaries Invasion of the Scream Queens and Scream Queens Swimsuit Sensations.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Priscilla Barnes (Edith) was once 1st runner-up in the Miss California pageant. Bob Hope later hired her to join his troop-entertaining trips.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0055733",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGYxMmU5YTEtMDE1ZS00OGI4LTlhNGMtY2I2NmQ1ZGI4MDM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
