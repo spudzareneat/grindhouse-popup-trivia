@@ -1,0 +1,452 @@
+{
+  "schema": 1,
+  "imdbId": "tt0083801",
+  "title": "Deadly Eyes",
+  "year": 1982,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-10-09T04:16:45.180Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dr. Louis Spenser, the rat-lecturing professor, is played by Cec Linder, who was Felix Leiter in Goldfinger (1964). He's the only non-American to play Leiter in the official Bond series.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0511695",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjgxZGQxYzItZjMwMi00N2IwLWIzMzgtNDMwMTM0ODY2NzQ4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The rats are mostly dachshunds in rat suits. Thirty-five dachshunds and five terriers were used, each one fitted individually. Puppets handled the close-up chewing.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Lisa Langlois (cheerleader Trudy White) was reportedly James Cameron's first choice for Sarah Connor in The Terminator. Her agent talked her into The Slugger's Wife instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0486590",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2M1MWQxZGYtZjFkOC00NTlkLTg0MGMtYTUyMjI2MzNiNjA3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 315,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Health inspector Kelly Leonard is played by Sara Botsford, who later won a Canadian Screen Award for the Canadian TV drama E.N.G.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0098597",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyNDE5MzAzMV5BMl5BanBnXkFtZTgwMTE3NTY0NTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in Toronto from January 21 to February 28, 1982, on a budget of about $1.5 million. That's a month and change of Canadian winter.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Robert Clouse made Enter the Dragon (1973) with Bruce Lee. Yet the young cast of this movie reportedly had no idea about his Bruce Lee work when they signed on.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0167195"
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Robert Clouse, who made Enter the Dragon, reportedly wrapped the shoot early one night because the Toronto cold was too much for him, according to Blu-ray extras on the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-deadly-eyes"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Golden Harvest, the Hong Kong studio behind this movie, made its name distributing Bruce Lee and later Jackie Chan films. Deadly Eyes is a Canada/Hong Kong co-production.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/deadly-eyes-1982.htm"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Novelist James Herbert, who wrote the source book The Rats, called this film and the earlier The Survivor (1981) \"terrible ... absolute rubbish\" in 1988.",
+      "icon": "mic",
+      "byline": "James Herbert — Author",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The rat-suited dogs were trained for four months by Joe Camp, the creator of the Benji movies. The suits themselves were built by Allan Apone's Makeup Effects Labs, one fitted per dog.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-deadly-eyes"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The dogs struggled to see inside their rat costumes, so the crew used meat and blood to get them running in the right direction.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Charles Eglee reportedly never read James Herbert's novel. He says his inspiration was Joe Dante's Piranha, a different killer-critters-in-the-water classic.",
+      "icon": "link",
+      "byline": "Charles H. Eglee — Screenwriter",
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/deadly-eyes-collectors-edition-blu-ray-review"
+      }
+    },
+    {
+      "t": 1375,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original TV spot for Deadly Eyes never shows the monsters, only the rats' tails. Considering they're mostly dachshunds in rubber suits, hiding them was probably smart marketing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-deadly-eyes"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film drops the novel's virus and ultrasound rat-killing schemes, and its two-headed king rat. The review says the story is almost entirely invented beyond the rats and a teacher named Harris.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/deadly-eyes-1982.htm"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lisa Langlois and Lesleh Donaldson both appeared in the Canadian slasher Happy Birthday to Me before this film. Fellow cast member Jack Van Evera was in the Canadian slasher My Bloody Valentine.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Scatman Crothers (inspector George Foskins) played Dick Hallorann in Stanley Kubrick's The Shining two years earlier, winning a Saturn Award for it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001079",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDY4OTU5N15BMl5BanBnXkFtZTcwNDU0MjYwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scatman Crothers also voiced Hong Kong Phooey and Scat Cat in Disney's The Aristocats. That's a very Hong Kong-meets-Toronto résumé for a Golden Harvest film.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001079",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDY4OTU5N15BMl5BanBnXkFtZTcwNDU0MjYwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "One of the dachshunds playing a rat reportedly died on set, possibly from suffocation in its suit. Otherwise the dogs were said to be well treated.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2210,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dora Dainton plays 75-year-old Mrs. Trumbull but was only 63 during filming. She died at 71, never reaching her character's age.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Charles Eglee met his wife, Ninkey Dalton, on this film. She was the production designer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some international VHS covers showed New York's Twin Towers, though the film is set and shot in Toronto. Marketers apparently figured more people had heard of New York.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dr. Spenser warns that rats can chew through quarter-inch steel plate. Real rat experts do say their teeth are hard, but these rats are really dogs in costumes.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered on April 1, 1983, in eighteen Detroit theaters, over a year after it was shot. It was released in the U.S. and Canada by Warner Bros.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Chicago Tribune critic Gene Siskel called it \"an awful movie\" yet admitted it had moments of \"goofy fun.\" That's pretty much the cult verdict ever since.",
+      "icon": "mic",
+      "byline": "Gene Siskel — Critic",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film includes footage from the educational kids' show Curiosity Shop and the animated special B.C.: A Special Christmas, which was airing in 1981 while the movie was in production.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes shows only 43% positive from 7 critics. Fans embrace it anyway, praising Scatman Crothers, the Chuck McDermott songs and the Canadian setting.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The subway scenes use a real Toronto transit station, even though the film never names its city. The Twin Towers on foreign posters were pure marketing.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Sam Groom (teacher Paul Harris) was a longtime soap actor on Another World and One Life to Live. He also guest-starred on both Gunsmoke and Law & Order.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0343157",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjZiMDgzZDUtNTU4OC00MDdiLTlhNDYtYzEyMzAyYjUyM2E3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Toronto film writer Paul Corupe says the rats run wild in Toronto's Lower Bay subway station, a ghost platform often used by film crews, and in the old Golden Harvest Theatre on Spadina.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.blogto.com/film/2014/10/a_guide_to_toronto_horror_movie_locations"
+      }
+    },
+    {
+      "t": 3880,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Robert Clouse used his own Game of Death (1978), Bruce Lee's final film as completed by Clouse, on the cinema screen during the theater attack.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0167195"
+    },
+    {
+      "t": 3990,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Bruce Lee marathon the rats crash was staged at Toronto's real Golden Harvest Theatre on Spadina, named for the Hong Kong studio that also co-produced this movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.blogto.com/film/2014/10/a_guide_to_toronto_horror_movie_locations"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before directing, Robert Clouse was a still photographer. He later made Black Belt Jones, The Big Brawl with Jackie Chan, and Gymkata.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0167195"
+    },
+    {
+      "t": 4120,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Actress Lesleh Donaldson (Martha) later told Blu-ray interviewers funny stories about shooting this theater rat-attack scene, and about her friendship with co-star Lisa Langlois.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-deadly-eyes"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Daily Grindhouse's review called it \"goofy ... but never dull.\" It also praised the film's female leads for having sexuality and power without being horror clichés.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A 2002 remake, The Rats, was set in New York and shot with the World Trade Center in the background. Its release was delayed after September 11 so those shots could be removed.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A faint dog bark is audible when a man locks himself in a train car to escape the rats. The rats were dachshunds, after all.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Deadly Eyes later got a Scream Factory Blu-ray in 2014, helping its cult reputation among Canuxploitation fans, who also love My Bloody Valentine and Happy Birthday to Me.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is also known as The Rats and Night Eyes. It is frequently screened at Halloween events in Ontario, often for film students, as a good-natured joke.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
