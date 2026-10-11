@@ -21,9 +21,9 @@ export const MIN_FACTS = 5;    // fewer than this after a retry = movie fails
 export const MAX_DENSITY = 60; // at most one fact per this many seconds of runtime
 export const WEB_SHARE = 0.3;  // below this share of web/interview facts, a top-up pass digs for more
 export const DRIVEIN_T = 15;   // the Drive-In Totals card plays over the opening of the movie (exempt from MIN_T)
-// Roughly how long the userscript's card stays up for n count lines (header, 1.1 s a line, stars, 5 s hold,
+// Roughly how long the userscript's card stays up for n count lines (header, 1.5 s a line, stars, 6 s hold,
 // fade) plus slack. Only keeps bubbles out of its way here; the userscript also holds bubbles while it's up.
-export const cardSeconds = n => Math.ceil(11.1 + 1.1 * n);
+export const cardSeconds = n => Math.ceil(12.4 + 1.5 * n);
 
 // Passed to `claude -p --json-schema`. Kept to plain JSON Schema (type/enum/required)
 // -- validateFacts() is the real gate, this just steers the model's output shape.
