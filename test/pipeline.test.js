@@ -47,7 +47,9 @@ test('processMovie: researches, validates, writes data/<id>.json, commits', asyn
     assert.equal(doc.schema, 1);
     assert.equal(doc.facts.length, 5);
     assert.equal(doc.generatedAt, '2026-10-03T09:00:00.000Z');
-    assert.match(prompts[0], /Nineteen dead bodies/);   // totals reached the prompt
+    assert.deepEqual(doc.driveIn, { t: 15, lines: ['19 Dead Bodies'], stars: null, says: '' });
+    assert.match(prompts[0], /Drive-In Totals card/);        // the card replaced the Totals bubbles
+    assert.doesNotMatch(prompts[0], /Nineteen dead bodies/);
     assert.match(prompts[0], /WP/);                     // wikipedia reached it; tmdb failure tolerated
     assert.match(prompts[0], /Harcourt Productions \(production company\): Industrial films/);
     assert.equal(commits.length, 1);
@@ -267,4 +269,12 @@ test('processMovie: facts capped at one per minute of runtime, best rank kept', 
     assert.equal(r.kept, 76);                   // floor((4680 - 60 - 30) / 60)
     const doc = JSON.parse(fs.readFileSync(path.join(deps.dataDir, 'tt0055830.json'), 'utf8'));
     assert.equal(doc.facts.filter(f => f.rank === 1).length, 20);
+});
+test('processMovie: Totals that make no card fall back to Totals bubbles, no driveIn', async () => {
+    const { deps, prompts } = makeDeps({ totalsRows: [{ title: 'Carnival of Souls', year: 1962, description: '"Cold Open" - Two dead bodies.' }] });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.status, 'done');
+    const doc = JSON.parse(fs.readFileSync(path.join(deps.dataDir, 'tt0055830.json'), 'utf8'));
+    assert.equal('driveIn' in doc, false);
+    assert.match(prompts[0], /TOTALS: "Cold Open" - Two dead bodies\./);
 });
