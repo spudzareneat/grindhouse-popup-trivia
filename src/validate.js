@@ -19,7 +19,7 @@ export function validateFacts(rawFacts, runtimeSec, peopleImages = {}, maxFacts 
         if (!text) { drop('no-text'); continue; }
         if (text.length > MAX_TEXT) { drop('too-long'); continue; }
         // The card shows the counts and the verdict; a bubble repeating them is the old format.
-        if (driveIn && /^drive-in totals:/i.test(text)) { drop('totals-card'); continue; }
+        if (driveIn && /^drive-in totals\b/i.test(text)) { drop('totals-card'); continue; }
         if (!ICON_KEYS.includes(f.icon)) { drop('bad-icon'); continue; }
         const type = f.source && f.source.type;
         if (!SOURCE_TYPES.includes(type)) { drop('bad-source'); continue; }

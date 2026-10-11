@@ -70,3 +70,7 @@ test('runBackfill --force skips files that would not change (no empty commit)', 
     assert.equal(runBackfill({ ...deps, force: true, git }).length, 0);
     assert.equal(commits.length, 1);
 });
+test('backfillDoc: "Drive-In Totals verdict:" style bubbles count as old Totals bubbles too', () => {
+    const doc = { ...DOC, facts: [f(4500, 'Drive-In Totals verdict: Two and a half stars. Joe Bob says check it out.'), f(1200, 'Other fact.')] };
+    assert.deepEqual(backfillDoc(doc, TOTALS).doc.facts.map(x => x.text), ['Other fact.']);
+});

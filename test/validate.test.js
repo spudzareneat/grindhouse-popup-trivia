@@ -114,3 +114,7 @@ test('buildDoc writes driveIn (only the card fields) when present, omits it othe
     assert.deepEqual(doc.driveIn, { t: 15, lines: ['19 Dead Bodies'], stars: 4, says: 'Joe Bob says check it out.' });
     assert.deepEqual(Object.keys(doc).slice(-2), ['facts', 'driveIn']);
 });
+test('with a card, "Drive-In Totals verdict:" bubbles are dropped too', () => {
+    const { facts } = validateFacts([F(200, 'Drive-In Totals verdict: Four stars.'), F(400, 'ok')], 4680, {}, Infinity, DI(3));
+    assert.deepEqual(facts.map(f => f.text), ['ok']);
+});
