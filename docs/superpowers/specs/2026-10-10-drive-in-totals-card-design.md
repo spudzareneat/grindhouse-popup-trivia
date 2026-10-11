@@ -19,7 +19,7 @@ Reference: MonsterVision's on-screen "Drive-In Totals" graphic.
 - **Transparent** — no panel; text sits over the video with drop shadows (`2px 2px 0 #000` + soft glow).
 - Font: **Patua One** (Google Fonts; free lookalike for ITC La Bamba, which can't be redistributed).
 - Header "Drive-In / Totals" in green `#a6e27a`, then a red rule `#c8352b`; count lines in cream `#f4e8c6`,
-  centered. Card sits in the top-right corner (3% from the top, 2.5% from the right), 40% of the picture wide.
+  centered. Card sits in the top-right corner (1% from the top, 1% from the right), 40% of the picture wide.
 - Long counts **wrap** (never ellipsized), with a small gap between counts.
 - Lists taller than the area (~10 base lines) **scroll**: lines fill top-down; once full, older lines roll off
   the top under a soft fade mask. Text size is the same for every movie.
