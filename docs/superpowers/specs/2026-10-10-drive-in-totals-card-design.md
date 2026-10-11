@@ -32,7 +32,8 @@ Reference: MonsterVision's on-screen "Drive-In Totals" graphic.
 - No fixed length. Sequence: header ~0.9 s → one count every 1.1 s → 1.2 s pause → counts out (0.6 s) →
   stars (4 × 0.28 s) → sign-off → 5 s hold → fade. The card is gone only after every count has shown and the
   stars and sign-off have landed.
-- Card time `driveIn.t` = 120 s (after the 60 s no-fact zone, before the movie gets going).
+- Card time `driveIn.t` = 15 s, so it plays over the opening of the movie (the card is exempt from the 60 s
+  no-fact zone, which still applies to bubbles). `DRIVEIN_T = 15` in `schema.js`.
 
 ## Data contract (generator → userscript)
 
@@ -41,7 +42,7 @@ copies just skip the card):
 
 ```json
 "driveIn": {
-  "t": 120,
+  "t": 15,
   "lines": ["No Breasts (1962)", "19 Dead Bodies", "About 15 Zombies", "1 Motor Vehicle Chase, With Watery Crash", "Zombie Bus Tour", "Church Organ Fu", "Zombie Fu"],
   "stars": 4,
   "says": "Joe Bob says check it out."
@@ -86,7 +87,7 @@ coverage online) is unchanged.
 
 ### Pipeline / validator
 
-- `pipeline.js` builds `driveIn` from the parser (t = 120) and passes it to `buildDoc`, which writes it when
+- `pipeline.js` builds `driveIn` from the parser (t = `DRIVEIN_T`) and passes it to `buildDoc`, which writes it when
   present.
 - `validateFacts` takes an optional reserved window `[t, t + cardSeconds(lines.length)]` and moves any fact
   inside it to just after the window (then normal spacing applies; drop as `no-room` if it runs off the end).
