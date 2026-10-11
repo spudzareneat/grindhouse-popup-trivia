@@ -35,7 +35,8 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
    then `cat /work/out/tt0055830.json`. The same console runs `node src/cli.js run` / `movie …` by hand.
 
 Manual commands: `docker compose run --rm generator run` (this weekend now), `… movie "Title" --year 1980`,
-add `--force` to regenerate an existing file. Don't run a manual `docker compose run … movie` while a scheduled
+add `--force` to regenerate an existing file. `… backfill-totals` adds the Drive-In Totals card to files published before it
+existed (`--dry-run` writes to `out/`). Don't run a manual `docker compose run … movie` while a scheduled
 run is in progress — they share the `/work` checkout.
 
 Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth failure (re-run later / fix the token),

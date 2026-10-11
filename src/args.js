@@ -1,5 +1,5 @@
 // CLI argument parsing (kept out of cli.js so it can be unit-tested without running main()).
-export const USAGE = 'usage: cli.js run [--dry-run] [--force] | cli.js movie <tt…|"Title"> [--year N] [--dry-run] [--force]';
+export const USAGE = 'usage: cli.js run [--dry-run] [--force] | cli.js movie <tt…|"Title"> [--year N] [--dry-run] [--force] | cli.js backfill-totals [--dry-run] [--force]';
 
 export function parseArgs(argv) {
     const args = { _: [], dryRun: false, force: false, year: null };

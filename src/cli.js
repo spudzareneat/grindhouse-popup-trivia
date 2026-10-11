@@ -2,6 +2,7 @@
 // Usage:
 //   node src/cli.js run [--dry-run] [--force]
 //   node src/cli.js movie <tt1234567 | "Title"> [--year 1962] [--dry-run] [--force]
+//   node src/cli.js backfill-totals [--dry-run] [--force]   (add the Drive-In Totals card to published files)
 // Env: DATA_REPO_DIR (git checkout to write data/ into; default cwd), CLAUDE_MODEL (default "sonnet"),
 //      TMDB_API_KEY (optional), OPENSUBTITLES_API_KEY [+ _USERNAME/_PASSWORD] (optional, scene timing),
 //      MOVIE_DELAY_SEC (default 60), CLAUDE_TIMEOUT_MIN (default 30),
@@ -17,13 +18,14 @@ import { fetchTotals } from './driveintotals.js';
 import { runClaude, pruneClaudeState } from './claude.js';
 import { makeGit } from './publish.js';
 import { processMovie, runWeekend, UsageLimitError, PublishError } from './pipeline.js';
+import { runBackfill } from './backfill.js';
 import { parseArgs, USAGE } from './args.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
     const args = parseArgs(process.argv.slice(2));
     const [command, target] = args._;
-    if (args.error || !(command === 'run' || (command === 'movie' && target))) {
+    if (args.error || !(command === 'run' || command === 'backfill-totals' || (command === 'movie' && target))) {
         console.error(USAGE);
         if (args.error) console.error(args.error);
         process.exitCode = 64;
@@ -63,6 +65,17 @@ async function main() {
         else if (results.some(r => r.stop === 'usage')) process.exitCode = 2;
         else if (attempted.length && attempted.every(r => r.status === 'failed')) process.exitCode = 1;
         else process.exitCode = 0;
+    } else if (command === 'backfill-totals') {
+        if (!deps.totalsRows.length) { log('No Drive-In Totals loaded — nothing to backfill'); process.exitCode = 1; return; }
+        try {
+            deps.git.pull();
+            const results = runBackfill(deps);
+            log(`backfill-totals: ${results.length} file(s) updated${args.dryRun ? ' (dry run, written to out/)' : ''}`);
+            process.exitCode = 0;
+        } catch (e) {
+            log(`backfill-totals failed: ${e.message}`);
+            process.exitCode = 1;
+        }
     } else {
         const item = /^tt\d+$/.test(target) ? { tconst: target } : { title: target, year: args.year, akas: [] };
         try {
