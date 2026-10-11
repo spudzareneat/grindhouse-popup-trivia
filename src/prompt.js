@@ -94,10 +94,14 @@ on another bubble for context.
 - Characters are characters: write "Tom Atkins' character, Detective Ray Cameron", not just "Cameron".
 - Say why it matters: if a person isn't widely known, frame the fact around what makes it fun (e.g. "The girl in the
   opening, Leslie Ryan, turned down a date with director Fred Dekker"), or leave the name out if it adds nothing.
+- Opinions need a name: never "one critic", "a reviewer", "reviewers say" or "critics noted". Say who and where:
+  "Variety called it…", "Leonard Maltin gave it…", "Kim Newman wrote…", "Richard Scheib of Moria called it…". If the
+  source is an unknown blogger, name the site, or drop the opinion and keep only the facts it reports (e.g. "It was
+  built by Philippine technicians" stands on its own). Say "critics" only for a real consensus, with an example outlet.
 - Don't copy gathered trivia verbatim: IMDb trivia assumes the reader already knows the film. Rewrite it so a stranger
   gets it. Stay within the length limit by dropping a minor detail, never the context.
 - Before returning, reread each bubble as if it were the only one a viewer ever sees, and fix any bare surname,
-  unexplained pronoun, or unexplained "the director" / "the studio".
+  unexplained pronoun, unexplained "the director" / "the studio", or unnamed critic.
 
 ## What earns a bubble
 Every bubble is about this film, or ties it to something viewers know.
