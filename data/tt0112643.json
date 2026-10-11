@@ -73,17 +73,6 @@
       }
     },
     {
-      "t": 520,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Eight dead bodies. Seven breasts. One dead cat, skinned. One extended chase scene. One motor vehicle crash. Random skull paintings. Abandoned toy room. Dangling clown doll.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 640,
       "rank": 2,
       "anchor": "scene",
@@ -318,17 +307,6 @@
       }
     },
     {
-      "t": 2700,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Chain strangling. Forehead wall-bashing. Crypt destruction. Casket cracking. Eye chewing. Spine stabbing. Whip wielding. Wine bottle bashing. Hooker shackling.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 2800,
       "rank": 2,
       "anchor": "spread",
@@ -440,17 +418,6 @@
       }
     },
     {
-      "t": 3824,
-      "rank": 2,
-      "anchor": "scene",
-      "text": "Drive-In Totals: Eye chewing aside, the film has Chambermaid bludgeoning. Ear ripping. Chain jerking. Butcher knife to the forearm. Sexual assault by claw. Thumb rolls. Breast rolls. Eye rolls.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 3890,
       "rank": 3,
       "anchor": "spread",
@@ -557,5 +524,43 @@
         "type": "imdb"
       }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "8 Dead Bodies",
+      "7 Breasts",
+      "1 Dead Cat, Skinned",
+      "1 Extended Chase Scene",
+      "1 Motor Vehicle Crash",
+      "Random Skull Paintings",
+      "Abandoned Toy Room",
+      "Dangling Clown Doll",
+      "Chain Strangling",
+      "Forehead Wall-Bashing",
+      "Crypt Destruction",
+      "Casket Cracking",
+      "Eye Chewing",
+      "Spine Stabbing",
+      "Whip Wielding",
+      "Wine Bottle Bashing",
+      "Hooker Shackling",
+      "Chambermaid Bludgeoning",
+      "Ear Ripping",
+      "Chain Jerking",
+      "Butcher Knife to the Forearm",
+      "Sexual Assault by Claw",
+      "Thumb Rolls",
+      "Breast Rolls",
+      "Eye Rolls",
+      "Mirror Fu",
+      "Rooftop Fu",
+      "Parapet Fu",
+      "Face Slap Fu",
+      "Manacle Fu",
+      "Double Baton Fu"
+    ],
+    "stars": 4,
+    "says": "Joe Bob says check it out."
+  }
 }
