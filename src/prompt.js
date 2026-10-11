@@ -25,7 +25,24 @@ export function maxFactCount(runtimeSec) {
 
 const section = (name, items) => items && items.length ? `\n### ${name}\n${items.map(s => `- ${s}`).join('\n')}\n` : '';
 
-export function buildPrompt({ imdb, wikidata, wikipedia, related, transcript, totals, tmdb }) {
+function joeBobSection(totals, card) {
+    if (card) {
+        return `Joe Bob's counts and his star rating for this film are shown on their own Drive-In Totals card over the opening of the movie.
+Do NOT write bubbles for the counts or the star rating, and never start a bubble with "Drive-In Totals:".
+${card.awards
+        ? `From his Drive-In Academy Award nominations, Hall of Fame mentions and quotes below, write 1–3 bubbles (icon joebob, byline "Joe Bob Briggs", source driveintotals), spread across the movie. Name each nominee with their role per the rules above (e.g. "Joe Bob Briggs nominated Candace Hilligoss (Mary Henry) for a Drive-In Academy Award for 'I don't belong in the world.'").
+AWARDS: ${card.awards}`
+        : 'There are no award nominations to turn into bubbles.'}`;
+    }
+    if (totals) {
+        return `Split this into 2–4 bubbles that start with "Drive-In Totals:" (icon joebob, byline "Joe Bob Briggs", source driveintotals), spread across the movie.
+If it ends with Joe Bob's verdict ("Four stars. Joe Bob says check it out."), put that as its own bubble in the last 10 minutes.
+TOTALS: ${totals}`;
+    }
+    return 'No Drive-In Totals found for this film. If you find Joe Bob Briggs coverage online (MonsterVision, The Last Drive-In, his columns), include it with its URL.';
+}
+
+export function buildPrompt({ imdb, wikidata, wikipedia, related, transcript, totals, card, tmdb }) {
     const rt = imdb.runtimeSec;
     const n = targetFactCount(rt);
     const max = maxFactCount(rt);
@@ -116,11 +133,7 @@ Every bubble is about this film, or ties it to something viewers know.
   (a martial-arts lineage, folklore, a studio's founding years) unless it pays off with a link back to this movie.
 
 ## Joe Bob Briggs' Drive-In Totals
-${totals
-        ? `Split this into 2–4 bubbles that start with "Drive-In Totals:" (icon joebob, byline "Joe Bob Briggs", source driveintotals), spread across the movie.
-If it ends with Joe Bob's verdict ("Four stars. Joe Bob says check it out."), put that as its own bubble in the last 10 minutes.
-TOTALS: ${totals}`
-        : 'No Drive-In Totals found for this film. If you find Joe Bob Briggs coverage online (MonsterVision, The Last Drive-In, his columns), include it with its URL.'}
+${joeBobSection(totals, card)}
 
 ## Gathered material
 ${section('IMDb trivia', imdb.trivia)}${section('IMDb goofs', imdb.goofs)}${section('Quotes', imdb.quotes)}${section('Connections to other movies', imdb.connections)}${section('Alternate versions / cuts', imdb.alternateVersions)}${section('Crazy credits', imdb.crazyCredits)}${section('Soundtrack', imdb.soundtrack)}${section('Filming locations', imdb.filmingLocations)}${section('People', people)}${section('Wikidata', wd)}${section('TMDB', tm)}

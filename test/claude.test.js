@@ -221,3 +221,19 @@ test('buildPrompt: transcript adds the timing rule and the [m:ss] section; absen
     assert.ok(!q.includes('Dialogue transcript'));
     assert.ok(!q.includes('Place every fact you can'));
 });
+test('buildPrompt with a Drive-In card: awards only, no counts, no card bubbles', () => {
+    const card = { lines: ['19 Dead Bodies'], stars: 4, says: 'Joe Bob says check it out.', awards: 'Drive-In Academy Award nominations for Candace Hilligoss.' };
+    const p = buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: 'Nineteen dead bodies. Four stars.', card, tmdb: null });
+    assert.match(p, /Drive-In Totals card/);
+    assert.match(p, /Do NOT write bubbles for the counts or the star rating/);
+    assert.match(p, /AWARDS: Drive-In Academy Award nominations for Candace Hilligoss\./);
+    assert.doesNotMatch(p, /Nineteen dead bodies|19 Dead Bodies/);
+    assert.doesNotMatch(p, /TOTALS:/);
+});
+test('buildPrompt with a card but no awards asks for no Joe Bob bubbles', () => {
+    const card = { lines: ['19 Dead Bodies'], stars: 4, says: '', awards: '' };
+    assert.match(buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: 'x', card, tmdb: null }), /no award nominations to turn into bubbles/);
+});
+test('buildPrompt with Totals but no card keeps the old Totals bubbles', () => {
+    assert.match(buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: 'Nineteen dead bodies.', card: null, tmdb: null }), /TOTALS: Nineteen dead bodies\./);
+});
