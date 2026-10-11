@@ -280,17 +280,6 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYmFlNDI3OTQtMjI1Ni00YWE0LTgxNWEtMWNhN2I1NWU1NzVjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
     },
     {
-      "t": 1800,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: 78 gallons of blood. 147 gallons of slime. Two breasts. Ten dead bodies.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 1900,
       "rank": 3,
       "anchor": "spread",
@@ -368,17 +357,6 @@
       "source": {
         "type": "web",
         "url": "https://loudersound.com/features/hellraiser-story-behind-horror-movie"
-      }
-    },
-    {
-      "t": 2500,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Chains. Character actor taffy pull. Flaying. Clawing. Manacling. Gratuitous body parts. Gratuitous maggots.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
       }
     },
     {
@@ -480,17 +458,6 @@
       "byline": null,
       "source": {
         "type": "wikipedia"
-      }
-    },
-    {
-      "t": 3400,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Devil sex. Blood gurgling. Glopola skeleton chasing. Head bashing. Rat impaling. Rat skinning. Face nailing. Claw Hammer Fu.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
       }
     },
     {
@@ -721,17 +688,6 @@
       }
     },
     {
-      "t": 5200,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Four stars. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 5300,
       "rank": 2,
       "anchor": "spread",
@@ -776,5 +732,31 @@
         "type": "wikipedia"
       }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "78 Gallons Blood",
+      "147 Gallons Slime",
+      "2 Breasts",
+      "10 Dead Bodies",
+      "Chains",
+      "Character Actor Taffy Pull",
+      "Flaying",
+      "Clawing",
+      "Manacling",
+      "Gratuitous Body Parts",
+      "Gratuitous Maggots",
+      "Devil Sex",
+      "Blood Gurgling",
+      "Glopola Skeleton Chasing",
+      "Head Bashing",
+      "Rat Impaling",
+      "Rat Skinning",
+      "Face Nailing",
+      "Claw Hammer Fu"
+    ],
+    "stars": 4,
+    "says": "Joe Bob says check it out."
+  }
 }
