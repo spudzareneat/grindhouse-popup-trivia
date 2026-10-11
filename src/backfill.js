@@ -31,6 +31,7 @@ export function runBackfill({ dataDir, outDir, totalsRows, git, dryRun, force, l
         if (!totals) continue;
         const r = backfillDoc(doc, totals);
         if (!r) { log(`  ${doc.title} (${doc.year}): Totals don't make a card — left as is`); continue; }
+        if (JSON.stringify(r.doc) === JSON.stringify(doc)) continue;   // --force re-run: nothing changed, nothing to commit
         const file = writeDoc(dryRun ? outDir : dataDir, r.doc);
         log(`  ${doc.title} (${doc.year}): card with ${r.doc.driveIn.lines.length} lines, ${r.doc.driveIn.stars ?? 'no'} stars; removed ${r.removed} old Totals bubbles`);
         if (!dryRun) git.commitAndPush(file, `data: ${doc.title} (${doc.year}) — Drive-In Totals card\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`);

@@ -63,3 +63,10 @@ test('runBackfill --dry-run writes to out/ and commits nothing', () => {
     assert.equal('driveIn' in JSON.parse(fs.readFileSync(path.join(dataDir, 'tt0055830.json'), 'utf8')), false);
     assert.ok(fs.existsSync(path.join(deps.outDir, 'tt0055830.json')));
 });
+test('runBackfill --force skips files that would not change (no empty commit)', () => {
+    const { deps, commits } = setup();
+    runBackfill(deps);
+    const git = { commitAndPush: (p, m) => { if (commits.some(c => c.p === p)) throw new Error('nothing to commit'); commits.push({ p, m }); } };
+    assert.equal(runBackfill({ ...deps, force: true, git }).length, 0);
+    assert.equal(commits.length, 1);
+});

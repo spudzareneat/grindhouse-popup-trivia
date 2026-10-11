@@ -31,7 +31,7 @@ export function parseTotals(text) {
     const ti = col('title'), yi = col('year'), di = col('description');
     return rows
         .map(r => ({ title: (r[ti] || '').trim(), year: /^\d{4}$/.test((r[yi] || '').trim()) ? Number(r[yi]) : null, description: (r[di] || '').trim() }))
-        .filter(r => r.title && r.description);
+        .filter(r => r.title && r.description && !/^not_found$/i.test(r.description));   // transcription placeholder
 }
 
 // With a year: exact year first, then +-1. Without a year: only when exactly one
@@ -133,6 +133,19 @@ function normalizeSays(says) {
     return /^(?:joe bob says? )?check it out\.?$/i.test(t) ? 'Joe Bob says check it out.' : t;
 }
 
+// The userscript's limits (tpValidateDriveIn) -- enforced here so the client never has to cut anything.
+const MAX_LINES = 60, MAX_LINE = 300, MAX_SAYS = 120;
+// "I give it about, oh, two stars." -- the words that lead into the rating aren't a count.
+const RATING_LEADIN = /(?:^|\s)(?:don't get your hopes up--)?(?:i(?:'ll)?\s+give\s+(?:it|this(?:\s+\w+)?)(?:\s+about)?(?:,?\s*oh)?|we're\s+talking|a\s+definite)$/i;
+const CONNECTIVE = /^(?:and|but|also|plus|so)$/i;
+const SIGN_OFF = /check (?:it|this) out|joe bob/i;
+const trimTail = s => s.replace(/[\s,;:.-]+$/, '');
+function clip(s, max) {
+    if (s.length <= max) return s;
+    const cut = s.lastIndexOf(' ', max - 1);
+    return trimTail(s.slice(0, cut > 0 ? cut : max - 1)) + '…';
+}
+
 export function parseTotalsCard(description) {
     const sentences = splitSentences(description || '');
     let vi = -1;
@@ -144,9 +157,28 @@ export function parseTotalsCard(description) {
         const n = (w in STAR_WORDS ? STAR_WORDS[w] : Number(w)) + (m[2] ? 0.5 : 0);
         stars = Math.min(4, Math.max(0, Math.round(n * 2) / 2));
         const rest = v.slice(m.index + m[0].length).replace(/^[\s.,;:!-]+/, '');
-        says = normalizeSays([rest, ...sentences.slice(vi + 1)].filter(Boolean).join(' '));
-        const before = v.slice(0, m.index).replace(/[\s,;:.-]+$/, '');   // "We have 103 dead bodies, ..., three stars."
-        body = [...sentences.slice(0, vi), ...(before ? [before] : [])];
+        // The sign-off is the "check it out" sentence (plus one short remark before it, e.g. "Outstanding.").
+        // Counts that follow a mid-paragraph rating ("Three and a half stars. Heads roll. ...") stay counts.
+        const after = sentences.slice(vi + 1);
+        const k = after.findIndex(s => SIGN_OFF.test(s));
+        let signOff = [], extra = [];
+        if (k >= 0 && k <= 1) { signOff = after.slice(0, k + 1); extra = after.slice(k + 1); }
+        else if (k > 1) { signOff = [after[k]]; extra = [...after.slice(0, k), ...after.slice(k + 1)]; }
+        else if (after.length <= 1) signOff = after;
+        else extra = after;
+        says = normalizeSays([rest, ...signOff].filter(Boolean).join(' '));
+        if (says.length > MAX_SAYS) says = clip(normalizeSays(signOff.at(-1) || rest), MAX_SAYS);
+        // "We have 103 dead bodies, ..., three stars." -- an inline list is one count per item.
+        const before = trimTail(trimTail(v.slice(0, m.index)).replace(RATING_LEADIN, ''));
+        // "I give it about ... three stars." splits at the "...", leaving the lead-in as the sentence before.
+        const prior = sentences.slice(0, vi);
+        while (prior.length && !trimTail(prior.at(-1))) prior.pop();   // ". . ." pieces
+        const lead = prior.length ? trimTail(prior.at(-1)) : '';
+        if (!before && RATING_LEADIN.test(lead)) {
+            const last = trimTail(lead.replace(RATING_LEADIN, ''));
+            if (last) prior[prior.length - 1] = last; else prior.pop();
+        }
+        body = [...prior, ...(before ? before.split(/,\s+(?:and\s+)?/) : []), ...extra];
     }
     const lines = [], awards = [];
     let inAwards = false;
@@ -158,8 +190,8 @@ export function parseTotalsCard(description) {
         const parts = s.split(/,\s+(?:and\s+)?/);
         for (const part of parts.length >= 4 ? parts : [s]) {
             const line = cleanLine(part);
-            if (line) lines.push(line);
+            if (line && !CONNECTIVE.test(line)) lines.push(clip(line, MAX_LINE));
         }
     }
-    return { lines, stars, says, awards: awards.join(' ') };
+    return { lines: lines.slice(0, MAX_LINES), stars, says, awards: awards.join(' ') };
 }
