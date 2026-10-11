@@ -110,8 +110,9 @@ Commits/pushes through the existing publish path. One-off, but kept as a command
   publishes fewer than 5.)
 - **When it shows**: in `_tpTimelineTick`, before bubbles: if not muted, not yet seen, and
   `currentTime ≥ driveIn.t` within `TP_TIMELINE_WINDOW_S` → show. Shown on every frequency tier.
-- **Catch-up**: missed (joined/seeked past) → show once at the next quiet gap, same gap rules as
-  `tpCatchUpFact`, ahead of missed bubbles.
+- **Catch-up**: missed (joined late / seeked past) and not seen → show once 15 s after the movie is
+  identified or the last pop (`TP_DRIVEIN_CATCHUP_S`, the same lead-in as the start of the movie, not the
+  45 s bubble catch-up gap), ahead of missed bubbles.
 - **Seen**: marked in the same per-movie seen list (key `"driveIn"`), so reloads don't replay it.
 - **Bubbles wait**: while the card is up, no bubble pops; due bubbles pop when it's gone (expired ones surface
   via catch-up as today).
