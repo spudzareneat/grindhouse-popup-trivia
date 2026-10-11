@@ -79,3 +79,39 @@ test('parseTotalsCard: every real Totals row', () => {
     }
     assert.ok(noCard.length <= 2, `rows without a card: ${noCard.join(', ')}`);
 });
+test('parseTotals drops NOT_FOUND placeholder rows', () => {
+    const rows = parseTotals('title,year,description,transcribed,llm_model\nSwamp Thing,1982,NOT_FOUND,,\nCarnival of Souls,1962,Nineteen dead bodies.,,\n');
+    assert.deepEqual(rows.map(r => r.title), ['Carnival of Souls']);
+});
+test('parseTotalsCard: rating lead-ins never become a card line', () => {
+    assert.deepEqual(parseTotalsCard('Twelve dead bodies, two beasts, ghost fu, I give it about three stars.').lines, ['12 Dead Bodies', '2 Beasts', 'Ghost Fu']);
+    assert.deepEqual(parseTotalsCard('Five dead bodies. I give it about ... three stars. Joe Bob says check it out.').lines, ['5 Dead Bodies']);
+    assert.deepEqual(parseTotalsCard("Skeeter Fu. I'll give it about, oh, two stars. Joe Bob says check it out.").lines, ['Skeeter Fu']);
+    assert.deepEqual(parseTotalsCard('Ten dead bodies, two beasts, axe fu, and, three stars.').lines, ['10 Dead Bodies', '2 Beasts', 'Axe Fu']);
+});
+test('parseTotalsCard: counts after a mid-paragraph rating stay on the card; says is only the sign-off', () => {
+    const c = parseTotalsCard('Three and a half stars. Heads roll. Fingers roll. Suicide fu. Joe Bob says check it out.');
+    assert.equal(c.stars, 3.5);
+    assert.deepEqual(c.lines, ['Heads Roll', 'Fingers Roll', 'Suicide Fu']);
+    assert.equal(c.says, 'Joe Bob says check it out.');
+    assert.equal(parseTotalsCard('Ten dead bodies. Four stars. Outstanding. Joe Bob says check it out.').says, 'Outstanding. Joe Bob says check it out.');
+});
+test('parseTotalsCard enforces the userscript limits (says <= 120, line <= 300, <= 60 lines)', () => {
+    const long = parseTotalsCard(`Ten dead bodies. Four stars. ${'Really '.repeat(30)}good. Joe Bob says check it out.`);
+    assert.ok(long.says.length <= 120, long.says);
+    const wide = parseTotalsCard(`${'Gratuitous '.repeat(40)}fu. Two stars.`);
+    assert.ok(wide.lines[0].length <= 300);
+    assert.equal(parseTotalsCard(Array.from({ length: 70 }, (_, i) => `Fu number ${i}.`).join(' ')).lines.length, 60);
+});
+test('parseTotalsCard: real rows give clean cards', () => {
+    const rows = parseTotals(fs.readFileSync(new URL('./fixtures/drivein_totals.csv', import.meta.url), 'utf8'));
+    for (const r of rows) {
+        const c = parseTotalsCard(r.description);
+        assert.ok(c.says.length <= 120, `${r.title}: says too long`);
+        assert.ok(c.lines.length <= 60 && c.lines.every(l => l.length <= 300), `${r.title}: over the userscript limits`);
+        for (const l of c.lines) {
+            assert.doesNotMatch(l, /^not_found$/i, `${r.title}: placeholder line`);
+            assert.doesNotMatch(l, /^(?:and|but|also|plus)$|\bgive it\b/i, `${r.title}: rating lead-in "${l}"`);
+        }
+    }
+});
