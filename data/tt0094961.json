@@ -448,17 +448,46 @@
       "source": {
         "type": "imdb"
       }
-    },
-    {
-      "t": 4900,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals verdict: Two and a half stars. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "29 Dead Bodies",
+      "2 Undead Bodies",
+      "1 Dead Pig",
+      "Dead Zombie Duck",
+      "Giant Chinese Food",
+      "Chicken Animatronics",
+      "Exploding Jewel Thief",
+      "2 Motor Vehicle Chases, with Multiple Crashes",
+      "Zombie Machine-Fun Attack",
+      "Zombie Machine-Gun Mexican Standoff",
+      "5 Shootouts",
+      "4 Explosions",
+      "Hot-Tub Electrocution",
+      "1 Zombie Autopsy",
+      "1 Skeleton-Head Jump Scare",
+      "1 Crazed Sumo Butcher, with Cleaver",
+      "Multiple Reanimate Meat",
+      "Face Melting",
+      "Exploding Darrin McGavin",
+      "Zombie Mixed Martial Arts",
+      "1 Hokey Blue-Light Resurrection Machine",
+      "2-Faces Chemical Punk Monster",
+      "1 Porn-Addicted Zombie Security Guard",
+      "Zombie Duck Heads",
+      "Reanimated Treat Williams",
+      "Reanimated Fish",
+      "Reanimated Attack Pig",
+      "Gratuitous Vincent Price",
+      "Heads Roll",
+      "Arms Roll",
+      "Automatic Weapons Fu",
+      "Patio Umbrella Fu",
+      "Suicide Fu"
+    ],
+    "stars": 2.5,
+    "says": "Joe Bob says check it out."
+  }
 }
