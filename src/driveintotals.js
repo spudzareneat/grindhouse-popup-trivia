@@ -51,3 +51,115 @@ export function findTotals(rows, title, year) {
 export async function fetchTotals(fetchImpl = fetch) {
     return parseTotals(await getText(fetchImpl, TOTALS_CSV_URL));
 }
+
+// ── Drive-In Totals card ──
+// Splits Joe Bob's Totals paragraph for the userscript's Drive-In Totals card, deterministically (no Claude).
+// Counts and Fu's -> card lines (MonsterVision style: digits, Title Case); the star verdict -> stars + sign-off;
+// award nominations, Hall of Fame, quotes and cast call-outs need context, so they go to Claude as `awards`.
+
+const ABBREV = new Set(['mr', 'mrs', 'ms', 'dr', 'st', 'jr', 'sr', 'vs', 'etc', 'approx', 'lt', 'sgt', 'capt', 'col', 'gen', 'prof', 'mt']);
+
+// Sentence split that ignores periods inside quotes/parentheses, after abbreviations and initials.
+export function splitSentences(text) {
+    const out = [];
+    let buf = '', depth = 0, inQuote = false;
+    for (const c of text) {
+        if (c === '(') depth++;
+        else if (c === ')') depth = Math.max(0, depth - 1);
+        else if (c === '"') inQuote = !inQuote;
+        else if (c === '\u201c') inQuote = true;
+        else if (c === '\u201d') inQuote = false;
+        if (/\s/.test(c) && depth === 0 && !inQuote && /[.!?]["'\u201d\u2019)]*$/.test(buf)) {
+            const lastWord = (buf.match(/([A-Za-z]+)\.$/) || [])[1];
+            const initial = /(^|\s)[A-Z]\.$/.test(buf);
+            if (!(lastWord && ABBREV.has(lastWord.toLowerCase())) && !initial) {
+                if (buf.trim()) out.push(buf.trim());
+                buf = '';
+                continue;
+            }
+        }
+        buf += c;
+    }
+    if (buf.trim()) out.push(buf.trim());
+    return out;
+}
+
+const STAR_WORDS = { zero: 0, no: 0, one: 1, two: 2, three: 3, four: 4 };
+const STAR_RE = /\b(zero|no|one|two|three|four|[0-4](?:\.5)?)(\s+and\s+(?:a\s+)?half)?\s+stars?\b/i;
+const SMALL_WORDS = new Set(['a', 'an', 'and', 'as', 'at', 'but', 'by', 'for', 'from', 'in', 'of', 'on', 'or', 'the', 'to', 'with', 'n', 'vs']);
+const UNITS = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve',
+    'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
+const TENS = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
+
+// "Seventy-Six breasts" -> "76 breasts". Only the number phrase that starts the line ("Including One With..." stays).
+export function leadingNumberToDigits(s) {
+    const m = s.match(/^((?:one|a)\s+hundred\s+(?:and\s+)?)?([a-z]+)(?:[-\s]([a-z]+))?\b/i);
+    if (!m) return s;
+    const hundred = m[1] ? 100 : 0;
+    const w1 = m[2].toLowerCase(), w2 = m[3] && m[3].toLowerCase();
+    const t = TENS.indexOf(w1), u2 = w2 ? UNITS.indexOf(w2) : -1;
+    if (t >= 2 && u2 >= 1 && u2 <= 9) return `${hundred + t * 10 + u2}${s.slice(m[0].length)}`;
+    if (t >= 2) return `${hundred + t * 10}${s.slice((m[1] || '').length + m[2].length)}`;
+    if (UNITS.includes(w1)) return `${hundred + UNITS.indexOf(w1)}${s.slice((m[1] || '').length + m[2].length)}`;
+    return s;
+}
+
+// Capitalize each word (and each hyphenated part); small words stay lower mid-line. Never lowercases
+// the rest of a word, so "McCoy" and "TV" survive.
+export function titleCase(s) {
+    let first = true;
+    return s.replace(/[A-Za-z][A-Za-z']*/g, (w, off) => {
+        const prev = s[off - 1];
+        const lead = first || prev === '(' || prev === '-';
+        first = false;
+        if (!lead && SMALL_WORDS.has(w.toLowerCase())) return w.toLowerCase();
+        return w[0].toUpperCase() + w.slice(1);
+    });
+}
+
+export function cleanLine(sentence) {
+    let s = sentence.trim().replace(/\.+$/, '').trim();
+    s = s.replace(/^(?:we(?:'ve)?\s+(?:got|have)\s+(?:a\s+total\s+of\s+)?|we're\s+talking\s+|there\s+(?:are|is|were|was)\s+)/i, '');
+    s = s.replace(/^approximately\b/i, 'About');
+    return titleCase(leadingNumberToDigits(s));
+}
+
+// Cast call-outs and quoted lines need context -- they go to Claude with the awards, not on the card.
+const isAwardish = s => /hall of fame/i.test(s) || /["\u201c]/.test(s) || /^(?:and\s+)?with\s.+\sas\s/i.test(s) || /^for\s/i.test(s);
+const startsAwards = s => /academy|drive-im|\bdiaa\b/i.test(s);
+
+function normalizeSays(says) {
+    const t = says.trim();
+    return /^(?:joe bob says? )?check it out\.?$/i.test(t) ? 'Joe Bob says check it out.' : t;
+}
+
+export function parseTotalsCard(description) {
+    const sentences = splitSentences(description || '');
+    let vi = -1;
+    for (let i = sentences.length - 1; i >= 0; i--) if (STAR_RE.test(sentences[i])) { vi = i; break; }
+    let stars = null, says = '', body = sentences;
+    if (vi >= 0) {
+        const v = sentences[vi], m = v.match(STAR_RE);
+        const w = m[1].toLowerCase();
+        const n = (w in STAR_WORDS ? STAR_WORDS[w] : Number(w)) + (m[2] ? 0.5 : 0);
+        stars = Math.min(4, Math.max(0, Math.round(n * 2) / 2));
+        const rest = v.slice(m.index + m[0].length).replace(/^[\s.,;:!-]+/, '');
+        says = normalizeSays([rest, ...sentences.slice(vi + 1)].filter(Boolean).join(' '));
+        const before = v.slice(0, m.index).replace(/[\s,;:.-]+$/, '');   // "We have 103 dead bodies, ..., three stars."
+        body = [...sentences.slice(0, vi), ...(before ? [before] : [])];
+    }
+    const lines = [], awards = [];
+    let inAwards = false;
+    for (const s of body) {
+        if (startsAwards(s)) inAwards = true;
+        if (inAwards || isAwardish(s)) { awards.push(s); continue; }
+        // A long comma list ("103 dead bodies, one dead Neanderthal, ...") is one count per item;
+        // a short one ("One motor vehicle chase, with watery crash") stays a single line.
+        const parts = s.split(/,\s+(?:and\s+)?/);
+        for (const part of parts.length >= 4 ? parts : [s]) {
+            const line = cleanLine(part);
+            if (line) lines.push(line);
+        }
+    }
+    return { lines, stars, says, awards: awards.join(' ') };
+}
