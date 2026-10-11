@@ -7,17 +7,6 @@
   "generatedAt": "2026-10-08T10:08:48.292Z",
   "facts": [
     {
-      "t": 90,
-      "rank": 2,
-      "anchor": "scene",
-      "text": "Drive-In Totals: Forty-six breasts. Twenty-two dead bodies. Five motor vehicle chases. Mutant sex. Exploding faces. Exploding high school. Bulemic trained dolphin. Baby-throwing.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 200,
       "rank": 1,
       "anchor": "spread",
@@ -156,17 +145,6 @@
       "source": {
         "type": "web",
         "url": "https://moriareviews.com/horror/class-of-nuke-em-high-part-ii-subhumanoid-meltdown-1991.htm"
-      }
-    },
-    {
-      "t": 1290,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Pubbles of green scum where students used to be. Green stomach monsters. Gene splicing. Denim jean splicing. Dolphin burgers. Foot-eating, slam-dancing squirrels.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
       }
     },
     {
@@ -459,17 +437,31 @@
         "url": "https://en.wikipedia.org/wiki/Brick_Bronsky"
       },
       "person": "nm0111498"
-    },
-    {
-      "t": 4900,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Two stars. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "46 Breasts",
+      "22 Dead Bodies",
+      "5 Motor Vehicle Chases",
+      "Mutant Sex",
+      "Exploding Faces",
+      "Exploding High School",
+      "Bulemic Trained Dolphin",
+      "Baby-Throwing",
+      "Pubbles of Green Scum Where Students Used to Be",
+      "Green Stomach Monsters",
+      "Gene Splicing",
+      "Denim Jean Splicing",
+      "Dolphin Burgers",
+      "Foot-Eating, Slam-Dancing Squirrels",
+      "Beer-Bottle Eating",
+      "Mutant Bat-Baby",
+      "Head Ripping",
+      "Gratuitous Toxic Avenger"
+    ],
+    "stars": 2,
+    "says": "Joe Bob says check it out."
+  }
 }
