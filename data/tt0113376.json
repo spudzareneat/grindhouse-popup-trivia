@@ -83,17 +83,6 @@
       "person": "nm0032540"
     },
     {
-      "t": 520,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Eyeball chewing. Waffle-iron to the face. Head on a cone. Heads on ice cream scoops.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 610,
       "rank": 1,
       "anchor": "spread",
@@ -336,17 +325,6 @@
       }
     },
     {
-      "t": 2400,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Icepick through the mouth. Kung fu. Joe Bob also notes the special effects are surprisingly decent.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 2550,
       "rank": 1,
       "anchor": "spread",
@@ -521,28 +499,6 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYTQ5MjYxZTYtNGM1NC00YzE1LTg1YTktODkxM2U5M2ZlNDRiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
     },
     {
-      "t": 4650,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Heads on ice cream scoops, an icepick through the mouth, and a waffle iron to the face.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
-      "t": 4800,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Three and a half stars. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 4950,
       "rank": 2,
       "anchor": "spread",
@@ -566,5 +522,19 @@
         "url": "https://guides.justwatch.com/es/ice-cream-man-eli-roth-1995"
       }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "Eyeball Chewing",
+      "Waffle-Iron to the Face",
+      "Head on a Cone",
+      "Heads on Ice Cream Scoops",
+      "Icepick Through the Mouth",
+      "Kung Fu",
+      "And the Special Effects in This Thing Are Surprisingly Decent"
+    ],
+    "stars": 3.5,
+    "says": "Joe Bob says check it out."
+  }
 }
