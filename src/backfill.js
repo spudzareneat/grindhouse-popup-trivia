@@ -5,7 +5,7 @@ import { DRIVEIN_T, END_MARGIN } from './schema.js';
 import { spaceFacts, driveInWindow } from './validate.js';
 import { writeDoc } from './publish.js';
 
-const OLD_TOTALS = /^drive-in totals:/i;
+const OLD_TOTALS = /^drive-in totals\b/i;   // "Drive-In Totals:", "Drive-In Totals verdict:", ...
 const AWARDISH = /academy|hall of fame|nominat/i;
 
 // Moves an already-published doc to the Drive-In Totals card: drops the old count/verdict bubbles (award
