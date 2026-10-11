@@ -121,17 +121,6 @@
       }
     },
     {
-      "t": 1190,
-      "rank": 2,
-      "anchor": "scene",
-      "text": "Drive-In Totals: One rabid junkie dog. Bureaucrat devoured by a canine.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 1335,
       "rank": 3,
       "anchor": "scene",
@@ -257,17 +246,6 @@
       "source": {
         "type": "web",
         "url": "https://catalog.afi.com/Catalog/MovieDetails/58378"
-      }
-    },
-    {
-      "t": 2470,
-      "rank": 2,
-      "anchor": "scene",
-      "text": "Drive-In Totals: Shaving cream fu. Kung fu. One sucker punch. Food tossing. Gratuitous bikini models. Infected attack bed.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
       }
     },
     {
@@ -420,17 +398,6 @@
       }
     },
     {
-      "t": 3900,
-      "rank": 2,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Exploding heads. Exploding bodies. Multiple exploding buildings. Exploding Garrett Morris. Goo burning. A worker sliced in half by an eighteen-wheeler. Organized child abuse.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 4000,
       "rank": 1,
       "anchor": "spread",
@@ -544,17 +511,34 @@
       "source": {
         "type": "imdb"
       }
-    },
-    {
-      "t": 4960,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Two and a half stars. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "29 Dead Bodies",
+      "2 Fist Fights",
+      "1 Motor Vehicle Chase",
+      "1 Brawl",
+      "1 Rabid Junkie Dog",
+      "Ground-Seepage Goo Tasting",
+      "Exploding Heads",
+      "Exploding Bodies",
+      "Multiple Exploding Buildings",
+      "Exploding Garrett Morris",
+      "Goo Burning",
+      "Yellow-Suited Industrial Worker Sliced in Half by an Eighteen-Wheeler",
+      "Organized Child Abuse",
+      "Bureaucrat Devoured by a Canine",
+      "Flaming Motel Room",
+      "Food Tossing",
+      "1 Sucker Punch",
+      "Infected Attack Bed",
+      "Gratuitous Bikini Models",
+      "Kung Fu",
+      "Shaving Cream Fu"
+    ],
+    "stars": 2.5,
+    "says": "Joe Bob says check it out."
+  }
 }
