@@ -29,17 +29,6 @@
       }
     },
     {
-      "t": 230,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: No breasts (1962). Nineteen dead bodies. Approximately 15 zombies. One motor vehicle chase, with watery crash. Zombie bus tour. Church organ Fu. Zombie Fu.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 330,
       "rank": 2,
       "anchor": "spread",
@@ -514,17 +503,20 @@
       "source": {
         "type": "driveintotals"
       }
-    },
-    {
-      "t": 4600,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Four stars. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "No Breasts (1962)",
+      "19 Dead Bodies",
+      "About 15 Zombies",
+      "1 Motor Vehicle Chase, with Watery Crash",
+      "Zombie Bus Tour",
+      "Church Organ Fu",
+      "Zombie Fu"
+    ],
+    "stars": 4,
+    "says": "Joe Bob says check it out."
+  }
 }
