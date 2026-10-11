@@ -86,14 +86,14 @@ const DI = (n) => ({ t: 15, lines: Array(n).fill('19 Dead Bodies'), stars: 4, sa
 
 test('cardSeconds / driveInWindow', () => {
     assert.equal(DRIVEIN_T, 15);
-    assert.equal(cardSeconds(7), 19);
-    assert.equal(cardSeconds(48), 64);
-    assert.deepEqual(driveInWindow(DI(7)), { start: 15, end: 34 });
+    assert.equal(cardSeconds(7), 23);
+    assert.equal(cardSeconds(48), 85);
+    assert.deepEqual(driveInWindow(DI(7)), { start: 15, end: 38 });
     assert.equal(driveInWindow(null), null);
 });
 test('Drive-In card window: a 48-line card pushes facts past it, spacing kept', () => {
     const { facts } = validateFacts([F(60, 'a'), F(100, 'b'), F(300, 'c')], 4680, {}, Infinity, DI(48));
-    assert.deepEqual(facts.map(f => [f.t, f.text]), [[79, 'a'], [124, 'b'], [300, 'c']]);
+    assert.deepEqual(facts.map(f => [f.t, f.text]), [[100, 'a'], [145, 'b'], [300, 'c']]);
 });
 test('with a card, old-style "Drive-In Totals:" bubbles are dropped; without one they stay', () => {
     const raw = [F(200, 'Drive-In Totals: Nineteen dead bodies.'), F(400, 'ok')];

@@ -19,7 +19,7 @@ Reference: MonsterVision's on-screen "Drive-In Totals" graphic.
 - **Transparent** — no panel; text sits over the video with drop shadows (`2px 2px 0 #000` + soft glow).
 - Font: **Patua One** (Google Fonts; free lookalike for ITC La Bamba, which can't be redistributed).
 - Header "Drive-In / Totals" in green `#a6e27a`, then a red rule `#c8352b`; count lines in cream `#f4e8c6`,
-  centered. Card is right-aligned, about 44% of the picture wide.
+  centered. Card sits in the top-right corner (3% from the top, 2.5% from the right), 40% of the picture wide.
 - Long counts **wrap** (never ellipsized), with a small gap between counts.
 - Lists taller than the area (~10 base lines) **scroll**: lines fill top-down; once full, older lines roll off
   the top under a soft fade mask. Text size is the same for every movie.
@@ -29,8 +29,8 @@ Reference: MonsterVision's on-screen "Drive-In Totals" graphic.
 
 ## Timing (approved)
 
-- No fixed length. Sequence: header ~0.9 s → one count every 1.1 s → 1.2 s pause → counts out (0.6 s) →
-  stars (4 × 0.28 s) → sign-off → 5 s hold → fade. The card is gone only after every count has shown and the
+- No fixed length. Sequence: header ~1.2 s → one count every 1.5 s → 1.2 s pause → counts out (0.6 s) →
+  stars (4 × 0.28 s) → sign-off → 6 s hold → fade. Shift+D plays the card on demand (sample card when the movie has none) for testing. The card is gone only after every count has shown and the
   stars and sign-off have landed.
 - Card time `driveIn.t` = 15 s, so it plays over the opening of the movie (the card is exempt from the 60 s
   no-fact zone, which still applies to bubbles). `DRIVEIN_T = 15` in `schema.js`.
@@ -91,8 +91,8 @@ coverage online) is unchanged.
   present.
 - `validateFacts` takes an optional reserved window `[t, t + cardSeconds(lines.length)]` and moves any fact
   inside it to just after the window (then normal spacing applies; drop as `no-room` if it runs off the end).
-- `cardSeconds(n)` (in `schema.js`, shared constants with the timing above) = `0.9 + 1.1·n + 1.2 + 0.6 + 1.4 +
-  5 + 2` (≈ 11 + 1.1·n), rounded up — an estimate only; the userscript does the real deferral.
+- `cardSeconds(n)` (in `schema.js`, shared constants with the timing above) = `1.2 + 1.5·n + 1.2 + 0.6 + 1.6 +
+  6 + 0.8 + slack` (≈ 12.4 + 1.5·n), rounded up — an estimate only; the userscript does the real deferral.
 - Also drop any model fact whose text starts with "Drive-In Totals:" (belt and braces).
 
 ### Backfill — `node src/cli.js backfill-totals`
