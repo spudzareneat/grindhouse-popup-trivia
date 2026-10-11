@@ -106,7 +106,8 @@ Commits/pushes through the existing publish path. One-off, but kept as a command
 
 - **Validation**: `tpValidateCurated` also returns a validated `driveIn` (t finite ≥ 0; `lines` = non-empty
   trimmed strings, each ≤ 300 chars, max 60; `stars` null or 0–4 rounded to 0.5; `says` string ≤ 120 chars).
-  Invalid `driveIn` → ignored, facts unaffected. A doc with a valid `driveIn` but no facts is still usable.
+  Invalid `driveIn` → ignored, facts unaffected. (A doc still needs facts to be used — the generator never
+  publishes fewer than 5.)
 - **When it shows**: in `_tpTimelineTick`, before bubbles: if not muted, not yet seen, and
   `currentTime ≥ driveIn.t` within `TP_TIMELINE_WINDOW_S` → show. Shown on every frequency tier.
 - **Catch-up**: missed (joined/seeked past) → show once at the next quiet gap, same gap rules as
