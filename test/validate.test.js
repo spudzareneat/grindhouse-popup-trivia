@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { validateFacts, buildDoc } from '../src/validate.js';
-import { ICON_KEYS, MODEL_OUTPUT_SCHEMA } from '../src/schema.js';
+import { validateFacts, buildDoc, spaceFacts, driveInWindow } from '../src/validate.js';
+import { ICON_KEYS, MODEL_OUTPUT_SCHEMA, cardSeconds, DRIVEIN_T } from '../src/schema.js';
 
 const F = (t, text, extra = {}) => ({ t, rank: 1, anchor: 'spread', text, icon: 'reel', byline: null, source: { type: 'imdb' }, ...extra });
 
@@ -81,4 +81,36 @@ test('person tag ignored when no people map given', () => {
 test('MODEL_OUTPUT_SCHEMA allows an optional person tag', () => {
     assert.deepEqual(MODEL_OUTPUT_SCHEMA.properties.facts.items.properties.person, { type: 'string' });
     assert.equal(MODEL_OUTPUT_SCHEMA.properties.facts.items.required.includes('person'), false);
+});
+const DI = (n) => ({ t: 15, lines: Array(n).fill('19 Dead Bodies'), stars: 4, says: 'Joe Bob says check it out.' });
+
+test('cardSeconds / driveInWindow', () => {
+    assert.equal(DRIVEIN_T, 15);
+    assert.equal(cardSeconds(7), 19);
+    assert.equal(cardSeconds(48), 64);
+    assert.deepEqual(driveInWindow(DI(7)), { start: 15, end: 34 });
+    assert.equal(driveInWindow(null), null);
+});
+test('Drive-In card window: a 48-line card pushes facts past it, spacing kept', () => {
+    const { facts } = validateFacts([F(60, 'a'), F(100, 'b'), F(300, 'c')], 4680, {}, Infinity, DI(48));
+    assert.deepEqual(facts.map(f => [f.t, f.text]), [[79, 'a'], [124, 'b'], [300, 'c']]);
+});
+test('with a card, old-style "Drive-In Totals:" bubbles are dropped; without one they stay', () => {
+    const raw = [F(200, 'Drive-In Totals: Nineteen dead bodies.'), F(400, 'ok')];
+    const withCard = validateFacts(raw, 4680, {}, Infinity, DI(3));
+    assert.deepEqual(withCard.facts.map(f => f.text), ['ok']);
+    assert.equal(withCard.dropped['totals-card'], 1);
+    assert.equal(validateFacts(raw, 4680).facts.length, 2);
+});
+test('spaceFacts: a fact pushed past the end by the window is dropped as no room', () => {
+    const { facts, noRoom } = spaceFacts([{ ...F(60, 'a'), rank: 1 }], 70, { start: 15, end: 79 });
+    assert.deepEqual(facts, []);
+    assert.equal(noRoom, 1);
+});
+test('buildDoc writes driveIn (only the card fields) when present, omits it otherwise', () => {
+    const base = { imdbId: 'tt1', title: 'X', year: 1962, runtimeSec: 4680, facts: [], generatedAt: 'now' };
+    assert.equal('driveIn' in buildDoc(base), false);
+    const doc = buildDoc({ ...base, driveIn: { ...DI(1), awards: 'secret' } });
+    assert.deepEqual(doc.driveIn, { t: 15, lines: ['19 Dead Bodies'], stars: 4, says: 'Joe Bob says check it out.' });
+    assert.deepEqual(Object.keys(doc).slice(-2), ['facts', 'driveIn']);
 });

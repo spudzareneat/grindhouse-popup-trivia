@@ -1,4 +1,4 @@
-import { SCHEMA_VERSION, ICON_KEYS, SOURCE_TYPES, URL_REQUIRED, MAX_TEXT, MIN_T, MIN_GAP, END_MARGIN } from './schema.js';
+import { SCHEMA_VERSION, ICON_KEYS, SOURCE_TYPES, URL_REQUIRED, MAX_TEXT, MIN_T, MIN_GAP, END_MARGIN, cardSeconds } from './schema.js';
 
 // The gate between model output and a published file. Never trusts the model:
 // drops anything malformed/uncited, clamps times into the movie, enforces spacing.
@@ -6,7 +6,8 @@ import { SCHEMA_VERSION, ICON_KEYS, SOURCE_TYPES, URL_REQUIRED, MAX_TEXT, MIN_T,
 // a fact's `person` tag is only kept for someone in this map, and its `image` URL
 // always comes from here, never from the model.
 // maxFacts: keep at most this many, best rank first (scene-anchored before spread on a tie).
-export function validateFacts(rawFacts, runtimeSec, peopleImages = {}, maxFacts = Infinity) {
+// driveIn: the movie's Drive-In Totals card, if any -- facts are kept out of its time window.
+export function validateFacts(rawFacts, runtimeSec, peopleImages = {}, maxFacts = Infinity, driveIn = null) {
     const dropped = {};
     const drop = reason => { dropped[reason] = (dropped[reason] || 0) + 1; };
     const maxT = runtimeSec ? runtimeSec - END_MARGIN : Infinity;
@@ -17,6 +18,8 @@ export function validateFacts(rawFacts, runtimeSec, peopleImages = {}, maxFacts 
         const text = typeof f.text === 'string' ? f.text.trim().replace(/\s+/g, ' ') : '';
         if (!text) { drop('no-text'); continue; }
         if (text.length > MAX_TEXT) { drop('too-long'); continue; }
+        // The card shows the counts and the verdict; a bubble repeating them is the old format.
+        if (driveIn && /^drive-in totals:/i.test(text)) { drop('totals-card'); continue; }
         if (!ICON_KEYS.includes(f.icon)) { drop('bad-icon'); continue; }
         const type = f.source && f.source.type;
         if (!SOURCE_TYPES.includes(type)) { drop('bad-source'); continue; }
@@ -51,20 +54,34 @@ export function validateFacts(rawFacts, runtimeSec, peopleImages = {}, maxFacts 
         unique = unique.filter(f => best.has(f));
     }
 
-    unique.sort((a, b) => a.t - b.t || a.rank - b.rank);
-    const facts = [];
-    for (const f of unique) {
-        const prev = facts[facts.length - 1];
-        if (prev && f.t - prev.t < MIN_GAP) {
-            const shifted = prev.t + MIN_GAP;
-            if (shifted > maxT) { drop('no-room'); continue; }
-            f.t = shifted;
-        }
-        facts.push(f);
-    }
+    const { facts, noRoom } = spaceFacts(unique, maxT, driveInWindow(driveIn));
+    if (noRoom) dropped['no-room'] = (dropped['no-room'] || 0) + noRoom;
     return { facts, dropped };
 }
 
-export function buildDoc({ imdbId, title, year, runtimeSec, facts, generatedAt }) {
-    return { schema: SCHEMA_VERSION, imdbId, title, year, runtimeSec, generatedAt, facts };
+export function driveInWindow(driveIn) {
+    return driveIn ? { start: driveIn.t, end: driveIn.t + cardSeconds(driveIn.lines.length) } : null;
+}
+
+// Sorts by t and spaces facts MIN_GAP apart; a fact inside the Drive-In Totals card's window moves to its end.
+// Mutates t on the facts passed in. Shared with the backfill, which re-spaces already-published facts.
+export function spaceFacts(list, maxT, win = null) {
+    for (const f of list) if (win && f.t >= win.start && f.t < win.end) f.t = win.end;
+    list.sort((a, b) => a.t - b.t || a.rank - b.rank);
+    const facts = [];
+    let noRoom = 0;
+    for (const f of list) {
+        const prev = facts[facts.length - 1];
+        if (prev && f.t - prev.t < MIN_GAP) f.t = prev.t + MIN_GAP;
+        if (f.t > maxT) { noRoom++; continue; }
+        facts.push(f);
+    }
+    return { facts, noRoom };
+}
+
+export function buildDoc({ imdbId, title, year, runtimeSec, facts, generatedAt, driveIn = null }) {
+    return {
+        schema: SCHEMA_VERSION, imdbId, title, year, runtimeSec, generatedAt, facts,
+        ...(driveIn ? { driveIn: { t: driveIn.t, lines: driveIn.lines, stars: driveIn.stars, says: driveIn.says } } : {}),
+    };
 }
