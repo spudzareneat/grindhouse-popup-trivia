@@ -173,17 +173,6 @@
       }
     },
     {
-      "t": 1800,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Twelve dead bodies. Exploding house. One four-barreled sawed-off shotgun. Dwarf tossing. Ten breasts. Embalming needles plunged through various parts of various bodies.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 1950,
       "rank": 3,
       "anchor": "spread",
@@ -261,17 +250,6 @@
       }
     },
     {
-      "t": 2900,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Ear-lopping. Forehead-drilling. Wrist-hacking. Bimbo-flinging. Grandma-bashing. Devil sex. Crematorium Fu. Flamethrower Fu.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 3100,
       "rank": 3,
       "anchor": "spread",
@@ -326,17 +304,6 @@
       "byline": null,
       "source": {
         "type": "imdb"
-      }
-    },
-    {
-      "t": 3960,
-      "rank": 1,
-      "anchor": "scene",
-      "text": "Drive-In Totals: 'The most terrifying scene I've ever witnessed--a perfectly decent 1971 Hemi Cuda flipping over, landing on its roof and bursting into flame.'",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
       }
     },
     {
@@ -440,17 +407,6 @@
       }
     },
     {
-      "t": 5450,
-      "rank": 1,
-      "anchor": "spread",
-      "text": "Drive-In Totals: Four stars. Outstanding. Joe Bob says check it out.",
-      "icon": "joebob",
-      "byline": "Joe Bob Briggs",
-      "source": {
-        "type": "driveintotals"
-      }
-    },
-    {
       "t": 5760,
       "rank": 2,
       "anchor": "scene",
@@ -461,5 +417,28 @@
         "type": "imdb"
       }
     }
-  ]
+  ],
+  "driveIn": {
+    "t": 15,
+    "lines": [
+      "12 Dead Bodies",
+      "Exploding House",
+      "1 Four-Barreled Sawed-Off Shotgun",
+      "Dwarf Tossing",
+      "10 Breasts",
+      "Embalming Needles Plunged Through Various Parts of Various Bodies",
+      "1 Motor Vehicle Chase, with Crash and Burn",
+      "Ear-Lopping",
+      "Forehead-Drilling",
+      "Wrist-Hacking",
+      "Bimbo-Flinging",
+      "Grandma-Bashing",
+      "Devil Sex",
+      "Crematorium Fu",
+      "Flamethrower Fu",
+      "And This Movie Contains the Most Terrifying Scene I've Ever Witnessed--A Perfectly Decent 1971 Hemi Cuda Flipping Over, Landing on Its Roof and Bursting Into Flame"
+    ],
+    "stars": 4,
+    "says": "Outstanding. Joe Bob says check it out."
+  }
 }
