@@ -17,14 +17,18 @@ test('targetFactCount scales with runtime, at least 15, no upper cap', () => {
     assert.equal(targetFactCount(20000), 133);
     assert.equal(targetFactCount(null), 30);
 });
-test('buildPrompt carries the film, runtime, sources, totals, icons and rules', () => {
-    const p = buildPrompt({ imdb: BUNDLE, wikidata: { budget: ['33000'] }, wikipedia: 'WIKI TEXT', totals: 'Nineteen dead bodies.', tmdb: null });
-    for (const s of ['Carnival of Souls (1962)', 'tt0055830', '4680', 'T1', 'Night of the Living Dead', 'WIKI TEXT', 'Nineteen dead bodies.', 'joebob', 'trophy', '200 characters', 'url']) {
+test('buildPrompt carries the film, runtime, sources, icons and rules', () => {
+    const p = buildPrompt({ imdb: BUNDLE, wikidata: { budget: ['33000'] }, wikipedia: 'WIKI TEXT', tmdb: null });
+    for (const s of ['Carnival of Souls (1962)', 'tt0055830', '4680', 'T1', 'Night of the Living Dead', 'WIKI TEXT', 'joebob', 'trophy', '200 characters', 'url']) {
         assert.ok(p.includes(s), `prompt missing: ${s}`);
     }
 });
-test('buildPrompt without totals says so', () => {
-    assert.match(buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: null, tmdb: null }), /No Drive-In Totals/);
+test('buildPrompt leaves the Drive-In Totals out: no Totals bubbles, other Joe Bob coverage welcome', () => {
+    const p = buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, tmdb: null });
+    assert.match(p, /Drive-In Totals .* are handled separately/);
+    assert.match(p, /never start a bubble with "Drive-In Totals:"/);
+    assert.match(p, /other Joe Bob Briggs coverage online/);
+    assert.doesNotMatch(p, /TOTALS:|AWARDS:|driveintotals/);
 });
 test('buildClaudeArgs restricts tools to web only, no MCP, JSON schema output', () => {
     const a = buildClaudeArgs({ model: 'sonnet', schema: { type: 'object' } });
@@ -220,20 +224,4 @@ test('buildPrompt: transcript adds the timing rule and the [m:ss] section; absen
     const q = buildPrompt(base);
     assert.ok(!q.includes('Dialogue transcript'));
     assert.ok(!q.includes('Place every fact you can'));
-});
-test('buildPrompt with a Drive-In card: awards only, no counts, no card bubbles', () => {
-    const card = { lines: ['19 Dead Bodies'], stars: 4, says: 'Joe Bob says check it out.', awards: 'Drive-In Academy Award nominations for Candace Hilligoss.' };
-    const p = buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: 'Nineteen dead bodies. Four stars.', card, tmdb: null });
-    assert.match(p, /Drive-In Totals card/);
-    assert.match(p, /Do NOT write bubbles for the counts or the star rating/);
-    assert.match(p, /AWARDS: Drive-In Academy Award nominations for Candace Hilligoss\./);
-    assert.doesNotMatch(p, /Nineteen dead bodies|19 Dead Bodies/);
-    assert.doesNotMatch(p, /TOTALS:/);
-});
-test('buildPrompt with a card but no awards asks for no Joe Bob bubbles', () => {
-    const card = { lines: ['19 Dead Bodies'], stars: 4, says: '', awards: '' };
-    assert.match(buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: 'x', card, tmdb: null }), /no award nominations to turn into bubbles/);
-});
-test('buildPrompt with Totals but no card keeps the old Totals bubbles', () => {
-    assert.match(buildPrompt({ imdb: BUNDLE, wikidata: null, wikipedia: null, totals: 'Nineteen dead bodies.', card: null, tmdb: null }), /TOTALS: Nineteen dead bodies\./);
 });

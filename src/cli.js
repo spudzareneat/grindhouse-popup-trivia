@@ -42,7 +42,8 @@ async function main() {
             apiKey: process.env.OPENSUBTITLES_API_KEY, username: process.env.OPENSUBTITLES_USERNAME, password: process.env.OPENSUBTITLES_PASSWORD,
             cacheDir: path.join(repoDir, '.cache', 'subtitles'),
         }) : null,
-        totalsRows: await fetchTotals().catch(e => { log(`Drive-In Totals unavailable: ${e.message}`); return []; }),
+        // Only backfill-totals reads the Drive-In Totals CSV; the generator no longer looks films up in it.
+        totalsRows: command === 'backfill-totals' ? await fetchTotals().catch(e => { log(`Drive-In Totals unavailable: ${e.message}`); return []; }) : [],
         runClaude: (prompt, opts) => runClaude(prompt, { ...opts, timeoutMs }),
         model: process.env.CLAUDE_MODEL || 'sonnet',
         dataDir: path.join(repoDir, 'data'),
