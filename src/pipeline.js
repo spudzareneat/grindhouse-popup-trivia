@@ -1,7 +1,6 @@
 import { buildPrompt, buildTopUpPrompt, targetFactCount, maxFactCount } from './prompt.js';
-import { MODEL_OUTPUT_SCHEMA, MIN_FACTS, WEB_SHARE, DRIVEIN_T } from './schema.js';
+import { MODEL_OUTPUT_SCHEMA, MIN_FACTS, WEB_SHARE } from './schema.js';
 import { validateFacts, buildDoc } from './validate.js';
-import { findTotals, parseTotalsCard } from './driveintotals.js';
 import { hasDoc, writeDoc } from './publish.js';
 
 export class UsageLimitError extends Error {}
@@ -39,7 +38,7 @@ async function resolveTconst(item, imdb) {
 }
 
 export async function processMovie(item, deps) {
-    const { imdb, wiki, tmdb, subtitles, totalsRows, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
+    const { imdb, wiki, tmdb, subtitles, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
     const label = item.title ? `${item.title}${item.year ? ` (${item.year})` : ''}` : item.tconst;
     const tconst = await resolveTconst(item, imdb);
     if (!tconst) return { status: 'failed', title: label, reason: 'not found on IMDb' };
@@ -58,17 +57,13 @@ export async function processMovie(item, deps) {
         wantSubs ? soft(subtitles.fetchTranscript(tconst)) : null,
     ]);
     const transcript = usableTranscript(subs, bundle.runtimeSec, log);
-    const totals = findTotals(totalsRows, bundle.title, bundle.year) ?? (item.title ? findTotals(totalsRows, item.title, item.year ?? null) : null);
-    // Joe Bob's counts and verdict go on the userscript's Drive-In Totals card; Claude only gets the awards.
-    const parsed = totals ? parseTotalsCard(totals) : null;
-    const card = parsed && parsed.lines.length ? parsed : null;
-    const driveIn = card ? { t: DRIVEIN_T, lines: card.lines, stars: card.stars, says: card.says } : null;
-    const material = { imdb: bundle, wikidata, wikipedia, related, transcript, totals, card, tmdb: tmdbExtras };
+    // Joe Bob's Drive-In Totals are handled outside the generator: no CSV lookup, no card, no Totals bubbles.
+    const material = { imdb: bundle, wikidata, wikipedia, related, transcript, tmdb: tmdbExtras };
     const prompt = buildPrompt(material);
     const target = targetFactCount(bundle.runtimeSec);
     const cap = maxFactCount(bundle.runtimeSec);
     const peopleImages = Object.fromEntries((bundle.people || []).map(p => [p.nconst, p.image || null]));
-    log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — totals: ${card ? `card (${card.lines.length} lines)` : totals ? 'yes (no card)' : 'no'}, wikipedia: ${wikipedia ? 'yes' : 'no'}, related pages: ${related?.length ?? 0}, subtitles: ${subsNote(subtitles, wantSubs, transcript)}`);
+    log(`  researching ${bundle.title} (${bundle.year}) ${tconst} — wikipedia: ${wikipedia ? 'yes' : 'no'}, related pages: ${related?.length ?? 0}, subtitles: ${subsNote(subtitles, wantSubs, transcript)}`);
 
     let best = { facts: [], dropped: {} };
     let lastError = null;
@@ -77,7 +72,7 @@ export async function processMovie(item, deps) {
         if (r.usageLimited) throw Object.assign(new UsageLimitError(r.error || 'usage limit'), { authError: !!r.authError });
         if (!r.ok) { lastError = r.error; log(`  attempt ${attempt} failed: ${r.error}`); continue; }
         lastError = null;
-        const v = validateFacts(r.facts, bundle.runtimeSec, peopleImages, cap, driveIn);
+        const v = validateFacts(r.facts, bundle.runtimeSec, peopleImages, cap);
         log(`  attempt ${attempt}: ${r.facts.length} facts from model, ${v.facts.length} kept, dropped ${JSON.stringify(v.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}${r.numTurns != null ? `, ${r.numTurns} turns` : ''}`);
         if (v.facts.length > best.facts.length) best = v;
         if (v.facts.length >= MIN_FACTS) break;
@@ -97,13 +92,13 @@ export async function processMovie(item, deps) {
         if (r.usageLimited) stopForUsage = r;
         else if (!r.ok) log(`  top-up failed: ${r.error}`);
         else {
-            const merged = validateFacts([...best.facts, ...r.facts], bundle.runtimeSec, peopleImages, cap, driveIn);
+            const merged = validateFacts([...best.facts, ...r.facts], bundle.runtimeSec, peopleImages, cap);
             log(`  top-up: ${r.facts.length} facts from model, now ${merged.facts.length} (${webCount(merged.facts)} web), dropped ${JSON.stringify(merged.dropped)}${r.costUsd != null ? `, $${r.costUsd.toFixed(2)} equiv` : ''}${r.numTurns != null ? `, ${r.numTurns} turns` : ''}`);
             if (merged.facts.length > best.facts.length) best = merged;
         }
     }
 
-    const doc = buildDoc({ imdbId: tconst, title: bundle.title, year: bundle.year, runtimeSec: bundle.runtimeSec, facts: best.facts, generatedAt: now(), driveIn });
+    const doc = buildDoc({ imdbId: tconst, title: bundle.title, year: bundle.year, runtimeSec: bundle.runtimeSec, facts: best.facts, generatedAt: now() });
     const file = writeDoc(dryRun ? outDir : dataDir, doc);
     if (!dryRun) {
         try {

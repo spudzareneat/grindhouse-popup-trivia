@@ -115,7 +115,7 @@ test('processMovie: subtitles only for the first two blocks of a night', async (
     const many = Array.from({ length: 40 }, (_, i) => f(100 + i * 100, `f${i}`));
     const deps = {
         imdb: { searchTitle: async t => ({ tconst: `tt${t.length}` }), fetchBundle: async tconst => ({ tconst, title: 'X', year: 1980, runtimeSec: 4680, people: [] }) },
-        wiki: { fetchWikidata: async () => null, fetchRelatedArticles: async () => [] }, tmdb: { fetchExtras: async () => null }, subtitles, totalsRows: [],
+        wiki: { fetchWikidata: async () => null, fetchRelatedArticles: async () => [] }, tmdb: { fetchExtras: async () => null }, subtitles,
         runClaude: async () => ({ ok: true, usageLimited: false, facts: many }), model: 'sonnet',
         dataDir: path.join(root, 'data'), outDir: path.join(root, 'out'), git: { commitAndPush() {} }, force: true, dryRun: true, log: () => {}, now: () => 'now',
     };
