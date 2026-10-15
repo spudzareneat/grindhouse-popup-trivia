@@ -1,0 +1,722 @@
+{
+  "schema": 1,
+  "imdbId": "tt0068284",
+  "title": "Blacula",
+  "year": 1972,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-10-15T04:10:06.370Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "When Mamuwalde praises Count Dracula's guest \"Dr Duvalier\", 1972 audiences got the joke: Haiti was then ruled by voodoo-practicing dictator \"Papa Doc\" Duvalier.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Star William Marshall (Mamuwalde) played Othello at least six times. London Sunday Times critic Harold Hobson called him \"the best Othello of our time.\" Now he's debating Dracula.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blacula-lives-celebrating-william-marshalls-prince-mamuwalde/"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original script for Blacula was titled \"Count Brown's in Town\" and, according to director William Crain, was full of \"shuckin' and jivin'.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 257,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director William Crain fought taking Blacula at first. He told the AP, \"The tragic thing is that I drew the assignment because I am black.\" His agent talked him into it.",
+      "icon": "mic",
+      "byline": "William Crain — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.metv.com/stories/william-crain-sought-to-create-a-sympathetic-character-with-blacula"
+      }
+    },
+    {
+      "t": 315,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dracula names his victim \"Blacula\". Scholar Robin R. Means Coleman, in her book Horror Noire, calls it a slave name meant to rob Prince Mamuwalde of his African identity.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blacula's name in the early script was Andrew Brown, an Amos 'n' Andy reference. Star William Marshall pushed to make him African prince Mamuwalde, with an abolitionist backstory.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blacula-lives-celebrating-william-marshalls-prince-mamuwalde/"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Crain said Blacula was born of studio trouble: American International Pictures was rumored to be \"in the red, and so they were going to do a Black vampire.\"",
+      "icon": "mic",
+      "byline": "William Crain — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blacula's animated title sequence, designed by Sandy Dvore, shows a bat chasing blood through black-and-white veins to a funk score. One review calls it the film's best technical element.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1206425/blacula"
+      }
+    },
+    {
+      "t": 590,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Interior decorators Bobby McCoy and Billy Schaffer, buying Dracula's estate, are considered the first gay-coded couple in a horror movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 645,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Crain says that as the daily footage came in, American International Pictures realized it had a different movie than planned. The studio liked it and told the crew to keep going.",
+      "icon": "camera",
+      "byline": "William Crain — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.audacy.com/wbbm780/news/local/blacula-director-recalls-1970s-heyday-of-low-budget-horror"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "To promote Blacula, American International Pictures held special New York screenings where anyone wearing a flowing cape got in free.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blacula cost about $500,000 to make and grossed roughly $1.98 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The brief cargo-ship and red-pickup-with-coffin shots in this film were borrowed from the earlier AIP vampire movie Count Yorga, Vampire (1970).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Crain was just 23 when he made Blacula. A UCLA film school graduate, he was one of the first Black filmmakers from a major film school to score a commercial hit.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1135,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Denise Nicholas (Michelle) was making her feature film debut. She was already known on TV as Liz on Room 222 and later played Harriet on In the Heat of the Night.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0629370",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwNDAwMDUxNV5BMl5BanBnXkFtZTcwNDE4MDkwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1215,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Thalmus Rasulala, who plays vampire-hunting pathologist Dr. Gordon Thomas, was born Jack Crowder. He used that name when he won a Theater World award in an all-Black Hello, Dolly!",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0711560",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2OTc5MTY1Ml5BMl5BanBnXkFtZTgwMTIxNTg0MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Horror scholar Dani Bethea notes the film's similarity to an 1819 short story, The Black Vampyre: A Legend of St. Domingo, long before Blacula.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "William Marshall also played Dr. Richard Daystrom on Star Trek and later the King of Cartoons on Pee-wee's Playhouse.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ketty Lester, who plays cabbie Juanita Jones, had a #5 pop hit in 1962 with \"Love Letters.\" She later played Hester-Sue Terhune on Little House on the Prairie from 1978 to 1983.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://encyclopediaofarkansas.net/entries/Ketty-Lester-8144"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "American International Pictures had planned a follow-up called Blackenstein but made a direct Blacula sequel instead. Blackenstein was later produced by another company.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1670,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Chrysler Corporation furnished the cars for the production. Dr. Gordon Thomas drives a green 1972 Dodge Monaco, a Chrysler product.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/54416"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "A morgue sign says to maintain a 30-degree temperature in the refrigerator, but the cabbie's body is in a deep freeze. Anything below 32 degrees would be a freezer.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Veteran character actor Elisha Cook Jr. plays morgue attendant Sam, a man with a hook for a hand. The film never explains it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theconstantbleeder.com/bmoviescult/blacula-1972/"
+      }
+    },
+    {
+      "t": 1870,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spot the goof: the story is set in Los Angeles, but a map of New York's Staten Island hangs on the police station wall behind Dr. Thomas.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1960,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Gordon Pinsent (Lt. Jack Peters) is Canadian. He later voiced King Babar in the Babar cartoons from 1989 to 2015 and starred in Away from Her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0684521",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxOTkyNzE1MF5BMl5BanBnXkFtZTcwMjc1MjQ3Ng@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2075,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The nightclub band is The Hues Corporation, performing \"There He Is Again.\" Two years later they had a hit with \"Rock the Boat.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Instead of classical horror music, Blacula has a funk score by Gene Page, plus songs by The Hues Corporation.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2260,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The \"French champagne\" at the table is faked. No genuine French champagne uses a plastic cork.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2370,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The AFI Catalog reports that the Beverly Hills-Hollywood NAACP president, Julius Griffin, called William Marshall's portrayal of Blacula demeaning.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/54416"
+      }
+    },
+    {
+      "t": 2480,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Plot-hole alert: Mamuwalde was sealed in his coffin in 1780, before photography existed, yet he knows to dodge photographer Nancy's camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2545,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Besides Othello, William Marshall understudied Boris Karloff as Captain Hook in the Broadway production of Peter Pan.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blacula-lives-celebrating-william-marshalls-prince-mamuwalde/"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gene Siskel of the Chicago Tribune gave Blacula three stars out of four, calling it \"well-made and quite frightening.\"",
+      "icon": "star",
+      "byline": "Gene Siskel",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times' Roger Greenspun was not a fan: anyone who goes to a vampire movie expecting sense is in trouble, he wrote, and Blacula offers \"less sense than most.\"",
+      "icon": "mic",
+      "byline": "Roger Greenspun",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vonetta McGee (Tina) later starred opposite Clint Eastwood in The Eiger Sanction (1975) and was in the cult film Repo Man (1984).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0569144",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRlMzRjYjQtZjNkYS00ZDk5LWFmNTgtYTA3ZmZlMzdjMWM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The AFI Catalog calls William Marshall's Mamuwalde the first Black vampire in movies.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3010,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mamuwalde explains he came to Europe to protest the slave trade. William Marshall helped rework the character from a plain villain into a dignified African prince.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3070,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Moria review site says Blacula works partly because it plays its absurd premise with \"a singular straight-facedness,\" and that Marshall's booming voice and dignity carry it.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=6114"
+      }
+    },
+    {
+      "t": 3130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Empire's Kim Newman gave Blacula two stars out of five, calling it \"formulaic and full of holes.\" Film4 gave it three and a half, calling it \"essential blaxploitation viewing.\"",
+      "icon": "mic",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 1972, William Marshall received an award for this role from the Academy of Science Fiction, Fantasy and Horror Films, which began as the Count Dracula Society.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/54416"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The opening title card says 1780, but some period reviews and AMPAS publicity files put the prologue in 1815.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/54416"
+      }
+    },
+    {
+      "t": 3380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Horror scholar Dani Bethea sees a tie between Mamuwalde and the later Candyman: Black men in their prime, doomed by a white supremacist structure to an everlasting punishment.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When Blacula hit UK theaters, the BBFC made cuts to get an X rating. All of them were waived in 1998 when it got a 15 certificate for home video.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3557,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fangoria's 50th-anniversary piece on Blacula recalls a 1977 screening at Baltimore's Hippodrome Theater where a sold-out crowd threw popcorn at the screen.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/celebrating-50-years-of-blacula/"
+      }
+    },
+    {
+      "t": 3615,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director William Crain's slow-motion vampire attack in the morgue is the stylized highlight in several reviews, including Moria's, which calls it bizarre but fascinating.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=6114"
+      }
+    },
+    {
+      "t": 3680,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dr. Thomas says vampires multiply \"geometrically.\" Math nerds note he should have said exponentially.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The AFI Catalog lists Blacula as rated PG, with a 92-minute running time. Its release is dated July 1972, though it opened in theaters on August 25.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/54416"
+      }
+    },
+    {
+      "t": 3815,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scholar Robin R. Means Coleman reads Blacula as an allegory of the Atlantic slave trade: a prince enslaved, shipped across the ocean, and sold at an estate sale.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3940,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blacula makes a brief cameo in The Simpsons episode \"All's Fair in Oven War,\" and the show has referenced the film in several Treehouse of Horror episodes.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4060,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Dracula in the cartoon The Grim Adventures of Billy & Mandy, voiced by Phil LaMarr, is inspired by Blacula.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's Black vampire influenced Marvel's The Tomb of Dracula comic and its breakout character, Blade.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "William Marshall wanted a regal vampire closer to Shakespeare's monarchs than to a typical B-movie bloodsucker.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blacula-lives-celebrating-william-marshalls-prince-mamuwalde/"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blacula is name-checked in I'm Gonna Git You Sucka (1988) and Vampire in Brooklyn (1995), and in the documentary Ice-T's Guide to Blaxploitation.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4465,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: the oil lamps Dr. Thomas and Lt. Peters throw at the vampires aren't lit, yet they burst into flames like Molotov cocktails.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blacula's success sparked a wave of Black horror, including Ganja & Hess, Sugar Hill, and Abby (which also starred William Marshall).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "These final scenes were shot at the Hyperion Outfall Treatment Plant in Playa del Rey, Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blacula debuted at #24 on Variety's list of top films and went on to gross over $1 million, one of 1972's highest earners.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blacula won Best Horror Film at the first-ever Saturn Awards.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On Rotten Tomatoes, Blacula holds a 46% approval rating from 28 reviews, with a weighted average of 5.3/10.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director William Crain went on to make the Jekyll-and-Hyde blaxploitation film Dr. Black, Mr. Hyde (1976). Moria's reviewer thinks it handles race and monsters better.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=6114"
+      }
+    },
+    {
+      "t": 5440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mamuwalde is noted as one of the few movie monsters to die by suicide.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blacula-lives-celebrating-william-marshalls-prince-mamuwalde/"
+      }
+    },
+    {
+      "t": 5495,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "William Marshall returned for Scream Blacula Scream (1973), co-starring Pam Grier. It failed to match the first film's box office.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
