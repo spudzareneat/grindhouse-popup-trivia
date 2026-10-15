@@ -1,0 +1,500 @@
+{
+  "schema": 1,
+  "imdbId": "tt0080440",
+  "title": "The Black Cat",
+  "year": 1981,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-15T05:07:56.765Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Fulci's film shot as \"Il gatto di Park Lane\" (The Cat of Park Lane). Shooting ran from August 11 to September 28, 1980, in Buckinghamshire, England, and in Rome studios.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Donald Pleasence and Patrick Magee, Peter Cushing reportedly annotated the script of Fulci's The Black Cat before deciding to decline the role of Prof. Miles.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesandmania.com/2020/01/09/the-black-cat-reviews-movie-film-horror-italian-1981-overview/"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Peter Cushing was reportedly offered the role of Prof. Miles but turned it down because of director Lucio Fulci's gory reputation. Patrick Magee got the part instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harry Alan Towers, the London producer behind many Jesús Franco films, worked on this Italy/UK co-production alongside Italian producer Giulio Sbarigia.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cat-movies.com/2026/02/the-black-cat-1981-lucio-fulci/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Donald Pleasence was reportedly the first choice to play Prof. Robert Miles. Patrick Magee stepped in.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 735,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Al Cliver, who plays the village policeman Sgt. Wilson, is Italian actor Pierluigi Conti. His British accent in the English version was dubbed by voice actor Nick Alexander.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cat-movies.com/2026/02/the-black-cat-1981-lucio-fulci/"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Lucio Fulci said many times that he made this film as a favor to its producer.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1005,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mondo Digital says cinematographer Sergio Salvati's camera prowls along the ground, soars over rooftops and cuts between close-ups of the actors' eyes and the cat's.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/blackcats"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Patrick Magee created the role of the Marquis de Sade in Marat/Sade and won a 1966 Tony Award for it on Broadway.",
+      "icon": "trophy",
+      "byline": "Patrick Magee",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0535861",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDAzMWEzMjYtZTZjZS00MTlhLThmNTYtZmFiMjk2ZWMyMWQwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1275,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's US tagline was \"Flesh Ripping Felines!\" It played American theaters in 1984 via World Northal, rated R.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/The_Black_Cat"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Patrick Magee said that director Stanley Kubrick's notes on A Clockwork Orange boiled down to \"Do it faster,\" \"Do it slower\" and \"Do it again.\" The last was by far the most common.",
+      "icon": "mic",
+      "byline": "Patrick Magee",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0535861",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDAzMWEzMjYtZTZjZS00MTlhLThmNTYtZmFiMjk2ZWMyMWQwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1545,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Editor Vincenzo Tomassi reportedly assembled most of the film on his own, because director Lucio Fulci had already moved on to start The Beyond.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=111191"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-star David Warbeck (Inspector Gorley) was once a backup James Bond. He claimed producers paid him to stay ready in case Roger Moore walked off Live and Let Die.",
+      "icon": "sunglasses",
+      "byline": "David Warbeck",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0911285",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmIyMDIwMGMtMmYwMC00NDUyLTllNDUtNWZjNjczMzgzOGJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1815,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Paolo Ricci handled the gore here. Before this he'd worked on Ruggero Deodato's Jungle Holocaust and Sergio Martino's The Mountain of the Cannibal God.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/?p=4749"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mimsy Farmer (Jill Trevers) was an American who played biker chicks in 1960s exploitation films, then moved to Italy for giallo thrillers, including Dario Argento's Four Flies on Grey Velvet.",
+      "icon": "star",
+      "byline": "Mimsy Farmer",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002069",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTY4MTMxNV5BMl5BanBnXkFtZTcwOTcxODMyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2085,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital calls Daniela Doria (young victim Maureen Grayson) one of Fulci's favorite victims. Fulci also killed her off in several of his other horror films.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/blackcats"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mimsy Farmer later quit acting and became a sculptor who builds models for blockbuster effects crews, including Beauty and the Beast (2017).",
+      "icon": "camera",
+      "byline": "Mimsy Farmer",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002069",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTY4MTMxNV5BMl5BanBnXkFtZTcwOTcxODMyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2355,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The trailer reportedly shows a close-up of a decomposing body that never made it into the finished film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=111191"
+      }
+    },
+    {
+      "t": 2490,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dagmar Lassander (Lillian Grayson) was nearly killed filming her fire scene when a breakaway wall fell on her.",
+      "icon": "explosion",
+      "byline": "Dagmar Lassander",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0489798",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjJlZGM0OTctNjhiNy00ZDlmLWE3MzYtMjNhOWE5MmI3MDliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2625,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Film Freak Central reads the cat as a Freudian id on the loose, like the \"Creatures of the Id\" in Forbidden Planet, and compares the film to Monkey Shines.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/?p=4749"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fulci was a medical student and an art critic before becoming a director. He earned the nickname \"The Poet of the Macabre,\" a nod to Edgar Allan Poe, whose story he freely adapted here.",
+      "icon": "reel",
+      "byline": "Lucio Fulci",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2895,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital's review noted that Pino Donaggio's lyrical score for The Black Cat had never been officially released.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/blackcats"
+      }
+    },
+    {
+      "t": 3030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score is by Pino Donaggio, not Fulci's usual composer Fabio Frizzi. Donaggio also scored Brian De Palma's Blow Out the same year, and one reviewer hears echoes of his Carrie music.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-black-cat-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 3165,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Film historian Stephen Thrower, in his book Beyond Terror, called this film \"immensely enjoyable, beautifully filmed by Sergio Salvati and supported by a wonderful Pino Donaggio score.\"",
+      "icon": "mic",
+      "byline": "Stephen Thrower",
+      "source": {
+        "type": "web",
+        "url": "https://moviesandmania.com/2020/01/09/the-black-cat-reviews-movie-film-horror-italian-1981-overview/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Warbeck and Patrick Magee both dubbed their own voices in the English-language version, according to Genre Grinder's review of the Arrow Blu-ray.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-black-cat-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 3435,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Troy Howarth, in his book Splintered Visions, called Fulci's The Black Cat \"one of Fulci's most unappreciated films.\"",
+      "icon": "mic",
+      "byline": "Troy Howarth",
+      "source": {
+        "type": "web",
+        "url": "https://moviesandmania.com/2020/01/09/the-black-cat-reviews-movie-film-horror-italian-1981-overview/"
+      }
+    },
+    {
+      "t": 3570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's review gives it one star. It says the plot has almost nothing to do with Poe's story, and it reads the cat as Patrick Magee's repressed rage, an idea it says the film never explores.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/black-cat-1981.htm"
+      }
+    },
+    {
+      "t": 3705,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Verdict forgave the film's shaky logic, singling out the pleasures of \"a drunk doing a swan dive onto some construction spikes.\"",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesandmania.com/2020/01/09/the-black-cat-reviews-movie-film-horror-italian-1981-overview/"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Two of Fulci's film locations were Hellfire Caves and West Wycombe Park in Buckinghamshire. The Hellfire Caves were famously dug for the 18th-century Hellfire Club.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3975,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Reviewer John L. Probert praised how Fulci directs the cat as \"quite incredibly good\" for a low budget, favorably comparing it to the multiple cats in Denis Heroux's The Uncanny.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://johnlprobert.blogspot.com/2015/10/the-black-cat-1981.html"
+      }
+    },
+    {
+      "t": 4110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On location, actors dressed as policemen were mistaken for real cops by a woman seeking help after a car accident. The actors spoke no English and couldn't understand her.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4245,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film never got a UK theatrical release, and the US got a slightly cut version in 1984. Britain's first look came on home video.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=111191"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film opened in Italy on April 4, 1981. It didn't reach US theaters until February 1984.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital suggests pairing this with Dario Argento's \"The Black Cat\" segment in Two Evil Eyes (1990), another Poe-inspired take on the same story.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/blackcats"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fulci reportedly shot a cameo as a doctor, his usual Hitchcock-style bit, but the scenes were cut. A producer also reportedly ordered an Exorcist-style scene against Fulci's wishes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=111191"
+      }
+    },
+    {
+      "t": 4740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The IMDb connections list shows the film nodding to Hitchcock's Rear Window and The Birds: a photographer heroine who snoops, and animals that attack.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The bricked-up-body finale, borrowed from Poe, is reportedly a reuse of Fulci's own earlier film The Psychic (1977), per Mondo Digital.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/blackcats"
+      }
+    },
+    {
+      "t": 5015,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Severin Films calls this star Patrick Magee's final starring role. Magee died of a heart attack on August 14, 1982, aged 60.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://physicalmedia.news/news/the-black-cat-1981-4k-uhd-severin/"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital reports that Mimsy Farmer was dropped from Tenebrae right after this film. David Warbeck reportedly found working with her very distasteful.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/blackcats"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the film, Sgt. Wilson (Al Cliver) warns American tourist Jill Trevers: \"The dead like to be left alone. They're not very hospitable.\"",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was loosely based on Poe's 1843 story. In Poe it's a symbolic \"spirit of perverseness,\" while Fulci's cat is a literal supernatural force.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-black-cat-blu-ray-review-originally-published-2015"
+      }
+    }
+  ]
+}
