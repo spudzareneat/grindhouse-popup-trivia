@@ -1,0 +1,426 @@
+{
+  "schema": 1,
+  "imdbId": "tt0113982",
+  "title": "Night of the Scarecrow",
+  "year": 1995,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-10-15T04:16:57.337Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The script began in 1990 as 'Scarecrow' for Corsair Pictures. Corsair collapsed, and it sat on a shelf for about three years before Republic Pictures picked it up.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 259,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "That's the Hanford High School band. The movie was shot mostly in Hanford, California, the same town the story is set in.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 304,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Gary Lockwood, playing Mayor Goodman, was astronaut Frank Poole in Stanley Kubrick's 2001: A Space Odyssey. Here he plays a windbag politician.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jeff Burr got 5 weeks of prep and 28 shooting days. His budget was about $2 million, tied with Leatherface: Texas Chainsaw Massacre III as his biggest.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 511,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Danny, the reckless teen, is played by John Hawkes. Years later he earned an Oscar nomination for The Sessions (2012).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Producers wanted flashy CGI, but director Jeff Burr kept the gore practical. HorrorDNA says CGI is used only for the Scarecrow's revival, which is what DVD Talk's 'inept 1995 CGI' complaint is about.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/night-of-the-scarecrow-blu-ray-review"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kevin Yagher, the makeup artist behind Freddy Krueger, was first set to direct. He left for Hellraiser: Bloodline, and Jeff Burr got the job after Rusty Cundieff introduced him to the producers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 786,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bruce Glover, who plays Thaddeus, was the assassin Mr. Wint in the Bond film Diamonds Are Forever. He is also the father of actor Crispin Glover.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0323098",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTc3NTU3OV5BMl5BanBnXkFtZTcwMDgyODczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 831,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Stephen Root, who plays Sheriff Frank, was a year from his breakout as Jimmy James on NewsRadio. Four years later he was Milton in Office Space.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      },
+      "person": "nm0740535",
+      "image": "https://m.media-amazon.com/images/M/MV5BODEyYzRjZDAtN2EwNi00NTcyLWExMTEtZTIwZTMyNmZiYjY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dirk Blocker, who plays Uncle George, is the son of Dan Blocker, 'Hoss' on Bonanza. He later played Detective Hitchcock on Brooklyn Nine-Nine.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0088781",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkY2JlODItOGUyYi00ZDE4LWIyN2QtNjUyNDgzZjdlZDk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jeff Burr praises the 1981 TV movie Dark Night of the Scarecrow and its star Larry Drake on his commentary. The producers reportedly hated hearing that title mentioned.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/night-of-the-scarecrow-blu-ray-review"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original script gave the Scarecrow Freddy Krueger-style one-liners. Director Jeff Burr cut most of them when he came aboard.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 1260,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria singles out the film's set-pieces, including Dirk Blocker (Uncle George) being ground up in a combine harvester. He says the film doesn't pretend to offer much more than these.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moriareviews.com/horror/night-of-the-scarecrow-1995.htm"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cristi Harris, who plays rebellious cousin Stephanie, also appeared in Night of the Demons 2 the same year, so she did two horror sequels' worth of screaming in 1995.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hysteria-lives.co.uk/hysterialives/Hysteria/night_of_the_scarecrow.htm"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The gore was done by David B. Miller, who also designed the Scarecrow's burlap head. Hiring him was partly marketing, since he had worked on Freddy Krueger's makeup.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Howard Swain, a stage actor, plays the Scarecrow with a mime-style physical performance. His jerky, unnatural movement is a big part of the creature's creepiness.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 1875,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "For some of the Scarecrow's attacks, director Jeff Burr used a SnorriCam, a body-mounted camera rig. It's a homage to John Frankenheimer's 1966 film Seconds.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria notes priest Thaddeus, played by Bruce Glover, gets his lips sewn shut. The film leans hard on makeup-effects set-pieces like this one.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moriareviews.com/horror/night-of-the-scarecrow-1995.htm"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Martine Beswick, who has a small role, was a two-time Bond girl (From Russia with Love, Thunderball). She also appeared in the prologue of Jeff Burr's earlier film The Offspring.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria calls the van scene with Cristi Harris (Stephanie) and John Hawkes (Danny) the film's standout. Hysteria Lives also calls it a highlight.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moriareviews.com/horror/night-of-the-scarecrow-1995.htm"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Editor Bob Murawski worked on this film. He later cut Army of Darkness and Hard Target, and went on to run Grindhouse Releasing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer Thomas Callaway used Bava-style lighting and camera movement to make the roughly $2 million budget look bigger.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 2890,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "John LaZar plays the warlock in this flashback. He is the Scarecrow's original human form.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The warlock, John LaZar, was Z-Man in Russ Meyer's Beyond the Valley of the Dolls. He plays a hedonist leading orgies here, with no dialogue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Republic wanted a horror franchise to go with its Witchboard and Night of the Demons sequels. But the film sold only about 12,000 tapes and recouped under half its budget, so no sequels followed.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A US theatrical release was planned as a double bill with Witchboard: The Possession. Republic's management shuffle and the end of producers Steve White and Barry Bernardi's partnership killed it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/07/jeff-burr-night-of-the-scarecrow-1995/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Planned for theaters, it was dropped to direct-to-video after management changes at Republic Pictures. It did premiere at Berlin's Fantasy Filmfest in August 1995 and played theaters in Japan.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Jim Manzie scored this film. He also scored director Jeff Burr's Leatherface: Texas Chainsaw Massacre III.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nightscarecrow.html"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rue Morgue's Benny Graves wrote that it's 'so lean, silly and packed full of scarecrow slaughter' that it shocks him more people don't talk about it.",
+      "icon": "mic",
+      "byline": "Benny Graves — Rue Morgue",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephen Root (Sheriff Frank) says fans of Office Space still mail or hand him red Swingline staplers, a nod to his character Milton Waddams.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Variety said director Jeff Burr 'has more luck with physical scenes than he does with coaxing inspired performances out of his actors.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rue Morgue's Benny Graves credits the film's 'impressive practical effects and delightfully breakneck pacing.' He jokingly calls it the Gone With The Wind of evil scarecrow movies.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/analog-abattoir-1995s-night-of-the-scarecrow-is-a-lesser-known-fall-treat/"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce Glover (Thaddeus) was in the 2025 film No! YOU'RE WRONG., which he co-wrote and co-starred in with his son Crispin Glover. It was his final screen appearance.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Adam Tyner of DVD Talk was not a fan. He called it 'limp, lifeless, uninspired, instantly forgettable' and said 'Skip It.' Not everyone agrees.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jeff Burr (Stepfather II, Pumpkinhead II) died in October 2023. That year Fangoria ranked this film among his best.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
