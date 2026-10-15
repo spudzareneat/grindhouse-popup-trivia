@@ -1,0 +1,376 @@
+{
+  "schema": 1,
+  "imdbId": "tt0264388",
+  "title": "Baby Ghost",
+  "year": 1995,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-10-15T04:29:08.873Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Photographer Winslow Cobblepott is played by Joe Estevez, the younger brother of Martin Sheen and uncle of Emilio Estevez and Charlie Sheen.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0261724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyOTkzODk4Ml5BMl5BanBnXkFtZTcwODM2NDcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Donald G. Jackson once took sick leave from his factory job to make his first film, The Demon Lover. His employer found out and fired him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0413459"
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jackson's first film, The Demon Lover, was partly funded by a roughly $8,000 insurance payout after co-director Jerry Younkins lost fingers in a factory accident.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/01/22/the-demon-lover-1976/"
+      }
+    },
+    {
+      "t": 646,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Madame Zora is played by Erin O'Bryan, who later ran for the U.S. House in Hawaii's 1st District as a Libertarian and got 6,243 votes (3.1%).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1946429"
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Winslow Cobblepott's surname is the Penguin's. In Batman Returns (1992), Danny DeVito played Oswald Chesterfield Cobblepot, a villain created in Detective Comics #58 in 1941.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Penguin_(character)"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jackson's best-known film is the cult hit Hell Comes to Frogtown (1987). A frog mask from it was later reused as a costume in his Rollergator.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scottshaw.com/rollergator.html"
+      },
+      "person": "nm0413459"
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Madame Zora's $3.99-a-minute line echoes the 1990s Psychic Friends Network, Dionne Warwick's infomercial hotline, which reportedly earned over $100 million in profit in its first few years.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Psychic_Friends_Network"
+      }
+    },
+    {
+      "t": 1105,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Security Guard is played by James D. Whitworth, who appeared in other 1995 low-budget titles such as Dragon Fury and Raw Energy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1115607"
+    },
+    {
+      "t": 1355,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Elliot the maintenance man is played by Conrad Brooks, who was a regular in Ed Wood's 1950s films, including Plan 9 from Outer Space.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0111926",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxNTE2OTg3NF5BMl5BanBnXkFtZTgwMDM3MDYzNDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Estevez (Winslow Cobblepott) doubled for his brother Martin Sheen in long shots and voice-over on Apocalypse Now (1979) while Sheen recovered from a heart attack.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Joe_Estevez"
+      },
+      "person": "nm0261724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyOTkzODk4Ml5BMl5BanBnXkFtZTcwODM2NDcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Vinnie is played by Mark Williams, who also wrote the screenplay for Jackson's Rollergator and Pocket Ninjas.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scottshaw.com/rollergator.html"
+      },
+      "person": "nm0931248"
+    },
+    {
+      "t": 1790,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The thugs' Catwoman gag is one of the film's pop-culture references. IMDb lists Batman Returns (1992) among them, along with The Exorcist and Ghostbusters.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The thugs' Saturday Night Fever shout-out: that 1977 disco hit cost only $3.5 million and grossed $237 million worldwide. The Bee Gees soundtrack sold over 40 million copies.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Saturday_Night_Fever"
+      }
+    },
+    {
+      "t": 1930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's Catwoman reference is to Michelle Pfeiffer, who got $3 million for Batman Returns (1992) and trained for months in kickboxing and whip work to do many of her own stunts.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Batman_Returns"
+      }
+    },
+    {
+      "t": 2185,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Elliot's story of Flying Saucers over Hollywood describes Plan 9 from Outer Space. Actor Conrad Brooks was in that film, as a police officer, and played a bartender in Ed Wood.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0111926",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxNTE2OTg3NF5BMl5BanBnXkFtZTgwMDM3MDYzNDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Plan 9 from Outer Space, the film Elliot describes, had a listed budget of only $60,000. Harry and Michael Medved's 1980 book The Golden Turkey Awards crowned it the worst film ever made.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ed Wood's Plan 9 premiered in 1957 as Grave Robbers from Outer Space. It was retitled, partly because its Baptist financiers reportedly found the original title blasphemous.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Donald G. Jackson was fired from Pocket Ninjas (originally Skate Dragons) by executive producer David Huey. A financing company then wanted kids' films, and the result was Baby Ghost.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Pocket_Ninjas"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jackson's sister film Rollergator was shot guerrilla-style in fall 1995 on a Hi8 camera with no permits. Scott Shaw says Jackson later destroyed the only print in a rage.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://scottshaw.com/rollergator.html"
+      }
+    },
+    {
+      "t": 2880,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Madame Zora admits she's a phony. In real life the Psychic Friends Network went bankrupt in 1998, reporting about $26 million in liabilities against roughly $1.2 million in assets.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Psychic_Friends_Network"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Baby Ghost was riffed by Mike, Kevin and Bill of RiffTrax. Joe Estevez has starred in three RiffTrax titles, and Rollergator was called the worst movie they'd ever covered.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Exorcist and Ghostbusters get name-checked here. IMDb lists both among the films Baby Ghost references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ghostbusters (1984), name-checked in Baby Ghost, earned about $229 million in its first run. Director Ivan Reitman later admitted its reported $25-30 million budget figure was made up.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ghostbusters"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dan Aykroyd first conceived Ghostbusters as a time-and-space-hopping vehicle for himself and John Belushi. Director Ivan Reitman said it would have cost around $200 million.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ghostbusters"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Donald G. Jackson and Scott Shaw developed 'zen filmmaking', which uses no scripts. Jackson often used screenplays anyway to show investors, cast and crew a framework.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scottshaw.com/rollergator.html"
+      },
+      "person": "nm0413459"
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tim Burton's Ed Wood (1994) won Oscars for Martin Landau as Bela Lugosi and for makeup. It cost $18 million and grossed only about $13.8 million worldwide.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ed_Wood_(film)"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jackson's later film Ride with the Devil (1999) references Baby Ghost. Jackson died of leukemia in 2003.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0413459"
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jackson's Hell Comes to Frogtown (1988) inspired the Family Guy episode Hell Comes to Quahog. Its budget grew from a planned $150,000 to somewhere between $750,000 and $1 million.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Hell_Comes_to_Frogtown"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Conrad Brooks was born Conrad Biedrzycki to Polish immigrant parents. He died in December 2017 after a long run as an Ed Wood alum.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0111926",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxNTE2OTg3NF5BMl5BanBnXkFtZTgwMDM3MDYzNDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "RiffTrax released its Baby Ghost riff on August 6, 2021, as part of a 'Summer of Joe Estevez' theme. It runs 86 minutes, matching the film itself.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thetvdb.com/series/rifftrax/episodes/7489016"
+      }
+    }
+  ]
+}
