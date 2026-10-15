@@ -1,0 +1,394 @@
+{
+  "schema": 1,
+  "imdbId": "tt0462580",
+  "title": "Monster Night",
+  "year": 2006,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-10-15T04:02:08.962Z",
+  "facts": [
+    {
+      "t": 186,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dad George is played by Robert Carradine, and his son Isaac by Jake Thomas. They'd already played a TV family on Disney's Lizzie McGuire and its 2003 movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001019",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzczNWM2NzYtMWM5MC00NWUxLTk2NTktN2ZhZTMzZTljOWUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 250,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Watch the house sign as the family arrives: the numbers flip upside down and read 666.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 425,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Vanessa Angel (mom Claire) was the original pick to play Xena: Warrior Princess. She got sick and couldn't fly to New Zealand, so Lucy Lawless, already there, got the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0029502",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjFhZDYyOGQtMjk3NC00MjQ3LWE5MmItOWIwNWFhYzg4NTY3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Robert Carradine is best known as Lewis Skolnick in Revenge of the Nerds (1984). He was also the youngest of seven brothers and the last to enter the film business.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001019",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzczNWM2NzYtMWM5MC00NWUxLTk2NTktN2ZhZTMzZTljOWUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 830,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The creepy Dean is played by Bob Thomas, who is the real-life father of Jake Thomas, the actor playing Isaac standing before him.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 955,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Brock, the jock who stuffs Isaac in a locker, is played by Matthew Lawrence, who was Chris Hillard, Robin Williams' son in Mrs. Doubtfire (1993).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Matthew_Lawrence"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jake Thomas (Isaac) won a Young Artist Award in 2002 for supporting actor as Martin Swinton in Steven Spielberg's A.I. Artificial Intelligence.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0858969",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU3MjgyMGUtMjkzMi00NGE3LWE3OWQtMmI1ZGM4ZmM1NzcyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1125,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The math-test student Christian Salazar also appeared in The Fast and the Furious: Tokyo Drift, released the same year as this movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm2125008"
+    },
+    {
+      "t": 1310,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Taylor Dooley (Dana) is also Lavagirl in Robert Rodriguez's 2005 3-D film The Adventures of Sharkboy and Lavagirl, which grossed $72 million against a $50 million budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm1731786",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjYxNGY4ZmMtNjAyMC00NmNlLWI1MzAtMGYyNjE3YzM0MjBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Taylor Dooley was named after singer Taylor Dayne. Her Sharkboy and Lavagirl co-stars include Taylor Lautner, who is also a real-life friend.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1731786",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjYxNGY4ZmMtNjAyMC00NmNlLWI1MzAtMGYyNjE3YzM0MjBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Matthew Lawrence (Brock) co-starred with his real-life brothers Joey and Andrew in the 1995 sitcom Brotherly Love, and later played Jack Hunter on Boy Meets World.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Matthew_Lawrence"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Carradine's Revenge of the Nerds cable making-of short showed him breathing gas before takes to create Lewis Skolnick's famous laugh.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001019",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzczNWM2NzYtMWM5MC00NWUxLTk2NTktN2ZhZTMzZTljOWUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Quentin Tarantino originally wrote the role of Clarence Worley in True Romance (1993) with Robert Carradine (George here) in mind.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001019",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzczNWM2NzYtMWM5MC00NWUxLTk2NTktN2ZhZTMzZTljOWUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Musetta Vander (Miss Morticia) and Jake Thomas (Isaac) both appeared in The Cell (2000), the Jennifer Lopez serial-killer thriller, six years before reuniting for Halloween silliness.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Musetta_Vander"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Producer Lorenzo Doumani is the son-in-law of Don Epperson, according to IMDb.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0235387",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGMyYTdmNDctYTM4NS00NTc5LWIyNmMtMDIwMjRhNDE0ZTRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vanessa Angel is best known for TV's Weird Science and Stargate SG-1, and for co-starring in the 1996 comedy Kingpin.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0029502",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjFhZDYyOGQtMjk3NC00MjQ3LWE5MmItOWIwNWFhYzg4NTY3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Hollywood Walk of Fame runs about 1.3 miles along Hollywood Boulevard. The first permanent star, for producer Stanley Kramer, was set in 1960.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists Leslie Allen as director and Lorenzo Doumani as producer. Some databases credit Doumani as director, so even the credits are a bit haunted.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.rottentomatoes.com/m/monster_night"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jake Thomas starred as Matt McGuire on Lizzie McGuire from 2001 to 2004, then played Jason Stickler on Cory in the House.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0858969",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU3MjgyMGUtMjkzMi00NGE3LWE3OWQtMmI1ZGM4ZmM1NzcyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Alan Rachins, who plays Professor Skuttlebutt, was Douglas Brackman Jr. on L.A. Law for 171 episodes and earned Golden Globe and Emmy nominations. He was also Dharma's dad on Dharma & Greg.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Alan_Rachins"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The movie was shot in Los Angeles, which suits its Hollywood Boulevard and Walk of Fame scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Alan Rachins (Professor Skuttlebutt) voiced the Clock King in Batman: The Animated Series and Norman Osborn in The Spectacular Spider-Man. He was also a Mensa member.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Alan_Rachins"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists no critic reviews for Monster Night, only a 45% audience score. It's a straight-to-video Halloween cult curio.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.rottentomatoes.com/m/monster_night"
+      }
+    },
+    {
+      "t": 3745,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The observatory in this scene appeared in Rebel Without a Cause (1955). A bust of that film's star, James Dean, now stands on the grounds. The observatory opened in 1935.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Griffith_Observatory"
+      }
+    },
+    {
+      "t": 3942,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Alan Rachins, playing Professor Skuttlebutt, left the Wharton School to study acting. He later won a place in the American Film Institute's writing and directing fellowship.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Alan_Rachins"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Carradine, who played George Ackerman here, died on February 23, 2026. He came from the Carradine acting dynasty founded by his father, John Carradine.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001019",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzczNWM2NzYtMWM5MC00NWUxLTk2NTktN2ZhZTMzZTljOWUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4252,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Musetta Vander (Miss Morticia) played Sindel in Mortal Kombat Annihilation (1997) and the She-Mantis in the Buffy the Vampire Slayer episode Teacher's Pet.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Musetta_Vander"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vanessa Angel started a 1970s-inspired clothing line, VANE la, in 2009, sold in top Los Angeles boutiques.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0029502",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjFhZDYyOGQtMjk3NC00MjQ3LWE5MmItOWIwNWFhYzg4NTY3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Musetta Vander was born in Durban, South Africa. She was a Siren in O Brother, Where Art Thou? and a henchwoman in Wild Wild West (1999).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Musetta_Vander"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Taylor Dooley began making a movie with the other kids on the set of The Adventures of Sharkboy and Lavagirl 3-D.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1731786",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjYxNGY4ZmMtNjAyMC00NmNlLWI1MzAtMGYyNjE3YzM0MjBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sharkboy and Lavagirl got poor reviews and flopped, but has since gained a cult following. A sequel, We Can Be Heroes, came out in 2020.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm1731786",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjYxNGY4ZmMtNjAyMC00NmNlLWI1MzAtMGYyNjE3YzM0MjBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
