@@ -1,0 +1,432 @@
+{
+  "schema": 1,
+  "imdbId": "tt0099743",
+  "title": "The Haunting of Morella",
+  "year": 1990,
+  "runtimeSec": 4920,
+  "generatedAt": "2026-10-15T04:50:59.063Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Roger Corman reportedly insisted star Lana Clarkson be cast because she drew more fan mail than any other starlet in his stable.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0165096",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NjEyNDA5NV5BMl5BanBnXkFtZTcwNjYzNTYwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 230,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Corman already filmed Poe's \"Morella\" as the first segment of his 1962 anthology Tales of Terror. This 1990 version is a much racier remake.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/morella.html"
+      }
+    },
+    {
+      "t": 370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Nicole Eggert was only 17 during production and needed a legal guardian on set, even though she plays both a mother and her grown daughter.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001176",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1NDY3NTc3M15BMl5BanBnXkFtZTYwNzU1MDA1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital calls the film a T&A-packed riff on Mario Bava's 1960 Black Sunday, which is directly quoted in the opening and used as a story template.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/morella.html"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Corman's company kept the budget under $1 million by reusing sets built for other Concorde Pictures productions.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jim Wynorski cast David McCallum as a fan of The Man from U.N.C.L.E. He had also cast McCallum's U.N.C.L.E. co-star Robert Vaughn in Wynorski's Transylvania Twist.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0564724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVlYmEwNTgtMTMxMi00OTcyLTgzNWQtMzU3ZTkwMzZiNmY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "At the height of The Man from U.N.C.L.E., David McCallum got more fan mail than any actor in MGM history, including Clark Gable and Elvis Presley.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0564724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVlYmEwNTgtMTMxMi00OTcyLTgzNWQtMzU3ZTkwMzZiNmY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wynorski has said he wanted a blend of French-film atmosphere and Hammer horror, using gradation lenses for mood and soft lenses for a smoky look.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0691061",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThlYTlmZTYtYjYyYy00ZmQ2LWFmMjItNjVjNDM0NTUxNzVlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film began shooting September 13, 1989 in Los Angeles under the misspelled title The Haunting of Maurella.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Deborah Dutch turned down nude work until she posed for Playboy. Soon after, the actress cast as the Serving Girl no-showed, and Wynorski offered Dutch the part if she'd do a nude bath scene.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Deborah Dutch lay motionless on a cold concrete floor for over an hour covered in fake blood for her bathtub death, then crew rinsed her off with buckets of warm water.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lana Clarkson did many of her own stunts in this film, including the scenes with heavy pyrotechnics.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0165096",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NjEyNDA5NV5BMl5BanBnXkFtZTcwNjYzNTYwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The character Miles Archer, played by Brewster Gold, was invented for the film. His name nods to the murdered partner in The Maltese Falcon.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      }
+    },
+    {
+      "t": 1910,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gideon Locke, David McCallum's character, is reportedly named after philosopher John Locke, whose ideas influenced Edgar Allan Poe.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0564724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVlYmEwNTgtMTMxMi00OTcyLTgzNWQtMzU3ZTkwMzZiNmY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The role of Morella and daughter Lenora was reportedly first offered to Traci Lords before Nicole Eggert got it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0001176",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1NDY3NTc3M15BMl5BanBnXkFtZTYwNzU1MDA1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2190,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Variety's reviewer \"Advo.\" wrote: \"Nudity, lesbianism, softcore sex, beer barrel-breasted babes: The Haunting of Morella has it all.\" But not enough for the box office.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jim Wynorski made this and Transylvania Twist back to back for Roger Corman.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0691061",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThlYTlmZTYtYjYyYy00ZmQ2LWFmMjItNjVjNDM0NTUxNzVlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2470,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Daily Variety said the film opened \"timidly\" in only sixty Midwest theaters in February 1990, with ticket sales \"weak,\" \"tepid\" and \"dismal.\"",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film grossed just $599,951 at the U.S. box office. Its Los Angeles premiere didn't come until June 22, 1990, four months after Detroit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it one star, saying it treats Poe's story as \"the barest of bones\" and adds a confusing second plot about the governess's sacrifices.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/haunting-of-morella-1990.htm"
+      }
+    },
+    {
+      "t": 2890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital notes Steve Mitchell, a writer on Wynorski's Chopping Mall, worked on this film and served as second unit director.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/morella.html"
+      }
+    },
+    {
+      "t": 3030,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wynorski isn't credited onscreen as a writer, but Variety and other sources said he wrote it. He reportedly co-wrote with longtime partner R.J. Robertson.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      },
+      "person": "nm0691061",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThlYTlmZTYtYjYyYy00ZmQ2LWFmMjItNjVjNDM0NTUxNzVlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lana Clarkson got her SAG card at 18 in Fast Times at Ridgemont High, where she was picked from a line of extras to play teacher Mr. Vargas' beautiful blonde wife.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0165096",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NjEyNDA5NV5BMl5BanBnXkFtZTcwNjYzNTYwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3310,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Motion Picture Guide called it \"nothing more than an excuse for its female characters to take off their clothes and kill each other.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Maria Ford, who plays Diane, was a former Las Vegas showgirl. She was reportedly considered for roles in Showgirls and Under Siege and was first choice for a part in Jason Goes to Hell.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0285768",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhkNzYzMWUtNGFmOS00ZjJhLTkyNjYtZDg0ODgxZTZkYjFjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Morella corpse prop was designed and built by Dean and Star Jones.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      }
+    },
+    {
+      "t": 3730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nicole Eggert went on to play Summer Quinn on Baywatch. Earlier she was Jamie Powell on the sitcom Charles in Charge.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001176",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1NDY3NTc3M15BMl5BanBnXkFtZTYwNzU1MDA1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "David McCallum later played medical examiner Dr. Donald \"Ducky\" Mallard on NCIS for 20 seasons, until his death in 2023.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0564724",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVlYmEwNTgtMTMxMi00OTcyLTgzNWQtMzU3ZTkwMzZiNmY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4010,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "According to Wikipedia, Wynorski's softcore horror film The Witches of Breastwick was the subject of the 2009 documentary Popatopolis, named for his pseudonym Tom Popatopolous.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0691061",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThlYTlmZTYtYjYyYy00ZmQ2LWFmMjItNjVjNDM0NTUxNzVlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Corman later reused a crimson-soaked hellscape sequence from this film and recreated it nearly beat for beat in his 1995 movie Haunted Symphony, shot in Moscow.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      }
+    },
+    {
+      "t": 4290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film reportedly went unreleased in the U.K., one reason it never got the cult reputation of other Corman titles there.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2021/04/01/the-haunting-of-morella-1990-clarkson-wynorski/"
+      }
+    },
+    {
+      "t": 4430,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lana Clarkson appeared in Scarface (1983). In 2013 Al Pacino played Phil Spector, the man convicted of killing her in 2003, in the HBO film Phil Spector.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0165096",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NjEyNDA5NV5BMl5BanBnXkFtZTcwNjYzNTYwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Christopher Halsted, who plays Guy Chapman, later appeared in Star Trek: The Next Generation and Star Trek: Deep Space Nine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0357073"
+    },
+    {
+      "t": 4720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline was \"Crucified, blinded and buried... Now she's back!\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    }
+  ]
+}
