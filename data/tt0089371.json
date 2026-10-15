@@ -1,0 +1,527 @@
+{
+  "schema": 1,
+  "imdbId": "tt0089371",
+  "title": "Mr. Vampire",
+  "year": 1985,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-10-15T04:32:13.707Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Ricky Lau's name hits the screen here. Rumor long said producer Sammo Hung secretly directed it, but Hung denied it and star Chin Siu-ho confirmed Lau was the real director.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mr. Vampire's budget was set at HK$4.5 million, but the money ran out halfway through. Extra millions were added, and the final bill hit HK$8.5 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 195,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Ricky Lau began as Sammo Hung's cinematographer. Mr. Vampire was his directing debut, and horror was his favorite genre.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      },
+      "person": "nm0490605",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc4MTA5NzMtYzA4Yy00ZTAxLThlOWEtY2ZjMGYwNWI1YmNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mr. Vampire grossed HK$20,092,129 in Hong Kong, more than double its final HK$8.5 million cost, even though Sammo Hung had predicted a HK$2-3 million loss for Golden Harvest.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The hopping corpses here are jiangshi, Chinese folklore's 'stiff corpses.' Unlike Western vampires they don't drink blood. They feed on life force, and the hopping comes from rigid limbs.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thechinaproject.com/?p=180088"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Moon Lee, who plays Ting-Ting, wasn't cast from a résumé. Director Ricky Lau spotted her dancing at a performance and asked if she'd be interested in acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0497920",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJiMzBjOWUtOTRjYy00ZmRjLTkxYTgtZjg5YmViMGJjYTZmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Billy Lau, who plays the bumbling police captain Wai, was hired by producer Sammo Hung to add extra comedy. He was nominated for Best Supporting Actor for the role.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0490497",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGY1ZTgtODc5Yy00MmYzLThmZTMtOTRlYTQ0MjgyZGY3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sammo Hung says the film's idea came from childhood ghost stories told by his mother, who was also an actress. The script also drew on Pu Songling's 'Strange Stories from a Chinese Studio.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Ricky Lau's uncle was a Maoshan Taoist who told him folklore tales growing up. They inspired Lau to make the jiangshi, the hopping corpse, the villain of Mr. Vampire.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script had many hands: Roy Szeto, Wong Ying and Barry Wong all wrote on it. Sammo Hung and Eric Tsang reviewed it and gave director Ricky Lau notes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 920,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Master Kau's dragonfly-grave exhumation was shot just outside Hong Kong's New Territories. The same hills appear in The Young Master and the final fight of The 36th Chamber of Shaolin.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The hopping-corpse style borrows from producer Sammo Hung's own 1980 film Encounters of the Spooky Kind, which helped launch Hong Kong's kung fu horror-comedy wave before Mr. Vampire.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Star Lam Ching-ying (Master Kau) came recommended by Sammo Hung. Director Ricky Lau had seen him in The Prodigal Son and said, 'He seems cold but actually he is with a good heart.'",
+      "icon": "mic",
+      "byline": "Ricky Lau — Director",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0482580",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU4OTgwZDMtMzRmYi00NmEwLThjZjAtNmFkMjNmNDVhNTU5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1260,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Master Kau's chicken-blood bowl is real. The production couldn't afford a fake, so a real chicken's throat was cut on camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1390,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lam Ching-ying didn't just act. He co-designed the film's fight scenes with director Ricky Lau. He was a veteran stuntman and action director, and a longtime member of Sammo Hung's stunt team.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0482580",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU4OTgwZDMtMzRmYi00NmEwLThjZjAtNmFkMjNmNDVhNTU5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Japan went wild for Mr. Vampire, sparking a vampire craze with toys and merchandise. Its Japanese title is Reigen Doushi, which also named a Famicom game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Shooting ran about five months. Crews worked 12-hour day and night shifts, and some actors barely slept for two weeks.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fight scenes were slow to shoot on Mr. Vampire: a few minutes of screen combat could take weeks. The set also suffered a massive flood during production.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Action director Yuen Wah played the vampire of the opening scenes, suffering in the summer heat under plastic make-up. He couldn't move, talk or eat properly after hours in the make-up chair.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ironically, director Ricky Lau cut a lot of Yuen Wah's vampire footage from the finished film, feeling that too much hopping would slow the pace.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie opened at midnight in Hong Kong. Director Ricky Lau was so nervous he waited outside greeting guests until he heard the audience start laughing.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The wires that fly characters around were hidden by spray-painting them the color of the set background. Fixing visible wires meant sending film overseas, which was costly and unpopular.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Chin Siu-ho hurt his ankle during a repeated backflip stunt but kept quiet about the pain. The take that ended up in the film was the very first one.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      },
+      "person": "nm0157785",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ4YmRjMjctYzE0OS00YmRiLWEwYzgtZjA2OTBhMTQ0MmM4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chin Siu-ho (Chau-sang) did his own stunts. His back-flip up a door used no wires, and director Ricky Lau said he was serious and used no stuntmen.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0157785",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ4YmRjMjctYzE0OS00YmRiLWEwYzgtZjA2OTBhMTQ0MmM4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2655,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Hold your breath! In this film's rules, hopping vampires track the living by their breath, so victims survive by not breathing. Parchment charms on the forehead keep the corpse in check.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mrvampire.html"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A real snake was cut up on screen because the production couldn't afford a fake one. It was reportedly turned into snake soup afterward.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Many stone-street scenes were shot on a standing set near Taipei, because Hong Kong studios couldn't afford a long street set. The Taiwan portion added three more weeks of shooting.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The jail scenes where Master Kau is locked up were shot on a set at Golden Harvest Studios, Hong Kong.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3475,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kozo of LoveHKFilm wrote that the first half hour is relatively slow, but the movie picks up once the main vampire appears, and he called it the seminal horror-comedy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehkfilm.com/reviews/mr_vampire.htm"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The writers used one cheap gimmick only once: a man in a poor-quality gorilla suit chases characters down a mountain.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Golden Harvest once tried an English version called Demon Hunters, with Jack Scalia and Michelle Phillips. It was shelved after weeks because Yuen Wah's English wasn't strong enough.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Sticky rice is Master Kau's cure for vampire poison. In the film the rice merchant mixes it with ordinary rice. Reportedly, jiangshi lore holds that sticky rice draws out corpse poison.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pauline Wong plays the ghost Jade. In the original script she died, but director Ricky Lau changed it during filming, keeping her alive to be more romantic.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jade's theme song, 'Ghost Bride', was performed by the Jie'er Choir. The film won Best Original Film Score at the Hong Kong Film Awards.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "At the Hong Kong Film Awards, Billy Lau (Inspector Wai) was nominated twice for this film: Best Supporting Actor and Best New Artist. The film's ghost-bride song was also up for Best Song.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehkfilm.com/reviews/mr_vampire.htm"
+      },
+      "person": "nm0490497",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGY1ZTgtODc5Yy00MmYzLThmZTMtOTRlYTQ0MjgyZGY3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mr. Vampire earned 13 Hong Kong Film Award nominations, including Best Supporting Actor for both Billy Lau and Lam Ching-ying, but it won only one award, Best Original Film Score.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Between 1986 and 1990, 24 jiangshi films reached Hong Kong theaters, riding the wave that Mr. Vampire started.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thechinaproject.com/?p=180088"
+      }
+    },
+    {
+      "t": 4825,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mr. Vampire was the fifth-highest-grossing Hong Kong film at the 1985 domestic box office, and it premiered about a month before Jackie Chan's Police Story.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mr. Vampire inspired a Famicom game, Reigen Doushi, released in the US in 1990 as Phantom Fighter. Its Hong Kong film license was dropped for the American version.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Juno Mak's 2013 horror Rigor Mortis is a tribute to Mr. Vampire. It casts Chin Siu-ho as a washed-up actor who plays himself.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popoptiq.com/rigor-mortis-juno-mak-review/"
+      },
+      "person": "nm0157785",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ4YmRjMjctYzE0OS00YmRiLWEwYzgtZjA2OTBhMTQ0MmM4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lam Ching-ying later starred as a Taoist priest in the TV series Vampire Expert. He died of liver cancer in 1997 during its third season, and Sammo Hung was a pallbearer.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0482580",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU4OTgwZDMtMzRmYi00NmEwLThjZjAtNmFkMjNmNDVhNTU5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5350,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The finale's fire was real, flames and oil included. Yuen Wah doubled the vampire for the acrobatic burning shots.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5475,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Capcom's 1994 fighting game Darkstalkers introduced Hsien-Ko, a hopping jiangshi with metal claws, in a pop-culture line that traces back to the Mr. Vampire craze.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.ick.com/?p=188239"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mr. Vampire is number 77 on the Hong Kong Film Archive's '100 Must-See Hong Kong Movies' list.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
