@@ -1,0 +1,638 @@
+{
+  "schema": 1,
+  "imdbId": "tt0083550",
+  "title": "Amityville II: The Possession",
+  "year": 1982,
+  "runtimeSec": 6240,
+  "generatedAt": "2026-10-15T05:11:39.234Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Real Amityville homeowner George Lutz sued producer Dino De Laurentiis over this sequel and lost, but theaters still had to post: \"This film has no affiliation with George and Kathy Lutz.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Lalo Schifrin's score is the only element, besides the Toms River house itself, carried over from the 1979 Amityville Horror, according to Qwipster's review.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/2012/07/12/amityville-ii-the-possession-1982/"
+      }
+    },
+    {
+      "t": 195,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This is a Toms River, New Jersey house, not the real Amityville one. It's the same colonial-style stand-in used in the 1979 original, since the real house wasn't available.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Burt Young, who plays tyrant dad Anthony Montelli, earned an Oscar nomination as Paulie in Rocky (1976) and played him in all six Rocky films. He was also a real Marine boxer.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0949350",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczMDYzMzQ0M15BMl5BanBnXkFtZTgwMzg2NjM4MzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 285,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Diane Franklin (Patricia) made this just after The Last American Virgin (1982). She later turned down nudity-heavy offers and did mostly TV work.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0949350",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczMDYzMzQ0M15BMl5BanBnXkFtZTgwMzg2NjM4MzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's working title was Death in Amityville, and it was first developed for Filmways Pictures, per the AFI Catalog. Orion Pictures absorbed Filmways and released it September 24, 1982.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56723"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Italian director Damiano Damiani spoke little English on this, his American debut, so a translator helped him talk to the cast and crew.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0198765",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ3NjgwNzUxNV5BMl5BanBnXkFtZTgwNzEwMjMyMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Rutanya Alda (Delores Montelli) was nominated for a Razzie for Worst Supporting Actress for this film. Her nomination the year before was for Mommie Dearest.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0017377",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjE4M2Q0NzktYWE0Ny00ZWM2LTllMGYtYmFhYzQyOWI0MjkwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After about two weeks in New Jersey, the interiors were shot on soundstages at Estudios Churubusco in Mexico City for eight or nine weeks. Those rooms aren't in Amityville at all.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The project began as an unrelated horror script called The Ogre, by writer Dardano Sacchetti and author Colin Wilson. Sacchetti reused the idea in Lamberto Bava's The Ogre (1988).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Diane Franklin (Patricia) recalls director Damiano Damiani's thick accent and gruff manner. She says it helped, because she had to listen closely to him.",
+      "icon": "mic",
+      "byline": "Diane Franklin — Patricia Montelli",
+      "source": {
+        "type": "interview",
+        "url": "https://gavinschmitt.com/?p=1594"
+      },
+      "person": "nm0198765",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ3NjgwNzUxNV5BMl5BanBnXkFtZTgwNzEwMjMyMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is based on Hans Holzer's nonfiction book Murder in Amityville, a prequel to The Amityville Horror. It isn't based on the Lutz-family sequel book George Lutz wanted.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rutanya Alda (Delores) and Diane Franklin (Patricia) became good friends on set. Alda broke into film in Brian De Palma's experimental late-1960s movies.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0017377",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjE4M2Q0NzktYWE0Ny00ZWM2LTllMGYtYmFhYzQyOWI0MjkwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1080,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the paintbrush scene closely: one brush comes out of the red paint can, then the next shot shows another coming out of the green can.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The image the haunted brushes paint on the kids' wall is Jodi, the demonic pig from the first Amityville film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production was first set for September 1981 with a script by David Ambrose and director John Hough. It was delayed, and both were replaced.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1295,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The church scenes were filmed at St. Peter's Church in Point Pleasant Beach, New Jersey.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "James Olson (Father Adamsky) was in the sci-fi thriller The Andromeda Strain (1971) and the Oscar-nominated Ragtime (1981).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0647921",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA1NTQyNjAwNDZeQTJeQWpwZ15BbWU4MDc0MDE2NjIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1410,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jan and Mark Montelli, the two youngest kids, are played by real-life siblings Erika Katz and Brent Katz.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Tommy Lee Wallace says he added tons of Catholic Church dialogue for director Damiano Damiani, though most of it was cut. He still called it a proud professional writing job.",
+      "icon": "mic",
+      "byline": "Tommy Lee Wallace — Screenwriter",
+      "source": {
+        "type": "interview",
+        "url": "https://www.themoviewaffler.com/2016/03/waffling-with-halloween-3-it-director_4.html?m=0"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Famed demonologists Ed and Lorraine Warren were demonology advisors here. Their Amityville case later inspired the opening of The Conjuring 2 (2016).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Burt Young (Anthony Montelli) lost his father early in filming but kept working.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0949350",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczMDYzMzQ0M15BMl5BanBnXkFtZTgwMzg2NjM4MzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1985,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "As the camera rises over Sonny while something chases him, a crew member is visible standing behind the wall at bottom left.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When shown on Fox TV, the film was heavily edited. The incest storyline was removed, the murder scene was trimmed, and some profanity was cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The real DeFeo family lived in the Amityville house about nine years and had three sons. The movie has them move in weeks before the murders and gives them only two sons.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Diane Franklin was alone in Mexico when producers pushed her to go fully nude here. She refused, so they shot her from behind instead.",
+      "icon": "mic",
+      "byline": "Diane Franklin — Patricia Montelli",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Test audiences reacted badly to this film's incest and a rape scene, so Damiano Damiani's cut was trimmed. Damiani had added the incest scene himself, hoping to really upset viewers.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0198765",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ3NjgwNzUxNV5BMl5BanBnXkFtZTgwNzEwMjMyMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Burt Young has said he modeled Anthony Montelli, the brutal father, on Robert Duvall's abusive Marine dad in The Great Santini, according to Qwipster's review.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/2012/07/12/amityville-ii-the-possession-1982/"
+      }
+    },
+    {
+      "t": 2780,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Sonny's wall has a Rocky poster, though the film is set in 1974 and Rocky came out in 1976. Anthony is played by Burt Young, who was Paulie in Rocky.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2885,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "As Dolores screams at blood on the floor, a very quick, dim shot flashes of a man over a woman on a staircase. You have to step through the scene frame by frame to find it.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Father Adamsky raising Patricia's confession with her is a no-no. A priest can't discuss a penitent's confession outside the sacrament, even with the penitent alone.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3160,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jack Magner (Sonny), the birthday boy, had only one other screen acting credit after this: Stephen King's Firestarter (1984). This was his first feature.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0536214",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWU0NTQyYmMtMTc2ZC00ZGQ2LWFiZmQtNDI4YmY3YmM2NTE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety said there are \"actually two films meandering in this mess\": a second-rate family-in-peril horror flick and a variation on The Exorcist.",
+      "icon": "mic",
+      "byline": "Variety",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup artist John Caglione Jr., a protégé of The Exorcist's Dick Smith, supervised the effects on his first production. They include Sonny's collapsing torso and cracking, peeling skin.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/2012/07/12/amityville-ii-the-possession-1982/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The story is set in 1974 but shows 1982 cars and a Walkman-style headphone player. The Walkman came out in 1979.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Editor Sam O'Steen, who cut Rosemary's Baby, edited this film. Schlockmania credits his punchy cutting for driving the film's big set pieces.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/amityville-2-the-possession"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert gave the film 2 of 4 stars and called it \"slightly better\" than The Amityville Horror. He and Gene Siskel still named it one of 1982's worst.",
+      "icon": "mic",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Tommy Lee Wallace was one of the people who played masked killer Michael Myers in the original Halloween. He later directed Halloween III and the original TV version of It.",
+      "icon": "link",
+      "byline": "Tommy Lee Wallace — Screenwriter",
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/09/26/amityville-ii-the-possession/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Made for about $5 million, this sequel grossed $12.5 million in the US. It opened September 24, 1982, with $4.1 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Diane Franklin wishes the film had stayed with the family. She says that midway \"you suddenly find you're watching another movie,\" which she believes was down to the rights.",
+      "icon": "mic",
+      "byline": "Diane Franklin — Patricia Montelli",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rutanya Alda (Delores) had a dream about a co-star's wife's obituary and warned them. Jack Magner's wife then turned out to have a ruptured appendix, and Alda's warning saved her, per Qwipster.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/2012/07/12/amityville-ii-the-possession-1982/"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Thomas of the Los Angeles Times said it \"stands quite sturdily on its own\" and works in ideas from The Exorcist to Poltergeist in an unexpectedly spiritual way.",
+      "icon": "mic",
+      "byline": "Kevin Thomas — Los Angeles Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Andrew Prine, who plays Father Tom, is also known for the true-crime slasher The Town That Dreaded Sundown (1976). He died in October 2022.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0697785",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2NjU4MTU5Nl5BMl5BanBnXkFtZTcwMTk3NTUwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bands About Movies called it \"a grimy, gory, gross little film\" with more in common with grindhouse than its major-studio origins (Orion Pictures) would suggest.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/09/26/amityville-ii-the-possession/"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Early UK Castle video and Prism DVD editions are missing about 7 seconds, including a shot of Sonny creeping up behind his father with a gun.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The courtroom scene was cut entirely from an Australian DVD, which lost at least ten minutes. The judge says he can't accept a possession plea: \"The devil made him do it.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's possession plot is invented. The real Ronald DeFeo said \"voices\" told him to kill, but never claimed to be possessed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bloody Disgusting's Meagan Navarro argued in 2017 that this is better than the 1979 original, with better pacing and effects, echoing Roger Ebert's view in 1982.",
+      "icon": "mic",
+      "byline": "Meagan Navarro — Bloody Disgusting",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ed and Lorraine Warren advised on the film and helped promote it. Bands About Movies wondered how they felt about \"the tremendous amount of blasphemy on display here.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/09/26/amityville-ii-the-possession/"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "When Sonny flies across the room, the string on his back is visible.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jack Magner, who plays possessed son Sonny, has only this one significant film role. According to Qwipster, he gave up acting to focus on his family.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/2012/07/12/amityville-ii-the-possession-1982/"
+      }
+    },
+    {
+      "t": 5700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The finale's explosion used a flammable chemical that burns out fast. It didn't go as planned and scorched one side of the house.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A deleted \"Lost Souls\" scene near the ending showed souls in the house appearing before Father Adamsky as he blesses them. Only stills survive, on a UK DVD.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Amityville 3-D followed in 1983. It was loosely based on skeptic Stephen Kaplan's accounts and doesn't mention the Montelli family at all.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
