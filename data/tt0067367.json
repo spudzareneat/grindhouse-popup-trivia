@@ -1,0 +1,457 @@
+{
+  "schema": 1,
+  "imdbId": "tt0067367",
+  "title": "Lust for a Vampire",
+  "year": 1971,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-10-15T05:01:04.585Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jimmy Sangster took over from Terence Fisher at very short notice. Sangster was still finishing The Horror of Frankenstein when Hammer asked him to step in.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lust_for_a_Vampire"
+      },
+      "person": "nm0762727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU3YmE1MDYtNmJkNy00NjdkLWI1YjUtNzhlYjFmMjQyZGU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Terence Fisher was meant to direct but broke his leg after being hit by a car. Jimmy Sangster, Hammer's famed screenwriter, got about a week of prep.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 340,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Ralph Bates replaced Peter Cushing, who quit just before filming to care for his seriously ill wife. Bates later called the film \"one of the worst films ever made.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0061012",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjc0NjUxOF5BMl5BanBnXkFtZTgwNjk5ODc5MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ingrid Pitt, star of The Vampire Lovers, turned down the lead because she thought the script was terrible. She made Countess Dracula (1971) instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Danish actress Yutte Stensgaard got the Mircalla role through Hammer boss James Carreras, writer Tudor Gates said. He felt she lacked Ingrid Pitt's exceptional qualities.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0826662",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzNiYWY2OGYtYjgxZi00NTE2LTlhNWMtMDcyZGUwYTg2NjUzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mircalla star Yutte Stensgaard came to London in 1963 as an au pair, and later hosted on ATV's game show The Golden Shot. She left acting in 1972 and moved to the US.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Yutte_Stensgaard"
+      },
+      "person": "nm0826662",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzNiYWY2OGYtYjgxZi00NTE2LTlhNWMtMDcyZGUwYTg2NjUzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Production designer Bernard Robinson was offered this film and died just hours after the offer was made.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Count Karnstein is played by Mike Raven, a famous BBC Radio 1 blues DJ, yet his voice was dubbed by Valentine Dyall, the actor nicknamed 'The Man in Black'.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Mike_Raven"
+      }
+    },
+    {
+      "t": 940,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mike Raven quit radio in 1971 for horror films. After his film Disciple of Death flopped he became a sculptor and Cornish sheep farmer on Bodmin Moor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Mike_Raven"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming ran only about six weeks, from 6 July to 18 August 1970, at Elstree Studios. Exteriors for the girls' finishing school were shot at Hunton Park in Abbots Langley.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hammer-graveyard.org.uk/?p=8048"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The castle shown is Hochosterwitz Castle in Austria, also seen in Hammer's Twins of Evil. Hammer reused its castle matte shot across the Karnstein films.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Planned shooting at Bray Studios didn't happen. Filming was at Elstree, on sets left from Scars of Dracula, plus Hazelwood House in Abbots Langley.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Actress Suzanna Leigh (Janet Playfair) said she once saw half-dressed young women on the school set. Producer James Carreras told her they were shooting the 'Swedish version'.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0500299",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2RlZWI3OTQtZDgwOS00ZWU5LTg2NzAtYmIzOTA4ZjVkODEyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The story began as a script outline called 'To Love A Vampire', sent to Hammer by Fantale, the independent team of Tudor Gates, Harry Fine and Michael Style who had also made The Vampire Lovers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Tudor Gates said the film began as a script he wrote for Italian director Mario Bava, about a girls' school with a serial killer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hammer asked writer Tudor Gates to drop continuity with The Vampire Lovers and cut ideas like Mircalla vampirising headmistress Miss Simpson, per Horror Cult Films' Hammer series.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 1540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producers insisted on a pop song, 'Strange Love', to copy the hit in Butch Cassidy and the Sundance Kid. Writer Tudor Gates said Jimmy Sangster clashed with them over it.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jimmy Sangster and star Ralph Bates sat through a cinema screening and sank down in embarrassment when 'Strange Love' started. They were surprised the song was there.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0762727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU3YmE1MDYtNmJkNy00NjdkLWI1YjUtNzhlYjFmMjQyZGU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "'Strange Love' was sung by Tracy, a teenage singer from Wembley, and released as a 7-inch single produced by Bob Barratt.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After shooting, producers Harry Fine and Michael Style reportedly took the film from Jimmy Sangster and edited it themselves.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 1975,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pippa Steel (Susan Pelley) also played Laura in The Vampire Lovers. She later appeared in the sitcom Dear John, which starred Ralph Bates. She died of cancer in 1992, aged 44.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Pippa_Steel"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The BBFC required cuts. A scene of Mircalla seducing and feeding on a naked schoolgirl was removed, and one nude shot was swapped for a partly covered one.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lesbian content was toned down after The Vampire Lovers, partly from BBFC pressure. Here Carmilla falls in love with a man, novelist Richard Lestrange.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Close-ups of Count Karnstein's bloodshot eyes during the resurrection are reportedly Christopher Lee's, cut in from Scars of Dracula (1970). Mike Raven looked a bit like Lee.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "American company American Continental Films helped back the film after AIP passed on it. In the US it later aired on TV as To Love a Vampire.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ralph Bates was the great-great-nephew of French scientist Louis Pasteur. He appeared in all three films Jimmy Sangster directed.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0061012",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjc0NjUxOF5BMl5BanBnXkFtZTgwNjk5ODc5MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Barbara Jefford (Countess Herritzen) was a Royal Shakespeare Company stage star. She was BAFTA-nominated for playing Molly Bloom in the 1967 film Ulysses.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0420266",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk5MjE3MDk1MF5BMl5BanBnXkFtZTcwMTQzMjkyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Barbara Jefford also dubbed Daniela Bianchi's voice as Tatiana Romanova in the James Bond film From Russia with Love (1963).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0420266",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk5MjE3MDk1MF5BMl5BanBnXkFtZTcwMTQzMjkyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Yutte Stensgaard got an 'introducing' credit in the trailer but not on the film. It was one of her last roles before she left acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0826662",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzNiYWY2OGYtYjgxZi00NTE2LTlhNWMtMDcyZGUwYTg2NjUzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Monthly Film Bulletin praised one long tracking shot down the garden to the lake, where the camera becomes Mircalla stalking her victim.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Hammer Story, the authorised history of Hammer Films, called the movie a 'cynical and depressing exercise'. Writer Tudor Gates thought it was the better of the first two Karnstein films.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sangster on the nudity Hammer added in the early 70s: 'If sexy is going to add to the box office takings then it's okay by me.'",
+      "icon": "mic",
+      "byline": "Jimmy Sangster",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0762727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU3YmE1MDYtNmJkNy00NjdkLWI1YjUtNzhlYjFmMjQyZGU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The UK edit of the film replaced a topless shot of Judy Matheson (Amanda) in the bed scene with a covered one. Later uncut video releases restored it.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite its cult following, this film reportedly had a limited release and made no money, according to the Hammer fan site Horror Cult Films.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/?p=120494"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital calls this 'easily the dippiest' of Hammer's three Carmilla films, yet says its open embrace of erotic vampire clichés made it a Hammer fan's guilty pleasure.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/lustvamp.html"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Jenn Dlugos of Classic-Horror.com first joked the film should be called 'Lust for Knockers'. On a second viewing she called the nudity tasteful and the movie a strong Hammer entry.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/lust_for_a_vampire_1971.html"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actresses Judy Matheson (Amanda) and Suzanna Leigh (Janet Playfair) met again at the London Film Convention, for the first time since shooting this film in 1970.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.camdennewjournal.co.uk/article/hammer-horror-reunion-lust-for-a-vampire-stars-meet-for-the-first-time-since-shooting-cult-film"
+      }
+    }
+  ]
+}
