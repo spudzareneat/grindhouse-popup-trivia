@@ -1,0 +1,505 @@
+{
+  "schema": 1,
+  "imdbId": "tt0071095",
+  "title": "Abby",
+  "year": 1974,
+  "runtimeSec": 5340,
+  "generatedAt": "2026-10-15T04:34:46.841Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director William Girdler told the Louisville Courier Journal: \"Sure, we made Abby to come in on the shirttail of The Exorcist.\" Warner Bros. noticed.",
+      "icon": "censor",
+      "byline": "William Girdler — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Abby cost about $200,000 and grossed roughly $4 million in its first month, but director William Girdler reportedly never saw a cent of profit because of Warner Bros.' lawsuit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's working title was Possess My Soul. It opened on Christmas Day, 1974, in Los Angeles and New York.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67480-ABBY"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production company Mid-America Pictures was a merger of AIP's David Sheldon and director-producer William Girdler, and was based in Louisville, Kentucky, where the film was shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67480-ABBY"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Warner Bros. sued in 1975 for copyright infringement of The Exorcist, claiming Abby was \"substantially similar.\" A 1977 settlement barred reissuing it without Warner's permission.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67480-ABBY"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star William Marshall, who played Blacula in 1972, was unhappy on this set: script revisions he'd been promised never happened. He added Yoruba religion elements to the film himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Box Office magazine's 1974 review said Abby copied The Exorcist \"down to the camera angles,\" but made the possessed person an adult woman instead of a child, allowing a more sexual story.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67480-ABBY"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Carol Speed got the lead only after the original actress demanded a personal masseuse the low budget couldn't cover. Speed's agent sent her to Louisville.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0817511",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5NzMyNzI3OF5BMl5BanBnXkFtZTYwNzU5MTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Carol Speed said the set felt haunted: generators failed whenever she appeared in demon makeup, and star Terry Carter broke ribs filming one scene.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1170,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A series of tornadoes hit Louisville on April 4, 1974, halting production. Carol Speed and Juanita Moore sheltered in their hotel lobby wrapped in blankets, among glass windows.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Unit manager Pat Kelly shrugged off the curse talk: the tornadoes hit 10 states, so it wasn't just Abby that had \"somebody up there (or down) awful mad!\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actress Carol Speed wrote and sang the gospel number \"My Soul Is A Witness\" herself for the church scene.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0817511",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5NzMyNzI3OF5BMl5BanBnXkFtZTYwNzU5MTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1530,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Instead of a Catholic priest, the exorcist is a Bishop. The Exorcist's Iraq dig becomes a Nigerian cave, and the demon is Eshu, a Yoruba trickster spirit of chaos and whirlwinds.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's review points out Abby ages the possessed character from The Exorcist's 12-year-old girl to a 29-year-old woman, making the possession far more overtly sexual.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/abby-1974.htm"
+      }
+    },
+    {
+      "t": 1770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's review says casting William Marshall, the Shakespeare-trained actor who played Blacula, was \"a stroke of genius\" and calls his performance the film's main strength.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/abby-1974.htm"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bob Holt voiced the Demon. Holt was a prolific voice actor who did lots of cartoon work.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Juanita Moore, who plays Momma Potter, was a 1959 Best Supporting Actress Oscar nominee for Imitation of Life, and a former Cotton Club chorus girl.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0601428",
+      "image": "https://m.media-amazon.com/images/M/MV5BODg2NTA1NTE1Ml5BMl5BanBnXkFtZTcwNzc4MjM5OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Austin Stoker (Det. Cass Potter) went on to lead John Carpenter's Assault on Precinct 13 in 1976 as Lt. Ethan Bishop.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0831288",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY3MzE0NDM4NV5BMl5BanBnXkFtZTcwNTc3NDAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Terry Carter (Rev. Emmett Williams) later played Colonel Tigh in the original Battlestar Galactica, and earlier was reportedly America's first Black TV news anchor, in Boston in 1965.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0141956",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2MzA3NTEzNl5BMl5BanBnXkFtZTYwODczMDEz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "William Girdler directed nine features in six years, including Abby, Sheba, Baby, Grizzly (1976) and The Manitou (1978). He died in a 1978 helicopter crash at age 30.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0320852",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlNWI4ZDQtMGJiMy00ZDJkLWJiNTEtMjJmYjJlYjk1NzM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewing Abby, The New York Times said it \"is more silly than shocking even if it seems to take itself seriously.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2610,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director William Girdler was a big Hitchcock fan and often reused music by Lalo Schifrin and Robert O. Ragland. Ragland scored Abby, uncredited on a couple of songs.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0320852",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlNWI4ZDQtMGJiMy00ZDJkLWJiNTEtMjJmYjJlYjk1NzM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2730,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before acting, Carol Speed worked as a backup singer for Bobbie Gentry and did crowd voices in Cotton Comes to Harlem (1970).",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0817511",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5NzMyNzI3OF5BMl5BanBnXkFtZTYwNzU5MTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Abby was nominated for a Golden Turkey Award (1980) as \"The Worst Blaxploitation Film Ever Made,\" according to Moria's review.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/abby-1974.htm"
+      }
+    },
+    {
+      "t": 2970,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Abby has never had an official US home video release. The bootleg DVDs that surfaced in 2006-07 were likely sourced from a flawed 16mm print.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Retrocrush put Abby on its 2006 \"Top Ten Films in Limbo\" list, calling it \"an irresistible period trashterpiece.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3210,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Quentin Tarantino said Carol Speed helped on Jackie Brown and was willing to cameo, but he dropped the idea at the last minute.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0817511",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5NzMyNzI3OF5BMl5BanBnXkFtZTYwNzU5MTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3330,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "William Marshall, also the King of Cartoons on Pee-wee's Playhouse, was 6'5\" and known for his bass voice. He also played Dr. Daystrom on Star Trek.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0551234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxYTUyMzUtNzFjYi00Y2E5LThiOTgtM2EzZjE0NzdiYWNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Moria's review lumps Abby with the Italian Exorcist knock-offs The Antichrist and Beyond the Door, both 1974, and calls it one of the first \"mockbusters.\"",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/abby-1974.htm"
+      }
+    },
+    {
+      "t": 3570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A 16mm print of Abby screened at Cinefamily in Los Angeles in 2013 despite its unclear rights history.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Juanita Moore got a posthumous Hollywood Walk of Fame star in 2024. Film critic Leonard Maltin was among the speakers.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0601428",
+      "image": "https://m.media-amazon.com/images/M/MV5BODg2NTA1NTE1Ml5BMl5BanBnXkFtZTcwNzc4MjM5OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3810,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director William Girdler's planned follow-up to The Manitou, The Overlords, never started production because of his death.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0320852",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlNWI4ZDQtMGJiMy00ZDJkLWJiNTEtMjJmYjJlYjk1NzM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3930,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stars Carol Speed and Austin Stoker both died in 2022; Speed in January and Stoker on his 92nd birthday.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Exorcist author William Peter Blatty opposed Warner Bros.' lawsuit against Abby and reportedly said he actually liked the film.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmsinreviewarchives.com/2007/06/01/abby/"
+      }
+    },
+    {
+      "t": 4170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Warner Bros. didn't always win these fights: Donn Davison, importer of the Italian Exorcist copycat Beyond the Door, sued Warner and won, showing the studio didn't own possession movies.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmsinreviewarchives.com/2007/06/01/abby/"
+      }
+    },
+    {
+      "t": 4290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1991, filmmaker Keith Crocker tracked down a 16mm print of Abby. Decades later he and Cinefear Video used it to make the DVD that brought the film back into circulation.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmsinreviewarchives.com/2007/06/01/abby/"
+      }
+    },
+    {
+      "t": 4410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Films in Review noted that some Abby ideas resurfaced in Exorcist II: The Heretic, a release from Warner Bros., the very studio that sued over Abby.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmsinreviewarchives.com/2007/06/01/abby/"
+      }
+    },
+    {
+      "t": 4530,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Abby's demonic wind was done cheaply: Daily Dead says a big fan and some shaky camerawork sold the spirit's release.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/catalog-beyond-abby-1974/"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director William Girdler's Abby reportedly earned more in domestic rentals than William Marshall's earlier hit Blacula, though the lawsuit kept Girdler from seeing profits.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.kmialumni.org/bio-Bill%20Girdler-66x.html"
+      }
+    },
+    {
+      "t": 4770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the documentary Horror Noire, author Tananarive Due called Abby 'a really good example of both fear of Black women in general but fear of Black women's sexuality in particular.'",
+      "icon": "mic",
+      "byline": "Tananarive Due",
+      "source": {
+        "type": "web",
+        "url": "https://horrorpress.com/movies/8742/revisiting-this-obscure-black-exorcist-film-50-years-later"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Abby opened on December 25, 1974, almost exactly a year after The Exorcist (December 26, 1973), and was sold as 'The Black Exorcist.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorpress.com/movies/8742/revisiting-this-obscure-black-exorcist-film-50-years-later"
+      }
+    }
+  ]
+}
