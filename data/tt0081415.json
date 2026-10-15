@@ -1,0 +1,454 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081415",
+  "title": "The Night of the Werewolf",
+  "year": 1981,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-15T04:13:48.655Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film's opening sentence is close to history: the real Countess Elizabeth Bathory was never tried but walled into her castle rooms in 1610, while her servants were tortured and executed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://Www.Atlasobscura.com/places/ruins-cachtice-castle"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The legend of Elizabeth Bathory bathing in victims' blood, the film's big hook, appears to be a later addition to her story, according to History Today.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.historytoday.com/archive/months-past/death-countess-elizabeth-bathory"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Star Paul Naschy was born Jacinto Molina. German distributors found that too Spanish, so he became Paul Naschy: Paul for Pope Paul VI, Naschy for weightlifting hero Imre Nagy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Naschy"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 225,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Waldemar Daninsky's sentence is overkill: a silver cross through the heart, an iron mask on the face and a hidden tomb. Even then the curse might not let him stay dead.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2026/05/20/weird-wednesday-night-of-the-werewolf-1980/"
+      }
+    },
+    {
+      "t": 270,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The title music is borrowed from Stelvio Cipriani's score for the Italian killer-octopus movie Tentacles (1977), itself a cheap Jaws cash-in.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For Tentacles' US release, director Ovidio Assonitis was credited as 'Oliver Hellman' and composer Stelvio Cipriani as 'S.W. Cipriani'. Americanized names were common in Italian exploitation.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tentacles_(film)"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pilar Alcón, who plays student Barbara, made her screen debut in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 495,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Azucena Hernández, who plays Karen, was crowned Miss Catalunya in 1977 before turning to acting. A 1986 car accident left her paralyzed and ended her career.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0379883"
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Paul Naschy called this his favorite of his werewolf films and considered it a remake of his 1970 film La Noche de Walpurgis (Walpurgis Night).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paul Naschy wrote, directed and starred in this film, directing under his real name, Jacinto Molina.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/night_of_the_werewolf_1981"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This film is a remake of The Werewolf vs the Vampire Woman (1971), whose countess was called Nadasdy, Bathory's married name. Richard Scheib of Moria gave that original just 2 stars.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/werewolf-vs-the-vampire-woman-1971.htm"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Naschy never meant to be a star. He wrote 1968's The Mark of the Wolfman, and when the producers couldn't find a lead, he took the role of Waldemar Daninsky himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/08/29/exploring-paul-naschy-and-el-hombre-lobo/"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1060,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib says Paul Naschy 'very much wanted to be a Hammer (or Universal) horror star.' Spain's answer to both studios was mostly Naschy himself, writing and starring.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/werewolf-vs-the-vampire-woman-1971.htm"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film had a bigger budget than Paul Naschy's earlier werewolf movies. Per bandsaboutmovies.com it flopped abroad, which helped sink his company.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2026/05/20/weird-wednesday-night-of-the-werewolf-1980/"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The film was shot around Madrid province, in Navacerrada, Talamanca del Jarama and Valdepiélagos, plus Belmonte in Cuenca, standing in for the Carpathians.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bathory also turns up in an earlier Naschy werewolf film, Curse of the Devil (1973), directed by Carlos Aured. The Blood Countess was a recurring villain in 1970s Euro-horror.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory_in_popular_culture"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Naschy played Waldemar Daninsky in 12 films, more werewolf roles than Lon Chaney Jr. played in his Universal Wolf Man films. This is the ninth.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Naschy"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1690,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Makeup artist Ángel Luis de Diego gave the servant Mircaya (Beatriz Elorrieta) a scarred look that draws sympathy to her. He also did the werewolf makeup.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/night_of_the_werewolf_1981"
+      }
+    },
+    {
+      "t": 1877,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Erika calls Waldemar Daninsky a man of the Middle Ages, but the film's prologue puts his execution in the 16th century. Strictly, that is the Renaissance.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Julia Saly, who plays Countess Bathory, was also a co-producer of this film, alongside Modesto Pérez Redondo and Enrique Molina. It was made through Naschy's company Dalmata Films.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2026/05/20/weird-wednesday-night-of-the-werewolf-1980/"
+      }
+    },
+    {
+      "t": 2090,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Reviewer Timothy J. Rush of Classic-Horror.com called the practical werewolf makeup 'absolutely, positively superb'. He compared it to Lon Chaney Jr.'s look in 1941's The Wolf Man.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/night_of_the_werewolf_1981"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harry Kümel's Daughters of Darkness (1971) put Delphine Seyrig's Bathory in a seaside hotel in Ostend, Belgium. It was one of the arty Bathory films that made her a 1970s horror fixture.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bloodlettermag.com/daughter-of-darkness-exploring-the-life-and-myth-of-elizabeth-bathory-through-the-lens-of-1970s-horror-films"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Naschy's original Spanish-language films, voice actors usually dubbed him, even in films he directed himself. José Guardiola and Simón Ramírez were the most frequent.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Australia's Thirst (1979) gave the Bathory legend a sci-fi twist: a descendant kidnapped by a vampire cult. The score was by Queen guitarist Brian May.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bloodlettermag.com/daughter-of-darkness-exploring-the-life-and-myth-of-elizabeth-bathory-through-the-lens-of-1970s-horror-films"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Naschy was a weightlifter, and once a pro wrestler, before acting. The barrel-chested build helped him earn the nickname 'the Spanish Lon Chaney'.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kitley's Krypt ranked this its favorite Naschy werewolf movie, praising the Hammer-like gothic mood and calling Julia Saly 'perfect' as the undead Countess, especially her eyes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kitleyskrypt.com/2016/09/18/movie-review-night-of-the-werewolf/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1972 Naschy wrote and starred in seven movies in one year, which shows how fast Spain's horror boom moved.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3180,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Naschy called El Retorno del Hombre Lobo 'one of the most significant titles' of his horror career, according to Kitley's Krypt, which says it was written as a remake of his 1971 film.",
+      "icon": "mic",
+      "byline": "Paul Naschy",
+      "source": {
+        "type": "web",
+        "url": "https://kitleyskrypt.com/2016/09/18/movie-review-night-of-the-werewolf/"
+      }
+    },
+    {
+      "t": 3357,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "These two comic-relief thieves, obsessed with garlic against vampires, give the film a bawdy, almost soap-opera tone. Dread Central called it a fun, campy film.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/4720/night-of-the-werewolf-dvd/"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Julia Saly, who plays Countess Bathory, was one of Naschy's favorite actresses. Her career ended in 1985 when his company Aconito Films went out of business.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0416652"
+    },
+    {
+      "t": 3830,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kitley's Krypt notes a zombie in this film that resembles the undead Templars of Spain's Blind Dead series, a sign of Naschy borrowing from Spanish horror's other big franchise.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kitleyskrypt.com/2016/09/18/movie-review-night-of-the-werewolf/"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered in Spain on 8 April 1980 and played the Fantasporto festival in 1982. It reached Chicago theaters on 15 November 1985 as The Craving.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4125,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fantastic Movie Musings' Dave Sindelar says the horrendous English dubbing gets in the way of fairly judging this film, though he still thinks it beats Naschy's Fury of the Wolfman (1972).",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2017/04/page/2/"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After heavy losses on his spy spoof Operation Mantis (1985), Naschy's company Aconito Films went bankrupt. He wrote that he fell into a two-year depression.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Naschy"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Naschy followed this with a tenth werewolf film, The Beast and the Magic Sword (1983). In 2001 Spain awarded him its Gold Medal of Merit in the Fine Arts.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A fan of the series? The last Daninsky film, Tomb of the Werewolf (2004), came from Fred Olen Ray. Naschy died in Madrid on November 30, 2009, aged 75.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Paul_Naschy"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
