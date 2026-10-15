@@ -1,0 +1,580 @@
+{
+  "schema": 1,
+  "imdbId": "tt0045888",
+  "title": "House of Wax",
+  "year": 1953,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-10-15T04:58:09.741Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director André De Toth was blind in one eye and couldn't see 3D at all, yet Warner Bros. hired him to make its first 3D horror movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety raved in 1953 that House of Wax was \"the post-midcentury Jazz Singer\": what Al Jolson did for sound, it said, Warner Bros. repeated for the third dimension.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 215,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This is a remake of Warner Bros.' own 1933 two-color thriller Mystery of the Wax Museum. Director André De Toth found it while hunting for a Gary Cooper script and pitched it as a 3D movie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 275,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Vincent Price's character Henry Jarrod was Ivan Igor in the 1933 original. The name was changed so the film wouldn't alienate Russian viewers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This role revived Vincent Price's career. He'd been playing second leads since 1938, and after this he was the go-to actor for fiends and mad scientists for the rest of his life.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Warner Bros. gave director André De Toth $1,250,000 to make this. He wrapped in 28 days for $618,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Audiences wore Polaroid 3D viewers that cost theaters a dime each. Some theaters added that charge to the ticket price, and a few itemized it separately to trim the 20% federal admissions tax.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/50877"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At the 1953 premiere, Bela Lugosi, who wasn't in the film and was short on cash, stood outside in a cape and dark glasses. He held a leash with actor Steve Calvert in a gorilla suit on the end.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Los Angeles opening at the Downtown Paramount was a round-the-clock event: twelve showings in a row, starting with a midnight \"spook premiere\" on April 16, 1953.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/50877"
+      }
+    },
+    {
+      "t": 950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Warner Bros. rushed this out after the independent lion thriller Bwana Devil sparked the 1952 3D craze. It used the same Natural Vision 3D system.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Producer Bryan Foy complained about being left out of the film's ads. Natural Vision 3D co-creator Milton Gunzburg later sued over credit and profits from the picture.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/50877"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "House of Wax became Warner Bros.' highest-grossing film ever, breaking the record Sergeant York had held for a dozen years.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1222,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Carolyn Jones (Cathy Gray) got her first credited film role here. A decade later she became Morticia in TV's The Addams Family.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0427700",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5NDQwMjU2N15BMl5BanBnXkFtZTcwNzEwNjYyNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Phyllis Kirk (Sue Allen), under contract and stuck with the part, griped she didn't want to become \"the Fay Wray of my time.\" She admitted later she had a lot of fun.",
+      "icon": "mic",
+      "byline": "Phyllis Kirk",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0456533",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ2NzQwOV5BMl5BanBnXkFtZTcwNTU5NDIzOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Joan Weldon and Vera Miles were both considered for the role of Sue Allen before Phyllis Kirk got it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Bert Glennon got the flu in the first week of shooting. J. Peverell Marley took over the 3D cameras with about a day's notice.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/house-of-wax-1953"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Studio boss Jack Warner gave editor Rudi Fehr only five weeks to cut the film. Fehr suggested shooting in sequence to save time, and Warner ordered director André De Toth to do it over his objections.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/2021/01/house-of-wax-1953/"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Price's burn makeup took about three hours to apply and included special dentures and bent ears.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/house-of-wax-1953"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "According to the Guinness Book of World Records, this was the first 3D film released with a stereophonic soundtrack. The original stereo track no longer exists.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bosley Crowther of The New York Times called the film \"disappointing\" and \"baldly, unbelievably antique,\" with nothing but \"loudness and confusion\" in its stereo sound.",
+      "icon": "mic",
+      "byline": "Bosley Crowther — The New York Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1933 original, Mystery of the Wax Museum, was the last feature shot in two-color Technicolor. It was long thought lost until a print turned up in Jack Warner's private vault.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/house-of-wax-through-ages/"
+      }
+    },
+    {
+      "t": 2215,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mute assistant Igor was played by Charles Buchinsky. He renamed himself Charles Bronson in 1954, reportedly fearing an Eastern European name would hurt his career during the Red Scare.",
+      "icon": "star",
+      "byline": "Charles Bronson",
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/81901/13-thrilling-facts-about-house-wax"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Price's makeup was so ghastly he was banished from the Warner Bros. commissary. \"The girl at the register turned green and almost fainted,\" he recalled.",
+      "icon": "mic",
+      "byline": "Vincent Price",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2380,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Nedrick Young, who plays the alcoholic assistant Leon, went uncredited because he'd been blacklisted in the McCarthy-era Red Scare.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In the 1933 original, the alcoholic sculptor was a heroin addict. The Production Code banned any mention of drug addiction, so he became a drunk for this remake.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2520,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The paddle-ball barker is the film's famous 3D gag. But the story is set around 1902, and paddle balls reportedly weren't invented until about 1920.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director André De Toth cast nurses as extras for the chamber of horrors. After three women fainted during the guillotine scene, he admitted the tight 1890s corsets were partly to blame.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2725,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "William Kemmler, the wax figure in the electric chair, was a real man and the first person executed that way in New York, in 1890. The execution took about eight minutes.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Max Steiner, famed for Casablanca and Gone with the Wind, scored the trailer for House of Wax.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Joan of Arc figure is modeled on Carolyn Jones (Cathy Gray), whose corpse supposedly hides inside it. The Marie Antoinette figure is modeled on Phyllis Kirk (Sue Allen).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Asked about directing 3D with one eye, André De Toth reportedly shot back, \"Beethoven couldn't hear music either, could he?\"",
+      "icon": "mic",
+      "byline": "André De Toth — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/81901/13-thrilling-facts-about-house-wax"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Warner Bros. was the first major American studio to produce a 3D movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3220,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After De Toth finished far ahead of the 60-day schedule, studio boss Jack Warner reportedly sent him a case of whiskey.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/article/81901/13-thrilling-facts-about-house-wax"
+      }
+    },
+    {
+      "t": 3280,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AFI's records list production as running January 19 to February 21, 1953. The New York Paramount then held the film longer than any other picture in four years.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/50877"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The 14th Street Music Hall set was also used in 1953 as the Golden Garter saloon in the Doris Day musical Calamity Jane.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "House of Wax was the top-grossing 3D movie of its time. It held that title until the 1969 sex comedy The Stewardesses beat it.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/13-thrilling-facts-about-house-wax"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film runs 88 minutes but has an intermission. In the original 3D screenings, each projector ran one eye's image, so staff needed a break to change both reels.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Price on his director: \"They hired a man who couldn't see 3D at all! He'd go to the rushes and say 'Why is everybody so excited about this?'\" He still called him a very good director.",
+      "icon": "mic",
+      "byline": "Vincent Price",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Crane Wilbur reunited with Vincent Price the next year on Columbia's The Mad Magician (1954), another attempt to cash in on the 3D craze.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Price sneaked into House of Wax screenings behind 3D glasses. In New York he once leaned toward two teens after a scary scene and asked, \"Did you like it?\" They \"went right into orbit.\"",
+      "icon": "mic",
+      "byline": "Vincent Price",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Warner Bros. tried to repeat this hit with the 3D Phantom of the Rue Morgue (1954). It earned under 10% of what House of Wax made, and the 3D craze faded.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film three stars. He called it \"lurid Grand Guignol shock\" and preferred the 1933 original, but liked the misty street chase and the 3D can-can gags.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/house-of-wax-1953.htm"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the 1960s Warner Bros. tried a House of Wax TV series. The pilot was too intense for networks, so it was padded and released to theaters as Chamber of Horrors (1966).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Columbia's Man in the Dark, the first major-studio black-and-white 3D feature, premiered two days before House of Wax. Warner Bros.' film was the first color 3D feature from a major studio.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Phyllis Kirk wore a flesh-colored bodysuit for the table scene. When director André De Toth kept telling her to pull it lower, she snapped, \"André, I have no bosom!\"",
+      "icon": "mic",
+      "byline": "Phyllis Kirk",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0456533",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ2NzQwOV5BMl5BanBnXkFtZTcwNTU5NDIzOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4930,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Paul Picerni, who plays Scott Andrews, refused the guillotine rescue as too dangerous, and De Toth fired him. Jack Warner ordered him rehired and the blade modified. Picerni did exactly one take.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0681608",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NlYjMzNmEtNTY0Ni00N2NkLTkxNDUtMjQyNTA0NWJlZGFiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The original negatives were water-damaged. Warner Bros. spent $300,000 restoring the film for its 3D Blu-ray.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Library of Congress added House of Wax to the National Film Registry in 2014. It now holds a 93% Rotten Tomatoes score.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "House of Wax topped the box office for five weeks and earned about $5.5 million in North American rentals, one of 1953's biggest hits.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
