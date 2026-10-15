@@ -1,0 +1,509 @@
+{
+  "schema": 1,
+  "imdbId": "tt0071508",
+  "title": "Flesh for Frankenstein",
+  "year": 1973,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-10-15T04:19:59.922Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sold as \"Andy Warhol's Frankenstein,\" but Warhol barely took part: he visited the set once and dropped by briefly during editing. Director Paul Morrissey made the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The idea came from director Roman Polanski, who told Paul Morrissey he'd be a natural to make a 3-D Frankenstein. Morrissey said he thought it was \"the most absurd option I could imagine.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://wreckingcrewdirector.substack.com/p/lets-put-the-x-back-in-xmas-andy"
+      }
+    },
+    {
+      "t": 315,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roman Polanski tried 3-D on his own Rome-shot comedy What? (1972), decided it was useless, then offered the leftover equipment to Paul Morrissey for a couple of cheap films, including this one.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Flesh%20for%20Frankenstein.html"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Despite the Warhol-branded marketing, only the single word \"Frankenstein\" appeared in the title on the actual print of the film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://wreckingcrewdirector.substack.com/p/lets-put-the-x-back-in-xmas-andy"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "All this gore reportedly cost about $450,000. It went on to earn $4.7 million in North American rentals, and the Los Angeles Times said it had grossed $7 million by 1974.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Udo Kier's German-accented Baron Frankenstein monologues are nearly impossible to follow, which The Bedlam Files suggests was at least partly director Paul Morrissey's intent.",
+      "icon": "sunglasses",
+      "byline": "Udo Kier",
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/flesh-for-frankenstein/"
+      },
+      "person": "nm0001424",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4YTFkYTctMDc0My00NWUzLThiZTktMzkxMDRiMGU3ZDk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Paul Morrissey persuaded producer Carlo Ponti to make two films back to back in Rome: this one and Blood for Dracula, which reused many of the same sets and stars.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming began March 20, 1973, at Cinecittà in Rome with an Italian crew. Production designer Enrico Job built the lab and castle.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Udo Kier (Baron Frankenstein) couldn't improvise, so director Paul Morrissey wrote the dialogue day by day, dictating it to Pat Hackett at his studio.",
+      "icon": "mic",
+      "byline": "Udo Kier",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001424",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4YTFkYTctMDc0My00NWUzLThiZTktMzkxMDRiMGU3ZDk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1215,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Dallesandro (Nicholas) told Film Comment he had a falling-out with director Paul Morrissey on this shoot and wouldn't work unless lines were written for him: \"I wouldn't talk.\"",
+      "icon": "mic",
+      "byline": "Joe Dallesandro",
+      "source": {
+        "type": "interview",
+        "url": "https://www.filmcomment.com/interview-joe-dallesandro/"
+      },
+      "person": "nm0198072",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MjUzMjQzMV5BMl5BanBnXkFtZTcwNzI3OTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1290,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The gore was an early job for Carlo Rambaldi, who later built E.T. in E.T. the Extra-Terrestrial (1982). Antonio Margheriti shot the \"breathing lungs\" made from pigs' lungs.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some Italian prints credit Antonio Margheriti as director under the name \"Anthony M. Dawson.\" Udo Kier says Margheriti never directed the actors; the credit helped the film qualify as Italian.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Dallesandro (Nicholas) is the \"Little Joe\" in Lou Reed's \"Walk on the Wild Side.\" Reed saw Dallesandro in Flesh (1968) and wrote the third verse about him.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0198072",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MjUzMjQzMV5BMl5BanBnXkFtZTcwNzI3OTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Monique van Vooren (Baroness Katrin) once suggested that a dancer in her nightclub act, Ronnie Walken, change his first name to Christopher. He did.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0888207",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2MzMGVjZDEtODg2OC00ZWJjLThmZjctMGM0MmI3ODBjN2EwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1890,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Swedish grindcore band Nasum took its name from a line in this film. Its song \"Blind World\" also samples the movie's dialogue.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Nicolas Winding Refn (Drive) has said this is the only film made by someone else that he wishes he'd directed.",
+      "icon": "mic",
+      "byline": "Nicolas Winding Refn",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2190,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rated X by the MPAA for explicit sex and violence. The New York Times called it a \"coy binge in degradation\" and ran the headline \"Butchery Binge.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinema.wisc.edu/?p=1885"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italian dub, reworked with screenwriter Tonino Guerra to be funnier, renamed the Baron's children Systole and Diastole. In English they're Monica and Erik.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2490,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Dallesandro (Nicholas) reportedly lost a Godfather screen test for Michael Corleone: Andy Warhol told Francis Ford Coppola's people he was a drug addict.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0198072",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MjUzMjQzMV5BMl5BanBnXkFtZTcwNzI3OTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2565,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Joe Dallesandro, who plays farmhand Nicholas, spends roughly half the movie naked, according to Mondo Esoterica's review. The film made him and Udo Kier European cult stars.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Flesh%20for%20Frankenstein.html"
+      },
+      "person": "nm0198072",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MjUzMjQzMV5BMl5BanBnXkFtZTcwNzI3OTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Monique van Vooren (Baroness Katrin) also played the Penguin's associate on the 1968 TV series Batman, and was a judge at the 1969 Miss Universe pageant.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0888207",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2MzMGVjZDEtODg2OC00ZWJjLThmZjctMGM0MmI3ODBjN2EwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Britain made it a \"video nasty.\" Cut by about 8 minutes in 1973, it was denied a video certificate, got a trimmed release in 1996, and was finally passed uncut in March 2006.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cattle Decapitation's death-metal album Homovore samples this film's dialogue in the song \"Carnal Fecophelia Due to Prolonged Exposure to Methane.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Udo Kier got word of a nice remark from director Roman Polanski in Interview magazine's Nov. 1973 issue. Andy Warhol sent Kier a copy with every page signed.",
+      "icon": "mic",
+      "byline": "Udo Kier",
+      "source": {
+        "type": "web",
+        "url": "https://interviewmagazine.com/film/andy-warhols-interview-interview-udo-kier-palm-springs-international-film-festival"
+      },
+      "person": "nm0001424",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4YTFkYTctMDc0My00NWUzLThiZTktMzkxMDRiMGU3ZDk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3165,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Bedlam Files notes the film's camp tone is helped by deliberately silly sound touches, like loud slurping on the soundtrack during a sex scene.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/flesh-for-frankenstein/"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Carlo Ponti won an Oscar for La Strada, produced Doctor Zhivago, and married Sophia Loren. Here he bankrolled one of Italy's goriest 3-D oddities.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3390,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Claudio Gizzi's score includes an arrangement of Richard Wagner's Tannhäuser overture, titled \"The Creature Sees the Light.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italian cut, retitled \"Il mostro è in tavola, barone... Frankenstein,\" ran 89 minutes. The original version was banned in Italy, and film historian Roberto Curti called its box office \"mediocre.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3615,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Bedlam Files says this gory Frankenstein spoof went on to influence the 1991 Japanese film The Last Frankenstein.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/flesh-for-frankenstein/"
+      }
+    },
+    {
+      "t": 3690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce G. Hallenbeck, in Comedy-Horror Films, wrote that you find yourself \"convulsed with laughter during some of the goriest scenes ever filmed.\"",
+      "icon": "reel",
+      "byline": "Bruce G. Hallenbeck",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Paul Morrissey made Flesh (1968), which launched Joe Dallesandro as a star, for just $4,000. It sold over 3 million tickets in West Germany.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0607407",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyOTk1OTQyNl5BMl5BanBnXkFtZTcwNDg2NDMxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AllMovie's Craig Butler said Paul Morrissey skewers the very countercultural sex revolutionaries who were his fans, making a \"very conservative critique of hippie culture.\"",
+      "icon": "reel",
+      "byline": "Craig Butler, AllMovie",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Udo Kier, who played both the Baron here and Dracula in Blood for Dracula, got his horror-icon status from these two films. He died November 23, 2025.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001424",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4YTFkYTctMDc0My00NWUzLThiZTktMzkxMDRiMGU3ZDk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was re-released in its original 3-D version during the short-lived early-1980s 3-D craze, as \"Andy Warhol's Frankenstein.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2012 Time Out polled horror authors, directors, actors and critics. Flesh for Frankenstein placed number 98 on its top 100 horror films list.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4590,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dalila Di Lazzaro, who plays the female monster, later appeared in Phenomena (1985). She was an Italian model before acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0223953",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFiODc5NTYtNjU4NS00NzkzLThmNjEtOWMzYmZmZWNjYTI5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Germany's cut version lost over 11 minutes. The uncut film was on the BPjM index until September 2024, and in December 2024 it got a \"not under 16\" rating.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Simpsons referenced the film in the episode Treehouse of Horror XVI (2005).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A 2022 restoration from Vinegar Syndrome and the American Genre Film Archive presents the film in 3-D, pushing organs toward the camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinema.wisc.edu/?p=1885"
+      }
+    },
+    {
+      "t": 5190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is Criterion Collection spine #27 on DVD and #288 on laserdisc, a rare cult-horror entry in that prestige line.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5340,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Udo Kier remembered that Antonio Margheriti \"was on the set, he came to the studio from time to time, but he never directed the actors. Never!\"",
+      "icon": "mic",
+      "byline": "Udo Kier",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001424",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI4YTFkYTctMDc0My00NWUzLThiZTktMzkxMDRiMGU3ZDk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5490,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes shows 88% of 17 critics' reviews positive. It was panned in 1974 but is now a cult classic.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
