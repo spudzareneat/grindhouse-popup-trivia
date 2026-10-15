@@ -1,0 +1,607 @@
+{
+  "schema": 1,
+  "imdbId": "tt0082966",
+  "title": "The House by the Cemetery",
+  "year": 1981,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-10-15T04:42:57.925Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lucio Fulci was a medical student and an art critic before he ever made movies. He went on to become Italy's 'Poet of the Macabre.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The credits name gore legend Giannetto De Rossi for makeup effects, but per Wikipedia only Maurizio Trani actually worked on this film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 335,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Giovanni Frezza was just eight years old when he was cast as Bob Boyle, the boy who sees a ghostly girl in the window.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0294703",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgwMzJkYjMtMDI5OC00ZDdjLThjMTctNjJjYmUzNjY5MDZmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This is the third and final chapter of director Lucio Fulci's 'Gates of Hell' trilogy, after City of the Living Dead (1980) and The Beyond (1981). The films aren't direct sequels.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Catriona MacColl (Lucy Boyle) starred in all three Gates of Hell films. Here she's credited as 'Katherine' MacColl.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0531529",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRmZmZiNTAtNTRjMC00ZDgyLWExZGQtNDlhZTY2MGI0ODQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Lucio Fulci wanted a film that felt like it existed inside H. P. Lovecraft's universe. Co-writer Dardano Sacchetti drew on Henry James' ghost story The Turn of the Screw.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: the family leaves New York over the Brooklyn Bridge with the Twin Towers behind them. That route would put them on Long Island, not on the way to Massachusetts.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dagmar Lassander (real estate agent Laura Gittleson) told a 2011 reunion that her luggage was isolated at a London airport. It held fake blood and a mummified cat.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      }
+    },
+    {
+      "t": 848,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film's original shooting title was simply 'Freudstein,' after the dead doctor whose keys the real estate agents keep arguing over.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Silvia Collatina, who plays the ghostly girl Mae Freudstein, was born in 1972. She had already appeared in the killer-croc movie The Great Alligator (1979).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0171693",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQzM2RmZDQtOTMxZS00MDk0LTliNDctOTM3NzYwZDIzYmZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The house was filmed at the Ellis Estate in Scituate, Massachusetts. The same location later hosted another Italian horror film, Ghosthouse (1988).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Only the house's exterior was shot in Massachusetts. Interiors were built in Rome. Silvia Collatina (Mae) said she found the set creepy, thanks to a huge portrait of Larry Hagman.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      }
+    },
+    {
+      "t": 1105,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "US distributor ALMI cut scenes of Norman and Lucy Boyle's marital tension, like this one. They feared it would alienate viewers and wanted a simpler haunted-house movie.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1270,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ania Pieroni (babysitter Ann) also appeared in Dario Argento's Inferno (1980) and Tenebrae (1982). She was later offered a role in his Mother of Tears (2007) but declined.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0682582",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ3YTdmNDgtMTJhNS00NjE2LWJkNTgtOTE3MWMzYmI1ZDc5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "An early US Vestron VHS had two reels swapped. Characters who had died showed up alive again, making an already odd story nearly incomprehensible.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At a 2011 HorrorHound reunion, Giovanni Frezza (Bob) apologized for the film's poor English dubbing, though he said it wasn't his fault.",
+      "icon": "mic",
+      "byline": "Giovanni Frezza",
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      },
+      "person": "nm0294703",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgwMzJkYjMtMDI5OC00ZDdjLThjMTctNjJjYmUzNjY5MDZmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This library uses the same set as the library in Lucio Fulci's The Beyond (1981), shot the same year.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Carlo De Mejo, who plays the smarmy librarian Mr. Wheatley, was the son of actress Alida Valli. He was a Fulci regular, also in City of the Living Dead (1980).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Carlo_De_Mejo"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Parts of the score borrow music from the spaghetti western Django's Cut Price Corpses.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1930,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dagmar Lassander (real estate agent Laura Gittleson) said director Lucio Fulci, notorious for his temper, was much nicer to her than she'd expected.",
+      "icon": "mic",
+      "byline": "Dagmar Lassander",
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/house-by-the-cemetery-lucio-fulci-blu-ray-review"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The English-language dialogue was recorded on set but the film was dubbed anyway. The kids spoke Italian, so most of the voices you hear were recorded later.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Lucio Fulci had three films on the UK's original 'video nasties' list of 74: Zombie, The Beyond and this one.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2245,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dr. Freudstein, the rotting cellar-dweller, was played by actor Giovanni De Nava, who later talked about bringing the monster to life with makeup artist Maurizio Trani.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/house-by-the-cemetery-lucio-fulci-blu-ray-review"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Paolo Malco (Dr. Norman Boyle) kept one of the mechanical bats from the bat attack. Catriona MacColl says she overcame her fear of bats thanks to this movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0539081",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDMzNTQ5YTktMTdkNy00YjEyLWJhMjktNTlkNWE2Njk3NGRkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Catriona MacColl was offered the lead in Lucio Fulci's The New York Ripper (1982) but found the role suspicious and turned it down.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0531529",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRmZmZiNTAtNTRjMC00ZDgyLWExZGQtNDlhZTY2MGI0ODQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Giorgio Mariuzzo says he worked separately from the other writers, focused mainly on characters, and doesn't like being on set during production.",
+      "icon": "mic",
+      "byline": "Giorgio Mariuzzo",
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/house-by-the-cemetery-lucio-fulci-blu-ray-review"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Real estate agent Laura Gittleson's death was once longer and nastier, with eye gouging. It was cut because director Lucio Fulci thought the effects weren't realistic enough.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2790,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Italy's ratings board asked for a six-second trim of this murder. Director Lucio Fulci agreed, but only because he was unhappy with the effects in some shots.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Monthly Film Bulletin's Julian Petley admitted the film 'undeniably has its moments,' including 'an attack by a particularly ferocious and tenacious bat.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2980,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Giovanni Frezza, who plays Bob, grew up to earn a physics degree from Sapienza University of Rome in 1998 and later worked in marketing.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0294703",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgwMzJkYjMtMDI5OC00ZDdjLThjMTctNjJjYmUzNjY5MDZmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The script began as 'La notte dell'inferno' (The Night of Hell). Director Lucio Fulci later grumbled that co-writer Dardano Sacchetti's story was derivative of The House That Screamed.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it two stars. He called Lucio Fulci 'a hack version of Dario Argento' and said the film plays like an Argento take on The Amityville Horror.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/house-by-the-cemetery-1981.htm"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Silvia Collatina (Mae) couldn't cry for a scene involving a mannequin's head. Director Lucio Fulci yelled at her until the tears came, from fear of him.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      },
+      "person": "nm0171693",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQzM2RmZDQtOTMxZS00MDk0LTliNDctOTM3NzYwZDIzYmZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Italy's Corriere della Sera dismissed the film on release as an 'Italian Shining,' a 'condensation of rip-offs, commonplaces and badly repeated horror conventions.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Paolo Malco (Dr. Norman Boyle) later starred in Fulci's The New York Ripper (1982) and in Italian action films like Escape from the Bronx (1983).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0539081",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDMzNTQ5YTktMTdkNy00YjEyLWJhMjktNTlkNWE2Njk3NGRkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3620,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Silvia Collatina (Mae) also played the hands of Dr. Freudstein, including in babysitter Ann's death. She said she enjoyed it.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      },
+      "person": "nm0171693",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQzM2RmZDQtOTMxZS00MDk0LTliNDctOTM3NzYwZDIzYmZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "UK censors cut Ann's and Laura's murders for the 1982 cinema release, then banned the film as a video nasty. A 1992 release lost over 7 minutes and became unintelligible.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3865,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs screened The House by the Cemetery on The Last Drive-In on Shudder, airing April 16, 2021, with the gore warning 'excessive or gratuitous violence.'",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://www.thetvdb.com/series/the-last-drive-in-with-joe-bob-briggs/episodes/8231477"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes gives the film 45%. Time Out called it 'a hack-work of almost awesome incoherence.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Germany cut 89 seconds to avoid confiscation, yet it was still placed on the BPjM index. It was delisted in 2014, and the uncut version got an FSK 'Not under 18' rating the next year.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4130,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer Ryne Barber of Cultsploitation said the poor dubbing adds to the film's eerie quality, calling it 'a crazy and sometimes nonsensical movie.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultsploitation.com/the-house-by-the-cemetery-blu-ray-review-blue-underground/"
+      }
+    },
+    {
+      "t": 4210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film gets name-checked in American Psycho (2000) and The Conjuring (2013), and Freddy vs. Jason (2018).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Dardano Sacchetti said the story came from his childhood in a big country house with a dark basement. At age nine he had to cross a cemetery at night.",
+      "icon": "mic",
+      "byline": "Dardano Sacchetti",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4430,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Walter Rizzati's score, not Fabio Frizzi's as in the first two Gates of Hell films, rests on two main themes: gothic organ-and-synth with faint female vocals, and slow tolling keys.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.musiquemachine.com/reviews/the-house-by-the-cemetery-the-house-by-the-cemetery-blu-ray-cd-set-7665"
+      }
+    },
+    {
+      "t": 4530,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "A spring-powered rig drove the ax through the door, so it hit a precise mark near Giovanni Frezza (Bob). He was frightened, but it took only two takes.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      },
+      "person": "nm0294703",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgwMzJkYjMtMDI5OC00ZDdjLThjMTctNjJjYmUzNjY5MDZmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In Italy it made about 1.4 billion lire, making it director Lucio Fulci's most profitable horror film of the 1980s.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The American trailer was narrated by Brother Theodore (Theodore Gottlieb), the gloomy monologuist known for his dark stage act.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4905,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cellar staircase for the film's big staircase scene had just three steps covered in light foam. A repeated shot makes it look like six, per the 2011 HorrorHound cast reunion.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/horrorhound-update-3-house-by-the-cemetery/"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "French critic Christophe Gans, writing in L'Écran fantastique, praised the film's 'melancholic, wintery photography' even as he found the suspense tedious.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5098,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The closing line credited to Henry James was actually invented by director Lucio Fulci. James never wrote it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
