@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "imdbId": "tt0100475",
+  "title": "Repossessed",
+  "year": 1990,
+  "runtimeSec": 5040,
+  "generatedAt": "2026-10-15T05:04:15.797Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening 'BFD' sound bumper parodies the Lucasfilm THX logo and its booming trailer presentation.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58665"
+      }
+    },
+    {
+      "t": 140,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Leslie Nielsen reportedly demanded more farts be added in post-production after seeing an early cut of the film, which is why it opens with a loud one.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Linda Blair said she'd only do a spoof of The Exorcist if Leslie Nielsen played the priest. The producers signed him three days later.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Linda Blair said director Bob Logan talked her into the spoof because she wanted to 'lay that image to rest.' He promised a comedy in the vein of Airplane! and The Naked Gun.",
+      "icon": "mic",
+      "byline": "Linda Blair",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Linda Blair's character is named Nancy instead of Regan, her name in The Exorcist. It's a wink at then-First Lady Nancy Reagan.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production began in July 1989. Interiors were shot on a Culver City soundstage, and the Aglet family home was a real house in the San Fernando Valley.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58665"
+      }
+    },
+    {
+      "t": 465,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ned Beatty and Lana Schwab play Ernest and Fanny Weller, a send-up of 1980s TV evangelists Jim and Tammy Faye Bakker, whose scandals dominated the news.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000885",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMzQ2Mzc3MF5BMl5BanBnXkFtZTYwMDIwMDM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 570,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Linda Blair's Nancy runs from the TV to the bedroom, and her shoes change from dark slippers to yellow pumps between shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The hospital's 'Dr. Fingers, please report to proctology' page is one of many Airplane!-style gags. Producer Steve Wizan insisted the film spoofs all horror pictures, not just The Exorcist.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer-director Bob Logan's other credits include creating the 1986 animated series Ghostbusters, plus the comedies Up Your Alley (1989) and Meatballs 4.",
+      "icon": "camera",
+      "byline": "Bob Logan — Director",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/repossessed-1990.htm"
+      }
+    },
+    {
+      "t": 865,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Slashfilm singles out the confession-booth gag as a sharp one: a man named North, a nod to Oliver North, runs his confession past his attorney first.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1258407/repossessed-forgotten-exorcist-spoof"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Father Luke Brophy asks Satan to prove himself, and Nancy retorts with 'Then how do you explain Pee-wee Herman?' It was a topical jab at Paul Reubens' hit show Pee-wee's Playhouse.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1115,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib's Moria review calls the Ouija board gag amusing: the planchette flies across the room and makes a toy car plunge into a fish tank.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/repossessed-1990.htm"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The possession effects were done by Stargate Films, with visual effects supervisor Sam Nicholson, according to the AFI Catalog.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58665"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair played Regan in The Exorcist (1973) and Exorcist II: The Heretic (1977). Ned Beatty, who plays televangelist Ernest Weller here, was also in Exorcist II.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Repossessed hit theaters in September 1990, only a month after Exorcist III, so the real sequel and the spoof nearly collided.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Slashfilm points to a running gag: whenever someone asks if they can see Father Jebedaiah Mayii, played by Leslie Nielsen, the reply is a pun, 'Yes, you may.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1258407/repossessed-forgotten-exorcist-spoof"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Morton Downey Jr. was reportedly cast in a cameo but isn't in the final cut. His name survives only as a sight gag on a bulletin board.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58665"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before directing films, Bob Logan wrote jokes for Joan Rivers, Sam Kinison, Garry Shandling, Rodney Dangerfield and Arsenio Hall, per Bands About Movies.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/06/09/repossessed-1990/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Linda Blair was nominated for an Oscar at 15 for The Exorcist and lost to 10-year-old Tatum O'Neal, a trivia point Slashfilm raised while looking back on this spoof.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1258407/repossessed-forgotten-exorcist-spoof"
+      }
+    },
+    {
+      "t": 2175,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The nerd student who asks Father Mayii about celibacy is played by Willie Garson, according to the AFI Catalog's cast list.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58665"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pump Up the Jam by Technotronic plays during the gym scene, where Father Mayii works out. His sweatshirt reads 'Our Lady of the Blinding Vision.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Fitness celebrities appear as themselves: Jake Steinfeld of 'Body by Jake' plays the gym trainer, and Jack LaLanne and shock-TV host Wally George also pop up in cameos.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/06/09/repossessed-1990/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Linda Blair is also in the seminar audience in the opening, in glasses and a different hairdo, as a second character.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer-director Bob Logan made three projects with Linda Blair: this film, the comedy Up Your Alley, and the VHS video How to Get Revenge.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/06/09/repossessed-1990/"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Announcer Army Archerd welcomes 'Sean Penn!' to the audience. Penn was a tabloid fixture at the time.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib's Moria review complained the film runs out of energy fifteen minutes in, with the exorcism scenes stretched to fill more than half the movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/repossessed-1990.htm"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite its PG-13 rating, the film includes two scenes of topless women. Julie Strain made her film debut here, and it was also her first on-screen nudity.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Wrestling announcer 'Mean' Gene Okerlund and Minnesota's Jesse 'The Body' Ventura play themselves, giving ringside commentary on the exorcism. Ventura later became the state's governor.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slamwrestling.net/features/celebrating-the-acting-oeuvre-of-jesse-the-body/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Linda Blair's Nancy vomits pea soup and spins her head in the film. Craig MacInnes of the Toronto Star said the effects crew made Blair look as scary as she did in The Exorcist.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The concert is a spoof of Robert Palmer's 'Addicted to Love' video, with nods to Elton John and Michael Jackson.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The score spoofs Rocky, The Exorcist and Star Wars, and the chase song 'Chasin' the Devil' imitates INXS's 'Devil Inside'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leslie Nielsen's spoof run had begun a decade earlier with Airplane! (1980). Roger Ebert called him 'the Laurence Olivier of spoofs.'",
+      "icon": "sunglasses",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Hicks of the Deseret News wrote in 1990 that director Bob Logan 'has no' taste, and that if ever a PG-13 movie deserved an R, this was it.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.deseret.com/1990/10/9/20088487/film-review-repossessed/"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Repossessed won a Golden Raspberry for Worst Original Song, 'He's Comin' Back (The Devil!)', at the 11th Razzie Awards.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Los Angeles Times' Michael Wilmington called the film's jokes 'a blizzard of stale pork rinds' and counted about 237 of them.",
+      "icon": "mic",
+      "byline": "Michael Wilmington — LA Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Repossessed opened in 115 theaters with $266,975 and grossed about $1.38 million in the US. Leonard Maltin gave it 1.5 stars out of 4 but said 'Blair and Nielsen are good.'",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Linda Blair later complained that the film's advertising didn't emphasize co-star Leslie Nielsen enough.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58665"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A bootleg circulating at release had a harsher version of the 'kids' joke: 'I said they were good kids. I didn't say they could act...'",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was shot in just 31 days. It was later re-released in a 2024 4K restoration by Kino Lorber, with commentary by writer-director Bob Logan.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nerdly.co.uk/2025/07/31/repossessed-blu-ray-review/"
+      }
+    }
+  ]
+}
