@@ -1,0 +1,424 @@
+{
+  "schema": 1,
+  "imdbId": "tt0101256",
+  "title": "976-Evil II",
+  "year": 1991,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-10-15T05:17:08.682Z",
+  "facts": [
+    {
+      "t": 180,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Early on, a poster advertises a school production of Faust directed by \"Joe Bob Briggs\" under drama head \"Roger Gorman\", a wink at the Drive-In host and B-movie king Roger Corman.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Chuck Cirino had a bigger CineTel budget here, so he added a small orchestra to his usual synthesizers, aiming for the Jerry Goldsmith and Bernard Herrmann Twilight Zone sound.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://musiquefantastique.com/new-soundtracks/dialing-for-demons/"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jim Wynorski met Brigitte Nielsen at a party and shot pool for stakes: if she won, he'd wear a maid's outfit and clean her house. He won, so she worked a day on the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was composer Chuck Cirino's tenth score for director Jim Wynorski. They met in New York bonding over Ennio Morricone, and first teamed up on the killer-robot flick Chopping Mall (1986).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://musiquefantastique.com/new-soundtracks/dialing-for-demons/"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jim Wynorski said of this film: \"I hate that film... It was tough to make.\" He didn't think the script he was handed was very good.",
+      "icon": "mic",
+      "byline": "Jim Wynorski — Director",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0691061",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThlYTlmZTYtYjYyYy00ZmQ2LWFmMjItNjVjNDM0NTUxNzVlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The first 976-EVIL (1988) was Robert Englund's directing debut. He told Fangoria it was \"a nasty, profane and evil little movie... almost Grand Guignol.\"",
+      "icon": "mic",
+      "byline": "Robert Englund",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The script originally had a student sucked into a Pac-Man machine. It was too expensive, so Wynorski swapped in a scene from the public-domain It's a Wonderful Life, from a dream he had.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1988 original cost about $2 million and grossed roughly $3 million in US theaters via New Line Cinema. The sequel skipped theaters entirely and went to video.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/976-EVIL"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Englund directed the 1988 original, and was considered for the sequel too. His idea reportedly involved a cursed crisis line before Jim Wynorski took over.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Traci Lords was first cast as Robin. Debbie James, a Miss USA finalist who appeared in Bon Jovi's \"Bad Medicine\" video, took the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0416415"
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Buck Flower, who plays Leonard Turrell here, was Red the Bum in Back to the Future and appeared in John Carpenter's The Fog, Escape from New York, Starman and They Live.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Buck_Flower"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Villain Mr. Grubeck was written with Phantasm's Angus Scrimm in mind, according to Jim Wynorski. René Assa, an Egyptian-born actor, got the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      },
+      "person": "nm0039734",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM3NjVjNTUtMGI2OS00N2UwLWIxNzgtNzExOTI1MzI3YmM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Monique Gabrielle (Lawlor) was Penthouse's Pet of the Month for December 1982. She also appeared in Bachelor Party (1984) and director Jim Wynorski's Deathstalker II (1987).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Monique_Gabrielle"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Patrick O'Bryan (Spike) is the only returning cast member from the 1988 original, where he played Stephen Geoffreys' cousin.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/976-evil-ii-1991.htm"
+      },
+      "person": "nm0639913",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWJhYTUwY2UtYzIzYi00ZTAyLTlhYzItMDRiYTg2OTZmMTQxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Karen Mayo-Chandler (Laurie) was a Surrey-born model who moved to Los Angeles in 1982. She had a small role in Beverly Hills Cop (1984) and posed for Playboy in December 1989.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Karen_Mayo-Chandler"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first script was by Rick Glassman. Wynorski disliked it, so Erik Anjou rewrote it. Anjou also plays the detective in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The TV-channel-flipping scene mashes together two public-domain-era films, It's a Wonderful Life and Night of the Living Dead. Only the zombie classic is still public domain.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Philip McKeon, who plays Deputy Taylor, was a child star as Tommy Hyatt on the sitcom Alice (1976-1985). His younger sister is Nancy McKeon of The Facts of Life.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Philip_McKeon"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The pig-head trophy that comes to life is a nod to Evil Dead 2, and a death scene echoes Charles Bronson's Breakout (1975), according to The Schlock Pit's review.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jennie Kermode of Eye for Film gave it two stars, praising cheap horror that is \"100% honest about their agenda.\" She called René Assa \"great in the role of Grubeck.\"",
+      "icon": "mic",
+      "byline": "Jennie Kermode — Eye for Film",
+      "source": {
+        "type": "web",
+        "url": "https://www.eyeforfilm.co.uk/review/976-evil-ii-film-review-by-jennie-kermode"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film one star, saying it is more serious than most Wynorski films but still not serious enough.",
+      "icon": "sunglasses",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/976-evil-ii-1991.htm"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eye for Film's Jennie Kermode found the film more fun as unintentional comedy than as horror. She also noted that former Miss USA finalist Debbie James' acting adds to its charm.",
+      "icon": "sunglasses",
+      "byline": "Jennie Kermode — Eye for Film",
+      "source": {
+        "type": "web",
+        "url": "https://www.eyeforfilm.co.uk/review/976-evil-ii-film-review-by-jennie-kermode"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Schlock Pit's review called this sequel \"vastly superior\" to the 1988 original and argued it deserves reappraisal after mostly mixed-to-hostile reviews at the time.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film takes place in the fictional college town of Slate River, California. Cinematography was by Zoran Hochstatter, and effects were by Apollo Effects Ltd.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/976-evil-ii-1991.htm"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vincent D'Onofrio (Full Metal Jacket) wrote and performed three songs on the soundtrack: \"Deep Fry\", \"Spooky Talkin'\" and \"Bad Dawg'in\".",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Patrick O'Bryan, who plays Spike, is the only character returning from the 1988 original. Reportedly he quit acting after this film, which was his last.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The soundtrack also uses \"Pushin' Too Hard\" by The Seeds, the 1960s garage-rock band led by Sky Saxon.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline was \"This time Satan returns the call…\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "It premiered at the MIFED market in Italy in October 1991, then went straight to VHS from Vestron Video on April 22, 1992, after a possible theatrical release was considered.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The BBFC gave the UK video release an 18 certificate. It arrived through Medusa/20:20 Vision, the same label that ran the tie-in phone game.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.eyeforfilm.co.uk/review/976-evil-ii-film-review-by-jennie-kermode"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mindy Seeger, the nurse here, was also in the original 976-EVIL, as a victim of the deadly phone line.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jim Wynorski's career was the subject of the 2009 documentary Popatopolis, which followed him shooting The Witches of Breastwick. It includes clips from many of his earlier films.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jim_Wynorski"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The UK release came on January 29, 1992 with a tie-in promotional phone game. CineTel's press materials claimed a $5 million budget, far above the real one, per The Schlock Pit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/10/15/976-evil-ii-1991-dial-dial-my-darling/"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jim Wynorski took sequels only when the first film was bad. He reasoned that a follow-up to a flop had a better chance of improving on it, which is why he did Deathstalker II and this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/976-Evil_II"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brigitte Nielsen worked for scale on this film. Wynorski said she didn't come in prepared, but \"in the end she did a great job.\"",
+      "icon": "mic",
+      "byline": "Jim Wynorski — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
