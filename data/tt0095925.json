@@ -1,0 +1,448 @@
+{
+  "schema": 1,
+  "imdbId": "tt0095925",
+  "title": "Pumpkinhead",
+  "year": 1988,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-10-15T04:22:20.970Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Studio execs only wanted Stan Winston's shop to build the monster. Winston said he'd do the creature only if he could direct, so this became his directing debut.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0935644",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1MDE2NTczNl5BMl5BanBnXkFtZTYwNTA3NjYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Lance Henriksen had dentures made for a rural look and brought his own props: a WWII pump shotgun, his cap, and the silver dollars he hands the witch.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer Gary Gerani says Ed Justin's poem had nothing to do with revenge or a demon. The writers' own 1970s demon-of-revenge idea was merged with the title and rhyme.",
+      "icon": "mic",
+      "byline": "Gary Gerani — Co-writer",
+      "source": {
+        "type": "interview",
+        "url": "https://halloweenlove.com/a-halloween-love-exclusive-chat-with-pumpkinhead-co-writer-gary-gerani/"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mushroom, the dog who plays the dog here, did his own stunts. Four years earlier he played Billy's dog Barney in Gremlins (1984).",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 610,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The teens' cabin is the same house used as the Jarvis house in Friday the 13th: The Final Chapter. It's at Kelly Gulch in Topanga, California.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrorgeeklife.com/2018/11/03/pumpkinhead-10-fun-facts/"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pumpkinhead was the film debut of Mayim Bialik, who plays Christine Wallace, one of the backwoods Wallace kids.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrorgeeklife.com/2018/11/03/pumpkinhead-10-fun-facts/"
+      }
+    },
+    {
+      "t": 890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "An opening diner scene introducing the city teens was filmed, then cut by Stan Winston. Co-writer Gary Gerani later said Winston was right to cut it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://halloweenlove.com/a-halloween-love-exclusive-chat-with-pumpkinhead-co-writer-gary-gerani/"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lance Henriksen collected the silver dollars himself from pawn shops. Most fell through the floorboards of the witch's shack, where he says they may still lie.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1170,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Florence Schauffler's witch costume weighed about 65 pounds. In makeup she stayed in character between takes and would only answer to the name Haggis.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1310,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup artist Shane Mahan made nine sets of witch appliances and gave her an oversized ceramic eye lens, an idea borrowed from Christopher Lee's Frankenstein monster.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Made for about $3.5 million, Pumpkinhead grossed only $4,385,516 in US theaters. Cult status came later, mostly via home video.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.the-numbers.com/movie/Pumpkinhead"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "To save wear on the suit, performer Tom Woodruff Jr. was glued into the Pumpkinhead costume at the start of the day and stayed inside for up to eight hours.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lance Henriksen almost passed over the odd title, but one scene, the dead son speaking to Ed Harley, sold him: \"It made me do the movie, that one scene.\"",
+      "icon": "mic",
+      "byline": "Lance Henriksen",
+      "source": {
+        "type": "web",
+        "url": "https://www.horrorgeeklife.com/2018/11/03/pumpkinhead-10-fun-facts/"
+      }
+    },
+    {
+      "t": 1870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Production designer Cynthia Charette said the run-down hill-folk shanties were inspired by the paintings and installations of artist Robert Rauschenberg.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://alexonfilm.com/2023/09/12/pumpkinhead-1988/"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The producer, De Laurentiis Entertainment Group, went bankrupt. United Artists picked up the film and tested it under the title Vengeance - The Demon.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Gary Gerani says the demon's Lovecraftian look traces back to a hooded Don Post Creature from the Black Lagoon mask the writers used as a stand-in for their idea.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://halloweenlove.com/a-halloween-love-exclusive-chat-with-pumpkinhead-co-writer-gary-gerani/"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriters Mark Patrick Carducci and Gary Gerani drew inspiration from the horror films of Italian director Mario Bava.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shane Mahan gave the witch no fake teeth, only color. He didn't want hissing or slurring in her key explanation scene: \"If that's not convincing, the rest of the movie just doesn't work.\"",
+      "icon": "mic",
+      "byline": "Shane Mahan — Makeup artist",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Mark Patrick Carducci also wrote Neon Maniacs. He died in 1997 at age 42.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pumpkinhead-88-test/"
+      }
+    },
+    {
+      "t": 2710,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Lance Henriksen's character name, Ed Harley, is also an alias Chevy Chase uses in Fletch Lives (1989), where he claims to be Ed Harley of Harley-Davidson.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Two of director Stan Winston's own children can be glimpsed among the backwoods Wallace clan.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Shane Mahan says filmmakers still cite Pumpkinhead as a model for making an effective low-budget movie, all done in-camera for about $3 million.",
+      "icon": "mic",
+      "byline": "Shane Mahan",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Horror punk band The Misfits wrote a song called \"Pumpkin Head\" for their 1999 album Famous Monsters.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's production company, De Laurentiis Entertainment Group, also made Blue Velvet and Evil Dead II before going bankrupt two years after its 1986 start.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3270,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Buck Flower, who plays Mr. Wallace, is a prolific character actor usually cast as a drunk or a bum. He called working for Stan Winston a pleasant experience.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Alec Gillis recalled director Stan Winston cocking his glasses at a weird angle across a tense cabin set just to make him laugh.",
+      "icon": "sunglasses",
+      "byline": "Alec Gillis",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "James Cameron originally pictured Lance Henriksen as the title killer in The Terminator, even drawing concept art. Henriksen ended up as a cop, then Bishop in Aliens, where he met Stan Winston.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000448",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY1YmViYTctOWFkNC00NWU3LWIzYTEtYmMyZGZkY2EzMzAzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviews were mixed: Chicago Tribune critic Dave Kehr wrote Stan Winston \"knows how to make a monster\" but not how to bring one to life. Rotten Tomatoes sits at 51%.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic John Kenneth Muir called Pumpkinhead \"a meditation on vengeance\" in Horror Films of the 1980s, praising it for rejecting the decade's popular vigilante-justice theme.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3970,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Electronic Arts released a PC first-person shooter, Bloodwings: Pumpkinhead's Revenge, in 1995. It was poorly received.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jeff East, who plays Chris, played teen Clark Kent in Superman: The Movie (1978) and Huckleberry Finn in 1974's Huckleberry Finn.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0247532",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2E5YmU3ZjYtNzhlMS00MmNkLWI2YmUtMDFhN2VlNjdjNTFmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A 1993 Dark Horse Pumpkinhead comic planned four issues but only two were published. The second ended on a cliffhanger promising a winged Pumpkinhead.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4390,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "As the demon's victims pile up, its face grows more human and resembles Ed Harley's, since Lance Henriksen's features were the basis for the creature design.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrorgeeklife.com/2018/11/03/pumpkinhead-10-fun-facts/"
+      }
+    },
+    {
+      "t": 4530,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lance Henriksen returned as Ed Harley in two 2006-07 Syfy sequels but has called them terrible, while staying proud of the original.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrorgeeklife.com/2018/11/03/pumpkinhead-10-fun-facts/"
+      }
+    },
+    {
+      "t": 4670,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A Pumpkinhead reboot was reported in development at Paramount Players in 2021, with a script ready. No director has been announced.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Gary Gerani and producer Billy Blake once pitched a reboot that would have cast Josh Brolin as Ed Harley. Gerani says it went nowhere.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://halloweenlove.com/a-halloween-love-exclusive-chat-with-pumpkinhead-co-writer-gary-gerani/"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "While shooting Predator, Stan Winston found frogs in his hotel shower and blamed Arnold Schwarzenegger. His crew had actually done it, and let him get revenge on Arnold anyway.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0935644",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1MDE2NTczNl5BMl5BanBnXkFtZTYwNTA3NjYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5090,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pumpkinhead has fans including novelist Anne Rice and many Stan Winston Studio crew members who worked on it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
