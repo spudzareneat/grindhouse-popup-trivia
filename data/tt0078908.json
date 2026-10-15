@@ -1,0 +1,621 @@
+{
+  "schema": 1,
+  "imdbId": "tt0078908",
+  "title": "The Brood",
+  "year": 1979,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-15T04:38:21.189Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Oliver Reed (Dr. Hal Raglan) called The Brood one of his personal favorites, saying it was the best script he'd read since Ken Russell's The Devils (1971).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001657",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3NDg5MDg1MF5BMl5BanBnXkFtZTcwNzEwODkyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 160,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Oliver Reed took a reduced salary for The Brood. He and co-star Samantha Eggar grew up together in Bledlow, England, and had already co-starred in 1970's The Lady in the Car with Glasses and a Gun.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 255,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Right before The Brood, director David Cronenberg made the drag-racing drama Fast Company (1979). Like The Brood, it was funded by the private investment boom in Canadian film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/looking-back-at-david-cronenbergs-the-brood/"
+      }
+    },
+    {
+      "t": 350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the first Cronenberg film with an original score. Howard Shore's music began a partnership that lasted decades. The earlier Shivers and Rabid used library music supervised by Ivan Reitman.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1359825/the-brood"
+      }
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Art Hindle (Frank Carveth) is billed third but is the film's real lead. Fans also know him from Black Christmas (1974) and as the cop Ted Jarvis in Porky's (1981).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0385543",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmMxMGNiNzgtOGIyZS00NWI5LWFlMDEtMTg2ODUyYTQ1NTRkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "SciFiNow reports David Cronenberg wrote this during his custody fight, after his ex-wife took their daughter into a cult. He saw the film as a more honest answer to Kramer vs. Kramer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scifinow.co.uk/interviews/throwback-the-brood/"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cronenberg cast Art Hindle and Samantha Eggar as 'vague facsimiles' of himself and his ex-wife. He said Eggar looked a little like her, and her husband looked like him.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Brood shot in Toronto from November 14 to December 21, 1978, on about $1.4 million. The Canadian Film Development Corporation put in $200,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 718,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: Frank Carveth (Art Hindle) calls his lawyer 'Hal', the first name of Dr. Hal Raglan, the psychologist he's fighting. IMDb users spotted it around the 11:58 mark.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Nuala Fitzgerald plays Juliana, the mother of Samantha Eggar's character Nola. In real life she was only about four years older than Eggar.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0280346",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0Njk5NjM0NF5BMl5BanBnXkFtZTgwMzY2NzE4ODE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 890,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Eight-year-old Cindy Hinds made her film debut here, playing five-year-old Candice. She later appeared in Cronenberg's The Dead Zone (1983) too.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Art Hindle says David Cronenberg's most common direction was 'more blood!' Hindle reportedly had a wrap T-shirt made with that note printed on it.",
+      "icon": "skull",
+      "byline": "Art Hindle",
+      "source": {
+        "type": "web",
+        "url": "https://www.scifinow.co.uk/interviews/throwback-the-brood/"
+      },
+      "person": "nm0385543",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmMxMGNiNzgtOGIyZS00NWI5LWFlMDEtMTg2ODUyYTQ1NTRkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1130,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The U.S. ratings board demanded trims to the mallet-attack aftermath to get an R rating. Cronenberg's uncut version only became standard on home video years later.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1359825/the-brood"
+      }
+    },
+    {
+      "t": 1225,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "To save on effects costs, David Cronenberg kept the mutant 'children' mostly out of frame. The first attack is just a flash of a tiny figure swinging a mallet, with sound design doing the rest.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/looking-back-at-david-cronenbergs-the-brood/"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Police scenes were shot in the old Toronto Police headquarters at 590 Jarvis Street. It moved out in 1988 and was torn down in 2007 for condos.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1390,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "IMDb trivia says a wanted poster of serial killer Ted Bundy hangs in the background during the police questioning that follows the grandmother's murder.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Samantha Eggar (Nola) shot her scenes in about three days with a tiny crew. She remembered around seven people, many of them 'academics and PhDs, standing there holding lights.'",
+      "icon": "mic",
+      "byline": "Samantha Eggar",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002058",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMxYmNiZTctYWNhMy00ZGI5LTk2NTEtZDg4MmMzNWFjODc0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eggar found Nola 'almost Shakespearean' and said, 'How could you turn this part down?' Years later she told Cronenberg it was the strangest and most repulsive film she'd ever made.",
+      "icon": "mic",
+      "byline": "Samantha Eggar",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002058",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMxYmNiZTctYWNhMy00ZGI5LTk2NTEtZDg4MmMzNWFjODc0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Leonard Maltin rated The Brood a 'BOMB' in two sentences, ending with: 'It's a big, wide, wonderful world we live in!'",
+      "icon": "sunglasses",
+      "byline": "Leonard Maltin",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vaughn Palmer of the Vancouver Sun called it 'mean, foul and witless.' He wrote that the filmmakers 'do not like people... They just like money.'",
+      "icon": "mic",
+      "byline": "Vaughn Palmer",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert called The Brood 'a bore' and asked, 'Are there really people who want to see reprehensible trash like this? I guess so. It's in its second week.'",
+      "icon": "mic",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cronenberg joked that if filmmaking ever failed him, he could set up his own Institute of Psychoplasmics, the fake therapy Dr. Raglan sells in this movie.",
+      "icon": "mic",
+      "byline": "David Cronenberg",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/brood-1979.htm"
+      },
+      "person": "nm0000343",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2275,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The brood were played by a gymnastics team of girls aged five to eight, none of whom had been on a film set. Their masks were so hard to remove that they ate lunch wearing them.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scifinow.co.uk/interviews/throwback-the-brood/"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety called it 'an extremely well made, if essentially unpleasant shocker.' The Hollywood Reporter hailed it as 'an excellent new psychological horror film.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1359825/the-brood"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin Thomas of the Los Angeles Times called it 'well made' and 'expertly acted' but 'so totally sickening it's an irresponsible work itself.'",
+      "icon": "mic",
+      "byline": "Kevin Thomas",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Brood earned enough that David Cronenberg was able to buy a house with his earnings from it.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000343",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After opening in Toronto and Chicago, The Brood grossed $685,000 in just ten days. By 1981 it had made over $5 million on a $1.4 million budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Brood was released in France as 'Chromosome 3' and in Quebec as 'La Clinique de la terreur.' Some viewers assume Chromosome 3 is part of a trilogy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3055,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The autopsy scene was shot in a real hospital autopsy room. Art Hindle (Frank Carveth) was left waiting for his call in what turned out to be a room where corpses were stored.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.scifinow.co.uk/interviews/throwback-the-brood/"
+      },
+      "person": "nm0385543",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmMxMGNiNzgtOGIyZS00NWI5LWFlMDEtMTg2ODUyYTQ1NTRkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria wrote that psychoplasmics plausibly satirizes 1970s pop therapies like est and psychodrama. He called this Cronenberg's first great film.",
+      "icon": "mic",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/brood-1979.htm"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The TV spots showed infrared footage of audiences reacting to the film. They won a Gold Award from the Rank Screen Advertising Campaign, and the idea was reused for Scanners and later The Ring.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1359825/the-brood"
+      }
+    },
+    {
+      "t": 3325,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Cronenberg dismissed the same year's Oscar-winning divorce drama Kramer vs. Kramer as 'false, fake, candy.' He argued his horror movie was the more realistic take on a custody battle.",
+      "icon": "mic",
+      "byline": "David Cronenberg — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/looking-back-at-david-cronenbergs-the-brood/"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Canadian sales materials promised The Brood would take audiences 'beyond fear, beyond terror, beyond the boundaries of the mind.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1359825/the-brood"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Somafree Institute is really the Kortright Centre for Conservation, just north of Toronto. Some scenes were also shot in Mississauga.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cronenberg said The Brood is his only film with no humor. Having a child made kids in movies unbearable, but he said it was 'cathartic, I had to do it, but I have never done it since.'",
+      "icon": "mic",
+      "byline": "David Cronenberg",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000343",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cronenberg reportedly turned down directing Top Gun (1986) and RoboCop (1987). He did make Videodrome, The Fly and Crash instead.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000343",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3960,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The creepy children were played by little girls from a Toronto grade-school gymnastics club, cast by Cronenberg.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Carrie Rickey defended Cronenberg against charges of misogyny: 'The women are not bad, they're just drawn that way. It's the male scientists who have inadvertently transformed them.'",
+      "icon": "mic",
+      "byline": "Carrie Rickey",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Danny Peary's book Cult Movies called The Brood 'Cronenberg's best film' because 'we care about the characters.' Robin Wood read it as a reactionary film about feminine power.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4430,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria called Dr. Raglan the most ambiguously complex Cronenberg character up to that point. He described Oliver Reed's work as one of his last great roles.",
+      "icon": "star",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/brood-1979.htm"
+      },
+      "person": "nm0001657",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3NDg5MDg1MF5BMl5BanBnXkFtZTcwNzEwODkyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Oliver Reed was reportedly arrested by Canadian police during this shoot after betting he could walk from one bar to another naked in freezing weather.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001657",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3NDg5MDg1MF5BMl5BanBnXkFtZTcwNzEwODkyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Chicago Film Critics Association ranked The Brood the 88th scariest film ever. Bravo's 2004 countdown voted one of its sequences #78 among the 100 Scariest Movie Moments.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4770,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A remake was announced in 2009 by Spyglass Entertainment, with a script by Cory Goodman and Breck Eisner directing. Eisner left in 2010.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4860,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Howard Shore scored every Cronenberg film after this one except The Dead Zone (1983).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Samantha Eggar was Oscar-nominated for Best Actress for The Collector (1965). She later voiced Hera in Disney's Hercules (1997).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002058",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMxYmNiZTctYWNhMy00ZGI5LTk2NTEtZDg4MmMzNWFjODc0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5060,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Samantha Eggar came up with the idea of Nola licking her newborns clean. She based it on her dogs and cats: 'Lick, lick, lick, lick, lick...'",
+      "icon": "mic",
+      "byline": "Samantha Eggar",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002058",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMxYmNiZTctYWNhMy00ZGI5LTk2NTEtZDg4MmMzNWFjODc0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5130,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Cronenberg had filmed a long, loving close-up of the licking. After the censors cut it, many viewers thought Nola was eating her baby, which he said was 'much worse than I was suggesting.'",
+      "icon": "censor",
+      "byline": "David Cronenberg",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000343",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The foetuses attached to Samantha Eggar's body were stuffed condoms.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002058",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMxYmNiZTctYWNhMy00ZGI5LTk2NTEtZDg4MmMzNWFjODc0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5280,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Ontario Censor Board removed almost all the graphic violence from the original Canadian release. The uncut UK DVD restores about 28 seconds that were cut elsewhere.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5365,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The American theatrical trailer for The Brood was cut by Joe Dante. He learned trailer editing at Roger Corman's New World Pictures, the studio that released this film, before directing Gremlins.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria called the closing image of sores on Candice's arm, played by Cindy Hinds, the film's most chilling.",
+      "icon": "skull",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/brood-1979.htm"
+      }
+    }
+  ]
+}
