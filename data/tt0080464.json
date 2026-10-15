@@ -1,0 +1,419 @@
+{
+  "schema": 1,
+  "imdbId": "tt0080464",
+  "title": "The Boogey Man",
+  "year": 1980,
+  "runtimeSec": 4920,
+  "generatedAt": "2026-10-15T05:14:16.875Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Ulli Lommel made this for about $300,000. It reportedly grossed around $25 million, making it one of 1980's biggest indie horror hits.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Distributor The Jerry Gross Organization had three horror hits in 1980: this film, Lucio Fulci's Zombie and Meir Zarchi's I Spit on Your Grave.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/rip-the-boogey-man-director-ulli-lommel-comments-from-a-collaborator/"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Suzanna Love (Lacey) was a Dupont heiress who often wrote checks on set to keep her husband Ulli Lommel's movies shooting.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Suzanna Love (Lacey) appeared in the film version of Hair (1979) under the name Suki Love, a year before she headlined this slasher for her husband, director Ulli Lommel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/2026/04/68561/"
+      },
+      "person": "nm0522429",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE0YjI4NjAtMjhjMS00MzE4LWE4NmItMmQ2ODIzZTgzY2Y1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Suzanna Love's brother, Nicholas Love, plays her brother Willy here. Suzanna also co-wrote the script with her husband, director Ulli Lommel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 510,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The blood-soaked face on the British Vipco VHS cover belongs to actor Llewellyn Thomas, who plays Father Reilly in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/2026/04/68561/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before directing this, Ulli Lommel acted for German auteur Rainer Werner Fassbinder and hung around Andy Warhol's Factory. Then he moved to the US and made a slasher.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Suzanna Love, who co-wrote and stars as Lacey, reportedly lined up the Maryland farmhouse where much of the film was shot. It belonged to her aunt.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/the-boogey-man/"
+      },
+      "person": "nm0522429",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE0YjI4NjAtMjhjMS00MzE4LWE4NmItMmQ2ODIzZTgzY2Y1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Albert Zugsmith suggested director Ulli Lommel cast horror legend John Carradine for extra commercial appeal. Carradine's scenes as Dr. Warren were shot in a single day.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the UK the title was changed to 'The Bogey Man', reportedly because British audiences might not get the American 'Boogey Man' spelling.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/2026/04/68561/"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Carradine played Count Dracula in four films, including House of Frankenstein (1944) and House of Dracula (1945). He has 351 film and TV credits.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called the film 'oddly lethargic as a slasher', noting it takes nearly half its running time to reach the first victim. He gave it two stars.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/boogey-man-1980.htm"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Washington Post's Garry Arnold said the film achieves 'a certain vicious distinction by putting the occasional spectacular kink in an otherwise motley fabric.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Ulli Lommel reportedly played some of the kills for slapstick on purpose, according to Mondo Digital's review of the 2023 4K release.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/boogeyman"
+      },
+      "person": "nm0518579",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTZlOWJhODYtYjYxMy00NTI0LTlhNDktNjdhZTk0MWUyMTM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Ulli Lommel said he wanted outrageous killings in an average-looking environment with ordinary actors: first something the audience can identify with, then inject the horror.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before this film, director Ulli Lommel worked with Andy Warhol, who starred in two of Lommel's films: Cocaine Cowboys (1979) and Blank Generation (1980).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/rip-the-boogey-man-director-ulli-lommel-comments-from-a-collaborator/"
+      },
+      "person": "nm0518579",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTZlOWJhODYtYjYxMy00NTI0LTlhNDktNjdhZTk0MWUyMTM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Montreal Gazette's Bruce Bailey wrote: 'This film is so sick, it ought to be hospitalized-permanently.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called this 'one of the more professional looking efforts' from director Ulli Lommel and 'probably the most well known' of his films.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/boogey-man-1980.htm"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming was in and around Waldorf, Maryland, with extra photography in Los Angeles. The childhood home exterior in La Plata, MD, was badly damaged by a tornado in 2004.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The glowing red eyes on the house exterior nod to The Amityville Horror (1979). The opening nods to John Carpenter's Halloween (1978).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lommel lit much of the film in heavy reds and blues, echoing John Carpenter and Dario Argento. Mondo Digital also finds traces of The Exorcist and Carrie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/boogeyman"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The synthesizer score is by Tim Krog. It was originally credited to a collective called 'Synthe-Sound-Trax.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/boogeyman"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Britain's Vipco put this on VHS in November 1981 with a lurid blood-soaked cover. The cover arguably sold more tapes than the film's content justified.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/2026/04/68561/"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the UK it got an uncut X certificate in cinemas, yet was later put on the Video Nasties list and pulled from shelves. It was never successfully prosecuted.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/2026/04/68561/"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vipco's 1992 UK tape lost 44 seconds, including a bloody topless woman in a bathtub and a dream where Lacey is dragged and tied to a bed. An uncut version arrived in 2000.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In UK cinemas it played as 'The Bogey Man,' a double bill with the 1978 Canadian thriller Blackout, released by Miracle Films in 1981.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Its distributor, The Jerry Gross Organization, was going bankrupt at release, so little of the film's money reached the filmmakers and cast.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A poster for this film appears in the background of Brian De Palma's Blow Out (1981). It was also spoofed in the slasher comedy Student Bodies (1981).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Matt Wavish of Horror Cult Films gave it 8/10. He praised the mirror spirit for causing accidents and suicides instead of standard slasher stabbings.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorcultfilms.co.uk/2011/08/the-boogeyman-aka-the-bogeyman-1980/"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leonard Maltin gave it 3 of 4 stars, calling it a combination of The Exorcist and Halloween with effects that are 'quite colorful, if somewhat hokey.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Los Angeles Times critic Linda Gross called it a 'scary, well-made horror film' and 'a powerful Grand Guignol evocation' of a brother and sister bound by destiny.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The sequel Boogeyman II was shot in 1981 but unreleased until 1983. A third film, Return of the Boogeyman, followed in 1994 and leans heavily on flashbacks.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When Sony released its own Boogeyman in 2005, Ulli Lommel threatened legal action. Sony then reissued his film as 'The Original 1980 Version!'",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/boogeyman"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actress Jane Pratt, in her first role, is not the Jane Pratt who founded Sassy magazine, though some sources mix them up.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vinegar Syndrome released a 4K UHD edition in 2023, scanned from the original 35mm camera negative.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/boogeyman"
+      }
+    }
+  ]
+}
