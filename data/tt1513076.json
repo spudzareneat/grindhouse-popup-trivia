@@ -1,0 +1,326 @@
+{
+  "schema": 1,
+  "imdbId": "tt1513076",
+  "title": "Late Fee",
+  "year": 2009,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-10-15T05:20:39.537Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-director Carl Morano once worked at Troma as its theatrical booker, and joined his co-workers as an extra in Troma's War, the studio's gleefully trashy 1988 war movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0603062"
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Late Fee was pitched by its producers Fever Dreams as a horror anthology in the tradition of Creepshow, Tales From the Crypt and The Twilight Zone, with a Halloween video-store wraparound.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.comingsoon.net/horror/news/715606-late-fee-official-one-sheet-trailer"
+      }
+    },
+    {
+      "t": 380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before directing Late Fee, Carl Morano led the Martial Arts Drive-In Movie Review Committee for Joe Bob Briggs' 1990s fan newsletter, We Are The Weird.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0603062"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Late fees were real money for video stores: in 2000 Blockbuster collected nearly $800 million in them, about 16% of its revenue. By 2009 that had dropped to $134 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nbcnews.com/id/wbna39332696"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-director Carl Morano distributed Hayao Miyazaki's My Neighbor Totoro in its first U.S. theatrical release, through Troma's 50th St. Films in the early 1990s. Yes, that Troma.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0603062"
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Late Fee co-director John Carchietta also wrote the story for the 2009 horror film The Hills Run Red, which reached DVD from Warner Home Video a month before Late Fee did.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Hills_Run_Red_(2009_film)"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Late Fee had its world premiere in New York City on October 1, 2009, then hit DVD from Media Blasters' Shriek Show label in time for Halloween.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bloody-disgusting.com/news/17483/media-blasters-inc-and-shriek-show-announce-late-fee/"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rick Poli, credited as Devil, is the shop owner who rents the couple his prized horror films. The deal: return them by midnight or pay a late fee.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.comingsoon.net/horror/news/715606-late-fee-official-one-sheet-trailer"
+      },
+      "person": "nm0689073"
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephanie Danielson, who plays The Girl, was crowned Miss Greenbelt in 2002 before turning to acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm2946893",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTZmMzhjNDYtOTU4Mi00ZGNjLTgxNDktM2RkNmZjMTFlOWZlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "J.D. Brown (The Boy) also played Runt in Wicked Lake (2008), a revenge-of-the-witches horror film produced by Fever Dreams, with Late Fee's directors John Carchietta and Carl Morano as producers.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Wicked_Lake"
+      },
+      "person": "nm2805638",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQwMDQ0ODctOGQ5ZS00MjEwLWE0ODEtMTVhMDRmZWRhZDVhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Morano also directed Class of Nuke 'Em High Part II: Subhumanoid Meltdown (1991) and Part 3 (1994), two Troma sequels about radioactive high schoolers.",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0603062"
+    },
+    {
+      "t": 2000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Variety's Joe Leydon called Wicked Lake, a Fever Dreams film made by Late Fee's producers, a \"laughably inept mix of softcore sexploitation and full-bore torture porn.\" Dread Central gave it 3.5 of 5.",
+      "icon": "mic",
+      "byline": "Joe Leydon — Variety",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Wicked_Lake"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in New Jersey, the Garden State, standing in for one very spooky Halloween night.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Coolest Little Monster writer John Zacherle's 1958 hit Dinner With Drac peaked at No. 6 on Billboard's pop chart. The BBC banned it that year for being too scary for young listeners.",
+      "icon": "censor",
+      "byline": "John Zacherle",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dinner_with_Drac"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The soundtrack includes Coolest Little Monster, written by John Zacherle and performed by punk band Electric Frankenstein on their album E.F. Conquers the World.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-director Carl Morano took 2nd place in the Famous Monsters of Filmland magazine trivia contest at the Famous Monsters Convention in New York City.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0603062"
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dick Clark found Dinner With Drac, a hit by Coolest Little Monster writer John Zacherle, too gory for American Bandstand. Zacherle cut a tamer version, and both ended up on one single.",
+      "icon": "disco",
+      "byline": "John Zacherle",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dinner_with_Drac"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stephanie Danielson (The Girl) later won Best Supporting Actress at the Big House LA Festival for playing Cat Donovan in the film The Runaway.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm2946893",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTZmMzhjNDYtOTU4Mi00ZGNjLTgxNDktM2RkNmZjMTFlOWZlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blockbuster peaked at about 9,100 stores in 2004. It filed for bankruptcy in 2010, a year after Late Fee's video-store setting was already fading.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nbcnews.com/id/wbna39332696"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Late Fee's distributor Shriek Show was the horror label of Media Blasters, founded in 2001 to remaster obscure horror and exploitation films for DVD.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Media_Blasters"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Georgia Kate Haege, who plays The Woman, later turned up on Madam Secretary and Law & Order: Special Victims Unit.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm3387701",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDE0MjI1Y2YtYjQ4ZC00MTk1LWFmMTktZTk5YjE2NjQxZjJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists Victor Bonacore as playing Dracula in Late Fee, so the Count himself turns up in this anthology.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.rottentomatoes.com/m/late_fee"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Coolest Little Monster writer John Zacherle, TV's \"Cool Ghoul,\" died October 27, 2016, at 98. Late Fee hit DVD on October 27, 2009.",
+      "icon": "tombstone",
+      "byline": "John Zacherle",
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=15686"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "One of the film's stories, Damnation, is also listed on IMDb as its own 2009 short, directed by John Carchietta. Late Fee is an anthology.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.comingsoon.net/?p=715107"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-director John Carchietta's other 2009 credit, The Hills Run Red, was shot in Sofia, Bulgaria, in June and July 2008, on a reported $4.5 million budget.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Hills_Run_Red_(2009_film)"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Shriek Show, which released Late Fee on DVD, and its Fresh Meat line for new directors were both discontinued by parent company Media Blasters in 2013.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Media_Blasters"
+      }
+    }
+  ]
+}
