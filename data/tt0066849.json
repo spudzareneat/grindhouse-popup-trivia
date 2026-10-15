@@ -1,0 +1,719 @@
+{
+  "schema": 1,
+  "imdbId": "tt0066849",
+  "title": "The Blood on Satan's Claw",
+  "year": 1971,
+  "runtimeSec": 5820,
+  "generatedAt": "2026-10-15T04:48:59.659Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch the opening titles: the studio is spelled \"Tigron\" instead of Tigon, and veteran actor James Hayter is billed as \"James Hoyter.\" The typos only appear on recent prints.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening shot of Ralph Gower (Barry Andrews) plowing up the skeletal fiend was the very first scene shot for the film, in April 1970.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Robert Wynne-Simmons first wrote this as three separate horror stories set in a Victorian village. Producers at Tigon moved it to the 18th century and merged them into one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Peter Cushing turned down the Judge because of his wife's illness, and Christopher Lee cost too much. Patrick Wymark got the part, in what became his last English-language film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Patrick Wymark died in October 1970. This film reached cinemas about three months after his death.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wymark played the Judge here after starring in Witchfinder General (1968), the Tigon hit. The studio made writer Robert Wynne-Simmons copy its witch-book and witch-ducking scenes here.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Piers Haggard said he had barely seen horror films when he got the job. Tigon hired him on the strength of his drama Wedding Night (1969).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tigon was contractually obliged to cast Linda Hayden, who was under contract to producer Tony Tenser. She had just made Taste the Blood of Dracula (1970) with Christopher Lee.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The budget started at £75,000 and grew to £82,000. The shoot lasted about eight weeks, mostly in the Chiltern Hills village of Bix Bottom, Oxfordshire.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The ruined church used here, St James's in Bix Bottom, was abandoned in 1875. It had already appeared in the 1966 Hammer film The Witches.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Robert Wynne-Simmons was a 22-year-old Cambridge graduate with no credits. He sent out about 100 letters to get his foot in the door, and Tigon's Chris Neame replied.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasojourns.com/2015/10/30/the-devil-made-me-do-it/"
+      }
+    },
+    {
+      "t": 940,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Wynne-Simmons drew on the Manson Family killings and the Mary Bell child murder case of 1968. Both involved children or youths who killed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The working titles included The Devil's Skin and The Devil's Touch. It was released as Satan's Skin, and producer Tony Tenser reportedly pushed for \"The Ghouls Are Amongst Us.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Piers Haggard said Samuel Z. Arkoff, head of American International Pictures, came up with the title \"Blood on Satan's Claw.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Haggard took inspiration from Ingmar Bergman's The Seventh Seal and The Virgin Spring. He used low camera angles to put actors on high landscapes against open skies.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Dick Bush shot it. Composer Marc Wilkinson made his film debut scoring Lindsay Anderson's If..., and Haggard called this one of the best scores he ever had.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On her first day of shooting, Linda Hayden (Angel Blake) cut her foot and was rushed for stitches. Elderly patients saw her in devil makeup and thought she was an angel or a devil.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tamara Ustinov, daughter of actor Peter Ustinov, was cast partly because of her famous surname. She is also the niece of Angela Lansbury.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181235/in-the-know-blood-on-satans-claw-trivia"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The mute dog handler was played by Milton Reid, a former wrestler known as \"The Mighty Chang.\" He also appeared in Dr. No and disappeared in India in 1987.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181235/in-the-know-blood-on-satans-claw-trivia"
+      }
+    },
+    {
+      "t": 1580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Judge's toast to \"His Catholic Majesty\" refers to the Stuart claimant Charles Edward Stuart. The film is set around 1720, and the last English witch execution had been in 1716.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Simon Williams said that in a scene where Patrick Wymark slaps him, Wymark really hit him painfully. He recalled Wymark's post-lunch drinking made the shoot hard to keep on track.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/bloodsatan.html"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Simon Williams said that while filming the insert of his hand reaching for the dagger, he twitched his fingers so much that Haggard yelled, \"Simon, don't overact with your fingers!\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Haggard said the coven's attack on Cathy was unplanned and created during shooting, and even the chant was written on the spot.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Hayden (Angel Blake) said producer Tony Tenser seemed to gloat at luring her away from his ex-partner Michael Klinger, who had cast her in Baby Love. The two had fallen out.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181235/in-the-know-blood-on-satans-claw-trivia"
+      },
+      "person": "nm0370769",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhmMTNkMjAtYjc4Yy00Y2YyLTlmOTQtNzg3ZmEwNTkxY2NhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1940,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 2024, Wendy Padbury (Cathy Vespers) said Haggard asked her at lunch to go further than the script on her scene, and she felt pressured. She called it \"horrendous.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Piers Haggard admired Witchfinder General as \"stylish, clever\" and felt intimidated by its director Michael Reeves, who was much younger and hugely gifted.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181235/in-the-know-blood-on-satans-claw-trivia"
+      },
+      "person": "nm0353592",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDJjYjQzMGItMTg0ZS00MmZhLWIyMGItZGJkMjQ2OWU3Y2EwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The BBFC passed the film X with under ten seconds of cuts. Some nudity was optically darkened, and the cuts weren't restored until the 2003 Anchor Bay DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Hayden was only 17 during filming. Actor Anthony Ainley (Reverend Fallowfield) said she nailed her disrobing scene every take with a professionalism unusual for her age.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For the US release, Hayden's seduction scene was darkened to dodge an X rating. The Paragon Video VHS cut her full-frontal shot entirely.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Anthony Ainley (Reverend Fallowfield) later played the Master in Doctor Who. Wendy Padbury (Cathy) and Roberta Tovey also have Doctor Who credits.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The scene where \"Satan's skin\" is cut from a girl's leg came from screenwriter Robert Wynne-Simmons' childhood, when a doctor operated on him on a kitchen table.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Monthly Film Bulletin wrote that the skin-removal scene, shown in \"nauseating detail,\" was \"stylistically inept and thematically irrelevant.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The slow-worm the Reverend catches is a legless lizard common in England, not a snake.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michele Dotrice (Margaret) later played Betty Spencer in the sitcom Some Mothers Do 'Ave 'Em. Linda Hayden also showed up in its first episode.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Patrick Wymark, who plays the Judge, was once asked to play the Second Doctor in Doctor Who. Illness also kept him from a role in the Dalek story The Evil of the Daleks.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0943859",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdjN2RjYjctZmJhNC00YjNkLTgxM2QtYmEyMTRmZTUzMzQ2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michele Dotrice married Edward Woodward, star of The Wicker Man, in 1987. Her film here sits beside that one in the \"unholy trinity\" of British folk horror.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2975,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film two stars but called Wendy Padbury's naive flower-child \"particularly noteworthy\" and said Linda Hayden \"holds the show\" as Angel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/blood-on-satans-claw-1971-satans-skin.htm"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film is one of the \"unholy trinity\" of folk horror, with Witchfinder General and The Wicker Man. Mark Gatiss named the group in his 2010 BBC series A History of Horror.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3125,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The phrase \"folk horror\" predates Mark Gatiss: a critic used it in 1970 when writing about this film's production, and director Piers Haggard later adopted it himself.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1172403/how-piers-haggards-the-blood-on-satans-claw-became-a-cornerstone-of-folk-horror"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film opened in New York in April 1971 as the lower half of a double bill with The Beast in the Cellar. Distributors pulled both after about a week.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1172403/how-piers-haggards-the-blood-on-satans-claw-became-a-cornerstone-of-folk-horror"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Its first UK booking, as Satan's Skin in Birmingham in January 1971, was a double feature with the 1969 Boris Karloff horror film Cauldron of Blood.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In New Jersey in 1971, it played drive-ins on a bill with I Drink Your Blood and I Eat Your Skin. It lasted only one week at London's 2,600-seat New Victoria.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1172403/how-piers-haggards-the-blood-on-satans-claw-became-a-cornerstone-of-folk-horror"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On US television the film aired often on the horror showcase Chiller Theatre through the 1970s, which helped build its cult following.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Haggard said of the box office: \"It never made much money. From the very beginning it had minority appeal. A few people absolutely loved it.\"",
+      "icon": "mic",
+      "byline": "Piers Haggard — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Robert Wynne-Simmons described the film as being about \"the inherent evil of children and the overt sexuality of evil.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/?p=46381"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Canby of The New York Times compared the film to H. P. Lovecraft's work, praising its straight-faced acceptance of a universe overturned by supernatural disorder.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3777,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Studio Tigon took its name from the tigon, a lion-tiger hybrid, and put one in its logo. It also made Witchfinder General and The Sorcerers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3854,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the river scene: at about 1:04:14, a crew member's hand reaches into frame to stop the girl swung into the water from hitting the camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3927,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leon Hunt called Linda Hayden's Angel Blake \"Lolita from Hell.\" Screenwriter Robert Wynne-Simmons drew on child killer Mary Bell, and Angel's close-ups echo her famous photo.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://warped-perspective.com/?p=46381"
+      },
+      "person": "nm0370769",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhmMTNkMjAtYjc4Yy00Y2YyLTlmOTQtNzg3ZmEwNTkxY2NhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Haggard kept a finger from the devil skeleton as a memento. He is great-grandnephew of H. Rider Haggard, author of King Solomon's Mines.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4075,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is spoofed in the 2019 Amazon/BBC series Good Omens, one of several later productions that have parodied or referenced it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jonathan Demme praised the film to Haggard on a US visit. Robert Eggers said he saw it while prepping The Witch, though it wasn't a direct influence.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/181235/in-the-know-blood-on-satans-claw-trivia"
+      }
+    },
+    {
+      "t": 4225,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Set dresser Milly Burn had to round up everything from candles and demonic texts to horse carts to make this low-budget 18th-century village look real.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/bloodsatan.html"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film inspired The League of Gentlemen team of Mark Gatiss, Reece Shearsmith and Jeremy Dyson. Gatiss later co-starred in a 2018 Audible adaptation with Linda Hayden.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4375,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mistress Banham's manor was Pages Farm near Bix Bottom. It is now private, heavily extended, and guarded by dogs, and the dirt track leading to it is gone.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bfi.org.uk/features/blood-satans-claw-locations-british-folk-horror"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob's Drive-In Theater aired this film on December 8, 1990. Joe Bob Briggs' The Last Drive-In on Shudder screened it again on April 1, 2023.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://www.comingsoon.net/?p=1280014"
+      }
+    },
+    {
+      "t": 4525,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The churchyard used for Mark Vespers' funeral is St Mary the Virgin in Hurley, Berkshire. The film also reuses it later as a meeting point.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bfi.org.uk/features/blood-satans-claw-locations-british-folk-horror"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Time Out said it \"vacillates wildly between hilariously unconvincing and genuinely nasty.\" Empire's Mark Dinning said the mood is \"hard to shake.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2023, original screenwriter Robert Wynne-Simmons published a novelization titled Blood on Satan's Claw: or, the Devil's Skin.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film historian Jonathan Rigby called Marc Wilkinson's score for this film \"easily among the best ever composed for a British horror film.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Marc_Wilkinson"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Robert Wynne-Simmons' original ending had the Judge raising a militia to slaughter the whole village, children included. Tigon deemed it too bleak and demanded a new finale.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Marc Wilkinson later advised Paul Giovanni, who was scoring The Wicker Man (1973), the third film in folk horror's \"unholy trinity\" with this one.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Marc_Wilkinson"
+      }
+    }
+  ]
+}
