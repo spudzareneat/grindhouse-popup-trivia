@@ -1,0 +1,609 @@
+{
+  "schema": 1,
+  "imdbId": "tt0083310",
+  "title": "Wacko",
+  "year": 1982,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-10-15T04:05:40.016Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The pumpkin-headed Lawnmower Killer in this opening scene is played by the film's own director, Greydon Clark, in an uncredited cameo.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 125,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Julia Louis-Dreyfus auditioned for the role of Mary Graves, which went to Julia Duffy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0240564",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZDk0MjctZTRmYy00Yzc2LTgyYzEtODg3ZWJjNGUwZWU0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 190,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Greydon Clark bought an existing horror-spoof script, then paid over $15,000 to writer friends to add gags and restructure it over just a few days, he says on the Blu-ray commentary.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The tune hummed and played throughout is Charles Gounod's 'Funeral March of a Marionette', famous as the theme of TV's Alfred Hitchcock Presents.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 350,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Graves' son Damian is a nod to Damien Thorn, the demon child of The Omen (1976). Dr. Moreau and Norman Bates are borrowed horror names too.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Of Wacko's roughly $600,000 budget, about $260,000 went to salaries for the big names. George Kennedy reportedly earned $87,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Star Joe Don Baker originally planned to play detective Dick Harbinger as a twitchy caffeine addict, according to director Greydon Clark's commentary track.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wacko.html"
+      },
+      "person": "nm0000833",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDg4ODA1OF5BMl5BanBnXkFtZTcwNjM5MzkzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Martin Landau was offered the role of Mr. Doctor Graves but passed. George Kennedy took it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 585,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "A decade after this 'Lawnmower Killer' came The Lawnmower Man (1992), loosely drawn from a Stephen King short story.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 655,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The plot mashes Halloween (1978) and Prom Night (1980) into one night: 'The Halloween Pumpkin Prom'.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 715,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Scott McGinnis, who plays Norman Bates here, later played Captain Willard in Star Trek III: The Search for Spock (1984).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0569372",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGJkZGVlMjUtYjIwZS00OGVkLWE3YzctYjQ3NDM5ZTQ2MjI5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 770,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "James Spader auditioned for the role of Norman Bates.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wacko co-writer Jim Kouf later won a 1988 Edgar Award for the cop comedy Stakeout and co-wrote the Jackie Chan/Chris Tucker hit Rush Hour (1998).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jim_Kouf"
+      }
+    },
+    {
+      "t": 910,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This was the theatrical film debut of Andrew 'Dice' Clay, billed simply as 'Andrew Clay'. Director Greydon Clark calls him 'Andrew (not yet Dice) Clay' on the commentary.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://morbidlybeautiful.com/syndrome-saturday-wacko-1982/"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Production began April 30, 1981 and ran just 25 days. At the high school location, shooting could only happen after classes ended.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filming locations included Chatsworth, North Hollywood and Los Angeles City Hall.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wacko co-writers David Greenwalt and Jim Kouf stayed partners for decades, writing Class, Secret Admirer and American Dreamer, then creating the TV fantasy series Grimm in 2011.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jim_Kouf"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Victor Brandt's science teacher Dr. Moreau shares a name with the mad scientist of Island of Lost Souls (1932) and The Island of Dr. Moreau (1977), which the film spoofs.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1345,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The big game pits Alfred Hitchcock High's Birds against rival Brian De Palma's Knives, according to a banner. Both directors are horror-thriller masters.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline: 'At last! A motion picture made by, for, and about people... just like you!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "George Kennedy (Mr. Doctor Graves) is the film's only Oscar winner, for Cool Hand Luke (1967). He's also the only actor in all four Airport films.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001421",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIxMTk0MDg5N15BMl5BanBnXkFtZTYwOTAzNTc1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wacko co-writer Dana Olsen went on to write The 'Burbs (1989), the Joe Dante suburban horror-comedy starring Tom Hanks, and even cameoed in it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_%27Burbs"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Wacko first came out in a tamer PG cut that bombed. The raunchier jokes were put back in for an R-rated version. The PG cut (about 83 minutes) was the one on US home video until 2019.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wacko.html"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Julia Duffy (Mary Graves) went on to play Stephanie Vanderkellen in Newhart, earning seven Emmy nominations for supporting actress without a win.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0240564",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZDk0MjctZTRmYy00Yzc2LTgyYzEtODg3ZWJjNGUwZWU0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A reportedly poor test-audience reaction ended the film's distribution prospects at Fox, per Mondo Digital. Universal also screened it and passed on a theatrical release.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wacko.html"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wacko was one of several early-'80s slasher spoofs, alongside Student Bodies (1981), Saturday the 14th (1981), Pandemonium (1982) and Class Reunion (1982).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before Wacko, director Greydon Clark made the horror films Satan's Cheerleaders (1977) and Without Warning (1980).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0163990",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMzMWRjYmEtMDVmMS00MTliLWI2MDAtNjI3NTBmNTgyNjA5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2270,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Julia Duffy, who plays Mary Graves, also appeared in another horror film the same year: Butcher, Baker, Nightmare Maker (1982).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wacko.html"
+      }
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Greydon Clark told his cast to overact in the style of soap operas. That explains the very broad performances.",
+      "icon": "mic",
+      "byline": "Greydon Clark — Director",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wacko.html"
+      }
+    },
+    {
+      "t": 2465,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The threatening note's warnings include 'don't go into the ocean' and 'don't go into space 'cause no one can hear you scream'. Those are jokes at Jaws (1975) and Alien (1979).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2610,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Three actresses were styled to evoke movie icons: Nancy Allen of the Brian De Palma films, Jamie Lee Curtis of Halloween, and Olivia Newton-John of Grease.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Don Baker is one of the few actors to play both a Bond villain (Brad Whitaker in The Living Daylights) and a Bond ally (CIA agent Jack Wade in GoldenEye and Tomorrow Never Dies).",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000833",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDg4ODA1OF5BMl5BanBnXkFtZTcwNjM5MzkzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Don Baker, a former 'slob cop' in Mitchell (1975), spoofs that very type as Dick Harbinger. Fantastic Movie Musings called him the film's best element and 'remarkably adept at comedy'.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2020/11/23/wacko-1982/"
+      }
+    },
+    {
+      "t": 2990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer Nicholas von Sternberg says shooting had to work around George Kennedy's lower-body injuries, which nearly hobbled the actor.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://morbidlybeautiful.com/syndrome-saturday-wacko-1982/"
+      }
+    },
+    {
+      "t": 3110,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Stella Stevens (Mrs. Doctor Graves) was Playboy's Playmate of the Month for January 1960 and later starred in The Poseidon Adventure (1972).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001771",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTVhOTNlMWQtOWEyMi00NGI0LWI2Y2QtNTdkNzBkN2QxMjNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3170,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Andrew Dice Clay came up with the 'Schlongini Shuffle', the song that introduces his character Tony Schlongini.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3215,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Andrew Clay's character is named Tony Schlongini, a name Cultsploitation says 'says it all'. It pays off in a table-flipping dinner scene.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultsploitation.com/wacko-blu-ray-review-vinegar-syndrome/"
+      }
+    },
+    {
+      "t": 3260,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The dinner scene includes a performance of George M. Cohan's 'The Yankee Doodle Boy', sung by Scott McGinnis (Norman Bates).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is packed with spoof targets, from Alice in Wonderland and Bambi to Taxi Driver, The Exorcist and Saturday Night Fever.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Wacko was sold as an Airplane! type of spoof, and George Kennedy later became a comedy star as Captain Ed Hocken in the three Naked Gun films.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001421",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIxMTk0MDg5N15BMl5BanBnXkFtZTYwOTAzNTc1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Greydon Clark wrote a 2013 autobiography about his career, titled 'On the Cheap: My Life in Low Budget Filmmaking'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0163990",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMzMWRjYmEtMDVmMS00MTliLWI2MDAtNjI3NTBmNTgyNjA5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Don Baker once said he'd 'kick the asses' of the writers of Mystery Science Theater 3000 for mocking his film Mitchell (1975). He later said it was a joke.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000833",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDg4ODA1OF5BMl5BanBnXkFtZTcwNjM5MzkzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Greydon Clark discussed Wacko, his friendship with Joe Don Baker and Andrew Dice Clay's early days in a 2011 live interview for The Projection Booth podcast at HorrorHound Weekend.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.projectionboothpodcast.com/search/label/Andrew%20Dice%20Clay"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Dana Olsen joked that the film was 'a cult hit in Norfolk.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4095,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "George Kennedy's joke character name is Mr. Doctor Graves, where 'Doctor' is his first name. His wife only learns this after 30 years of marriage.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wacko has been name-checked decades later in the video-tape review show Adjust Your Tracking (2013) and the comedy King Frat (2019).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wacko was released theatrically in the US by Jensen Farley Pictures in January 1983. It later came out on VHS from Vestron Video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fantastic Movie Musings compared Wacko to Airplane!'s throw-everything-at-the-wall style, estimating about 80 percent of the jokes fall flat.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2020/11/23/wacko-1982/"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "AllMovie's Jeremy Wheeler gave Wacko one star, saying it has 'hundreds of gags' but 'very few laughs'. Bloody Disgusting's Chris Coffel praised its 'frenetic energy'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some call Wacko a precursor to Scary Movie (2000). One DVD release even used 'This MOVIE is rated SCARY' in a Scary Movie style logo.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5185,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Stay through the credits: Joe Don Baker's Dick Harbinger appears one more time after they end.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000833",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDg4ODA1OF5BMl5BanBnXkFtZTcwNjM5MzkzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
