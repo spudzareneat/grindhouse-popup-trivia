@@ -1,0 +1,440 @@
+{
+  "schema": 1,
+  "imdbId": "tt16228330",
+  "title": "Hayride to Hell",
+  "year": 2022,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-15T04:25:02.445Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film premiered at the Colonial Theatre in Phoenixville, PA, the same cinema seen in the 1958 horror classic The Blob.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 220,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The script for Hayride to Hell originally called for 22 deaths. Director Dan Lantz trimmed the body count because it was too high.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The farm you're watching is real: co-writer Robert Lange's family-owned Sugartown Strawberries Farm in Pennsylvania, which has been in his family since 1896.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://halloweendailynews.com/2024/09/hayride-to-hell-trailer/"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer Robert Lange, a real farmer and township supervisor since 1996, had never written a screenplay before he wrote this one at age 67.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The premiere sold out. Bill Moseley (Farmer Sam) and Kane Hodder (Sheriff Jubel) signed film merchandise before the screening, then did a Q&A afterward.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thecolonialtheatre.com/events/guest-presentations/hayride-to-hell-2022/"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Some sets and props reuse gear from Sugartown Scare, a real Halloween hayride Robert Lange ran on his farm in the 1990s. He stored it for about 20 years.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kane Hodder (Sheriff Jubel) played Jason Voorhees in four Friday the 13th films, from The New Blood through Jason X.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The movie is a gamble to save a real farm: producer Robert Lange hoped it would fund an endowment protecting his land from developers. If it flopped, he said he'd write a novel.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Dan Lantz said Pennsylvania's film tax incentive helps a modestly budgeted production punch above its weight, and warned the program is under constant threat of being axed.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/news/farmer-strikes-back-in-horror-tale-hayride-to-hell/"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Robert Lange called the film 'ultra low budget.' He supplied his own farm equipment, and about 40 to 50 community members worked as extras.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 1120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bill Moseley (Farmer Sam) won the role of Chop Top in The Texas Chainsaw Massacre 2 after a cameo in a short film called The Texas Chainsaw Manicure.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Robert Lange's real campaign scarecrows carried the slogan 'Pick your own supervisor.' He says the film's plot was inspired by local political fights and his own run for office.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hodder and Moseley are no strangers: they previously worked together on the 2015 horror film Old 37.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://halloweendailynews.com/2024/09/hayride-to-hell-trailer/"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Everything but two office scenes was shot on the Lange farm, using its pond, woods, fields, barns and a 300-year-old oak. The fake family cemetery carries Lange's mother's maiden name.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Despite his swamp-freak roles, Bill Moseley comes from a Yale family: his father captained the 1942 Yale football team, and his grandfather was a Yale football star too.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 600-seat Colonial Theatre was nearly sold out days before the premiere, so the filmmakers added an extra screening on November 17.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 1720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Dan Lantz called the Pennsylvania locations 'Wyeth country,' dark and brooding, after painter Andrew Wyeth's rural scenes. Filming began in late 2021 west of Philadelphia.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/news/farmer-strikes-back-in-horror-tale-hayride-to-hell/"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "While playing Jason in Jason Takes Manhattan, Kane Hodder (Sheriff Jubel) refused to have Jason kick a dog. He said Jason may kill people but isn't bad enough for that.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2020,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dread Central's Tyler Doupe called Bill Moseley's Farmer Sam an homage to Farmer Vincent in the cannibal comedy Motel Hell. He also compared the film's comic-panel screen wipes to EC Comics.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dreadcentral.com/reviews/512261/hayride-to-hell-review-a-gloriously-campy-halloween-romp-starring-bill-moseley"
+      }
+    },
+    {
+      "t": 2120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bill Moseley (Farmer Sam) and Buckethead, the Guns N' Roses guitarist, have a band together called Cornbugs.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script is by Kristina Chadwick and Robert Lange, and the film is set on the fictional Coxe Family Farm in rural Willis County.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://halloweendailynews.com/2024/09/hayride-to-hell-trailer/"
+      }
+    },
+    {
+      "t": 2520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kane Hodder (Sheriff Jubel) was burned over 50% of his body in a late-1970s stunt accident, then became one of Hollywood's best-known stuntmen.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moviejawn's review said the first forty-five minutes of the film pass with almost zero horror, and that it mostly suits rabid Kane Hodder and Bill Moseley completists.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviejawn.com/home/2023/10/18/9kz3iikoxtl5q76dx3vybcc9787q3z"
+      }
+    },
+    {
+      "t": 2920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kane Hodder (Sheriff Jubel) once scared off a local sheriff by lunging and grunting in full Jason costume at 2 a.m. while filming Friday the 13th: The New Blood.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Lange was named Farmer of the Year in 2014 by the Chester County Agricultural Development Council. His grandmother put 46 acres of the farm into permanent preservation in the 1960s.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bill Moseley (Farmer Sam) played Otis B. Driftwood in Rob Zombie's Firefly trilogy, which starts with House of 1000 Corpses and The Devil's Rejects.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "M.L. Miller's review praised the film for addressing the plight of American farmers, a topic horror rarely touches. He also found the upbeat music at odds with the killings.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mlmillerwrites.com/2023/10/20/hayride-to-hell-2022-review/"
+      }
+    },
+    {
+      "t": 3520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kane Hodder (Sheriff Jubel) is close friends with Rob Zombie and Metallica's Kirk Hammett, and loves heavy metal.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bill Moseley (Farmer Sam) wrote for Omni, National Lampoon and Psychology Today before acting, and was friends with Timothy Leary.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kane Hodder (Sheriff Jubel) is also Victor Crowley in the Hatchet series, and did stunts as Leatherface in Leatherface: The Texas Chainsaw Massacre III.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Dan Lantz has won two Best Actor and Director Awards-New York prizes, Best Director of an Action Film and Best Director of a Fantasy.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/news/farmer-strikes-back-in-horror-tale-hayride-to-hell/"
+      }
+    },
+    {
+      "t": 4320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bill Moseley (Farmer Sam) has appeared in six movies with the late Tom Towles, including House of 1000 Corpses, The Devil's Rejects and Halloween (2007).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lantz said making one film while releasing another was an unusual spot to be in. Hayride to Hell was his second film shot in Pennsylvania.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/news/farmer-strikes-back-in-horror-tale-hayride-to-hell/"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The script includes teasers for a sequel, and Robert Lange said a follow-up was possible if the film succeeded.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whyy.org/articles/chester-county-farmer-makes-horror-movie-to-save-family-farm-hayride-to-hell"
+      }
+    },
+    {
+      "t": 4720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After its 2022 premiere, the film got select theaters from Impulse-FX, then reached digital and VOD on September 24, 2024 through Breaking Glass Pictures.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://halloweendailynews.com/2024/09/hayride-to-hell-trailer/"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bill Moseley (Farmer Sam) reprised Chop Top in an unreleased film, All American Massacre (2000), featuring music from Buckethead.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "M.L. Miller said the film feels like a do-it-yourself project with many local contributors, and singled out its drill-bit kill and a closing sequence of carved pumpkins.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mlmillerwrites.com/2023/10/20/hayride-to-hell-2022-review/"
+      }
+    }
+  ]
+}
