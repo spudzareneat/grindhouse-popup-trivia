@@ -1,0 +1,365 @@
+{
+  "schema": 1,
+  "imdbId": "tt0064255",
+  "title": "Dracula (The Dirty Old Man)",
+  "year": 1969,
+  "runtimeSec": 4140,
+  "generatedAt": "2026-10-22T11:03:56.572Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria says the opening narration's \"behind the blue hills, behind the blue hills\" looping is so grating you'll want it to stop within minutes.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dracula-the-dirty-old-man-1969.htm"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The poster tagline promised: \"He slaked his thirst with the blood of innocent young virgins.\" The movie mostly delivers dubbed bathroom jokes instead.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 185,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bathroom gags run all through the dub. Brian Orndorf of Blu-ray.com noted the jokes lean heavily on bathroom humor, like this one about Dracula's lair decor.",
+      "icon": "sunglasses",
+      "byline": "Brian Orndorf — Blu-ray.com",
+      "source": {
+        "type": "web",
+        "url": "https://www.blu-ray.com/movies/Dracula-The-Dirty-Old-Man-and-Tales-of-a-Salesman-Blu-ray/337547"
+      }
+    },
+    {
+      "t": 230,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Eagle-eyed viewers say that when Dracula turns into a bat, a stick holding up the bat puppet is visible.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 354,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Ann Hollis, who plays Mike's girlfriend Ann, also appeared in the exploitation film The Ravager.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/07/07/the-sizzlin-something-weird-summer-challenge-2024-dracula-the-dirty-old-man-1968/"
+      },
+      "person": "nm0391180"
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original sound was so bad and mismatched that writer-director William Edwards had the film dubbed in a studio, and the dub turned it into a comedy.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/07/07/the-sizzlin-something-weird-summer-challenge-2024-dracula-the-dirty-old-man-1968/"
+      },
+      "person": "nm0250448"
+    },
+    {
+      "t": 650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer William Edwards' sister film, The Mummy and the Curse of the Jackals, reportedly offered its mummy role to Lon Chaney Jr. He turned it down while recovering from an operation.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Mummy_and_the_Curse_of_the_Jackals"
+      }
+    },
+    {
+      "t": 738,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The dubbed narrator describes his own actions as he does them (\"I got out of the car, closed the door\"). Fantastic Movie Musings says that running gag fades as the sex and gore take over.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2015/06/07/dracula-the-dirty-old-man-1969/"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mike heads into the mountainside lair. Per IMDb, the cave scenes were shot at the Bronson Caves in Griffith Park, Los Angeles, a spot many movies used for caves.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Orndorf of Blu-ray.com says the producers' approach to the dub echoes Woody Allen's What's Up, Tiger Lily?: invent comic dialogue and inner monologues over footage that wasn't meant to be funny.",
+      "icon": "link",
+      "byline": "Brian Orndorf — Blu-ray.com",
+      "source": {
+        "type": "web",
+        "url": "https://www.blu-ray.com/movies/Dracula-The-Dirty-Old-Man-and-Tales-of-a-Salesman-Blu-ray/337547"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Killer Horror Critic notes 1962's The House on Bare Mountain is called the first werewolf porn film, but it used its werewolf as a gag. Here the werewolf, Irving Jackalman, is a central character.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.killerhorrorcritic.com/reviewsnews/tearing-through-werewolf-cinema-dracula-the-dirty-old-man-is-a-film-that-gives-itself-the-mst3k-treatment"
+      }
+    },
+    {
+      "t": 1310,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Irving Jackalman's werewolf mask was reused from William Edwards' other 1969 film, The Mummy and the Curse of the Jackals, which also has about five minutes of John Carradine.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/07/07/the-sizzlin-something-weird-summer-challenge-2024-dracula-the-dirty-old-man-1968/"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called the werewolf makeup \"pitiful\" and the plot repetitive: Jackalman lures women to the cave, where they're stripped, tied up and fed upon.",
+      "icon": "skull",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dracula-the-dirty-old-man-1969.htm"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "If the story jumps, blame the print. Movie-Censorship.com says the AGFA restoration came from a worn theatrical print with longer missing chunks at reel changes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.movie-censorship.com/report.php?ID=132570"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Whit Boyd also made 1960s sleaze films including Spiked Heels and Black Nylons, The Sex Shuffle and Party Girls.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/07/07/the-sizzlin-something-weird-summer-challenge-2024-dracula-the-dirty-old-man-1968/"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The sibling film, The Mummy and the Curse of the Jackals, was shot in Las Vegas in 1969 but never finished. Financing ran out, and an unpaid contractor reportedly confiscated the footage.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/06/23/junesploitation-the-mummy-and-the-curse-of-the-jackals-1969/"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In April 1970, Pensacola, Florida deputies seized this film and I Am Curious (Yellow) from the Ritz Theatre. The manager was charged with showing an obscene film and maintaining a public nuisance.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The AGFA Blu-ray calls the film a Russ Meyer-style take on a Dark Shadows episode, and says it was preserved from the only known 35mm print in existence.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.americangenrefilm.com/?p=9643"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Killer Horror Critic says the film's ad-libbed dubbed banter recalls early black-and-white Popeye cartoons. It also says the film gives itself the Mystery Science Theater 3000 treatment.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.killerhorrorcritic.com/reviewsnews/tearing-through-werewolf-cinema-dracula-the-dirty-old-man-is-a-film-that-gives-itself-the-mst3k-treatment"
+      }
+    },
+    {
+      "t": 2296,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dracula says his name is \"Alucard\" backwards, and tells his victim to call him \"Ali.\" Actor Vince Kelley plays both Alucard and the Count.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dracula-the-dirty-old-man-1969.htm"
+      },
+      "person": "nm0446936"
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per IMDb, extra scenes were filmed in Dallas, Texas, with local talent, apart from the Los Angeles and Las Vegas shooting.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nearly the whole film is dubbed. Brian Orndorf of Blu-ray.com says the one exception is a couple's love scene, which is left undubbed.",
+      "icon": "boombox",
+      "byline": "Brian Orndorf — Blu-ray.com",
+      "source": {
+        "type": "web",
+        "url": "https://www.blu-ray.com/movies/Dracula-The-Dirty-Old-Man-and-Tales-of-a-Salesman-Blu-ray/337547"
+      }
+    },
+    {
+      "t": 2930,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Susan begs her attacker to take off his mask. Movie-Censorship.com says the AGFA print restores 4 seconds of that plea, plus extra footage of the attack, that the older Something Weird DVD lacks.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.movie-censorship.com/report.php?ID=132570"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bandsaboutmovies notes the dub uses only two voices that sound like old vaudeville comedians. Blu-ray.com's Brian Orndorf compares Dracula's to a \"Borscht Belt comedian.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/07/07/the-sizzlin-something-weird-summer-challenge-2024-dracula-the-dirty-old-man-1968/"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Irving Jackalman returns in The Mummy and the Curse of the Jackals, per Bands About Movies. Writer William Edwards' werejackal character carries over, which makes it a loose sequel to this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/06/23/junesploitation-the-mummy-and-the-curse-of-the-jackals-1969/"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sue Allen, who plays Carol, later appeared in the X-rated Cindy and Donna (1970). She also sang in cartoons including Yogi's First Christmas.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/07/07/the-sizzlin-something-weird-summer-challenge-2024-dracula-the-dirty-old-man-1968/"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria says that with the original soundtrack lost, it's impossible to tell if Vince Kelley's Dracula performance is actually bad.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dracula-the-dirty-old-man-1969.htm"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Author Bryan Senn wrote in 2017 that the film will test anyone not already enamored of The Mummy and the Curse of the Jackals: \"And that's everyone.\"",
+      "icon": "mic",
+      "byline": "Bryan Senn",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brian Orndorf of Blu-ray.com called it \"best viewed as a curiosity from producers desperate to do something with a filmmaking plan that didn't work out.\"",
+      "icon": "mic",
+      "byline": "Brian Orndorf — Blu-ray.com",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film got name-checked in later movies including Maniac (2011), Suspiria (2015) and Ghost Fever (2016), per IMDb's connections list.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
