@@ -1,0 +1,596 @@
+{
+  "schema": 1,
+  "imdbId": "tt0089013",
+  "title": "Demons",
+  "year": 1985,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-10-22T10:23:20.097Z",
+  "facts": [
+    {
+      "t": 80,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch Cheryl's piano book on the subway: as she steps onto the platform, it flips between upside down and right-side up from shot to shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 125,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The creepy man in the metal mask is Michele Soavi, Lamberto Bava's assistant director. He also directed the movie-within-the-movie, and later made The Church and Cemetery Man.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The US release has a mono mix with extra sound effects, like a demon growl and slicing sound over the title. Every other release print has the original Dolby Stereo mix.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 215,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons began as one story in a planned three-part horror anthology by writer Dardano Sacchetti, modeled on Mario Bava's Black Sabbath. Director Lamberto Bava liked this segment best and expanded it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Natasha Hovey (Cheryl) was born in Beirut to an American musician father and a Dutch mother. She debuted at 16 in Carlo Verdone's Acqua e sapone and later retired in Paris.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0397021",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzViMWY2ZTMtNTBmNC00NGI4LTgxMTgtOGJjMDJmYWFkNzBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Dario Argento was fresh from Phenomena (1985) and wanted to produce more films, as he had with Dawn of the Dead. Demons became his producing project with Lamberto Bava.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lamberto Bava, son of horror master Mario Bava, has called Demons his personal favorite of all the films he has directed.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000877",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzAyNjgzOF5BMl5BanBnXkFtZTYwOTUwODk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Metropol exterior was a real Berlin club at the time. Its name and logo, even on the invitation, weren't made for the film. The building still stands and hosts horror conventions.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 525,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Nicoletta Elmi, the little girl from Dario Argento's Deep Red, made Demons her final film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 575,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A poster in the lobby is for Argento's 1972 Four Flies on Grey Velvet, a nod to the producer. Other lobby posters include No Nukes, Metropolis and AC/DC.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 625,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A blind man going to the movies was an intentional ironic joke by the filmmakers.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons was shot in about nine weeks in June and July 1985, on location in West Berlin and at De Paolis Studios in Rome.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 735,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Fiore Argento, who plays Hannah, is the daughter of producer and co-writer Dario Argento and the older half-sister of Asia Argento.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0034485",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2U3OWJjODItMTI5ZC00MzMyLTlmODAtYzA5ZmM2Yjk4MjJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Franco Ferrini says his contribution was postponing the arrival of the demons, which originally showed up much earlier in the script.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Fabrizio De Angelis, shown the early treatment, wanted to save money by using footage from Lucio Fulci's films as the movie-within-the-movie. Bava and Sacchetti went elsewhere.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1034,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film-within-the-film digs up Nostradamus' tomb. A myth says his corpse wore a medallion with the date of its own disinterment, and the grave robbers were supposedly cursed and shot.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons was made on a budget of about $1.8 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The tagline: 'They will make cemeteries their cathedrals and the cities will be your tombs.'",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Makeup effects artist Sergio Stivaletti handled the demon transformations. He became Dario Argento's regular effects collaborator, and Michele Soavi later hired him for The Church and Cemetery Man.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/demons-1985/"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Story writer Dardano Sacchetti had earlier written for Lucio Fulci's Gates of Hell trilogy and Mario Bava's A Bay of Blood.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/demons-1985/"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons is referenced in Scream 2 (1997), 28 Days Later (2002), Silent Hill (1999) and The Exorcist: Believer (2023).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1875,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-director Luigi Cozzi says in a Blu-ray featurette that Demons was 'spawned out of cost overruns' on Dario Argento's Phenomena (1985).",
+      "icon": "money",
+      "byline": "Luigi Cozzi",
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called Demons 'absurdly entertaining' and described it as a blend of The Evil Dead and The Purple Rose of Cairo.",
+      "icon": "reel",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/demons-1985.htm"
+      }
+    },
+    {
+      "t": 2025,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Claudio Simonetti, keyboardist of the band Goblin, says the Demons score was built on a drum machine. He played most of the parts on keyboards.",
+      "icon": "boombox",
+      "byline": "Claudio Simonetti",
+      "source": {
+        "type": "web",
+        "url": "https://www.orlandoweekly.com/music/claudio-simonettis-goblin-soundtrack-italian-horror-classic-demons-on-stage-in-orlando-38260915/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The name of the cinema, Metropol, shows up as a building in the first Silent Hill video game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2175,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lamberto Bava keeps the camera moving to hide makeup seams, unlike Lucio Fulci, who held shots on his gore effects long enough to show how they worked.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Demons.html"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons grossed about 1.2 billion lire in Italy, the 39th biggest film of 1985, ahead of Cat's Eye, Silver Bullet and A Nightmare on Elm Street.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italian cut used 'Dynamite' by Scorpions on the soundtrack. The US version swapped it for Pretty Maids' 'Night Danger.' Mötley Crüe, Billy Idol and Accept songs are also featured.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Lamberto Bava says making Demons reunited producer Dario Argento with screenwriter Dardano Sacchetti, who had fallen out before.",
+      "icon": "reel",
+      "byline": "Lamberto Bava",
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      }
+    },
+    {
+      "t": 2755,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The cocaine scene in the car caused controversy and was censored in nearly every country.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kim Newman wrote in Monthly Film Bulletin that Demons suffered from the same over-emphatic tone as Dario Argento's own Phenomena.",
+      "icon": "reel",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2990,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The UK BBFC cut 1 minute 5 seconds, including eye gougings, a demon vomiting on a woman, and cocaine being scraped off a woman's breast with a razor blade.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ottaviano Dell'Acqua, the worm-faced ghoul in Lucio Fulci's Zombie, did stunt work on Demons and later recalled it in a Blu-ray featurette.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Demons gets name-checked in Brain Damage, Remote Control and The Toxic Avenger Part III.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Geretta Geretta says Italian casting goes by pictures first. She joked she schemed to keep Rosemary alive for Demons 2, but was out of town when it was made.",
+      "icon": "mic",
+      "byline": "Geretta Geretta — Rosemary",
+      "source": {
+        "type": "interview",
+        "url": "https://theultimaterabbit.com/tag/lamberto-bava/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lamberto Bava started as assistant director to his father Mario, then directed his first solo feature, Macabre, in 1980.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000877",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzAyNjgzOF5BMl5BanBnXkFtZTYwOTUwODk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Germany cut 41 seconds for an FSK-18 rating, then indexed and banned the film anyway. The ban was lifted only in August 2023, though it was filmed in Berlin.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author Alan Jones claims on the Blu-ray that director Lamberto Bava's loud, 'shouty' style drove Fiore Argento, Dario Argento's daughter, to quit acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      },
+      "person": "nm0034485",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2U3OWJjODItMTI5ZC00MzMyLTlmODAtYzA5ZmM2Yjk4MjJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3660,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The glowing demon eyes were improvised on set: actors wore refractive paper as they approached the camera, which created the effect.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bravo ranked Demons at number 53 on its 100 Scariest Movie Moments countdown.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3875,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Roy Bava, son of director Lamberto Bava, describes his father on the Demons set as 'a wild beast.'",
+      "icon": "mic",
+      "byline": "Roy Bava",
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Demons holds a 73% approval rating on Rotten Tomatoes, based on 15 reviews.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4127,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spot the AC/DC and No Nukes posters in the lobby. They're likely 1980 concert and documentary films.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Germany, Demons was released as 'Dämonen 2', a sequel to the actual second film, which was released there as the first.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "As the helicopter first crashes into the cinema, the casing around the rotor base is broken in one shot and intact in the next.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Urbano Barberini (George) starred in Dario Argento's Opera, where his voice was replaced with a deeper one in the English dub.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0053519",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4MjI0MTQyOV5BMl5BanBnXkFtZTcwOTgxNzgzNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kim Newman wrote in Sight & Sound that Demons and its sequel are guilty pleasures whose 'demented glee' makes them ideal party horror movies.",
+      "icon": "reel",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Demons reached North American grindhouses and drive-ins in May 1986, after opening in Europe in fall 1985.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/demons-1985/"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michele Soavi's The Church (1989) began as Demons 3. Bava's TV movie The Ogre was released abroad as Demons III, and his Black Sunday remake was retitled Demons 5.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/demons-1985.htm"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Leonard Maltin gave Demons 1 1/2 out of 4 stars, criticizing its lack of characterization, logic and plot.",
+      "icon": "reel",
+      "byline": "Leonard Maltin",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Stay put during the credits: there's a jump scare about halfway through as a character turns demonic.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
