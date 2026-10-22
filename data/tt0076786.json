@@ -1,0 +1,699 @@
+{
+  "schema": 1,
+  "imdbId": "tt0076786",
+  "title": "Suspiria",
+  "year": 1977,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-22T10:51:00.668Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Daria Nicolodi, who co-wrote the film and was director Dario Argento's partner, can be glimpsed in this airport scene. She was first meant to star, and she also voices the witch Helena Markos.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Dario Argento's reflection shows in the taxi glass during this ride. Fans call it a blooper, but Argento has said it was intentional.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film looks like three-strip Technicolor, but it was shot on ordinary Eastmancolor. Technicolor Rome then printed it using one of the last dye-transfer machines left.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Argento had Tovoli watch Disney's Snow White (1937) as the color model. Argento said they wanted its look of cut-out cartoons, without subtle shades.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The hands strangling the first victim in close-up belong to Argento himself. He wanted the opening murder to be shocking, so viewers could not guess what would come next.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tovoli placed very strong lights close to the actors, shining through colored velour and tissue-paper frames. Some actors worried about being burned.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/suspiria-terror-in-technicolor"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The title comes from Thomas De Quincey's 1845 Suspiria de Profundis. Its essay on 'Our Ladies of Sorrow' gave Argento his Three Mothers witches.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Daria Nicolodi, Dario Argento's partner, got her co-writing credit on Suspiria only after pushing back. Argento had reportedly planned to credit only himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://creepycatalog.com/35-trivia-facts-about-dario-argentos-suspiria-1977/"
+      }
+    },
+    {
+      "t": 835,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Argento said the story came from Daria Nicolodi's grandmother, who claimed to have fled a German music academy where witchcraft was practiced. Argento later said that story was fabricated.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Goblin's score was written before the film was shot. Argento played it at full volume on set to unnerve the actors.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Goblin's Claudio Simonetti says the band first wrote to Dario Argento's script, then tossed it all after seeing the edited film. Suspiria took two months; Deep Red took two weeks.",
+      "icon": "boombox",
+      "byline": "Claudio Simonetti — Goblin",
+      "source": {
+        "type": "interview",
+        "url": "https://www.styleweekly.com/?p=17669"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Goblin used a rented Moog System 55 modular synthesizer. Claudio Simonetti used a sequencer for the first time. A bouzouki nods to the Greek-born witch, Helena Markos.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.styleweekly.com/?p=17669"
+      }
+    },
+    {
+      "t": 1190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Simonetti said Argento wanted the music to frighten viewers even when nothing happens on screen, so they always feel the witches in the air. The whispers on the score are mostly gibberish.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.styleweekly.com/?p=17669"
+      }
+    },
+    {
+      "t": 1235,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Suspiria was director Dario Argento's first stereo film. Goblin's Claudio Simonetti recalls that the Rome cinema at the first audience screening brought in a bigger sound system for it.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.styleweekly.com/?p=17669"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joan Bennett, who plays Madame Blanc, was cast because Argento admired Fritz Lang, who directed her in classics like Scarlet Street. This was her final film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Jessica Harper on co-star Joan Bennett (Madame Blanc, a Hollywood veteran since the silents): she was 'great, a pure product of the forties.'",
+      "icon": "mic",
+      "byline": "Jessica Harper — Suzy",
+      "source": {
+        "type": "interview",
+        "url": "https://www.filmink.com.au/jessica-harper-remembering-suspiria/"
+      }
+    },
+    {
+      "t": 1460,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Jessica Harper turned down a part in Woody Allen's Annie Hall (1977) to make this film. Argento cast her after seeing her in Brian De Palma's Phantom of the Paradise.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Argento said he cast Jessica Harper because she had 'big eyes.'",
+      "icon": "mic",
+      "byline": "Dario Argento — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Because the film was dubbed afterward, almost no sound was recorded during shooting. Jessica Harper recalled hearing stagehands hammer on another set while filming her scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Jessica Harper was no horror fan when she took the lead: 'I don't like to pay money to be scared!' she told Filmink.",
+      "icon": "mic",
+      "byline": "Jessica Harper — Suzy",
+      "source": {
+        "type": "interview",
+        "url": "https://www.filmink.com.au/jessica-harper-remembering-suspiria/"
+      }
+    },
+    {
+      "t": 1820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Argento put the doorknobs at about the height of the actresses' heads, so they must reach up to open doors like children.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1910,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The academy's facade was built on a Rome soundstage, modeled on the Haus zum Walfisch (Whale House), a late-Gothic building in Freiburg, Germany.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Though set in Freiburg, the film was shot in Rome studios and Munich. The BMW tower and the Königsplatz square are Munich landmarks. The English narrator even mispronounces the city as 'Fribourg.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For wide shots of the maggot infestation, the crew dropped grains of rice onto the actresses from above.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tovoli never used diffusers or colored filters on this film. He asked his gaffer for 'More red! More blue!' when the crew questioned the amount of green.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/suspiria-terror-in-technicolor"
+      }
+    },
+    {
+      "t": 2270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tovoli said the Königsplatz square sequence is almost entirely without color, which makes the red blood stand out. It was shot in the Munich square where Nazi rallies were held.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/suspiria-terror-in-technicolor"
+      }
+    },
+    {
+      "t": 2360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A bird's-eye shot in the Königsplatz was made with a thin steel cable and a hand-released hook. When released, the elastic cable lifted the camera into the air.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/suspiria-terror-in-technicolor"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stefania Casini, a huge Argento fan who plays Sara, had trouble shooting her death scene. The fake barbed wire still wrapped tightly around her and pinched her skin painfully.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Daria Nicolodi was set to play Sara but was injured. Stefania Casini was brought in at the last minute.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2585,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Makeup artist Pier Antonio Mecacci, who came to Dario Argento's crew after working with director Elio Petri, developed the fake blood used in the film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/suspiria.html"
+      }
+    },
+    {
+      "t": 2630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rudolf Schündler, who plays Professor Milius, spoke no English or Italian. Jessica Harper could not understand his German lines, so he tapped her leg with his foot, out of frame, to cue her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2810,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The mute servant Pavlo was played by a man Argento spotted in an Italian post office. The director found his look compelling.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The uncredited woman who plays Helena Markos was, per Jessica Harper, a 90-year-old former prostitute Argento found on the streets of Rome.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tovoli at first hesitated to take the job because he had no passion for horror films. Argento insisted, and prep time was only a few weeks.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theasc.com/articles/suspiria-terror-in-technicolor"
+      }
+    },
+    {
+      "t": 3080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Argento said the film could be read as a vaguely lesbian story with power struggles between women. 'There aren't any male characters to speak of in the film,' he said.",
+      "icon": "mic",
+      "byline": "Dario Argento — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The coloured iris flowers match rooms in the academy. Argento's feature debut, The Bird with the Crystal Plumage (1970), is nodded to by a glass feather.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The murals in the office of Madame Blanc (Joan Bennett) imitate M.C. Escher-style impossible designs. Suzy tells the cab driver to take her to Escherstraße.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The R-rated US version lost about eight minutes. Fox sold it through a shell company, International Classics, and it still became Fox's seventh-biggest earner of 1977.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3395,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In May 1978 one US theater, the Lyric, ran Suspiria on a double bill with Brian De Palma's The Fury, the director of Jessica Harper's debut Phantom of the Paradise.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Suspiria/Fun_Facts"
+      }
+    },
+    {
+      "t": 3440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some US trailers misquoted the tagline as 'the first 92' minutes, not 80. That started a myth of a longer 107-minute director's cut that never existed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3530,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 1989 Magnum VHS release of the unrated version was banned in Ontario, Canada. Only the R-rated cut was allowed there.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gene Siskel of the Chicago Tribune praised the style but called it a 'weak imitation' of The Exorcist. Janet Maslin of The New York Times found only 'slender charms.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3665,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called it 'carried by style alone,' with random-seeming killings. He still said it's 'almost operatic in its excesses,' and gave it three stars.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/suspiria-1977.htm"
+      }
+    },
+    {
+      "t": 3710,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Entertainment Weekly ranked this the 18th scariest movie ever. Total Film critics placed it third among the greatest horror films.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Goblin's main theme was reused in Hong Kong films such as Tsui Hark's We're Going to Eat You (1980). It has been sampled by Raekwon and Ghostface Killah.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3845,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Goblin's Suspiria title theme later turned up in the trailer for the 2011 film Jane Eyre.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Suspiria_(1977_soundtrack)"
+      }
+    },
+    {
+      "t": 3890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Takashi Shimizu, director of The Grudge (2004), says this was one of the most influential films he ever saw. The Grudge contains a direct reference to it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3935,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Carpenter and Guillermo del Toro have cited Suspiria as an inspiration. A Norwegian thrash-metal band even named itself Susperia after it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://creepycatalog.com/35-trivia-facts-about-dario-argentos-suspiria-1977/"
+      }
+    },
+    {
+      "t": 3980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "British director Norman J. Warren said seeing this film was 'liberating' because it showed horror could drop realism. It influenced his own Terror (1978).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4070,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Barbara Magnolfi, who plays Olga, believes Olga was a young witch in training. A scripted scene of Olga dancing with the Bolshoi was never filmed.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4160,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In Sweden the film was released as 'Flykten från helvetet' ('Escape from Hell').",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Argento was always disappointed that Italian audiences never heard Jessica Harper's real voice, because she was dubbed for the domestic market.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was followed by Inferno (1980) and The Mother of Tears (2007), which together form Argento's Three Mothers trilogy. Udo Kier returned in the third film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A remake was announced in 2008 with David Gordon Green directing and Natalie Portman attached. It collapsed over budget and legal problems, and Luca Guadagnino made his own version in 2018.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4530,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Guadagnino called his 2018 film an 'homage' and said 'It's impossible to remake' Argento's film. Jessica Harper appears in a supporting role in it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2018, Claudio Simonetti's version of Goblin toured North America performing the entire Suspiria score live alongside screenings of the film, 41 years after it was recorded.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.styleweekly.com/?p=17669"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jessica Harper said the most frightening part of the shoot was the finale, where the rigged explosions went off close to her as she fled.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The finale came from a dream of co-writer Daria Nicolodi's, with an invisible witch and an exploding panther. In the film the panther became a porcelain one.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Technicolor Rome reportedly dismantled its remaining three-strip equipment after finishing this production.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Argento was so low after finishing the film that he reportedly contemplated suicide.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Argento co-wrote Sergio Leone's Once Upon a Time in the West and co-produced George A. Romero's Dawn of the Dead (1978), editing and scoring its European cut.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
