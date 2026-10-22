@@ -1,0 +1,579 @@
+{
+  "schema": 1,
+  "imdbId": "tt0098453",
+  "title": "Teen Witch",
+  "year": 1989,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-10-22T10:35:39.252Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Teen Witch began as a female Teen Wolf. It even borrowed that 1985 hit's title lettering and tagline before being reworked into its own story.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richie Miller is played by Joshua John Miller, son of The Exorcist actor Jason Miller and half-brother of The Lost Boys star Jason Patric.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      },
+      "person": "nm0588679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0Mjg4NDQyMV5BMl5BanBnXkFtZTcwMzc3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 315,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dad Frank Miller is Dick Sargent, the second Darrin on the witchy sitcom Bewitched. He'd also played father to another witch daughter, Tabitha, on that show.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0765102",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGEzOGYwZjgtMzg5OS00M2Y5LTkyZGItYWNjZmMxZDU3Mjk1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 425,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Variety called the comedy limited but praised the film's \"bouncy score\" by Larry and Tom Weir, the songwriting brothers behind every tune you hear.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Teen Witch made just $3,875 in its opening weekend and $27,843 in its whole theatrical run, against a $2.5 million budget. Cable and video made it a cult hit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 615,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "An early cut screened at the American Film Market. Producer Paul Mason says the \"I Like Boys\" cheer got applause there, and the buyers' reaction led to more music being added.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Pop star Debbie Gibson was the first choice to play Louise. Negotiations fell through, and Robyn Lively, then 15, got the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 805,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dan Gauthier (Brad) and Lisa Fuller (Randa) met on this set and married in 1990. They're still together, with a son.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0310248",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmU5N2M2ZjYtNDM5MS00OWU4LWFjMjgtMzJlMzA5NTUxNGE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 895,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Dorian Walker wanted comedian Ellen DeGeneres for a teacher role after seeing her in clubs, but studio exec Moshe Diamant vetoed it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robyn Lively was 16 when she filmed Teen Witch, while Dan Gauthier, playing high school senior Brad Powell, was 25.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To fit in the songs, producer Alana Lambros tore about 15 pages out of the script and replaced them with blanks reading \"Musical Number.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Madame Serena's creepy Victorian house is the same Los Angeles house used in Michael Jackson's Thriller video.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      }
+    },
+    {
+      "t": 1185,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Serena's \"Punky Brewster face\" line is a wink: star Robyn Lively played Lisa in two episodes of the sitcom Punky Brewster.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4YTJmZjgtNGIwNy00MjkxLTk2ZTgtNTZlNTVlMzU0OWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Serena's interior was a soundstage with no steps, so Robyn Lively had to crouch down as she walked away to fake descending the exterior stairs.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1345,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Polly's \"birthday on Elm Street\" and \"revenge of the cheerleaders\" lines nod to A Nightmare on Elm Street (1984) and Revenge of the Cheerleaders (1976).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The first script draft was raunchier, closer to a Porky's-style sex comedy. Producer Alana Lambros and director Dorian Walker cut it down to PG-13.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robyn Lively says her mother created Louise's 1980s look, and many of the clothes on screen were Lively's own.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      },
+      "person": "nm0001477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4YTJmZjgtNGIwNy00MjkxLTk2ZTgtNTZlNTVlMzU0OWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1735,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The school scenes were shot at Herbert Hoover High in Glendale over winter break, with real students as extras.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Producer Alana Lambros says extras drifted away during the long dance shoot. She let them go, betting viewers would watch the leads.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Caren Kaye (Louise's mom, Margaret) and Joshua John Miller (Richie) also played mother and son on a 1987 episode of 21 Jump Street.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0443268",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWFkZWFjOTAtZjViMy00MjEwLWJhMjktYzdhMTdkZjJiYjJiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2135,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Joshua John Miller, who plays dog-turned-brother Richie, admits \"it was a very campy performance\" but says he's grown to honor the film.",
+      "icon": "mic",
+      "byline": "Joshua John Miller",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0588679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0Mjg4NDQyMV5BMl5BanBnXkFtZTcwMzc3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The podcast How Did This Get Made? devoted episode 130 to Teen Witch. The hosts are avowed fans who single out Richie actor Joshua John Miller's performance.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Producer Alana Lambros says studio boss Moshe Diamant gave her about $1.25 million and a 25-day shoot. Wikipedia lists the budget as $2.5 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Dorian Walker hired Robert Banas, a dancer in West Side Story, to choreograph the film's dance numbers.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "No soundtrack album was released because the backers never funded one. Many songs were sung by members of the songwriting Weir family to save money.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Joshua John Miller says he learned to appreciate the film after drag queen Peaches Christ hosted midnight screenings in San Francisco.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      },
+      "person": "nm0588679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0Mjg4NDQyMV5BMl5BanBnXkFtZTcwMzc3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3040,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Fans have long wondered why Louise carries birth control pills in her purse when she can't even get a date.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brad actor Dan Gauthier later played Kevin Buchanan on the soap One Life to Live and Matt Liston on the sitcom Ellen.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0310248",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmU5N2M2ZjYtNDM5MS00OWU4LWFjMjgtMzJlMzA5NTUxNGE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3430,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "\"Top That\" wasn't in the original script. It was added in reshoots after an early screening, and Mandy Ingber (Polly) says she had an attitude problem on set.",
+      "icon": "mic",
+      "byline": "Mandy Ingber",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3485,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the lips: the audio and video of this rap are slightly out of sync, the most noticeable case among the film's musical numbers.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3545,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Songwriter Larry Weir says execs asked him for a rap for the reshoots. He performed it for eight executives who looked unimpressed, then said \"I like it.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 3610,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mandy Ingber (Polly) has called the film one of her worst summer jobs, saying the rap haunts her. She calls it the best of the worst.",
+      "icon": "mic",
+      "byline": "Mandy Ingber",
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Polly actor Mandy Ingber became a yoga instructor and best-selling author whose clients include Jennifer Aniston and Brooke Shields.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3790,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "\"Never Gonna Be the Same Again\" has two singers: Lori Ruso on the opening-sequence version and Cindy Valentine on the concert version.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Songwriter Larry Weir reportedly wrote \"Popular Girl\" during his first meeting with producer Alana Lambros.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 4010,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Robyn Lively blames a twisted ankle for her modest dancing in the \"most popular girl\" number.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      },
+      "person": "nm0001477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4YTJmZjgtNGIwNy00MjkxLTk2ZTgtNTZlNTVlMzU0OWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The abandoned-house love scene was also added in reshoots, after the American Film Market screening, at studio boss Moshe Diamant's order for a bigger picture.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Robyn Lively has said she's now mortified by her make-out scene with Dan Gauthier.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4YTJmZjgtNGIwNy00MjkxLTk2ZTgtNTZlNTVlMzU0OWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robyn Lively said a scene where she and Zelda Rubinstein (Madame Serena) share a lap was shot after lunch, and Rubinstein's bad breath made keeping a straight face hard.",
+      "icon": "mic",
+      "byline": "Robyn Lively",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the Philippines, the film reportedly topped ratings after a local release swapped in music from Michael Jackson's Thriller album, producer Alana Lambros says.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/542975/teen-witch-oral-history/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robyn Lively's first two movies, The Best of Times and Wildcats, were both about high school football, and she played the daughter of Robin Williams and Goldie Hawn.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4YTJmZjgtNGIwNy00MjkxLTk2ZTgtNTZlNTVlMzU0OWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2008 Variety reported Ashley Tisdale would star in a Teen Witch remake. It never happened.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Austin Chronicle's Ada Calhoun called it \"a masterpiece of both the teen and witch genres\" and \"so Eighties it hurts.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5130,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The red-zipper-shirt guy and gray-outfit girl in this dance also danced in the earlier harvest dance. The same decorations are visible.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5215,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "When her sister Blake Lively married Ryan Reynolds in 2012, Robyn Lively performed this \"Finest Hour\" dance at the wedding and gave Blake the film's necklace.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/18-fun-facts-about-teen-witch"
+      },
+      "person": "nm0001477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4YTJmZjgtNGIwNy00MjkxLTk2ZTgtNTZlNTVlMzU0OWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Los Angeles improv troupe The Groundlings staged a live comedy musical of Teen Witch in 2013 and 2017.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Willman of the Los Angeles Times panned the film, mentioning its \"horrifying pop songs, French kissing, blatant product plugs and Dick Sargent (formerly of Bewitched).\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Huffington Post's Stephanie Marcus called \"Top That\" the worst song of all time. It has been parodied, including by Alia Shawkat.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
