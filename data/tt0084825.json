@@ -1,0 +1,447 @@
+{
+  "schema": 1,
+  "imdbId": "tt0084825",
+  "title": "Trick or Treats",
+  "year": 1982,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-10-22T10:06:53.922Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Gary Graver made this film for just $55,000. He put up $30,000 of his own money and raised the other $25,000 from investors and a distributor.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 160,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Peter Jason (Malcolm) has appeared in 12 Walter Hill films and is a John Carpenter regular, including They Live (1988) and Prince of Darkness (1987).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0419273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjcxOTE3NF5BMl5BanBnXkFtZTcwMzYyNTg5Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 210,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The two asylum attendants wrestling Malcolm into a straitjacket are played by football pros Dan Pastorini and Tim Rossovich, cast through friendships of actor Peter Jason, per Jason.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Graver shot the whole film at night, 6 PM to midnight, in about three weeks. By day he handled lab work, catering and editing for it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 350,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The song 'Help Is on the Way' heard here is by the band Horizon, who later scored the 1983 film Suzie Superstar. Tom Barger wrote it.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 455,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Steve Railsback, the voice on the phone as Linda's boyfriend Brett, reunited with Carrie Snodgress nearly 20 years later, playing her son in a film about killer Ed Gein.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Carrie Snodgress (Joan) was Oscar-nominated for Diary of a Mad Housewife (1970). She reportedly lost the lead in Rocky (1976) over a salary dispute.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0811202",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NDMwNTgyNl5BMl5BanBnXkFtZTcwOTM4MzcxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Most of the film was shot in the real home of Carrie Snodgress, who plays Joan. One night her ex Neil Young reportedly dropped by, unaware a movie was being shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The asylum's front facade is Culver Studios in Culver City, former home of RKO Radio Pictures, Thomas Ince Studios and Desilu.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1075,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "David Carradine, as Richard, was the TV star of Kung Fu. Quentin Tarantino first offered Bill in Kill Bill to Warren Beatty, who suggested Carradine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001016",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MDM1NjcwOV5BMl5BanBnXkFtZTYwNzUwMDIz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Jason (Malcolm) says director Gary Graver pitched it as a kids' horror movie: 'Gary said Trick or Treats was going to be a kids' horror movie, so I said OK, fine.'",
+      "icon": "mic",
+      "byline": "Peter Jason",
+      "source": {
+        "type": "interview",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Prankster Christopher is played by Chris Graver, the director's own son. Richard Scheib of Moria said Chris plays obnoxiousness to perfection.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      },
+      "person": "nm0336222"
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Orson Welles is credited as 'Magical Consultant'. Graver was Welles' last cinematographer, shooting The Other Side of the Wind, which finally came out in 2018.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gary Graver volunteered to shoot Orson Welles' unfinished The Other Side of the Wind. That left him taking other jobs to pay the bills, which led to low-budget oddities like this one.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gary Graver was a combat photographer in Vietnam before shooting B-movies for Roger Corman and others.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Historian Joseph McBride says Orson Welles did some last-minute script doctoring on this film. He also helped young Chris Graver with the magic.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Graver spent years directing hardcore porn as 'Robert McCallum'. Wikipedia says he worked on 135 adult features.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria notes the plot echoes Halloween (1978) and When a Stranger Calls (1979): a maniac escapes an asylum, heads home on Halloween and taunts a babysitter by phone.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Posters and covers for Dracula vs. Frankenstein, I Was a Teenage Werewolf, Maniac and The Howling show up as set dressing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One record sleeve Christopher flips through is The Howling (1981), which starred John Carradine, father of David Carradine, who plays Christopher's stepfather.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3014,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Bands About Movies singled out the doorbell interludes as a highlight. Linda keeps answering the door to trick-or-treaters, hoping something big will happen.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/10/12/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 3180,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The wino stripped here is Paul Bartel, who directed David Carradine in Death Race 2000 (1975) and later made Eating Raoul (1982).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film editors griping about horror movies are Graver's friends. His wife Jillian is among them, in a cameo as an editor.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 3470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Gary Graver was blunt about his motive. He told Penny Blood magazine, 'I made Trick or Treats to make money.'",
+      "icon": "money",
+      "byline": "Gary Graver — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Catherine Coulson, the future Log Lady of Twin Peaks, has a cameo in this low-budget Halloween oddity.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it two stars. He grumbled that nearly 70 minutes go to babysitting pranks before the real threat arrives.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      }
+    },
+    {
+      "t": 4075,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kansas City Star critic Robert C. Trussell wrote that one look at the script should have tipped off the producers that the film 'could never have been anything but a bomb.'",
+      "icon": "mic",
+      "byline": "Robert C. Trussell — Kansas City Star",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Graver saw it as a comedy that suffered from being sold as a horror film. He said the distributor, also his partner, never paid him.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 4325,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria says Linda's boyfriend Brett is played by Steve Railsback, who was married in real life to Jacqueline Giroux, the actress playing Linda.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/trick-or-treats-1982.htm"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Opening in Cincinnati on October 1, 1982, it was savaged by newspapers. Peter Jason recalled a first-week gross of about $75,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film historian Joseph McBride, a friend of director Gary Graver, said of Graver's script: 'And Gary was not a good screenwriter.'",
+      "icon": "mic",
+      "byline": "Joseph McBride",
+      "source": {
+        "type": "interview",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tagline promised 'Halloween's over. Now it's the kids' turn to get even!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4790,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Besides the 'kids' turn to get even' line, the film was also sold with the tagline '...when Halloween night stopped being fun!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/10/12/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 4880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Graver sued Orson Welles' daughter Beatrice Welles in a dispute over an Oscar for Citizen Kane. He claimed Welles gave it to him. She won in 1993.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Groovy Doom's Bill Van Ryn considers this a remake of the 1971 thriller Fright, per Bands About Movies. It chased the success of Halloween.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/10/12/trick-or-treats-1982/"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AllMovie panned it, saying the plot holes in Graver's story are never plugged with cheap spectacle that might have given the film a reason to exist.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5340,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2004 Graver made a director's cut, trimming about ten minutes from the 90-minute film. He later owned the negative outright.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2024/06/03/trick-or-treats-1982/"
+      }
+    }
+  ]
+}
