@@ -1,0 +1,535 @@
+{
+  "schema": 1,
+  "imdbId": "tt0116897",
+  "title": "Little Witches",
+  "year": 1996,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-10-22T10:57:37.180Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Little Witches was rushed out to cash in on The Craft (1996). It wrapped March 25, 1996, about four weeks before The Craft opened in U.S. theaters.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 155,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jane Simpson co-directed Electric Light Orchestra's 1985 video for \"Calling America\". Her only post-film music video was Enrique Iglesias' \"Enamorado Por Primera Vez\" (1997).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://imvdb.com/n/jane-simpson"
+      },
+      "person": "nm0801040"
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The whole movie was shot in about 18 days over three weeks. The Catholic school was reportedly the old Camarillo State Mental Hospital.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 275,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fangoria's Alexandra Heller-Nicholas said Jane Simpson's music-video background gives the film an MTV-style look, built from styrofoam props, flames, dry ice and latex monsters.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/wild-women-with-steak-knives-little-witches-jane-simpson-1996/"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Clea DuVall, who plays Kelsey, made her acting debut here. She later told Femme Fatales magazine in 1999 that she's still embarrassed about the scene where she bared her backside.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 405,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Pierpoint, who plays Sheriff Gordon, took over the lead role of Detective George Francisco from Mandy Patinkin in the TV series Alien Nation (1989). He also appeared in four Star Trek series.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Eric_Pierpoint"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jane Simpson came from music videos and commercials. She made Chaka Khan's 1984 video for \"I Feel For You.\" This was one of only two features she directed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/wild-women-with-steak-knives-little-witches-jane-simpson-1996/"
+      }
+    },
+    {
+      "t": 535,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clea DuVall (Kelsey) worked in a coffee shop as a teen. She later wrote and directed Happiest Season (2020), which won the 2021 GLAAD Media Award for Outstanding Film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Clea_DuVall"
+      }
+    },
+    {
+      "t": 590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Simpson also directed commercials and videos before this. After the film bombed, she made one more music video and went back to commercials.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jack Nance, star of David Lynch's Eraserhead and Twin Peaks' Pete Martell, plays Father Michael. This was his last role released in his lifetime.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0620756",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fangoria says Jack Nance's Father Michael is a sweeter, harmless take on his Twin Peaks character Pete Martell, complete with a fishing scene.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/wild-women-with-steak-knives-little-witches-jane-simpson-1996/"
+      },
+      "person": "nm0620756",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "On the last day of filming in April 1996, Jack Nance was in a six-car crash on an L.A. freeway on his way to the set. He hurt his knee and used a cane for the rest of his life.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0620756",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writers Brian DiMuccio and Dino Vindeni also wrote The Demolitionist and Voodoo (both 1995). Jack Nance appeared in all three of those films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-writer Brian DiMuccio said he spent only a couple of days on location. He remembered drinks in the makeup trailer with Zelda Rubinstein and partying with Sheeri Rappaport and the other actresses.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 1110,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producers kept pushing director Jane Simpson for more nudity. She refused because Sheeri Rappaport and the other actresses were already uncomfortable with the nude scenes they had.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0801040"
+    },
+    {
+      "t": 1240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer Brian DiMuccio said the budget couldn't stretch to a Tim Curry-style Legend demon. Instead, he said, the creature looked like a cheap parade mask.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 1370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zelda Rubinstein, who plays Mother Clodah, was famous as the psychic Tangina in Poltergeist (1982). She was the only actress besides Heather O'Rourke in all three Poltergeist films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0748289",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE1YTU3YWQtODY5Mi00NzBjLTk5OTgtMWVjNWRjNjNmMzk4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1435,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's original editor, Kristina Trirogoff, parted ways with producer Donald P. Borchers during principal photography, according to Borchers. That set up the producer's re-cut later.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zelda Rubinstein was the voice of Skittles candies in the long-running \"Taste the Rainbow\" ad campaign.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0748289",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE1YTU3YWQtODY5Mi00NzBjLTk5OTgtMWVjNWRjNjNmMzk4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sheeri Rappaport (Jamie) later played lab tech Mandy Webster on CSI: Crime Scene Investigation. She also played Officer Mary Franco on NYPD Blue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0005338",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzMjY3NDgzOF5BMl5BanBnXkFtZTYwNjg1NTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sister Sherilyn is played by Jennifer Rubin, who was Taryn in A Nightmare on Elm Street 3: Dream Warriors (1987). She also appeared in Oliver Stone's The Doors.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0748075",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0MTI2MjYxNl5BMl5BanBnXkFtZTcwMDcwNDAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jennifer Rubin (Sister Sherilyn) was discovered by the Ford Agency while walking across campus at the University of Arizona. She was Ford's International Model of the Year in 1984.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0748075",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0MTI2MjYxNl5BMl5BanBnXkFtZTcwMDcwNDAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2020,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Except for Clea DuVall and Sheeri Rappaport, most of the teen actresses in Little Witches quit acting soon after making it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Landon Hall was cast after working with director Jane Simpson on an episode of the erotic series Hotline. Hall has said she thought this would be a kids' movie until she saw the final cut.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline was \"Forgive me Father. For I am Sin.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The fifth witch, actress Lalaneya Hamilton, got no speaking lines for cost reasons. Her dialogue went to the other girls. DiMuccio asked for a story reason, like a tonsillectomy, but none was added.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Donald P. Borchers, a veteran of Children of the Corn (1984), said of the final edit: \"The producer's cut was the only cut.\" He trained an apprentice editor to make it.",
+      "icon": "mic",
+      "byline": "Donald P. Borchers — Producer",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jane Simpson and Sheeri Rappaport said in 1997 Femme Fatales interviews that the studio and producers re-cut the film after seeing Simpson's rough cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0801040"
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sheeri Rappaport wrote in Femme Fatales that director Jane Simpson \"wasn't there to shoot just another T&A flick.\" Simpson would rather be honest early than have someone add gratuitous nudity.",
+      "icon": "mic",
+      "byline": "Sheeri Rappaport — Jamie",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      },
+      "person": "nm0005338",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzMjY3NDgzOF5BMl5BanBnXkFtZTYwNjg1NTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "At one point someone suggested reshoots with a different director to add more nudity and sex scenes. Simpson fought it, and none of it happened.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Brian DiMuccio said director Jane Simpson disliked the script. He said she told the cast that DiMuccio and Dino Vindeni were pen names.",
+      "icon": "mic",
+      "byline": "Brian DiMuccio — Co-writer",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jack Nance died December 30, 1996, from a subdural hematoma after a fight outside a Winchell's Donuts in South Pasadena. The case remains unsolved.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0620756",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Nance was reportedly considered for the lead in The Graduate (1967), the role that went to Dustin Hoffman.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0620756",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA5MDAyNDg2OF5BMl5BanBnXkFtZTcwMjk2NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zelda Rubinstein founded the Michael Dunn Memorial Repertory Theatre Company in L.A. in the early 1980s for little-person actors. She was also an early AIDS advocate.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0748289",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE1YTU3YWQtODY5Mi00NzBjLTk5OTgtMWVjNWRjNjNmMzk4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zelda Rubinstein shot a Casper (1995) cameo as her Poltergeist character, shot out of a chimney yelling \"Don't go into the light!\" It was cut from the film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0748289",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE1YTU3YWQtODY5Mi00NzBjLTk5OTgtMWVjNWRjNjNmMzk4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fangoria's \"Wild Women With Steak Knives\" column called Sheeri Rappaport's turn as Jamie one of the film's strongest elements. It also called the effects tacky but seemingly deliberate.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/wild-women-with-steak-knives-little-witches-jane-simpson-1996/"
+      }
+    },
+    {
+      "t": 3880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Kansas City Star named Little Witches one of the \"worst videos of 1996.\" The Chicago Sun-Times called it full of cliches.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was shot in the Santa Barbara, California area. It reached video stores and foreign markets about a month after The Craft opened.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4160,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The writers and producers insisted the overlap with The Craft was more coincidence than design, at least at first, according to producer Donald P. Borchers.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2023/05/18/little-witches-1996/"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mimi Rose, who plays Faith, is credited in this film as Mimi Reichmeister.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0717131"
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jane Simpson has reportedly disowned the film, according to IMDb trivia.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0801040"
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fangoria's Alexandra Heller-Nicholas called Little Witches \"silly\" and \"fun\" in 2022. She said it has charm and a sincere naivety, despite being a low-budget imitator of The Craft.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/wild-women-with-steak-knives-little-witches-jane-simpson-1996/"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sheeri Rappaport was ranked #48 on Sci-Fi's Sexy 50 list by Femme Fatales magazine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005338",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzMjY3NDgzOF5BMl5BanBnXkFtZTYwNjg1NTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
