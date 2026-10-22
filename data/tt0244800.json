@@ -1,0 +1,421 @@
+{
+  "schema": 1,
+  "imdbId": "tt0244800",
+  "title": "Sledgehammer",
+  "year": 1983,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-10-22T10:32:59.789Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Most of this movie was shot inside writer/director David A. Prior's own apartment. The whole film was made in about seven days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director David A. Prior says he used slow motion to stretch the film to feature length. Fangoria's reviewer guessed it would run under an hour without it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/dvd-review-sledgehammer/"
+      }
+    },
+    {
+      "t": 210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Salim Kimaz, who shot Sledgehammer on video, was reportedly an extra in John Carpenter's original Halloween (1978), the slasher that started the whole genre.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/dvd-review-sledgehammer/"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The budget on TMDB is just $40,000. Director David A. Prior used it to make one of the earliest horror films shot on videotape instead of film.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director David A. Prior's interview suggests the budget was under $10,000, and the finished film then sat on the shelf for about a year before a distributor picked it up.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/sov-week-sledgehammer-1983-dvd-review/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Boardinghouse (1982) got a limited theatrical run. Sledgehammer went straight to video, so it's often billed as the first shot-on-tape slasher made for the home video market.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To make one apartment pass for a big old house, director David A. Prior had fake doors applied to the hallway walls for several shots, according to Fangoria's DVD review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/dvd-review-sledgehammer/"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Ted Prior (Chuck) is the director's brother. He was Playgirl's Man of the Month centerfold in March 1984, and he often appeared in David A. Prior's films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0697961",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjUwNmU4MGYtNzQ0ZS00Mjg1LWEwNGItZTRiYmNjNzMyNTgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Retro Slashers says the party scenes feel real because the beer cans and bottles of Old Grand Dad were real. Some of the cast got a little \"liquid motivation.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/sov-week-sledgehammer-1983-dvd-review/"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital says the commentary track describes the shoot as about a week in director David A. Prior's \"very white apartment.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/sledgehammer"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Ted Prior (Chuck) did more than act. Per his brother David A. Prior's commentary, he contributed the title sequence, effects, video cover art and some of the music.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.braineater.com/sledgehammer.html"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David A. Prior went on to co-found Action International Pictures. It made low-budget action films like Deadly Prey (1987), starring his brother Ted Prior.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0697935"
+    },
+    {
+      "t": 1100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "John Eastman, who plays John in Sledgehammer, is an ex-Marine, according to Brain Eater's review of the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.braineater.com/sledgehammer.html"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Around the 20-minute mark, an actress can be seen standing at the left edge of the frame. She is waiting for her cue to walk on and say her lines.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital reports the shoot's mishaps included actors covered in fake blood wandering outside the apartment between takes.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/sledgehammer"
+      }
+    },
+    {
+      "t": 1460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director David A. Prior has said he was inspired by the Jason movies (Friday the 13th). He deliberately never explained where his killer's supernatural powers come from.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/sov-week-sledgehammer-1983-dvd-review/"
+      }
+    },
+    {
+      "t": 1570,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A.V. Club's Noel Murray said Chuck, played by Ted Prior, \"never misses an opportunity to do his Bill Murray impression,\" which he took as proof the film was made in 1983.",
+      "icon": "sunglasses",
+      "byline": "Noel Murray — A.V. Club",
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/sledgehammer-1983-1798226766"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Around 28 minutes, the shadow of the boom mic hangs in the top right corner of the frame for most of the scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A.V. Club critic Noel Murray said that after the opening, Sledgehammer settles into \"impressive feats of padding,\" and that the interiors look like a sparsely furnished college apartment.",
+      "icon": "reel",
+      "byline": "Noel Murray — A.V. Club",
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/sledgehammer-1983-1798226766"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dave Sindelar of Fantastic Movie Musings guessed only about 65 minutes of footage was shot. The rest of the 84-minute cut is repeated scenes, static house shots and a five-minute credit roll.",
+      "icon": "reel",
+      "byline": "Dave Sindelar",
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2020/11/04/sledge-hammer-1983/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "DVD Talk gave the film 1.5 stars out of 5 and called it a \"disasterpiece\" that is \"endlessly entertaining for all the wrong reasons.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Verdict's Ike Oden called Sledgehammer \"an endurance test of bad movie making.\" He also noted the actors playing teenagers were in their forties.",
+      "icon": "skull",
+      "byline": "Ike Oden — DVD Verdict",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdverdict.com/reviews/sledgehammer1983.php"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Retro Slashers' DVD review says the slow motion is the film's main drawback. It argues the slow motion stretches the running time.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/sov-week-sledgehammer-1983-dvd-review/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital notes one nude scene was blocked and filmed in an emptied-out bedroom of director David A. Prior's apartment.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/sledgehammer"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Verdict called the film so \"innocently and consistently incompetent\" that it's hard not to love. It singled out the prolonged slow-motion shots and the synth soundtrack.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Frank Zappa's 200 Motels (1971) is usually cited as the first feature shot entirely on video. Sledgehammer is widely billed as the first slasher made that way.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.braineater.com/sledgehammer.html"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in Simi Valley and Venice Beach, California. It was mostly shot in director David A. Prior's apartment, though he later made most of his films in Mobile, Alabama.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sledgehammer's only theatrical screening was at the Cinefamily in Los Angeles in 2008, after an all-night Halloween event. Programmers Hadrian Belove and Tom Fitzgerald recall it on the DVD.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/sledgehammer"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sledgehammer was so rare that Intervision's 2011 DVD, distributed by Severin Films, was a big event. Mondo Digital says it was originally released on VHS by World Video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/sledgehammer"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Intervision's 2011 DVD opened with a recommendation to turn up your bass and volume. The film also played at Austin's Alamo Drafthouse on the DVD's street date, May 10, 2011.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2011/04/intervision-picture-corp-teams-up-with-severin-films-first-stop-sledgehammer.html"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs showed Sledgehammer on The Last Drive-In, season 3. It aired on VHS night as a double feature with the film Things (1989).",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Severin took over Intervision after founder Larry Gold Sr. died in March 2011. Sledgehammer was the first title released under that deal.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2011/04/intervision-picture-corp-teams-up-with-severin-films-first-stop-sledgehammer.html"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Oh, the Horror! gave it a \"Buy it!\" tag. It said that most will call it crap but others will call it charming, and that it has a lot of nostalgic currency.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Terror Vision's Blu-ray of Sledgehammer was limited to 1,500 copies. It added new interviews with both Prior brothers, director David A. Prior and star Ted Prior.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bloody-disgusting.com/news/3869083/shot-on-video-cult-classic-sledgehammer-slashes-onto-blu-ray-via-terror-vision/"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director David A. Prior followed Sledgehammer with Killer Workout and the cult favorite Deadly Prey. He died in August 2015, aged 59.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/news/120024/killer-workout-director-david-a-prior-passes-away/"
+      }
+    }
+  ]
+}
