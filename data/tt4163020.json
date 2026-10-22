@@ -1,0 +1,508 @@
+{
+  "schema": 1,
+  "imdbId": "tt4163020",
+  "title": "Tales of Halloween",
+  "year": 2015,
+  "runtimeSec": 5820,
+  "generatedAt": "2026-10-22T11:30:28.011Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Adrienne Barbeau plays the radio DJ, an homage to her role as DJ Stevie Wayne in John Carpenter's The Fog (1980). A different opening with her was shot but cut.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000105",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDlmMmM0MzYtODY0NS00OWM5LWEzOTAtMjViYzM2OTAzMTZjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In the opening 'Sweet Tooth' story, a candy bar called 'Carpenter' is a nod to horror director John Carpenter, who made Halloween (1978).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Greg Grunberg and Clare Kramer play the same characters, Alex Mathis and Karly Brandt, they played in the creature feature Big Ass Spider! (2013). Grunberg even wears the same exterminator coveralls.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Axelle Carolyn pitched this anthology to Epic Pictures in March 2014. Her idea: ten stories in one suburb on one night, with Halloween as the glue for her LA horror friends.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2015/08/fantasia-2015-interview-axelle-carolyn-talks-tales-of-halloween.html"
+      },
+      "person": "nm2130745",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM5ODBiYmYtZmYxOS00MmI0LThmNTgtYzYxZTRkMGRmOWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Most segments were shot in just two days, some in three. Producer Mike Mendez said the lack of a safety net made the schedule stressful.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/qa-mike-mendez-on-the-tricks-of-making-tales-of-halloween/"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Caroline Williams (Mrs. Blake) won her Texas Chainsaw Massacre 2 role by running screaming into the audition and barricading the door with director Tobe Hooper's chair.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0930226",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjg5NmY1NGMtZjY0OC00NDg4LTlmY2MtMDQxZTdlZTQwZTdmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The anthology's only real rule from Epic Pictures: no found footage. Epic also gave the filmmakers final cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2015/08/fantasia-2015-interview-axelle-carolyn-talks-tales-of-halloween.html"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Axelle Carolyn originally planned thirteen stories before trimming the film down to ten.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2015/08/fantasia-2015-interview-axelle-carolyn-talks-tales-of-halloween.html"
+      },
+      "person": "nm2130745",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM5ODBiYmYtZmYxOS00MmI0LThmNTgtYzYxZTRkMGRmOWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A model of the killer car from The Car (1977) sits on a kid's bedroom shelf in the first story, one of many horror Easter eggs.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A trick-or-treater dressed as Snake Plissken, Kurt Russell's hero from Escape from New York, is hiding in the crowds. Adrienne Barbeau was also in that 1981 film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Segment director Darren Lynn Bousman directed Saw II, III and IV, and was the first horror director whose first three major Hollywood films all opened at #1.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1135423",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTA0NzQ2NjcwOV5BMl5BanBnXkFtZTgwNjkxODIxOTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Adrianne Curry's devilish costume closely resembles the one worn by Mia Sara in Ridley Scott's Legend (1985), where the villain is also the Lord of Darkness.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Darren Lynn Bousman reassembled his crew from his horror musical The Devil's Carnival to shoot his segment. He used a script from his colleague Clint Sears.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm1135423",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTA0NzQ2NjcwOV5BMl5BanBnXkFtZTgwNjkxODIxOTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Adam Gierasch's story 'Trick' was shot at his own house during a real Halloween party. The decorations were kept up a week later for the party scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehorror.co.uk/interview/47439/tales-of-halloween-interview-with-axelle-carolyn-and-neil-marshall/"
+      }
+    },
+    {
+      "t": 1780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Night of the Living Dead (1968) plays on TVs across the film like a running timeline. The 'Trick' kids are dressed like the group in Trick 'r Treat: witch, alien, princess, devil.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One of Adam Gierasch's early scripts was rejected: a romantic short that Axelle Carolyn turned down.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Keir Gilchrist (Jimmy) later starred in It's Kind of a Funny Story. Jack Dylan Grazer, who plays young Jimmy, later played Eddie in It (2017).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Horror filmmaker Mick Garris and Re-Animator director Stuart Gordon pop up as party guests in Axelle Carolyn's 'Grim Grinning Ghost'. Gordon is dressed as Sherlock Holmes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Axelle Carolyn's own shoot had a dead generator, a broken-down van and a chase meant for night but filmed in daylight. She reshot it in fog near her home, a 'happy accident'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2015/08/fantasia-2015-interview-axelle-carolyn-talks-tales-of-halloween.html"
+      },
+      "person": "nm2130745",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM5ODBiYmYtZmYxOS00MmI0LThmNTgtYzYxZTRkMGRmOWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Barbara Crampton, the Re-Animator star, came up with the idea of wearing a red wig for her role in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Axelle Carolyn says she appears in the film five times, always as a different character. Several other directors also cameo in each other's segments.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehorror.co.uk/interview/47439/tales-of-halloween-interview-with-axelle-carolyn-and-neil-marshall/"
+      },
+      "person": "nm2130745",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM5ODBiYmYtZmYxOS00MmI0LThmNTgtYzYxZTRkMGRmOWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ben Woolf, who plays Rusty Rex, died about three months after the shoot when a car hit him, according to Axelle Carolyn. The film is dedicated to him.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehorror.co.uk/interview/47439/tales-of-halloween-interview-with-axelle-carolyn-and-neil-marshall/"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Rusty Rex segment was filmed first so Ben Woolf could build his character before returning as the trick-or-treater in Lucky McKee's 'Ding Dong'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehorror.co.uk/interview/47439/tales-of-halloween-interview-with-axelle-carolyn-and-neil-marshall/"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lucky McKee was flown to Los Angeles to direct 'Ding Dong'. He replaced Joe Begos, who wrote a script but left to make The Mind's Eye.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The neighbor fight in 'This Means War' used about 50 costumed fans who answered a director's Facebook call to be extras.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehorror.co.uk/interview/47439/tales-of-halloween-interview-with-axelle-carolyn-and-neil-marshall/"
+      }
+    },
+    {
+      "t": 3340,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "'This Means War' pits classic horror (tombstones, graveyards) against modern gore (severed limbs). Its skull honors late designer-director Sxv'leithan Essex, who died in 2013.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dana Gould (Boris), a longtime Simpsons writer, fights James Duval, the star of Donnie Darko, in the film's neighbor war. Duval also appears in director Dave Parker's It Watches.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "'Friday the 31st' began 18 years earlier as the opening scene of Dead Stuff, an unmade feature written by Mike Mendez and Dave Parker.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/qa-mike-mendez-on-the-tricks-of-making-tales-of-halloween/"
+      }
+    },
+    {
+      "t": 3760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nick Principe, the killer in 'Friday the 31st', is better known as ChromeSkull from the Laid to Rest films.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/qa-mike-mendez-on-the-tricks-of-making-tales-of-halloween/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To save time on the effects-heavy 'Friday the 31st', Mike Mendez ran two units with a duplicate killer and girl. A stand-in covered a makeup-heavy part of the day.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/qa-mike-mendez-on-the-tricks-of-making-tales-of-halloween/"
+      }
+    },
+    {
+      "t": 4040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Necronomicon from Sam Raimi's Evil Dead series appears in the background of 'Friday the 31st'.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4180,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director John Landis (An American Werewolf in London, Thriller) plays Jebediah Rex. Ryan Schifrin first pictured him only as a voice on the phone.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/interview-with-tales-of-halloweens-ryan-schifrin/"
+      }
+    },
+    {
+      "t": 4320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "John Landis gave Ryan Schifrin and editor Matt Barry about five hours of notes after editing. Schifrin called it a master class.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/interview-with-tales-of-halloweens-ryan-schifrin/"
+      }
+    },
+    {
+      "t": 4460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rusty Rex's story is a horror twist on O. Henry's 'The Ransom of Red Chief'. Ryan Schifrin made the leads criminals because he expected other segments to star kids and teens.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/interview-with-tales-of-halloweens-ryan-schifrin/"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ryan Schifrin is the son of composer Lalo Schifrin, who wrote the Mission: Impossible theme. Lalo contributes a theme to this anthology.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/interview-with-tales-of-halloweens-ryan-schifrin/"
+      }
+    },
+    {
+      "t": 4760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Epic Pictures premiered the film at Fantasia in Montreal on July 24, 2015. It closed London FrightFest that August before its October 16 release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film has a 77% Rotten Tomatoes score. Michael Gingold of Fangoria gave it three and a half of four skulls. Variety's Dennis Harvey called it 'polished enough but utterly routine'.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "James Wan was approached to direct a segment but was busy with Furious 7. Carolyn says he still appears in the film, though he's hard to spot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/qa-mike-mendez-on-the-tricks-of-making-tales-of-halloween/"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The credits note that no animals were harmed, 'but we sure did kill a lot of pumpkins.'",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5380,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Neil Marshall's police station scene is stuffed with cameos by fellow directors, his producing partner, a producer and even the Epic Pictures accountant.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lovehorror.co.uk/interview/47439/tales-of-halloween-interview-with-axelle-carolyn-and-neil-marshall/"
+      }
+    },
+    {
+      "t": 5520,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In the police station, someone in patient scrubs covered in crucifixes nods to John Carpenter's In the Mouth of Madness (1994).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Neil Marshall's accountant appears as an extra in his own segment. Marshall's segment was the more elaborate one and received extra funds from Epic.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2015/08/fantasia-2015-interview-axelle-carolyn-talks-tales-of-halloween.html"
+      }
+    }
+  ]
+}
