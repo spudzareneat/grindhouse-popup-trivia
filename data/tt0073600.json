@@ -1,0 +1,549 @@
+{
+  "schema": 1,
+  "imdbId": "tt0073600",
+  "title": "Race with the Devil",
+  "year": 1975,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-10-22T11:15:20.313Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Fun detail: the 20th Century Fox logo at the start plays without its famous fanfare, so the movie opens in eerie quiet.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 140,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Frank (Warren Oates) calls a mechanic 'L.Q.' Oates really worked with actor L.Q. Jones on three Sam Peckinpah films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0643105",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxMDUwMDkxOV5BMl5BanBnXkFtZTcwMjk3NDcyNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Fonda and Warren Oates reportedly signed on partly because Oates' 15-year-old daughter read the script and approved of it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/258929/the-gist-race-with-the-devil-the-gist"
+      }
+    },
+    {
+      "t": 284,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "That gleaming 32-foot motorhome is a 1975 Vogue Villa Grande. In the script it carried a $36,000 price tag, a huge sum in 1975.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Loretta Swit (Alice) really drove the RV through downtown San Antonio herself while Peter Fonda and Warren Oates yelled 'Brake, Loretta, brake!'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.sacurrent.com/movies-tv/late-actress-loretta-swit-recalls-shooting-cult-fright-flick-race-with-the-devil-in-san-antonio-50-years-ago-37633165/"
+      },
+      "person": "nm0842794",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTE4Mzk2MF5BMl5BanBnXkFtZTcwNjcyMjg4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 375,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Frank brags the RV has a 'stereo, four channels.' A plain stereo only has two; four-channel would be quadraphonic. Salesman-speak!",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lara Parker (Kelly) was famous as witch Angelique on the gothic soap Dark Shadows. She later wrote four novels about that character.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0662430",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQzMTIwMTk3OF5BMl5BanBnXkFtZTgwOTM5NTc0NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 485,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The characters' January ski trip matched reality: principal photography began in January 1975 in Texas. Yet everyone swims in the RV park pool later on.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 575,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It was shot in Bandera, San Antonio, Castroville, Tarpley and Leakey, Texas. Loretta Swit called it a 'touring shoot' where 'we kept moving.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.sacurrent.com/movies-tv/late-actress-loretta-swit-recalls-shooting-cult-fright-flick-race-with-the-devil-in-san-antonio-50-years-ago-37633165/"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Peter Fonda reportedly did most of his own stunts and insisted the movie include dirt bike racing, like this motorcycle race between his and Warren Oates' characters.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/258929/the-gist-race-with-the-devil-the-gist"
+      },
+      "person": "nm0001228",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzczNzY1NjQtZTQ0Ny00OGIwLWFkM2QtM2VhYTUzN2U2ZDMxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This was the second of three films pairing Peter Fonda and Warren Oates, after The Hired Hand (1971) and before 92 in the Shade (1975).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Fonda: most of the shoot was at night. Fonda and Warren Oates taped 'do not disturb before 4:30 p.m.' signs to their doors, in Spanish and English.",
+      "icon": "mic",
+      "byline": "Peter Fonda",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001228",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzczNzY1NjQtZTQ0Ny00OGIwLWFkM2QtM2VhYTUzN2U2ZDMxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1060,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Jack Starrett claimed he hired real Satanists as hooded cult extras. Wikipedia says that was likely a publicity stunt.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0823630",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNzkzNDQ0Ml5BMl5BanBnXkFtZTcwNTQ3NzkxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1230,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Asked years later if director Jack Starrett hired real Satanists as extras, Loretta Swit denied it, joking there were no little Satanists in Texas.",
+      "icon": "mic",
+      "byline": "Loretta Swit",
+      "source": {
+        "type": "web",
+        "url": "https://www.sacurrent.com/movies-tv/late-actress-loretta-swit-recalls-shooting-cult-fright-flick-race-with-the-devil-in-san-antonio-50-years-ago-37633165/"
+      },
+      "person": "nm0842794",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTE4Mzk2MF5BMl5BanBnXkFtZTcwNjcyMjg4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer Lee Frost was hired to direct but was replaced by Jack Starrett a week into shooting. Fox executives learned most of the dialogue was being improvised.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After director Lee Frost was fired, stars Peter Fonda and Warren Oates reportedly barricaded themselves in their hotel room. Oates later flipped a glass coffee table at a tense meeting.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/258929/the-gist-race-with-the-devil-the-gist"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Warren Oates starred in Sam Peckinpah's The Wild Bunch (1969). He turned down the lead in Support Your Local Sheriff! to make it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0643105",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxMDUwMDkxOV5BMl5BanBnXkFtZTcwMjk3NDcyNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1690,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Sheriff Taylor is played by R.G. Armstrong, a Sam Peckinpah regular (Ride the High Country, Pat Garrett & Billy the Kid) who was best friends with Andy Griffith.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0035866",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3MDYyMjcwNl5BMl5BanBnXkFtZTcwMDE1NTUxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jack Starrett was Gabby Johnson in Blazing Saddles (1974) and the brutal deputy in First Blood (1982). Mel Brooks cast him after seeing his drunk routine at a party.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0823630",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNzkzNDQ0Ml5BMl5BanBnXkFtZTcwNTQ3NzkxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Fonda's boasts about accidentally shooting himself as a kid reportedly inspired John Lennon's Beatles song 'She Said She Said.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001228",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzczNzY1NjQtZTQ0Ny00OGIwLWFkM2QtM2VhYTUzN2U2ZDMxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2240,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The library book's human sacrifice picture comes from H.M. Herget's Aztec life paintings in the June 1937 National Geographic.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lara Parker said on the DVD commentary that she had been dating director Jack Starrett. She and Peter Fonda's sister Jane Fonda were also Vassar roommates.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0662430",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQzMTIwMTk3OF5BMl5BanBnXkFtZTgwOTM5NTc0NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2670,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film's working title was 'So Mote It Be', the phrase on the threatening rune left on the RV's broken window.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/67192"
+      }
+    },
+    {
+      "t": 2730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Loretta Swit (Alice) was M*A*S*H's Hot Lips Houlihan, and she never saw the movie M*A*S*H before being offered that role. This was her only horror film.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0842794",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTE4Mzk2MF5BMl5BanBnXkFtZTcwNjcyMjg4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2810,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity slip: the group vacations in January and wears heavy coats, yet everyone is swimming at the RV park pool.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AFI's catalog says the production employed over 100 Texas actors and crew, with Paul Knuckles as stunt coordinator.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/67192"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clay Tanner plays the motor lodge Satanist here. In Rosemary's Baby (1968) he played the Devil himself.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3360,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The dog hanging from the RV door was a real dog, drugged beforehand, and completely unharmed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "During the rattlesnake scenes, the snakes kept striking and one reportedly urinated all over Peter Fonda's shirt when he picked it up.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/258929/the-gist-race-with-the-devil-the-gist"
+      }
+    },
+    {
+      "t": 3570,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The rattlers weren't defanged. Loretta Swit said venom was milked on set, and she watched it happen. She came to think of the snakes as fellow actors.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.sacurrent.com/movies-tv/late-actress-loretta-swit-recalls-shooting-cult-fright-flick-race-with-the-devil-in-san-antonio-50-years-ago-37633165/"
+      },
+      "person": "nm0842794",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTE4Mzk2MF5BMl5BanBnXkFtZTcwNjcyMjg4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "UK censors required cuts to the snake being struck with a pole, under animal cruelty rules, before giving it a 15 certificate.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Body count: 9 humans, 2 dogs and 2 rattlesnakes.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3870,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Frank says the oil cooler is 'mashed up against the radiator,' but the RV's grill shows no damage.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3940,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The shotgun Frank and Roger buy is a Remington 870 pump, a gun still popular today.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Plot hole: Frank walks out with a shotgun and two boxes of buckshot without filling out any paperwork.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4110,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Gas station attendant: director Jack Starrett himself, in a cameo. He called Race with the Devil his favorite of his own movies.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0823630",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNzkzNDQ0Ml5BMl5BanBnXkFtZTcwNTQ3NzkxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4380,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Stunt count: sixteen cars, two trucks and eight motorcycles were destroyed, per an August 1975 Los Angeles Times report cited by AFI.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/67192"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The RV chase footage, with the motorhome getting more battered, was reused as stock footage in an episode of the TV series The Fall Guy (1981).",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria likened the film to the Mad Max 2 tanker chase stretched to feature length, with hooded Satanists as raiders. He noted the Devil never appears.",
+      "icon": "link",
+      "byline": "Richard Scheib, Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/race-with-the-devil-1975.htm"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It was a hit: over $12 million domestic gross for 20th Century Fox, about $5.8 million in North American rentals, and a drive-in staple for years.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times panned it as 'a ridiculous mishmash of a movie for people who never grew up.' Variety's Joseph McBride praised the performances, Leonard Rosenman's score and the action.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Time Out praised it as 'a winner all the way,' a surprise since Jack Starrett's directing record was 'the movie director's equivalent of a criminal record.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kevin Smith says this film strongly influenced his 2011 thriller Red State. It also inspired Nicolas Cage's Drive Angry (2011) and the Tamil film Kazhugu (1981).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2017 horror comedy Party Bus to Hell names its characters after this film's characters and actors as a homage.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/race-with-the-devil-1975.htm"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A remake was announced in 2005, to be directed by Chris Moore of Project Greenlight and written by Drew McWeeny and Scott Swan. It never appeared.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/67192"
+      }
+    }
+  ]
+}
