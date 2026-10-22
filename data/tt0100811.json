@@ -1,0 +1,423 @@
+{
+  "schema": 1,
+  "imdbId": "tt0100811",
+  "title": "Transylvania Twist",
+  "year": 1989,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-10-22T11:17:58.281Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 'Miracle Pictures' co-producer logo is a gag: no such company exists. Kim Newman says the logo is borrowed from Joe Dante and Allan Arkush's Hollywood Boulevard (1976).",
+      "icon": "reel",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "web",
+        "url": "https://johnnyalucard.com/2021/02/19/your-daily-dracula-transylvania-twist-1989/"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "One opening-credits spot has no cast name at all. It reads 'Your Ad Here 555-6748'.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Monique Gabrielle was the role's original inspiration: it was written for her. But producer Roger Corman wanted a TV name, so Teri Copley got the lead and Gabrielle took a supporting part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Horror legend Forrest J. Ackerman, longtime editor of Famous Monsters of Filmland, cameos as a mortician, holding a copy of his own magazine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Phantasm's Tall Man, Angus Scrimm, plays the butler Stefen here, spoofing his own famous role. His name is spelled right in the opening credits but 'Angus Scrim' in the end credits.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Uncle Ephram (Jay Robinson) is head librarian at Arkham, a Lovecraft nod. He boasts of 40 years running the world's biggest collection of witchcraft and black-arts books.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://reel-librarians.com/2015/10/14/reader-poll-write-up-transylvania-twist"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jim Wynorski replaced Charles B. Griffith as director. In 2013 Wynorski said this film 'comes closest to my personality' and 'was the show I never wanted to end'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 775,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jay Robinson, who plays Uncle Ephram, made his film debut as the scene-stealing Emperor Caligula in the Biblical epic The Robe (1953), and played him again in Demetrius and the Gladiators.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jay_Robinson"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Boris Karloff, dead since 1969, 'appears' via footage lifted from Roger Corman's 1963 film The Terror. Moria reviewer Richard Scheib notes it also supplies reused beach and castle scenes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/transylvania-twist-1989.htm"
+      }
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Vaughn's Count Byron Orlock shares its name with the Boris Karloff character in Peter Bogdanovich's Targets (1968). Vaughn is best known as Napoleon Solo on The Man from U.N.C.L.E.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/transylvania-twist-1989.htm"
+      }
+    },
+    {
+      "t": 1120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Robert Vaughn earned an Oscar nomination for The Young Philadelphians (1959) and later played the villain Ross Webster in Superman III (1983).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hero Dexter Ward and his uncle's workplace, Miskatonic University, are both Lovecraft nods. Dexter Ward comes from Lovecraft's 'The Case of Charles Dexter Ward'.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/transylvania-twist-1989.htm"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's title comes from a line in the 1962 novelty hit 'Monster Mash'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Mark Thomas McGee worked on an early draft for about a week before being fired at Roger Corman's request. Corman told director Jim Wynorski he was difficult to work with.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The castle exteriors recycle footage from Roger Corman's Pit and the Pendulum (1961), a shot Corman reused in several films, including The Terror (1963), per Kim Newman.",
+      "icon": "camera",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "web",
+        "url": "https://johnnyalucard.com/2021/02/19/your-daily-dracula-transylvania-twist-1989/"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A scene in 3-D leaves Dexter and Marissa seeing only jumbled red and green, because neither wears 3-D glasses.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jim Wynorski wrote the lyrics to songs 'Just Give Me Action' and 'Think of the Royalties'. Chuck Cirino composed the music.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Howard Morris, who plays Marissa's father, was Ernest T. Bass on The Andy Griffith Show and a Your Show of Shows regular. He also voiced Jetsons characters like Jet Screamer.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Howard_Morris"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wikipedia says the film's humor is in the vein of Airplane! and Mel Brooks. It also breaks the fourth wall, with one character saying 'I'm in the wrong movie'.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The spell to summon the Evil One includes the nonsense words 'Papa-Oom-Mow-Mow', a pun on the 1962 Rivingtons hit.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kim Newman notes the plot is borrowed from The Cat and the Canary (heirs searching a castle), with routines lifted from Young Frankenstein. He found the gags 'widely accessible if not very funny.'",
+      "icon": "link",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "web",
+        "url": "https://johnnyalucard.com/2021/02/19/your-daily-dracula-transylvania-twist-1989/"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's credits include a 'Fan of Mr. Vaughn' (Denetia Arellanes) and 'Mr. Wynorski's Favorite Animator' (Kevin Kutchaver).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Besides Monique Gabrielle, scream queens Brinke Stevens, Kelli Maroney and Becky LeBeau appear. Becky LeBeau also sings 'Caught in the Middle of Love'.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/transylvania-twist-1989.htm"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Greg Woods of The Eclectic Screening Room argued star Teri Copley showed real comic talent that was never developed, calling this her best big-screen showcase.",
+      "icon": "star",
+      "byline": "Greg Woods",
+      "source": {
+        "type": "web",
+        "url": "https://screening-room.ca/transylvania-twist-1989/"
+      },
+      "person": "nm0178746"
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gags include a Pinhead lookalike leaving an acupuncturist's office, and a Phantasm spoof where the silver sphere becomes a baseball.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/transylvania-twist-1989.htm"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The $1 million production got a PG rating and few theatrical dates. It was mostly seen on video, even though Monique Gabrielle was famous for nudity elsewhere.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Transylvania_Twist"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Angus Scrimm, who played Phantasm's Tall Man, won a Grammy as 'Rory Guy' for his 1974 liner notes to a Korngold album.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Eclectic Screening Room's Greg Woods compared the film's intercutting of classic footage like Boris Karloff's to Dead Men Don't Wear Plaid, and its gag rate to the Marx Brothers.",
+      "icon": "reel",
+      "byline": "Greg Woods",
+      "source": {
+        "type": "web",
+        "url": "https://screening-room.ca/transylvania-twist-1989/"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wynorski also directed Chopping Mall (1986), and its Ace Mask also plays vampire hunter Victor Von Helsing here. Chopping Mall footage is also listed among this film's connections.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jay Robinson (Uncle Ephram) made his Broadway debut in 1949's The Shop at Sly Corner opposite Boris Karloff, whose footage is spliced into this film decades later.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jay_Robinson"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews were mixed. Variety praised its 'many delightful reflexive bits'; AMC rated it 1 star out of 5 and TV Guide gave 2.5 out of 4.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib gave it 2 stars out of 5, calling it 'a serial barrage of lame jokes and bad puns' that is at least painless.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/transylvania-twist-1989.htm"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The full soundtrack by Chuck Cirino wasn't released until June 7, 2010, paired with his score for Not of This Earth.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's closing credits invite viewers to 'Read The Book of Ulthar. Available soon in paperback.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Its copyright warning threatens infringers with 'a one-way ticket to Castle Orlock'.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was later name-checked in Scream Queen Hot Tub Party (1991) and Invasion of the Scream Queens (1992).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
