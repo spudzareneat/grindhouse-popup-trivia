@@ -1,0 +1,455 @@
+{
+  "schema": 1,
+  "imdbId": "tt0367854",
+  "title": "The Hollow",
+  "year": 2004,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-10-22T10:30:10.194Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Hollow debuted on ABC Family in 2004 and was heavily trimmed for TV. The uncut version, with its R-rated scares, only showed up on DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film is set around Halloween but shot in May and June 2003. Pumpkins were out of season, so the art department found only a few real ones and most pumpkins on screen are fake.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Kyle Newman, later of Fanboys, took over The Hollow four days into shooting. It was his first feature.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole movie cost about $900,000, a tiny budget for a headless-horseman slasher with a cast that includes a Backstreet Boy and a future Big Bang Theory star.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The shoot was first scheduled for 22 days, then stretched to 26.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The classic Ford Mustang in the film wasn't a rental. It belonged to the movie's second assistant director.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 990,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kaley Cuoco (Karen) shot this while starring in the sitcom 8 Simple Rules. A few years later she became Penny on The Big Bang Theory, which ran from 2007 to 2019.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before acting full time in 2002, Kaley Cuoco was a nationally ranked amateur tennis player.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1215,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Eileen Brennan, who plays Joan Van Etten here, earned an Oscar nomination as Captain Doreen Lewis in Private Benjamin, then won an Emmy for playing her in the TV spinoff.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Eileen_Brennan"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Melissa Schuman and Shelley Bennett both auditioned for Karen, the cheerleader role that went to Kaley Cuoco.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Backstreet Boys singer Nick Carter (Brody) and Kevin Zegers (Ian Cranston) met on this set and became great friends.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nick Carter is the youngest member of the Backstreet Boys. His solo album Now or Never came out in 2002, and a Carter track, Blow Your Mind, is on this film's soundtrack.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1665,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eileen Brennan, in The Hollow as Joan Van Etten, was Mrs. Peacock in the 1985 cult comedy Clue. In 1982 she was hit by a car in Venice Beach and spent two years recovering.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Eileen_Brennan"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stacy Keach (Claus Van Ripper) served nine months in England's Reading Gaol after a 1984 cocaine bust. He later modeled Prison Break's Warden Pope on the warden there.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stacy Keach is the washed-up boxer in John Huston's Fat City (1972) and Sergeant Stedenko in Cheech & Chong's Up in Smoke (1978).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1965,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Judge Reinhold plays Carl here. He was Billy Rosewood in Beverly Hills Cop and Brad Hamilton in Fast Times at Ridgemont High, and got the nickname 'Judge' for looking stern as a baby.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Judge_Reinhold"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Zegers made this the same year as the Dawn of the Dead remake. A year earlier he was in Wrong Turn. He began acting at six and starred in Air Bud.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kevin_Zegers"
+      }
+    },
+    {
+      "t": 2190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin Zegers won the Trophée Chopard for Male Revelation at Cannes in 2006 for Transamerica, the year after playing Ian Cranston here.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kevin_Zegers"
+      }
+    },
+    {
+      "t": 2265,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nicholas Turturro (Sheriff Duncan) is the younger brother of actor John Turturro. He's best known as Detective James Martinez on NYPD Blue, which earned him two Emmy nominations.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_Turturro"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Kyle Newman has a cameo in his own movie as a 'Cool High School Dude.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kyle_Newman"
+      }
+    },
+    {
+      "t": 2490,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kyle Newman's next film was the Star Wars comedy Fanboys. The Weinstein Company hired Steven Brill to shoot extra scenes, and it reached theaters in 2009 after years of delays.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kyle_Newman"
+      }
+    },
+    {
+      "t": 2565,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The script is by Hans Rodionoff, credited with a story by Washington Irving. The film's R-rated cut was released on DVD as 'unrated' and runs about 83 minutes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/the-hollow-2004"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before The Hollow, Kyle Newman won NYU's Martin Scorsese Award for Excellence in Directing. He later directed Taylor Swift's 'Style' music video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kyle_Newman"
+      }
+    },
+    {
+      "t": 2790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Reviewer Andrew Smith of Popcorn Pictures noted the Horseman here wears a huge pumpkin for a head, which he said clashes with the 'headless' idea. He also counted a body count of only five.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/the-hollow-2004"
+      }
+    },
+    {
+      "t": 2915,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spoiler for no one: a Rotten Tomatoes audience score of 33% sits beside user praise for the sound editing and the cast of Kaley Cuoco, Judge Reinhold, Eileen Brennan and Stacy Keach.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rottentomatoes.com/m/hollow"
+      }
+    },
+    {
+      "t": 2960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Popcorn Pictures' Andrew Smith complained the Headless Horseman doesn't turn up until about halfway through, and called the night chases hard to follow because of a dark transfer.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/the-hollow-2004"
+      }
+    },
+    {
+      "t": 3090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Encyclopedia.com gave The Hollow 1.5 stars. It noted the violence would keep many families away, even though the movie premiered on the family-oriented ABC Family channel.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/hollow"
+      }
+    },
+    {
+      "t": 3165,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Encyclopedia.com lists The Hollow as R-rated, running 82 minutes, with photography by Scott Kevan and music by Todd Haberman. It bills the film as an updated remake of Sleepy Hollow.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/hollow"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Washington Irving wrote The Legend of Sleepy Hollow in 1819-20 while living in Birmingham, England. It has never been out of print.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Irving's Headless Horseman may owe something to a Hessian soldier reportedly decapitated by a cannonball at the Battle of White Plains in 1776.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Other Sleepy Hollow versions include Disney's 1949 cartoon narrated by Bing Crosby, a 1980 TV movie with Jeff Goldblum as Ichabod, and Tim Burton's 1999 film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wikipedia's list of Sleepy Hollow adaptations includes this film as a TV movie about a teenage descendant of Ichabod Crane. Its tagline was 'Some Legends Never Die.'",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the film, Nick Carter's character Brody rants that the town is the birthplace of the most famous ghost story ever, yet all it offers is a junior storyteller and a hokey hayride.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3915,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Kyle Newman's earlier short Bitten by Love won the Coca-Cola Refreshing Filmmaker's Award in 1998 while he was still an NYU student.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kyle_Newman"
+      }
+    },
+    {
+      "t": 3990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Billy Aaron Brown, Kaley Cuoco's 8 Simple Rules co-star, later appeared in Headless Horseman (2007), another film inspired by Sleepy Hollow.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film shot at Walt Disney's Golden Oak Ranch in Newhall, plus Grant High School in Van Nuys and Agoura Hills, California.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Hollow is name-checked in the 2014 film The Deformities of Gabe Bartalos.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4440,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sleepy Hollow is a real place. Its local school district is named for Ichabod Crane, and Washington Irving is buried in the Sleepy Hollow cemetery.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wikipedia lists The Hollow among Sleepy Hollow adaptations. Decades later, Sleepy Hollow (2013) became a four-season Fox series with Ichabod waking up in the 21st century.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
