@@ -1,0 +1,717 @@
+{
+  "schema": 1,
+  "imdbId": "tt0082511",
+  "title": "Hell Night",
+  "year": 1981,
+  "runtimeSec": 6060,
+  "generatedAt": "2026-10-22T10:47:08.237Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This opening frat party plays as one cut of about two and a half minutes. It reportedly took four hours to prep, a nod to Compass International producer Irwin Yablans' Halloween.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Kevin Brophy, who plays frat president Peter in the purple cape, says he still owns that cape and has worn it every Halloween since making the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0112403",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg2NzllNzQtMGM3NS00OWMwLTg1YTEtNmIyY2FiOTY3ZWUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Randy Feldman, fresh out of UC Berkeley, wrote the script in about five weeks. He was loosely inspired by the sorority-stalking slasher Black Christmas (1974).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hell Night was the last film released by Compass International Pictures, the company that distributed John Carpenter's Halloween (1978).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Garth Manor's exterior is Kimberly Crest in Redlands, California. The owner's estate reportedly refused to let the crew inside, so interiors were shot in an old Pasadena house.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The real Kimberly Crest has no underground tunnels. The film's tunnels were two corridors on a Raleigh Studios soundstage in Hollywood, filmed from different angles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lamag.com/film/scene-kimberly-crest-house-hell-night/"
+      }
+    },
+    {
+      "t": 550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The architects of Kimberly Crest, built in 1897, later built a nearly identical mansion in Hollywood. It is now the Magic Castle.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lamag.com/film/scene-kimberly-crest-house-hell-night/"
+      }
+    },
+    {
+      "t": 595,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Frat president Peter says police found only three corpses at Garth Manor, yet his own tale has five dead: the wife, three children and the father who hanged himself.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The shoot was planned at $1 million. Filming ran 40 days through the 1980 holidays, which added another $400,000 to the budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 730,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Linda Blair recalled 5 a.m. to 11 p.m. shooting days on a six-day week. The producers rented a double-decker bus to serve the cast and crew Thanksgiving dinner.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair auditioned for The Blue Lagoon (1980) to escape her victim typecasting after The Exorcist. The role went to Brooke Shields.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 910,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair was nominated for a Razzie for Worst Actress for this film. She lost to a tie between Faye Dunaway (Mommie Dearest) and Bo Derek (Tarzan, the Ape Man).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1015,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Critic John Kenneth Muir sees Marti (Linda Blair) as blue-collar. Her talk of rich versus poor with wealthy Jeff gives the slasher a class-struggle subtext.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1090,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Seth was first written as a Louisiana southerner. After Vincent Van Patten was cast, the role was rewritten around his own love of surfing.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0887701",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3Nzk4NzkyNl5BMl5BanBnXkFtZTYwMzQwNDM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1175,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Van Patten was also a pro tennis player. He ranked 41st in the world in 1981 and beat John McEnroe in an ATP Tokyo semifinal that October.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0887701",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3Nzk4NzkyNl5BMl5BanBnXkFtZTYwMzQwNDM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1240,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Jeff (Peter Barton) compares his dad to the father on Leave It to Beaver. The film's nod to the 1957 sitcom is one of its few pop-culture references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1345,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "John Corry of The New York Times noted Marti is a working-class kid whose father runs a gas station. He called her escaping the house this film's one original contribution to the genre.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1460,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Marti's full name in the original script is Martha Gaines. Marti was a nickname, and it's never mentioned in the film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1570,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Peter Barton (Jeff) was thinking of quitting acting. Producer Bruce Cohn Curtis took him to lunch and talked him into the role. Barton credits this film with keeping his career going.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      },
+      "person": "nm0059228",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwMDk2NjI5N15BMl5BanBnXkFtZTcwMjgyOTkwOQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Publicity files misspelled Jenny Neumann's character May West as 'Mae West', and several reviews repeated the error, per the AFI Catalog.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56639"
+      }
+    },
+    {
+      "t": 1690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Barton (Jeff) beat Tom Cruise for the title role in the TV series The Powers of Matthew Star (1982).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0059228",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwMDk2NjI5N15BMl5BanBnXkFtZTcwMjgyOTkwOQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 2012 a stranger, Ray Fulk, left his Illinois farm to Kevin Brophy and Peter Barton. They had never met him. He was a fan of their old TV shows, and it was told on TV's Strange Inheritance.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hell Night is credited with a best special effects award from Spain's Sitges Film Festival, one of the genre world's best-known festivals.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikidata"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Frank Darabont, later the director of The Shawshank Redemption, worked on Hell Night as a production assistant. It was one of his earliest film credits.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Executive producer Chuck Russell later directed A Nightmare on Elm Street 3: Dream Warriors (1987). His longtime collaborator Frank Darabont was a production assistant here.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Hell Night, director Tom DeSimone spent much of the 1970s making gay and straight porn films, according to Richard Scheib of Moria, then moved into mainstream exploitation.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/hell-night-1981.htm"
+      }
+    },
+    {
+      "t": 2160,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vincent Van Patten claims that future star Kevin Costner worked on this movie as a grip.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2262,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Tom DeSimone and cinematographer Mac Ahlberg skipped extra lighting for the mansion. The characters carry candles to light each room.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 2380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Randy Feldman's first script was Hell Night. He later wrote the Sylvester Stallone and Kurt Russell buddy-cop movie Tango & Cash (1989).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In week one, someone took director Tom DeSimone's script, which held all his shot notes. He recreated the shots from memory and then insisted on a closed set.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tom DeSimone hated horror films where people wander haunted houses in jeans and T-shirts. His fix was making the frat party a costume party, so everyone got Gothic wardrobes.",
+      "icon": "mic",
+      "byline": "Tom DeSimone — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The two Garth killers are uncredited. The DVD commentary says both were German nationals who spoke little English, and the middle-aged bearded one died shortly after the film's release.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Randy Feldman's script had one madman killer. After the producers bought it, they added a second to stretch out the shocks and make the finale bigger.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Bruce Cohn Curtis saw Jamie Lee Curtis's chase in Terror Train (1980). That led to the long chase through the mansion's tunnels for Linda Blair's character.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair wanted adult roles after this film and posed for Oui magazine in 1982. She says it backfired and led to more exploitation films.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3270,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "For May's death, actress Jenny Neumann's head poked through a hole in a wall above a prosthetic body with a wax neck. The MPAA reportedly insisted the scene be severely censored.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 3345,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film cuts between the house and the front gates as if they're close. They are actually about a mile apart.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Howard Stern took Linda Blair to a premiere party for this film. She wanted to leave right away, and it inspired a scene with Brittany Fairchild in his movie Private Parts (1997).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3545,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tom Shales of The Washington Post sniffed that director Tom DeSimone handles shocks competently, but most people can guess which side of the frame the beastie will leap from.",
+      "icon": "mic",
+      "byline": "Tom Shales — The Washington Post",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3610,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The hedge maze was brought in for the shoot, because the mansion's grounds had no garden maze.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3730,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The crew couldn't get the owl to fly straight at the camera. They settled for a shot of the owl flying toward the upper right.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert gave the film one star. He wrote that he'd lasted through the first reel and was somewhere in the third, and still nothing original had happened.",
+      "icon": "mic",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In its Detroit opening week, Hell Night was the city's top-grossing release at $187,000, out-earning Raiders of the Lost Ark.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "At the police station Seth loads three shells into a shotgun. Fans have counted that he has fewer by the time he reaches the manor, thanks to some racking of the pump along the way.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin Thomas of the Los Angeles Times praised Linda Blair and the film's art direction and costumes. He said it just might give adults nightmares.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Robin Wood praised Marti as an active, resourceful heroine who can do more than scream and fall over.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4590,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "These tunnels look huge, but the production only had two corridors. Director Tom DeSimone shot the actors running through them again and again from different angles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4685,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Time Out called it amazing what a competent director, cameraman and cast can do for a soggy plot, and found Hell Night tolerably watchable next to the average Halloween rip-off.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4780,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer Randy Feldman, director Tom DeSimone and producer Bruce Cohn Curtis shaped a film that grossed about $5.3 million in the US on a $1.4 million budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4885,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The blue car Seth steals is a 1969 Ford Galaxie 500 sedan fitted with a 1970 grille.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4935,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Peter Barton says Jeff's limp is from a rock he put in his shoe for continuity. Other accounts say he really hurt his leg in a fall down a flight of stairs.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0059228",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwMDk2NjI5N15BMl5BanBnXkFtZTcwMjgyOTkwOQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5090,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On Rotten Tomatoes, 57% of 14 critics liked Hell Night. Metacritic scores it 36 out of 100, \"generally unfavorable.\" It has since become a cult favorite.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5195,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Anton Bitel of Little White Lies wrote in 2021 that Hell Night recasts the slasher as social struggle: Marti is a working-class heroine who learns to turn her back on fraternity.",
+      "icon": "mic",
+      "byline": "Anton Bitel — Little White Lies",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was uncut in UK cinemas. Early UK videos lost one second to the BBFC, a close-up of a body on iron spikes. That cut was waived in 2002.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Linda Blair went on to the exploitation films Chained Heat (1983) and Savage Streets (1984). She later became an animal-rescue activist and founded the WorldHeart Foundation in 2004.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5525,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety reported in 1986 that writer Randy Feldman sued BLT Productions, claiming 2.5% of net profits and $50,000 unpaid. Hell Night was Feldman's feature debut as a screenwriter.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56639"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author Scott Stine wrote in The Gorehound's Guide to Splatter Films of the 1980s that Hell Night is quite endearing in retrospect, though almost universally despised at the time.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5660,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria rated it two stars. He found the first half better than most imitators, but said the second half bogs down in protracted running around.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/hell-night-1981.htm"
+      }
+    },
+    {
+      "t": 5720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kimberly Crest, the house used as Garth Manor, also appeared in Fleetwood Mac's 1987 \"Big Love\" music video. Tours are offered today.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lamag.com/film/scene-kimberly-crest-house-hell-night/"
+      }
+    },
+    {
+      "t": 5850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Bruce Cohn Curtis has mused about a sequel or remake with Linda Blair back as a schoolteacher. Retro Slashers says union issues stand in the way, and none has been approved.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/the-making-of-hell-night-1981/"
+      }
+    },
+    {
+      "t": 5960,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The end credits misspell 'coordinator' as 'coodinator' twice, and thank Kimberly-Shirk Associates for letting the production film at Kimberly Crest.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56639"
+      }
+    }
+  ]
+}
