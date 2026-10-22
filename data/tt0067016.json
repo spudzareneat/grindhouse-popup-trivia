@@ -1,0 +1,578 @@
+{
+  "schema": 1,
+  "imdbId": "tt0067016",
+  "title": "Dr. Jekyll vs. The Werewolf",
+  "year": 1972,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-10-22T11:12:22.381Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Paul Naschy wrote this script under his real name, Jacinto Molina. He used the Naschy pseudonym only on screen, reportedly to help sell the film to English-language audiences.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dr-jekyll-and-the-wolfman-1972.htm"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 140,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jack Taylor (Dr. Henry Jekyll) is an American who also supplied the English dubbed voice of Paul Naschy in Naschy's 1970s Spanish horror films.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0852488",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRjZDBmM2ItNmRmZC00MTUyLTljODMtOGJiZWY0ZGZhZmM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 185,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dr. Henry Jekyll answers a nosy party guest's question about his grandfather by pointing to A Midsummer Night's Dream, where a man turns into a donkey. Be careful what you wish for.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 230,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Shirley Corrigan, the English actress playing newlywed Justine, got her nickname \"Shirleybelle\" from Mother Teresa.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0181008",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFlYzcwMWYtNjFiOC00YTI2LTg5ZGYtZTEwZWI2ZDRmYjQzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 275,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Title card time: this is the only movie where the Jekyll/Hyde characters and Paul Naschy's Wolf Man appear together.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director León Klimovsky worked as a dentist for 15 years before becoming a filmmaker.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0459567",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQ0NzcyMDktOTg3My00ODZmLTgzZGYtZDdkZDE5OGI0NmY0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was Paul Naschy's second film with director León Klimovsky, after their hit Werewolf Shadow (La noche de Walpurgis, 1970). It didn't match that film's box office.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paul Naschy's lost second Daninsky film, The Nights of the Wolf Man (1968), is why this is called the sixth wolf movie. Naschy reportedly remembered only a week shooting in Paris for it.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/17/pure-terror-month-dr-jekyll-vs-the-werewolf-1971/"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Genre Grinder's review says director León Klimovsky gives the film a respectful imitation of Hammer directors Terence Fisher and Freddie Francis, on roughly half the budget.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/dr-jekyll-and-the-wolfman-blu-ray-review"
+      },
+      "person": "nm0459567",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQ0NzcyMDktOTg3My00ODZmLTgzZGYtZDdkZDE5OGI0NmY0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Production ran November to December 1971, but the film didn't reach Spanish theaters until November 13, 1972.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "José Marco, who plays honeymooner Imre Kosta, also appeared in the cult train-monster film Horror Express (1972).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1677738",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjk1OGVhZjItY2NmMy00MmZiLWJkOTEtNWQ2ODIyYTc4ZTNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Doris V. Sutherland compared this modern-London werewolf tale to Hammer's Dracula A.D. 1972: classic monsters dropped into groovy 1970s Britain.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.killerhorrorcritic.com/reviewsnews/tearing-through-werewolf-cinema-dr-jekyll-and-the-wolfman-blended-paul-naschys-werewolf-with-dr-jekyll"
+      }
+    },
+    {
+      "t": 901,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Transylvania was played by Spain. Locations included the Castillo de Guadamur near Toledo, plus Madrid, while London was shot on location in Soho, Piccadilly and Westminster.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paul Naschy's voice was almost always dubbed in the Spanish versions of his films, often by professional dubbers José Guardiola or Simón Ramírez.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Title changes: Dr. Jekyll and the Wolfman in the U.S. (1973), Dr. Jekyll and the Werewolf in the UK, and Night of the Bloody Wolves in Germany (1974).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Paul Naschy's barrel chest came from weightlifting, and he was once a pro wrestler. He later became known as the \"Spanish Lon Chaney\" for playing the Wolfman, Frankenstein's monster, Dracula and more.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1365,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Luis Induni, who plays village gang leader Otvos, had over 200 film credits by 1972. Kitley's Krypt notes he returned for Paul Naschy's Night of the Howling Beast (1975).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kitleyskrypt.com/2016/03/30/movie-review-dr-jekyll-vs-the-werewolf/"
+      }
+    },
+    {
+      "t": 1430,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Paul Naschy plays three roles: Count Waldemar Daninsky, the Wolf Man, and Mr. Hyde. Richard Scheib of Moria notes Waldemar doesn't show up until well into the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "1972 was Paul Naschy's busiest year as a writer: he wrote and starred in no fewer than seven movies.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the 1950s, before Paul Naschy was a horror star, he wrote Western dime novels under the pseudonym Jack Mills.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Unlike most Waldemar Daninsky films, this one never explains how the werewolf curse started, according to Kitley's Krypt. It just drops in with Waldemar already afflicted.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kitleyskrypt.com/2016/03/30/movie-review-dr-jekyll-vs-the-werewolf/"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Two cuts were made: a clothed version for Spanish theaters, and an export version with added nudity for everyone else. Some prints, like the German one, have different nude inserts again.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director León Klimovsky founded Argentina's first film club in 1929. He also directed the spaghetti western Raise Your Hands Dead Man (1971).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Jekyll_versus.html"
+      },
+      "person": "nm0459567",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQ0NzcyMDktOTg3My00ODZmLTgzZGYtZDdkZDE5OGI0NmY0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2145,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The poster reportedly shows a severed head drawn to look like Justine, because Uswika Bathory's actress, Elsa Zabala, wasn't considered photogenic enough for the artwork.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.killerhorrorcritic.com/reviewsnews/tearing-through-werewolf-cinema-dr-jekyll-and-the-wolfman-blended-paul-naschys-werewolf-with-dr-jekyll"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Spanish genre films of this era were shot without synced sound and dubbed later. Genre Grinder's review says Jack Taylor (Dr. Jekyll) seems to have spoken English on set.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/dr-jekyll-and-the-wolfman-blu-ray-review"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Paul Naschy's later spy spoof Operation Mantis (1985) lost so much money that his production company Aconito Films went bankrupt.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Mirta Miller, who plays Jekyll's jealous assistant Sandra, was born in Buenos Aires. She has appeared in more than 65 films since 1961.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0589019",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzk0YTY1NmYtMTk0Mi00ZjNkLThhZjUtMzk0NTc1Y2I2MTI4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2673,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Famous bit: Waldemar turns into the Wolf Man inside a stalled clinic elevator with a young nurse. Wikipedia lists it among the film's unusual transformation scenes.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Taylor (Dr. Jekyll) got his start with an uncredited bit in Cleopatra (1963) and was a regular in Jesús Franco's Euro-horror, including Count Dracula (1970).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0852488",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRjZDBmM2ItNmRmZC00MTUyLTljODMtOGJiZWY0ZGZhZmM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2930,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jack Taylor (Dr. Jekyll) later played in the gory slasher Pieces (1982) and Roman Polanski's The Ninth Gate (1999).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0852488",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRjZDBmM2ItNmRmZC00MTUyLTljODMtOGJiZWY0ZGZhZmM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In a 2002 interview, Paul Naschy called crossover films like this one \"monster cocktails,\" according to Genre Grinder's review.",
+      "icon": "mic",
+      "byline": "Paul Naschy",
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/dr-jekyll-and-the-wolfman-blu-ray-review"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3105,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Nitpick: Dr. Henry Jekyll and assistant Sandra operate on and inject Waldemar without wearing scrubs, while he lies partly undressed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A heavily cut 72-minute version of the film circulates on budget multi-film packs, missing much of the nudity and violence found in the 88-minute Code Red DVD cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/17/pure-terror-month-dr-jekyll-vs-the-werewolf-1971/"
+      }
+    },
+    {
+      "t": 3520,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Despite the title, Jekyll never turns into Hyde: Waldemar does. Richard Scheib of Moria complained that the promised \"vs\" showdown never arrives.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dr-jekyll-and-the-wolfman-1972.htm"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kitley's Krypt praised Paul Naschy's Mr. Hyde as one of the best since Fredric March won an Oscar for the 1932 Dr. Jekyll and Mr. Hyde.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kitleyskrypt.com/2016/03/30/movie-review-dr-jekyll-vs-the-werewolf/"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3865,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Bands About Movies' review said Paul Naschy's grinning, hairpiece-wearing Mr. Hyde looks more like Bugs Bunny in the 1955 cartoon Hyde and Hare than a classic screen Hyde.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/17/pure-terror-month-dr-jekyll-vs-the-werewolf-1971/"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Antón García Abril mixes sparse, Blind Dead-style horror music with contemporary jazz for the London scenes, according to Mondo Esoterica's review.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Jekyll_versus.html"
+      }
+    },
+    {
+      "t": 4110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "London shoot: the film used real locations including Trafalgar Square, Piccadilly Circus, Soho and the Houses of Parliament with Big Ben.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Killer Horror Critic notes the film is basically two Waldemar Daninsky stories joined end to end: a Gothic Transylvania tale, then a modern London one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.killerhorrorcritic.com/reviewsnews/tearing-through-werewolf-cinema-dr-jekyll-and-the-wolfman-blended-paul-naschys-werewolf-with-dr-jekyll"
+      }
+    },
+    {
+      "t": 4290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mondo Esoterica's reviewer described Jekyll's deathbed scene as one of the most dragged-out in movie history. Yes, he really does keep talking.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Jekyll_versus.html"
+      }
+    },
+    {
+      "t": 4390,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity goof: Dr. Jekyll closes his eyes after his last words, then the cut to the close-up shows them open again.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4525,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Waldemar changes inside a packed Soho disco. Strobe lights and rapid full-moon shots sell the transformation, according to Mondo Esoterica's review.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Jekyll_versus.html"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline: \"To destroy the Monster, was to destroy the one she loved!! Could she? Could you?\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The next Waldemar Daninsky adventure was Curse of the Devil (El retorno de Walpurgis, 1973). The saga eventually ran to 12 films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film two and a half stars out of five. He called the first half a \"timewaster\" but said the second half works.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dr-jekyll-and-the-wolfman-1972.htm"
+      }
+    },
+    {
+      "t": 5090,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Esoterica's review says Paul Naschy's sneering Mr. Hyde foreshadows his villain de Marnac in the 1973 film El espanto surge de la tumba (Horror Rises from the Tomb).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-esoterica.net/Jekyll_versus.html"
+      },
+      "person": "nm0596701",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EzZWRlZTgtYmRiMi00ZjJmLWFlMWUtOTU2ZmMyYWE1MzRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
