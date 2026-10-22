@@ -1,0 +1,487 @@
+{
+  "schema": 1,
+  "imdbId": "tt0070634",
+  "title": "The Satanic Rites of Dracula",
+  "year": 1973,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-10-22T10:39:43.320Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Alan Gibson, who made this Hammer Dracula, was Canadian-born, but worked mostly in British film and TV, including the anthology series Journey to the Unknown.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0316830"
+    },
+    {
+      "t": 135,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The shooting title was 'Dracula Is Dead... and Well and Living in London.' Star Christopher Lee told the press: 'I'm doing it under protest... fatuous, pointless, absurd.'",
+      "icon": "mic",
+      "byline": "Christopher Lee",
+      "source": {
+        "type": "web",
+        "url": "https://hammerfilms.com/blogs/news/the-counts-last-bow-and-the-beauty-of-draculas-final-scene-part-one"
+      },
+      "person": "nm0000489",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 180,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The British censors (BBFC) heavily trimmed this opening sacrifice ritual, plus two stakings and a guard's electrocution, for the UK cinema release.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming wrapped January 3, 1973, exactly 15 years to the day after the first Hammer Dracula (1958) finished shooting.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hammerfilms.com/blogs/news/the-counts-last-bow-and-the-beauty-of-draculas-final-scene-part-one"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Assistant director Derek Whitehurst recalled the crew's mood on this Dracula sequel: 'We all felt it was scraping the bottom of the barrel.'",
+      "icon": "mic",
+      "byline": "Derek Whitehurst — Assistant Director",
+      "source": {
+        "type": "web",
+        "url": "https://hammerfilms.com/blogs/news/the-counts-last-bow-and-the-beauty-of-draculas-final-scene-part-one"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hammer's workforce had shrunk to a small core by the time cameras rolled in November 1972, as American horror hits like Night of the Living Dead made its gothic style look tame.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The story is set in 1974, two years after the events of Dracula A.D. 1972, which also starred Christopher Lee and Peter Cushing.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 725,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Michael Coles' Inspector Murray is introduced here. Besides Christopher Lee and Peter Cushing, Coles was the only actor to play the same role in more than one Hammer Dracula film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0171326",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE4ZTlkMGUtYmZhYi00NGMyLTkzNmEtZTJiNTg5OWIwYWE0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 794,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The cult's lair, Pelham House, is named after Pelham Place, the London home of Hammer chairman James Carreras, who stepped down right after this film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "William Franklyn (agent Peter Torrence) was a household name in Britain from 1965 to 1973 as the voice of Schweppes ads: 'Schhh... you know who.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0291598",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzM4YTQzZTAtYWZmNy00YWQ4LTg0YTEtY2MzOGE1MWJhOTZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Don Houghton also wrote the Doctor Who serials Inferno (1970) and The Mind of Evil (1971) before writing Hammer's two modern-day Dracula films for Christopher Lee.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Don_Houghton"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Cushing was nicknamed 'Props' for using small objects to make his acting feel natural. He'd even arrive with a list of what his character carries in his pockets.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001088",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ1NWViYTItY2Q1NC00MzU5LWJkMWYtYzBjMWQyOTQ4ODQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria suggests the devil-worship angle and title were added to cash in on the success of The Exorcist, which was a hit in the same year.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/satanic-rites-of-dracula-1973.htm"
+      }
+    },
+    {
+      "t": 1490,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Joanna Lumley takes over as Jessica Van Helsing from Stephanie Beacham, who played her in the previous film. Both later played love interests of Ken Barlow on Coronation Street.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The previous film, Dracula A.D. 1972, got one star out of four from Roger Ebert. The Monthly Film Bulletin called it 'an abortive and totally unimaginative attempt' to update Stoker.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dracula_A.D._1972"
+      }
+    },
+    {
+      "t": 1689,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Freddie Jones (Professor Keeley) later played Bytes in David Lynch's The Elephant Man and appeared in Dune. He and Peter Cushing had earlier made Frankenstein Must Be Destroyed together.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0428086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1860,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Christopher Lee's Dracula shows up around the half-hour mark. Before his first real speaking scene he has appeared only once, in a silent sequence.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000489",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Christopher Lee was reportedly so tired of the Dracula films that he kept a copy of Bram Stoker's novel on set and grumbled that the scripts strayed from it.",
+      "icon": "mic",
+      "byline": "Christopher Lee",
+      "source": {
+        "type": "web",
+        "url": "https://hammerfilms.com/blogs/news/the-counts-last-bow-and-the-beauty-of-draculas-final-scene-part-one"
+      },
+      "person": "nm0000489",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer John Cacavas scored Kojak and Airport 1975. He broke into film through actor Telly Savalas, whose Horror Express (1972) starred Christopher Lee and Peter Cushing.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Cacavas"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The biker gang's bikes were 1972 Suzuki two-stroke triples. Their buzzing exhaust notes were dubbed over with deeper four-stroke engine sounds.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Christopher Lee and Peter Cushing were huge Looney Tunes fans. They once got thrown out of a cinema for laughing hysterically at a Sylvester and Tweety cartoon.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Wood of British Horror Films says this is often thought of as an Avengers episode in disguise. Michael Coles (Inspector Murray) and William Franklyn (Torrence) both guested on The Avengers.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.britishhorrorfilms.co.uk/satanic-rites-of-dracula"
+      }
+    },
+    {
+      "t": 2892,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Christopher Lee later called this film 'a mixture of Howard Hughes and Dr. No.' The reclusive-tycoon plot also echoed London property magnate Harry Hyams.",
+      "icon": "mic",
+      "byline": "Christopher Lee",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000489",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Joanna Lumley (Jessica Van Helsing) later became Purdey in The New Avengers and Patsy Stone in Absolutely Fabulous.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://1001plus.blogspot.com/2018/02/off-script-satanic-rites-of-dracula.html"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Christopher Lee turned down the role of Grand Moff Tarkin in Star Wars. His close friend Peter Cushing took it, and Lee later played Count Dooku in the prequels.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000489",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Loron Hays reviewing the Blu-ray said 'This flick wants to be a Bond picture': a Howard Hughes-style villain, hitmen with silenced guns and a high-tech lair.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelreviews.com/home-video/badsass-sinema-unearthed/the-satanic-rites-of-dracula-blu-ray-review"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hammer's director of horror also had to sell it: the US didn't see this film until 1978, when it was released edited under the title Count Dracula and His Vampire Bride.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria noted the US title Count Dracula and His Vampire Bride is misleading, since the film has no vampire brides.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/satanic-rites-of-dracula-1973.htm"
+      }
+    },
+    {
+      "t": 3699,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The tycoon's tower was filmed at The Panoramic, 152 Grosvenor Road, Pimlico, London. Viewers likened it to Centre Point, a skyscraper that sat empty for years.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3887,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Peter Cushing's chain-smoking bit of business (Do you mind if I smoke?) is typical: he famously used props to build character, earning the nickname 'Props'.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001088",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ1NWViYTItY2Q1NC00MzU5LWJkMWYtYzBjMWQyOTQ4ODQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3986,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "A silver bullet is fired at a vampire here. The film appears to be the first to use one against a vampire; Hammer's earlier silver bullet was in The Curse of the Werewolf.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film played in the UK in January 1974 as a double feature with the blaxploitation vampire movie Blacula.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Time Out wrote of this film: 'a lot of weak action scenes and weaker lines, but still a vast improvement on Dracula A.D. 1972.' AllMovie calls it the least interesting Hammer Dracula.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4506,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dracula boasts of a plague 'more awesome than the Black Death.' Fans point out that's a goof: the Plague and the Black Death are the same 14th-century pandemic.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie's TMDB revenue figure is just $544,476, a long way from Hammer's glory days of the late 1950s.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4836,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dracula's line 'My revenge has spread over centuries and has just begun!' adapts words from Chapter 23 of Bram Stoker's novel.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hammerfilms.com/blogs/news/the-counts-last-bow-and-the-beauty-of-draculas-final-scene-part-one"
+      }
+    },
+    {
+      "t": 4947,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Christopher Lee said he really had to tear his way through hawthorn bushes for this scene and bled on the thorns. It was shot December 27, after a four-day Christmas break.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000489",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This was the last Hammer film in which Christopher Lee and Peter Cushing appeared together as Dracula and Van Helsing. They reunited once more for House of the Long Shadows in 1983.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Mark Gatiss has since praised the film as 'gritty and very creepy,' though Hammer's own blog notes it was largely panned on release.",
+      "icon": "trophy",
+      "byline": "Mark Gatiss",
+      "source": {
+        "type": "web",
+        "url": "https://hammerfilms.com/blogs/news/the-counts-last-bow-and-the-beauty-of-draculas-final-scene-part-one"
+      }
+    },
+    {
+      "t": 5190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Because of a copyright-registration issue, this film circulated for years on public-domain home-video releases in the US, often in the 87-minute R-rated cut.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
