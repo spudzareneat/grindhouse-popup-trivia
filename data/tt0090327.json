@@ -1,0 +1,527 @@
+{
+  "schema": 1,
+  "imdbId": "tt0090327",
+  "title": "Witchboard",
+  "year": 1986,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-10-22T10:26:15.293Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This film was shot as 'Ouija'. Parker Brothers owned the trademark, so the producers had to post a $50,000 bond and retitle it Witchboard after filming had already started.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 165,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This opening party scene was shot first, but only three days of it used the original cinematographer. Producers replaced him with Roy H. Wagner, who shot the rest of the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Kevin Tenney wrote the script as a USC film student after a party where a friend brought a Ouija board. He quit four units short of his master's degree to shoot it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The title Witchboard came from a line about 'witchboards' that was cut before release. The word is never spoken in the finished film, per JoBlo.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Tawny Kitaen filmed this, then shot Whitesnake's 'Here I Go Again' video while the movie was in post-production. The two came out around the same time and helped each other.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Kevin Tenney was influenced by Alfred Hitchcock's camerawork. One distributor reportedly told him, 'You call this a horror film? This is Hitchcock!'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tawny Kitaen was dating O.J. Simpson during filming. The crew would phone the production office under a fake name pretending to be him, to prank her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000478",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NzM3NDc5M15BMl5BanBnXkFtZTgwNjk2OTEzMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Witchboard was the first release from Paragon Arts International of Irvine, California, the company of backer Walter Josten. AFI lists its budget as $2 million from private investors.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57888"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Backer Walter Josten was a commodities firm owner bored with commodities. A friend of Kevin Tenney's pitched him the script, and he agreed to finance the film.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before release, the producers held a special screening on the 20th Century Fox lot on February 26, 1986, just for residents of Big Bear, California, where part of the film was shot.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tenney based the lead, Jim, on himself. Jim is a construction worker because Tenney, his brother Dennis and friend James W. Quinn did construction before moving to Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0855107",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM0NmMxMjItODY0MS00OTg3LThlZTItZDEwYTU2ZTE3Y2M0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch for a cameraman's shadow in the close-up of the hatchet hammer lying on the sheetrock.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "When Lloyd (James W. Quinn) throws a hatchet near Jim's head, cinematographer Roy H. Wagner suggested filming it in reverse: the hatchet was yanked by wire out of balsa wood.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Todd Allen (Jim) worried he'd lost the part when he saw director Kevin Tenney laughing in the audition. Tenney was laughing because Allen reminded him of himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0021112",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU2YzBhYTQtNzgwYS00ZGQ3LWI3YjctYzhiYmI3MjlkMDMyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sitcom veteran Rose Marie, who played Sally Rogers on The Dick Van Dyke Show, has a role in this film. Much of her part was cut when the first 180-minute edit was trimmed.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Deborah Foreman nearly played Linda, but she wanted top billing, which had already been promised to Todd Allen. Tawny Kitaen got the part, according to JoBlo.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score was composed by director Kevin Tenney's brother Dennis, who also worked with the band Steel Breeze on the end-credits song 'Bump in the Night.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The sheetrock death scene took many tries. James W. Quinn's clowning kept making Todd Allen laugh. Allen's startled reaction to the crash is real, since it sounded like a gunshot.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Beyond the original score, the film uses excerpts of avant-garde pieces by Greek composer Iannis Xenakis, 'Bohor I' and 'Orient-Occident III', licensed from Erato Disque.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57888"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "James W. Quinn was first considered for the lead, Jim. Director Kevin Tenney moved him to wisecracking pal Lloyd, the first character to die.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Lt. Dewhurst (Burke Byrnes) calls the Vegas magicians 'Sigmund and Roy' instead of Siegfried and Roy.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0126312"
+    },
+    {
+      "t": 1975,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Queen Anne mansion on Lucerne Blvd was built on Wilshire Blvd, then cut into three sections in 1924 and trucked to Windsor Square. It also appeared in the 1971 horror film Willard.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.laconservancy.org/locations/higginsverbeckhirsch-mansion"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kathleen Wilhoite (Zarabeth) was the first actress to audition for the role. She didn't reply to director Kevin Tenney at first, but accepted when they met again.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001849",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0NzU3MDA2NF5BMl5BanBnXkFtZTYwNjQwMTc0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Crew members reported eerie happenings in the Lucerne Blvd mansion, including bumping into things that weren't there. Cinematographer Roy H. Wagner felt someone walking behind him on the staircase.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kenny Rhodes, who plays Mike, kept the bandanna the costumer gave him to toughen up his character. He's a Bruce Springsteen fan.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tawny Kitaen would only do nudity around married men, director Kevin Tenney says. She chose cinematographer Roy H. Wagner for the shower scene after spotting his wedding ring.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000478",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NzM3NDc5M15BMl5BanBnXkFtZTgwNjk2OTEzMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2825,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite mostly sour reviews, Witchboard earned some good notices and positive attention from horror author Stephen King, according to JoBlo.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephen Nichols (Brandon) says his hand double for the Ouija close-ups had hands that were too tiny and feminine. Director Kevin Tenney joked he'd recruited grade-school girls.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0629731",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzE4YzFhN2ItYjE4Yi00NzI3LWJjNzUtNzEzZTI1M2ViNTU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Witchboard opened on New Year's Eve 1986 on just 15 screens in smaller cities like Anchorage, Buffalo and El Paso. Good numbers led to a 1,100-screen release in March 1987.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Zarabeth's chased-up-the-stairs moment lets a cameraman's shadow and a mic boom slip into frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tawny Kitaen believed her poodle had been run over by the props truck. It was a prop with similar hair, planted by crew pranksters led by cinematographer Roy H. Wagner.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3475,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Roy H. Wagner went on to shoot A Nightmare on Elm Street 3: Dream Warriors, directed by Chuck Russell, who later directed the 2024 Witchboard remake.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tawny Kitaen was the model on the covers of Ratt's EP 'Ratt' and album 'Out of the Cellar', and starred in Ratt's 'Back for More' video, before this film.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000478",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NzM3NDc5M15BMl5BanBnXkFtZTgwNjk2OTEzMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film 2.5 out of 5, praising its 'slick and efficient packaging' and a polish that 'belies its budget.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/witchboard-1986.htm"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On home video, Witchboard hit No. 18 on Billboard's 1987 video rental chart, between Stand by Me and Something Wild.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Caryn James of The New York Times called it cheaply made: 'Witchboard should encourage struggling film makers. Watch it and think, I can do better than that!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It reportedly earned about eight to ten times its budget. It grossed $7.4 million, and 80,000 VHS copies sold in 1987, per JoBlo and Wikipedia.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film scholar Carol J. Clover analyzed Witchboard in her 1992 book Men, Women, and Chain Saws, focusing on gender politics and the friendship between Jim and Brandon.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tenney's first cut reportedly ran about 180 minutes before being trimmed to 98, losing a subplot about Jim's ex and an opening boating explosion, JoBlo reports.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Witchboard spawned two unrelated sequels, Witchboard 2: The Devil's Doorway (1993) and Witchboard III: The Possession (1995), and a 2024 remake directed by Chuck Russell.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The shower glass smashes, but the shower sound keeps running even though the water is visibly off.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The last scene shot was the window fall, done in one take at a distant park on a built replica window. Todd Allen, stuck in front of a crane arm, used his shoulders instead of flailing.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0021112",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU2YzBhYTQtNzgwYS00ZGQ3LWI3YjctYzhiYmI3MjlkMDMyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Photographer J.P. Luebsen wanted to be a second assistant director but was cast as the axe-wielding villain with a prosthetic forehead. Tawny Kitaen still finds his scene scary to watch.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/witchboard-1986-revisited-horror-movie-review/amp/"
+      }
+    },
+    {
+      "t": 5700,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the end credits for a thank-you to 'The Grips from Hell' and a dedication to Christopher J. Tenney (1920-1985).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57888"
+      }
+    }
+  ]
+}
