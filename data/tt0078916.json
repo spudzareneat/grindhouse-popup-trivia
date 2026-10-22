@@ -1,0 +1,482 @@
+{
+  "schema": 1,
+  "imdbId": "tt0078916",
+  "title": "Beyond the Darkness",
+  "year": 1979,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-10-22T11:21:30.417Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The credits bill the score as by \"The Goblins.\" Oops: the Italian prog-rock band that scored this film is simply called Goblin.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 140,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the US cut, Buried Alive, the credits roll over Frank picking up a dead baboon for taxidermy. The Dutch version runs them over black instead, with just the main theme playing.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Italian title, Buio Omega, literally means \"Omega Darkness.\" Abroad the film has gone by a pile of titles, including Buried Alive and Beyond the Darkness.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cinzia Monreale plays both Anna, the girlfriend who dies, and Anna's twin sister Teodora. Monreale started out as a runway model and was 22 when she shot this.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0598443",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRlZWZjNTktY2EzYS00ZjgxLTgxOWQtMjFhMDVhNTE5ZDJhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 305,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cinzia Monreale, who plays the dying Anna, recalls on Severin's Blu-ray the makeup tricks used to make her look dead on camera, per Mondo Digital's review.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      },
+      "person": "nm0598443",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRlZWZjNTktY2EzYS00ZjgxLTgxOWQtMjFhMDVhNTE5ZDJhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This is a remake of the 1966 Italian film The Third Eye, which starred Franco Nero. That one kept most of its violence off-screen; its grisliest taxidermy involved a crow.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/italian-grinders-joe-d-amato-horror-retrospective-part-2-video-nasties"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mondo Digital says star Kieran Canter (Frank) later turned up in Pia Zadora's The Lonely Lady, then reportedly coordinated school buses in Rome. He has never given an interview.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      },
+      "person": "nm0134520"
+    },
+    {
+      "t": 730,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Franca Stoppi (Iris) recalled director Joe D'Amato telling her on set: \"We're making a movie to make people throw up. We must make 'em vomit!\"",
+      "icon": "mic",
+      "byline": "Franca Stoppi",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0832385",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM4NzIzMzctOGJmOS00ZTc0LWI1NmYtYzM0Y2UwNDVjYWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In her Blu-ray featurette, Franca Stoppi (Iris) recalls dyeing her hair for the part and kicking her leading man, Kieran Canter, in the crotch, per Mondo Digital.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      },
+      "person": "nm0832385",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM4NzIzMzctOGJmOS00ZTc0LWI1NmYtYzM0Y2UwNDVjYWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole movie was shot in about two weeks in South Tyrol, Italy, in late June and early July 1979, in the towns of Brixen and Sand in Taufers.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Goblin score arrived hot on the heels of the band's work on Dawn of the Dead. The film also came out the same year as Cannibal Holocaust, a banner year for Italian extremity.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato gave the credit for the film's creepy mood to the real villa in Bressanone, Italy, rather than to his own cinematography.",
+      "icon": "camera",
+      "byline": "Joe D'Amato",
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/italian-grinders-joe-d-amato-horror-retrospective-part-2-video-nasties"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato: \"I personally opted for the most unrestrained gore, since I don't consider myself very skillful at creating suspense.\"",
+      "icon": "mic",
+      "byline": "Joe D'Amato",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato said the film lacked physical violence. Genre Grinder calls that false: it has two brutal murders and a savage final fight.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/italian-grinders-joe-d-amato-horror-retrospective-part-2-video-nasties"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The gore wasn't fancy. The crew used animal intestines, pig skin and a sheep's heart from a local slaughterhouse. D'Amato said there was no real special effects expert.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In a Severin Blu-ray interview, director Joe D'Amato named makeup effects artist Giannetto De Rossi as a \"teacher.\" His own gore leaned on forced perspective, sleight of hand and basic chemistry.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/italian-grinders-joe-d-amato-horror-retrospective-part-2-video-nasties"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The original 15-track Cinevox soundtrack LP of Goblin's score had its stereo channels reversed, according to Mondo Digital's review.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For years a rumor said director Joe D'Amato spliced in real autopsy and cremation footage for the post-mortem scenes. Genre Grinder presents it as an unconfirmed rumor.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/italian-grinders-joe-d-amato-horror-retrospective-part-2-video-nasties"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "It was shot on Super 16mm. The English dub voices Frank and Iris were Ted Rusoff and Carolyn De Fonseca, not the Italian-speaking cast.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/beyond-the-darkness-buio-omega-blu-ray-review-shes-a-real-doll/"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was Joe D'Amato's return to horror after Death Smiles on a Murderer (1973). It led straight into Antropophagus and Absurd, the films that made his gore reputation.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A taxidermist with a smothering mother figure and a corpse in the house: the film openly riffs on Alfred Hitchcock's Psycho (1960). The cover of one Blu-ray even carries a Hitchcock quote.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/beyond-the-darkness-buio-omega-blu-ray-review-shes-a-real-doll/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It earned only about 153.7 million lire in Italy. Film historian Roberto Curti says it did \"rather poorly\" at the box office, despite its later cult status.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Franca Stoppi replaced another actress as Iris and signed on without reading the script. Off-screen she ran an animal-welfare charity, U.N.A., for abandoned animals in Foligno.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0832385",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM4NzIzMzctOGJmOS00ZTc0LWI1NmYtYzM0Y2UwNDVjYWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3080,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Around the 51-minute mark, viewers have spotted the corpse of Anna (Cinzia Monreale) struggling to keep her eyes still. They tear up and twitch.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato was a cynic who mostly made films for money, yet he was reportedly very proud of this one and considered it his best movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cinzia Monreale first worked with Lucio Fulci on the 1978 western Silver Saddle. She later played the milky-eyed Emily in Fulci's The Beyond (1981).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Cinzia_Monreale"
+      },
+      "person": "nm0598443",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRlZWZjNTktY2EzYS00ZjgxLTgxOWQtMjFhMDVhNTE5ZDJhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinzia Monreale is the daughter of lyric singer Mirella Zaza. She made her film debut in 1975 at age 17.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Cinzia_Monreale"
+      },
+      "person": "nm0598443",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRlZWZjNTktY2EzYS00ZjgxLTgxOWQtMjFhMDVhNTE5ZDJhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato said the Italian prints were trimmed, mainly the embalming scene and the bath scene. He added that censorship was fairly mild at the time.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Author Danny Shipka called it \"one sick puppy.\" He wrote that if good Eurocult makes you want a bath afterward, Buio Omega \"would be a classic.\"",
+      "icon": "mic",
+      "byline": "Danny Shipka",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author Scott Aaron Stine, in his 2001 book on 1970s gore films, called this D'Amato's \"strongest contribution\" to horror. He still dismissed it as cheap Italian trash with flair.",
+      "icon": "mic",
+      "byline": "Scott Aaron Stine",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato (real name Aristide Massaccesi) made around 200 films, often as his own cinematographer. He also ran Filmirage and made the Black Emanuelle films with Laura Gemser.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4570,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Italy re-released it in 1987 as In quella casa Buio omega to pass it off as part of the La casa series, the Italian titles of The Evil Dead films. Spain sold it as House 6.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The old woman's chant outside the disco was cut from the US version, Buried Alive. So was a scene of Frank picking up a girl in a disco.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In Germany the film sat on the federal index of youth-endangering media for 40 years and was confiscated several times.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The US theatrical release was in 1984 as Buried Alive via Aquarius Releasing. The 1985 ThrillerVideo tape anglicized the character names, hence Francesco becomes Frank.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Goblin's score, hired by producer Marco Rossetti, was recycled in The Other Hell (1981) and Hell of the Living Dead (1980), both by director Bruno Mattei.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film inspired the lyrics of \"Deathmask Divine,\" a song by Michigan melodic death metal band The Black Dahlia Murder.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato also made hardcore films from 1979 on. That year he shot the horror-porn crossovers Porno Holocaust and Erotic Nights of the Living Dead in Santo Domingo.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital says the 1980s US video release through Thriller Video was judged too extreme or trashy to be introduced by horror hostess Elvira.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/buio"
+      }
+    }
+  ]
+}
