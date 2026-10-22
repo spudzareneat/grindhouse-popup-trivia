@@ -1,0 +1,525 @@
+{
+  "schema": 1,
+  "imdbId": "tt0093560",
+  "title": "The Monster Squad",
+  "year": 1987,
+  "runtimeSec": 4920,
+  "generatedAt": "2026-10-22T10:03:03.690Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Shane Black's first draft opened with Van Helsing attacking Dracula's castle by zeppelin, with 40 vampire brides on horses. Director Fred Dekker says it would have cost about $100 million.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The armadillos in Dracula's castle nod to the 1931 Dracula, where Bela Lugosi's Count rose among armadillos, an oddity for Transylvania that fans long joked about.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 395,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The kids mock their cat-headed science teacher. IMDb trivia calls it a nod to the 1942 film Cat People, the only true 1940s monster reference in a movie full of 1930s Universal creatures.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 573,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The comic bully E.J. rips up is Wonder Woman #3 from April 1987, drawn by George Pérez, which was only months old when the film was shot.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 651,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Andre Gower (Sean) and Robby Kiger (Patrick) were real-life friends. Gower lobbied the producers to hire Kiger as his best friend.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 751,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The bomber carrying Dracula has \"Browning\" on its side, a tip of the hat to Tod Browning, who directed the 1931 Dracula with Bela Lugosi.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 891,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Look at the clubhouse walls. Posters for Return of the Living Dead (1985) and Lucio Fulci's Zombie (1979) hang among the monster memorabilia.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 950,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Five-year-old Ashley Bank (Phoebe) turned down a role in Fatal Attraction to make this film. It was shooting in New York, and her parents wanted her to have more fun.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 1071,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Stephen Macht, who plays Sean's cop dad, later starred in Graveyard Shift (1990), based on a Stephen King story. Sean wears a \"Stephen King Rules\" shirt in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0532685",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2QzMjE4MjEtOTUzMC00M2VkLWIxM2ItN2UxOGI4ZTdkYTViXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1164,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Wolfman's face was modeled on Stan Winston, the effects legend behind the Terminator and Predator creatures, whose studio built the monsters here.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1235,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Michael Reid MacKay got the Mummy after seeing a Variety ad for \"an extremely thin actor on the verge of anorexia.\" He did some creepy gestures at the audition and was hired.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 1283,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The line about dead guys not walking away by themselves, followed by a shot of one doing just that, also appears in Fred Dekker's previous film, Night of the Creeps (1986).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The TNT broadcast cut has about four extra minutes missing from the DVD, including a scene where Phoebe's mom says the PTA won't let her watch a show with \"too much sex.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Seth Green screen-tested for this film and read opposite Andre Gower (Sean). They became good friends.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1507,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Duncan Regehr wanted his Dracula \"as human as possible,\" a layered sociopath. He says his clashes with director Fred Dekker over the role produced better work than agreement would have.",
+      "icon": "mic",
+      "byline": "Duncan Regehr — Dracula",
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=210299"
+      },
+      "person": "nm0716516",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIzZGNjM2YtODY1YS00MTExLTlkYTktYjRlMjlkNWFmMDIyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1601,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Phoebe's mom says nothing bad can happen while the candle burns by her bed. The candle is shown going out just before Dracula smashes into the house like lightning.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1992,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Duncan Regehr narrowly beat a then-unknown Liam Neeson for Dracula. Neeson was paid to play Dracula's human disguise, but that scene was never shot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0716516",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIzZGNjM2YtODY1YS00MTExLTlkYTktYjRlMjlkNWFmMDIyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2041,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The script never gave the kindly Holocaust survivor (Leonard Cimino) a name, so filming just kept calling him \"Scary German Guy.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2145,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To dodge Universal's copyrights, Stan Winston's team moved Frankenstein's neck bolts to the temples, gave the Wolfman pointier ears and left Dracula without a widow's peak.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times' Vincent Canby called the film \"a feature-length commercial for a joke store that sells not-great, rubber monster masks.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2435,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Frankenstein meeting Phoebe by the water echoes the 1931 Frankenstein's tragic scene, but plays closer to how Boris Karloff reportedly wanted to do it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tom Noonan (Frankenstein's Monster) picked this over Near Dark. Director Kathryn Bigelow visited the set to ask for an early release so he could do both, but the producers said no.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0006888",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjk5NTM2NV5BMl5BanBnXkFtZTcwNzY4MzQzMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2555,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tom Noonan, who plays Frankenstein's Monster, says his voice was pitch-lowered in the final cut without telling him: \"I was shocked when I saw that they had harmonized my voice.\"",
+      "icon": "mic",
+      "byline": "Tom Noonan — Frankenstein's Monster",
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=210299"
+      },
+      "person": "nm0006888",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjk5NTM2NV5BMl5BanBnXkFtZTcwNzY4MzQzMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2607,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Wizard magazine's 2006 list of the 100 Greatest Villains ranked Dracula #30, and chose Duncan Regehr's performance in this film as the version to represent him.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0716516",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIzZGNjM2YtODY1YS00MTExLTlkYTktYjRlMjlkNWFmMDIyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On the last shooting day, Tom Noonan's Frankenstein makeup piece hadn't cured right and blistered his skin. Stan Winston peeled it off, and Noonan wore the makeup home overnight to finish.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=210299"
+      },
+      "person": "nm0006888",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjk5NTM2NV5BMl5BanBnXkFtZTcwNzY4MzQzMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Dekker was shooting Night of the Creeps when this film was greenlit. Pause that film's trailer at 29 seconds and you'll see \"Go Monster Squad!\" graffitied on a bathroom wall.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 2932,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Producer Peter Hyams, who executive-produced and sometimes second-unit directed, shot the werewolf's phone booth scene himself.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stan Winston Studio's Gillman suit, built by Steve Wang and Matt Rose, led to them building the Predator suit. Its colors and spotted body became the blueprint for the Predator.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mande.net/ja/btl/news/the-makeup-effects-of-monster-squad?amp=1"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The premiere party was at the Hard Rock Café in Hollywood. Kiefer Sutherland, star of rival vampire film The Lost Boys, came to support it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3312,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Brent Chalem, who played Horace and screamed \"Wolfman's got nards!\", died of pneumonia in 1997 at age 22, before the film's cult revival. Andre Gower's documentary later took that line as its title.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The producers cut the film by 13 minutes because they didn't want it to run past 90 minutes. Fred Dekker says Peter Hyams pushed trimming subplots like Sean's parents' marital troubles.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film cost an estimated $12 to 14 million but grossed only $3.77 million in the US. It was pulled from theaters after about two weeks.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Fred Dekker was rejected by both USC and UCLA film schools. He studied English at UCLA, where his classmates included future screenwriters Shane Black and Ed Solomon.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0215269",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNDA1MzU4Nl5BMl5BanBnXkFtZTcwMjA3NTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Peter Hyams considered firing director Fred Dekker after the first week of shooting. Producer Rob Cohen smoothed things over and Dekker agreed to follow industry-standard methods.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Because the film is set at night and child actors could only work limited hours, the kids shot their scenes first, about three hours in the early evening, while the crew worked on through the night.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tom Woodruff Jr. never swam as the Gillman, so he skipped Ricou Browning's original Creature moves. He based the walk on the 1954 Creature's slow, steady approach.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=210299"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the final battle, Tom Woodruff Jr., in the Gillman suit, couldn't see well and accidentally punched a stunt man, who dropped \"like a sack of potatoes.\" He wasn't seriously hurt.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 4330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Fred Dekker says the PG-13 rating meant kids \"couldn't get in without their parents,\" so most young fans found the film later on home video and cable.",
+      "icon": "censor",
+      "byline": "Fred Dekker — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/522464/the-monster-squad-was-released-25-years-ago-fred-dekker-talks/"
+      },
+      "person": "nm0215269",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNDA1MzU4Nl5BMl5BanBnXkFtZTcwMjA3NTgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dave Kehr of the Chicago Tribune called the film \"crass but imponderable,\" and said its target audience seemed to be \"practiced sadists in the 12- to 14-year-old age group.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4575,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "For Sean's closing line, director Fred Dekker told Andre Gower to deliver it \"like Clint,\" meaning Clint Eastwood.",
+      "icon": "mic",
+      "byline": "Fred Dekker — Director",
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/69716/13-spooky-facts-about-monster-squad"
+      }
+    },
+    {
+      "t": 4625,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The end-credits \"Monster Squad Rap\" by Michael Sembello originally name-checked the Creature from the Black Lagoon. The 1988 home video edited it, since the film couldn't license the creature.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Bruce Broughton's score was rated four stars out of four by Film Score Monthly. Producer Peter Hyams hired him again for his next three films, starting with The Presidio.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Michael Bay's Platinum Dunes signed on in 2010 to remake it, with Rob Cohen to direct. The project was dropped in 2014.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Two sold-out Alamo Drafthouse screenings in Austin in April 2006, with Fred Dekker and cast attending, started a letter-writing campaign that brought the film back to DVD in 2007.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
