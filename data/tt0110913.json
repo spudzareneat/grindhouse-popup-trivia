@@ -1,0 +1,476 @@
+{
+  "schema": 1,
+  "imdbId": "tt0110913",
+  "title": "Pumpkinhead II: Blood Wings",
+  "year": 1993,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-10-22T11:25:05.942Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lance Henriksen, star of the 1988 original, was asked to return as Ed Harley but passed after reading the script and finding it \"terrible.\" That's why this sequel has a whole new cast.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jeff Burr first turned the job down because of Puppet Master 4. When original director Tony Randel left after delays, Burr was free and took over.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 290,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In this 1958 opening, one of the young greasers is played by John Gatins, who later wrote Flight (2012) and got an Oscar nomination for Best Original Screenplay.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Gatins"
+      }
+    },
+    {
+      "t": 372,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Andrew Robinson (Sheriff Sean Braddock) also played the Scorpio Killer in Dirty Harry and Larry Cotton in Hellraiser. Later he was tailor-spy Garak on Star Trek: Deep Space Nine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0732367",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDQzMzAzMV5BMl5BanBnXkFtZTgwODYyNzc3MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrew Robinson, now the lead as Sheriff Sean Braddock, was first set for a supporting part. He got promoted at the last minute when Timothy Bottoms dropped out, per Fangoria.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/pumpkinhead-ii-ghostwatcher-ii-dark-harvest-2-review/"
+      }
+    },
+    {
+      "t": 499,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Soleil Moon Frye, TV's Punky Brewster, had to gain 20 pounds to play Marcie in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0004941",
+      "image": "https://m.media-amazon.com/images/M/MV5BODE4NzU2MjUzMF5BMl5BanBnXkFtZTcwMzQ4NTU3Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 566,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Hill Harper (Peter) later became a CSI: NY star. He's also a Harvard Law grad who was a classmate of Barack Obama.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0004991",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxMTk4NjMzN15BMl5BanBnXkFtZTgwMTAxNDA3NzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The whole movie was shot in just twenty-four days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 705,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mayor Bubba is played by Roger Clinton, half-brother of then-President Bill Clinton. Richard Scheib of Moria called it \"the most bizarre piece of stunt casting.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/pumpkinhead-ii-blood-wings-1994.htm"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch Danny swing across the mine on the hook: a safety line is visible several times.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script had at least four writers and reportedly began life as a non-Pumpkinhead project. Director Jeff Burr admits on the Blu-ray it needed a lot more work.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/77107/pumpkinhead-ii-blood-wings-blu-ray-dvd"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script was written by two TV writers who used pseudonyms for their screen credits, according to Fangoria's review of the DVD.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/pumpkinhead-ii-ghostwatcher-ii-dark-harvest-2-review/"
+      }
+    },
+    {
+      "t": 1092,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A teen asks \"Pet Cemetery?\" at the spooky grave, a nod to Stephen King's Pet Sematary (1989).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1175,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Book of the Dead prop from Army of Darkness (1992) sits in Miss Osie's house. KNB Effects worked on both films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "KNB's Greg Nicotero and Gino Crognale studied behind-the-scenes footage of the 1988 original, then built a bulkier Pumpkinhead with more muscle and white eyes. It was practical effects, no CGI.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/77107/pumpkinhead-ii-blood-wings-blu-ray-dvd"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria likened Pumpkinhead's role here to Jason Voorhees in Friday the 13th and said the sequel recycles the original with \"minimal variation.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/pumpkinhead-ii-blood-wings-1994.htm"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producers made Soleil Moon Frye (Marcie) remove her nose ring after the first day of shooting, which is why it shows up in some scenes and vanishes in others.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/pumpkinhead-ii-ghostwatcher-ii-dark-harvest-2-review/"
+      }
+    },
+    {
+      "t": 1539,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Miss Osie's house was built and then burned on Sable Ranch in Santa Clarita. The state had to approve selectively trimming old, protected oak trees first.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A video game, Bloodwings: Pumpkinhead's Revenge, was shot at the same time as the film, sharing sets, actors and props, at producer Jed Weintraub's request.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1843,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Judge Dixon's house is the same location used in the 1980 horror comedy Motel Hell.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For quick script tweaks, director Jeff Burr brought back Mark Patrick Carducci and Gary Gerani, the screenwriters of the original 1988 Pumpkinhead.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-pumpkinhead-2"
+      }
+    },
+    {
+      "t": 2070,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "To dodge an NC-17, director Jeff Burr cut a few seconds of gore, mostly Pumpkinhead clawing up the farmer in the first kill and the monster's own death.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "German VHS was trimmed to get an FSK-18 rating. A harsher FSK-16 tape lost over 4 minutes. The uncut film only reached Germany on DVD and Blu-ray in 2017.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Scream queen Linnea Quigley turns up as Nadine in this scene, one of the genre names the video box played up.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/77107/pumpkinhead-ii-blood-wings-blu-ray-dvd"
+      }
+    },
+    {
+      "t": 2610,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "R.A. Mihailoff, Leatherface in Jeff Burr's Texas Chainsaw Massacre III, plays Red Byers here. He recalls baring his \"hairy ass\" for a love scene with Linnea Quigley.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/pumpkinhead-ii-ghostwatcher-ii-dark-harvest-2-review/"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Producer Brad Krevoy co-founded Motion Picture Corporation of America in 1986, a company specializing in low-budget films. It made this sequel and cast well-connected friends in bit parts.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/pumpkinhead-ii-ghostwatcher-ii-dark-harvest-2-review/"
+      }
+    },
+    {
+      "t": 2925,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Ami Dolenz (Jenny) had a no-nudity clause. Producers kept pressing for a nude sex scene, so they shot one implying sex and cut away.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000371",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY5NjU2OTI4M15BMl5BanBnXkFtZTcwMzIxMjIzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists only 13% positive out of 8 reviews. Scott Weinberg of DVD Talk gave it 3 of 5 stars, saying the sequel \"holds up pretty darn well.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "By July 1993, Ami Dolenz and Soleil Moon Frye were shooting extra scenes exclusive to the tie-in PC game Bloodwings: Pumpkinhead's Revenge, whose sets were shared with the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bloodwings:_Pumpkinhead%27s_Revenge"
+      }
+    },
+    {
+      "t": 3380,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mayor Bubba pitches the monster as tourism: Loch Ness and Bigfoot are \"big business.\" The sheriff reminds him people died, and he replies the town's budget is a tragedy too.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3430,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Roger Clinton, who plays the guitar-toting Mayor Bubba, also sings \"Just Like You,\" the film's theme song.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3530,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Horror stuntman Kane Hodder plays one of the Knox brothers. The video cover touted him and Linnea Quigley to attract genre fans.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/77107/pumpkinhead-ii-blood-wings-blu-ray-dvd"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It premiered at the MIFED market in Italy in October 1993. It went direct-to-video in the US on October 19, 1994, and in some territories it was retitled Pumpkinhead: The Demon Returns.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jeff Burr's debut was the anthology From a Whisper to a Scream (1987). He also made Leatherface: Texas Chainsaw Massacre III, which the studio cut heavily.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/77107/pumpkinhead-ii-blood-wings-blu-ray-dvd"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actor Mark McCracken, inside the Pumpkinhead suit, recalls plenty of on-set humor. Camcorder footage shows the creature being operated and the gags.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/77107/pumpkinhead-ii-blood-wings-blu-ray-dvd"
+      }
+    },
+    {
+      "t": 4376,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look closely as Pumpkinhead bursts into the judge's house: the performer's tennis shoes are visible, at least in the fullscreen version.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This is the only Pumpkinhead movie with no appearance by Lance Henriksen's character Ed Harley. The later sequels don't reference its events either.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 1995 tie-in PC game Bloodwings: Pumpkinhead's Revenge used footage of Ami Dolenz. She says the game is \"definitely better\" than the movie. PC Gamer US gave it 46%.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bloodwings:_Pumpkinhead%27s_Revenge"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first three Pumpkinhead films all link to Hellraiser: Lance Henriksen, Doug Bradley and Andrew Robinson (Larry Cotton in 1987's Hellraiser) acted in both series.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Behind-the-scenes footage shows Mark McCracken, in the Pumpkinhead suit, repeatedly bumping his head on a ceiling fixture. One giggle fit reportedly got the crew kicked off the set.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-pumpkinhead-2"
+      }
+    }
+  ]
+}
