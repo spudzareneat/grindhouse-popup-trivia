@@ -1,0 +1,435 @@
+{
+  "schema": 1,
+  "imdbId": "tt0090930",
+  "title": "Demons 2",
+  "year": 1986,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-10-22T10:54:25.191Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In Italy the film is Dèmoni 2: L'incubo ritorna. West Germany knew it as Dance of the Demons 2, or Dämonen 2, when it opened there on July 9, 1987.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons 2 started shooting on May 19, 1986, just seven months after the first Demons hit Italian theaters. Producer Dario Argento and director Lamberto Bava wasted no time on the sequel.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 175,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The security guard at the desk is played by Lino Salemme, who also appeared in the first Demons. Several faces from that film came back in new roles.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Nancy Brilli (Hannah) isn't a horror fan. She took the job anyway because she wanted to work with special effects.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0109386"
+    },
+    {
+      "t": 340,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bobby Rhodes played the pimp Tony in the first Demons. Here he returns as a different character, gym instructor Hank, a bodybuilder rather than a pimp.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      },
+      "person": "nm0722388",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0NTU2MTMxN15BMl5BanBnXkFtZTgwNTc5Mzg1MTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 395,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Coralina Cataldi-Tassoni plays Sally Day. In the first Demons, the blind man's niece Liz was played by an actress named Sally Day. It's an in-joke between the two films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0851016",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzMzU3NjQ5Ml5BMl5BanBnXkFtZTcwNTQ1ODk0OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 490,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Asia Argento (Ingrid) made her feature film debut here at age 10. She is the daughter of producer Dario Argento, and later starred in xXx and Land of the Dead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000782",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MzkyNzY2NF5BMl5BanBnXkFtZTcwMjkwMDg2Ng@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons 2 was first meant to follow the survivor of the original film. That actor declined to return, so Dario Argento and Lamberto Bava built an all-new apartment-block story.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemastance.com/?p=29249"
+      }
+    },
+    {
+      "t": 847,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: when the phone rings at Sally's party, the receiver is on backwards, which would stop it from ringing. It's also put back on backwards after the call.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects wizard Sergio Stivaletti sat in on the script sessions. He ended up credited as a writer alongside Dario Argento, Lamberto Bava, Franco Ferrini and Dardano Sacchetti.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1258,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The demon's revival was made by filming a melting wax head and then running the footage in reverse.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Composer Simon Boswell wanted The Smiths' 'Panic' for the film. He told Morrissey it was a drama about passive TV consumption, hiding the gore. The Smiths later said yes.",
+      "icon": "boombox",
+      "byline": "Simon Boswell — Composer",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1385,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The demon coming out of the TV was done with an actor in a mask pressing his face against a latex screen. Low-tech and effective.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Fangoria's Blu-ray review points out this demon climbing out of a TV set came years before Sadako in Ringu. Ringu (1998) is among the films that reference Demons 2.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/demons-bluray-review/"
+      }
+    },
+    {
+      "t": 1510,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity goof: the birthday cake on screen now doesn't match the one seen at the start. The hand-lettering is different, and Sally's candles change length between shots.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Smiths' 'Panic' was recorded in May 1986, the month this film started shooting. It was released as a single that July and hit No. 11 in the UK.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Panic_(The_Smiths_song)"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons 2 swaps the first film's heavy metal for British goth and new wave: The Smiths, The Cult, Dead Can Dance, Love and Rockets, Gene Loves Jezebel and more. Simon Boswell chose them.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/demons-2-lamberto-bava-movie-4k-blu-ray-review"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Argento's usual band Goblin was too busy to score this one. Simon Boswell stepped in and steered the producer away from prog rock and metal toward bands Boswell loved.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemastance.com/?p=29249"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Simon Boswell hadn't seen the first Demons when he scored the sequel. His earlier work for the Argento family was the score for Dario Argento's Phenomena.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/demons-2-lamberto-bava-movie-4k-blu-ray-review"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer Angel Orona on the Grindhouse Database compared the film to Cronenberg's Shivers, then called it apples-and-oranges. He recommended it as a 'backdrop movie' for a party.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Demons_2/Review"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Demons 2 was reportedly the first film to get an X rating from the MPAA without sex or nudity. The transformation sequences were judged too intense for an R.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Asia Argento wasn't the first Argento kid in the series. Her older sister Fiore Argento had a supporting role in the first Demons.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/demons-bluray-review/"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lamberto Bava says producer Dario Argento visited the set often but never gave direction: 'he fully respected my role as the director.'",
+      "icon": "mic",
+      "byline": "Lamberto Bava — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sergio Stivaletti's animatronic demon was nicknamed Menelik. Some said it copied Gremlins. Stivaletti denied it, citing Bosch's painting Triptych of the Temptation of St. Anthony.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: a male gym member with a line earlier vanishes from the garage battle after about 54 minutes, and nobody notices he's gone.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's visible grain isn't only age. Synapse's release notes say the negative stock used on Demons 2 was weaker than the original film's.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemastance.com/?p=29249"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bava and Argento toned down the gore to get an Italian V.M.14 rating, yet the film still got an X in the US. The demons ooze green fluid rather than blood.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/demons-2-lamberto-bava-movie-4k-blu-ray-review"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Demons 2 was shot in Hamburg, Germany and Rome, at De Paolis studios. It cost about $1.5 million and earned roughly 1.1 billion lire in Italy.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The German release lost over 9 minutes to avoid a ban like the first film's, and its ending was nearly removed. A US release on VHS and DVD is about 3 minutes longer than the R-rated cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Slant Magazine's Budd Wilkins said the sequel trades gore for 'surreal shocks and quasi-Cronenbergian craziness.' AllMovie praised only Sergio Stivaletti's effects. Rotten Tomatoes sits at 73%.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A planned Demons 3 would have trapped plane passengers on a volcanic island. The writers abandoned it, and a church-set script became Michele Soavi's The Church (1989).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lamberto Bava finally wrote a sequel in 2025: the novel Demoni 3: La rinascita, in which the demons spread through social media instead of television.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4670,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Plot hole: George and Hannah took a class on rappelling out of a burning building. No other tenant seems to have taken it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In the original script, Hannah's baby would have turned into a demon and clawed out of her. Lamberto Bava and Dario Argento chose a happier ending.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Demons 2 opened in Italy on October 9, 1986, in the US on February 13, 1987, and in the UK that September.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Lamberto Bava is the son of Italian horror master Mario Bava. He began as his father's assistant director before directing Macabre (1980).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dread Central's Matt Serafini called Demons 2 a mixed bag. He still wondered why it never became a series, and wanted new Italian filmmakers to revive it with practical effects and new wave music.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
