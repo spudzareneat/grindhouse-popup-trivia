@@ -1,0 +1,821 @@
+{
+  "schema": 1,
+  "imdbId": "tt0082427",
+  "title": "The Funhouse",
+  "year": 1981,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-10-22T10:15:55.725Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This opening spoofs Halloween's killer-POV and Psycho's shower scene. Director Tobe Hooper said it tells you right away you're watching a genre picture, and keeps things a little safe.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This opening sequence was actually shot after principal photography had wrapped, added when filmmakers felt the first rough cut needed a stronger start.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Thriller author Dean Koontz novelized the script as 'Owen West'. The book hit shelves before the film, so many people think the movie came from the novel. It's the other way around.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tobe Hooper made this between the Stephen King miniseries Salem's Lot (1979) and Poltergeist (1982). It was his first big studio film after The Texas Chain Saw Massacre.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Universal Pictures bought Larry Block's script because it wanted its own teen horror hit after Paramount's Friday the 13th (1980) made a fortune.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 395,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Props in Joey's bedroom, including a winking ventriloquist dummy, belonged to Lamb Chop's Shari Lewis. Co-executive producer Mace Neufeld was her friend.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "That's Bride of Frankenstein on Joey's TV. The film is stuffed with tributes to James Whale, Alfred Hitchcock and Tod Browning, as critics noted at release.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 485,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Elizabeth Berridge (Amy Harper) got an 'introducing' credit here, though she'd already appeared in Natural Enemies (1979). She went on to play Constanze Mozart in Amadeus (1984).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000931",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDg1OTg3Nl5BMl5BanBnXkFtZTcwOTgxMTg5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cooper Huckabee, playing teenage boyfriend Buzz Dawson, was 30 years old at the time.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0399590",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhkYzk1NDQtOGY5MC00NmZmLWI1YWEtMjMzOGJiZjZlMGQ0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Set in Iowa, it was shot in Florida. Universal couldn't get a California waiver for child actor Shawn Carson (Joey) to work overnight, so the production moved east.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Shooting the film in anamorphic Panavision was director Tobe Hooper's own idea, giving the carnival a wide, colorful look.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 770,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In Brazil it was released as 'Pague para Entrar, Reze para Sair' (Pay to Get In, Pray to Get Out). In France it became 'Massacres dans le train fantôme': Massacres on the Ghost Train.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Filming in Florida in winter let the production hire real carnies as extras, since many traveling carnival workers settle there in the off-season.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The 1940s and 50s rides and attractions were bought from a defunct carnival in Akron, Ohio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 980,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Tobe Hooper recalls extras riding the carnival rides for long takes and getting showered with vomit. One ride reportedly ran 20 to 30 minutes instead of its usual four.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/the-funhouse-tobe-hooper-collectors-edition-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 1040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production designer Mort Rabinowitz built the carnival from his childhood memories of fairs and old MGM carnival stills, calling the job 'a set designer's dream project.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1090,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The two-headed cow and the cow with a cleft palate in the freak show were real animals, borrowed from a traveling carnival.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tobe Hooper was bitten by a brown recluse spider during the shoot.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1295,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Actor Kevin Conway agreed to the movie only if he could play all three barkers: funhouse, strip show and freak show.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1340,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vic Morrow was considered for the barker role Kevin Conway got. Both had played George in stage productions of Steinbeck's Of Mice and Men.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1385,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "William Finley plays the magician in a cameo. Richard Scheib of Moria called the film 'light years ahead' of most slasher copycats of its era.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/funhouse-1981.htm"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The magician calls Vlad the Impaler 'Vlad V' in the fifth century. The real Vlad III ruled Wallachia in the 15th century.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1495,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Network TV got a different cut with about five extra minutes shot to replace violence and nudity. One highlight was an extended version of this William Finley magic act.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/the-funhouse-tobe-hooper-collectors-edition-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 1545,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The magician introduces his assistant daughter as Carmilla, a nod to Sheridan Le Fanu's vampire novella 'Carmilla', which predates Dracula.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Sylvia Miles (Madame Zena) told Roger Ebert: 'Better a horror film than a horrible film.' She also loved losing her fake accent gradually as Zena gets murdered.",
+      "icon": "mic",
+      "byline": "Sylvia Miles",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Two-time Oscar nominee Sylvia Miles was the film's biggest name, yet her name wasn't on the poster.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1810,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reshoots took four days after film footage got caught up in a local Teamsters dispute in Miami, according to trivia about the production.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The dancers in the strip-show tent were local strippers from Miami.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup artist Craig Reardon worked with Rick Baker on the monster's dentures, eyes and hands, and still keeps the original Gunther wig.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/the-funhouse-tobe-hooper-collectors-edition-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 2070,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Makeup legend Rick Baker was first going to play the monster himself. Then director Tobe Hooper saw mime Wayne Doba perform, and Doba got the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Tobe Hooper said the monster's Frankenstein mask was chosen because Universal Studios owns the rights to that look from its 1931 Frankenstein.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tobe Hooper had always wanted to make his own carnival movie. He loved the noir Nightmare Alley (1947), set in a traveling carnival.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The monster, mime Wayne Doba, had a tiny film career. His next major role was Octavio the Clown in Scarface (1983), also shot around Miami.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Tobe Hooper wanted cinematographer Andrew Laszlo because he loved Laszlo's lighting in Walter Hill's The Warriors (1979).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Budget was about $3.7 million. It made $2.77 million opening weekend and $7.9 million total: profitable, but a disappointment.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Adam Rockoff wrote in Going to Pieces that mixing slasher and monster-movie elements 'never struck a chord with audiences' in 1981.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Corry of The New York Times said director Tobe Hooper shot the carnival with style, a 'small vision of middle-America gone sour.' Then, he wrote, 'the monster comes in and drools.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2715,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Listen closely: the bills the monster hands Madame Zena crinkle like ordinary paper, not real cotton-and-linen currency.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2775,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "After shooting this scene, Sylvia Miles reportedly joked to director Tobe Hooper: 'Did I just throw my career away?'",
+      "icon": "mic",
+      "byline": "Sylvia Miles",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rick Baker designed the monster the same year he won the first-ever Best Makeup Oscar, for An American Werewolf in London (1981).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Funhouse got the cover and main story of Fangoria issue #11.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The UK prosecuted it as a 'video nasty' without success. Some think officials mixed it up with The Last House on Dead End Street, which was also titled 'The Fun House'.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tim Lucas in Cinefantastique (1981) called it 'a flabby film' but said it 'stands head and shoulders above many of the genre movies being released today.'",
+      "icon": "reel",
+      "byline": "Tim Lucas",
+      "source": {
+        "type": "web",
+        "url": "https://eofftv.com/the-funhouse-1981/"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Scholars Kristopher Woofter and Will Dodson see the film's adults as 'a corrupt cabal disenfranchising the young.' They make the point in their 2021 book American Twilight: The Cinema of Tobe Hooper.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rick Baker told Fangoria he felt guilty making a deformity into a monster, so he added more to the design while keeping the birth-defect look.",
+      "icon": "mic",
+      "byline": "Rick Baker",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Variety was lukewarm: it praised the 'elegance of photography' but said fans of Tobe Hooper's Texas Chain Saw Massacre would be disappointed by the near-total lack of shocks.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer John Beal reportedly wrote the film's score in about two weeks, mixing orchestral and electronic sounds.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/the-funhouse-tobe-hooper-collectors-edition-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Larry Block's original script was far nastier, with a more vicious monster and much more nudity and sexual violence. Much of it was toned down before filming.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Executive producer Mark L. Lester recalls the project growing from a low-budget indie into a multi-million dollar studio picture.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/the-funhouse-tobe-hooper-collectors-edition-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Critic Gene Siskel liked it and named it one of his 'guilty pleasures' on a 1987 Siskel & Ebert special, citing its story, direction and even a sympathetic villain.",
+      "icon": "trophy",
+      "byline": "Gene Siskel",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stylish reviews of this film helped director Tobe Hooper land Poltergeist (1982).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alex Keneas of Newsday said the film 'doesn't trade on gratuitous and graphic gore' and nicely evokes the chillers of a bygone era, paying respect to Hitchcock and James Whale.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The preserved baby in the freak show, the monster's 'brother', was made by makeup artist Craig Reardon from a vinyl medical-supply baby cast.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cynthia Rose of the Monthly Film Bulletin saw the film, like Texas Chain Saw, as about a monstrous family sustained by exterminating outsiders.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wayne Doba, who plays the monster, was a trained mime. He also filled in for the animatronic carnival figures himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.horrordna.com/movies/the-funhouse-tobe-hooper-collectors-edition-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Quentin Tarantino rewatched this for his book Cinema Speculation and reassessed it, calling Lawrence J. Block's script the big surprise, with unexpected depth.",
+      "icon": "star",
+      "byline": "Quentin Tarantino",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dean Koontz's novelization adds a Satanic subplot and religious themes drawn from his Catholic upbringing, none of which made it into the film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4470,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actress Largo Woodruff (Liz Duncan) didn't want to do nude scenes, so scripted nudity for her character was changed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4535,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Scott Tobias of The A.V. Club called the film 'a loving homage to Universal monster movies' disguised as a teen slasher, praising its saturated carnival colors.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/the-funhouse-1798174716"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tobe Hooper reused some of this film's props in his music video for Billy Idol's 'Dancing with Myself' (1983).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Steven Spielberg reportedly offered Tobe Hooper E.T., but he was busy with this film. They teamed up on Poltergeist instead.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer John Kenneth Muir called it a 'masterpiece' of self-reflexive horror, a film about 'dead teenager' movies made before Scream made that fashionable.",
+      "icon": "reel",
+      "byline": "John Kenneth Muir",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4880,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin Conway (the barkers), producer Mace Neufeld and Cooper Huckabee (Buzz Dawson) all reunited a dozen years later on the Civil War epic Gettysburg (1993).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Clips from The Funhouse appear in the horror documentary Terror in the Aisles (1984) and in 78/52 (2017), the documentary about Psycho's shower scene.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://eofftv.com/the-funhouse-1981/"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It was loosely remade as Dark Ride (2006), and has been referenced in House of 1000 Corpses, Serial Mom, Hell Fest and Stranger Things.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Germany cut the film by 119 seconds for violence, then indexed it from 1984 to 2008. The uncut version got a 'not under 16' rating only in 2009.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some US theaters billed it with the subtitle 'Carnival of Terror', and the film's tagline was 'Pay to get in. Pray to get out!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2017 screenwriter Lawrence J. Block won back the US copyright to his script through copyright termination rules, and is reportedly developing a remake.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writing for Sight and Sound in 2017, Nick Pinkerton called The Funhouse 'one of [Hooper's] very finest films.'",
+      "icon": "trophy",
+      "byline": "Nick Pinkerton",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Despite its reputation, it isn't a classic slasher: nobody is killed with a sharp weapon. It's closer to a monster movie, with a creature and a carnival full of Universal-style nods.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5730,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "An early script ended with Amy finding her family slaughtered, then a Lon Chaney quote about clowns. It was dropped for resembling Charles Beaumont's story 'The Jungle.'",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
