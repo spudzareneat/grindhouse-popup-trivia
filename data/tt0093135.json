@@ -1,0 +1,481 @@
+{
+  "schema": 1,
+  "imdbId": "tt0093135",
+  "title": "Hack-O-Lantern",
+  "year": 1988,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-10-22T10:43:25.841Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film opens by claiming to be \"Based on a true story...\" It isn't, as far as anyone can tell, but it's a classic grindhouse hook.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hysteria-lives.co.uk/hysterialives/Hysteria/hack-o-lantern.html"
+      }
+    },
+    {
+      "t": 120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hack-O-Lantern was filmed in 1986 but didn't reach audiences until 1988, two years later.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 185,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Grandpa is played by Hy Pyke, who was born Monty Pike. The character actor spent decades playing weirdos and heavies in low-budget and cult films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0131987",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhhNTE3ZTktYjY0Mi00NjhkLTg5MTAtNGM5NGQyZTMyZDE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 275,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Katina Garner, who plays mother Amanda, also turned up in the Roller Blade (1986) and the cult comedy Wacko (1982), and in A Polish Vampire in Burbank (1983).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0307725"
+    },
+    {
+      "t": 340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jag Mundhra was Indian-born. Hack-O-Lantern was only his second Hollywood film, after the slasher Open House (1987).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/hack-o-lantern-1988.htm"
+      },
+      "person": "nm0612730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1NDYyNzQ1NF5BMl5BanBnXkFtZTcwMzI4MDcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Grandpa star Hy Pyke is also Taffey Lewis, the sleazy club owner in Ridley Scott's Blade Runner (1982), as Paste Magazine's Jim Vorel points out.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/terror-trash-hack-o-lantern-1988-review-classic-slasher-cheesy-hy-pyke-performance"
+      },
+      "person": "nm0131987",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhhNTE3ZTktYjY0Mi00NjhkLTg5MTAtNGM5NGQyZTMyZDE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 495,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Paste Magazine's Jim Vorel called Hy Pyke's Grandpa performance the film's highlight, a drawl-and-lisp mix that turns sinister lines unintentionally funny.",
+      "icon": "mic",
+      "byline": "Jim Vorel — Paste Magazine",
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/terror-trash-hack-o-lantern-1988-review-classic-slasher-cheesy-hy-pyke-performance"
+      },
+      "person": "nm0131987",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhhNTE3ZTktYjY0Mi00NjhkLTg5MTAtNGM5NGQyZTMyZDE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On Tubi, the closed captions for Hack-O-Lantern sometimes read \"SPEAKING GIBBERISH\" or go blank when Grandpa (Hy Pyke) screams, Paste Magazine's Jim Vorel noticed.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/terror-trash-hack-o-lantern-1988-review-classic-slasher-cheesy-hy-pyke-performance"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grandpa actor Hy Pyke died on October 26, 2006, five days before Halloween.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0131987",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhhNTE3ZTktYjY0Mi00NjhkLTg5MTAtNGM5NGQyZTMyZDE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Rifftrax crew mocked Hack-O-Lantern on October 28, 2022, just in time for Halloween.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hy Pyke once had a small part in John Milius' gangster film Dillinger (1973) that was cut out. He also played Bebe Rebozo in an unreleased Nixon satire.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0131987",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhhNTE3ZTktYjY0Mi00NjhkLTg5MTAtNGM5NGQyZTMyZDE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 975,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hysteria Lives says the film looks like it was shot through a soft, Vaseline-smeared lens, mixing slasher violence with family melodrama and some nudity.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hysteria-lives.co.uk/hysterialives/Hysteria/hack-o-lantern.html"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Vera is played by Carla B., who is credited as Carla Baron in some listings.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2019/10/31/hack-o-lantern-1988-halloween-night-movie-review/"
+      },
+      "person": "nm0056204"
+    },
+    {
+      "t": 1180,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Teenage Tommy is meant to be 18, but actor Gregory Scott Cummins looks about 30, according to Paste Magazine's Jim Vorel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/terror-trash-hack-o-lantern-1988-review-classic-slasher-cheesy-hy-pyke-performance"
+      },
+      "person": "nm0192003",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTg1ODYyNV5BMl5BanBnXkFtZTgwMTIxNDIxMDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1255,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The song \"Devil's Son\" was performed by D.C. La Croix, written by Slyvie LaCroix and distributed by EMI. It's the film's heavy-metal theme.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The killer's mask is a store-bought Halloween mask called Hooded Fear, designed by Bill Ystrom for Be Something Studio. The production added paint and hair.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1530,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: the cashier says Nora's total is $40, and gives $15 change for one bill. That would make it a $55 bill.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1690,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Nora, the girl in the pool, is played by Jeanna Fine, an adult film star credited here as Angel Rush.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2019/10/31/hack-o-lantern-1988-halloween-night-movie-review/"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch Nora's pentagram tattoo: it nearly washes off after she leaves the pool, then returns upside-down after she drops her towel. It was just paint.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1870,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tommy's bunker is decked out with an Elvira poster, a Killian's Irish Red beer sign and heavy metal cassettes. It fits a film that nods to Elvira's Movie Macabre.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/terror-trash-hack-o-lantern-1988-review-classic-slasher-cheesy-hy-pyke-performance"
+      }
+    },
+    {
+      "t": 1925,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tommy's shrine includes an upside-down cross as a Satanic symbol. It's a movie cliche. The inverted cross is traditionally linked to St. Peter, who asked to be crucified upside-down.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tommy actor Gregory Scott Cummins was named best punter in University of Hawaii football history on its 40-year all-star team in 1991.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0192003",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTg1ODYyNV5BMl5BanBnXkFtZTgwMTIxNDIxMDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jag Mundhra (1948-2011) is best known for his early career as an American exploitation writer-director, before returning to Indian cinema.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0612730",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1NDYyNzQ1NF5BMl5BanBnXkFtZTcwMzI4MDcyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Gregory Scott Cummins claims director Jag Mundhra couldn't speak English. Co-star Marya Gant says Mundhra held a US marketing master's degree, per DVD Exotica's Massacre Video review.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdexotica.com/2017/12/hack-o-lantern-gets-massacred-dvd-blu.html"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hack-O-Lantern is also known under the alternate title Halloween Night.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2019/10/31/hack-o-lantern-1988-halloween-night-movie-review/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film got a second life when RedLetterMedia featured it on episode 58 of their \"Best of the Worst\" series, introducing it to a new generation.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hack-O-Lantern was shot on 35mm film. DVD Exotica reviewed the Massacre Video release and thought it looked far more professional than fans previously believed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdexotica.com/2017/12/hack-o-lantern-gets-massacred-dvd-blu.html"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Hack-O-Lantern gets a shout-out in the 1988 Dirty Harry sequel The Dead Pool. It's also referenced in WNUF Halloween Special (2013).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Massacre Video's 2017 disc was billed as the first legit release since VHS. Before that, fans relied on smudgy fullscreen tapes and rips.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdexotica.com/2017/12/hack-o-lantern-gets-massacred-dvd-blu.html"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "TMDB lists the film's budget at $5.5 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 3630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hysteria Lives counts 8 bodies in Hack-O-Lantern, 4 women and 4 men, killed by a hammer claw, shovel, rake, tightened corset, strangulation and a gunshot.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hysteria-lives.co.uk/hysterialives/Hysteria/hack-o-lantern.html"
+      }
+    },
+    {
+      "t": 3765,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: Brian is pulled out of the grave, and his chest is visibly still breathing.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called the rock-band dream sequence, with its fake-looking severed head, the film's most ridiculous element. He gave the movie one star.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/hack-o-lantern-1988.htm"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Paste Magazine's Jim Vorel described the Halloween party's stand-up comedian routine as painfully awkward. The party also features strippers, and a woman dancing with a boa constrictor.",
+      "icon": "mic",
+      "byline": "Jim Vorel — Paste Magazine",
+      "source": {
+        "type": "web",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/terror-trash-hack-o-lantern-1988-review-classic-slasher-cheesy-hy-pyke-performance"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2021 the film was a case on TV's The People's Court. Massacre Video, who released its Blu-ray, sued someone who uploaded it to YouTube.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Jag Mundhra's daughter, Smriti Mundhra, grew up to be an Academy Award-nominated director and producer, according to his Wikipedia page.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jag_Mundhra"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tommy actor Gregory Scott Cummins later played Mac's dad on It's Always Sunny in Philadelphia and appeared in Cliffhanger (1993).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.spectacletheater.com/spectober-vii/"
+      },
+      "person": "nm0192003",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTg1ODYyNV5BMl5BanBnXkFtZTgwMTIxNDIxMDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film nods to horror hits like Halloween (1978) and Silver Bullet (1985). The Blu-ray release calls the film a Halloween-night slasher.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer at Movies and Drinks recalls his school changed its \"Demons\" mascot to \"Dolphins\" around 1987-88, the Satanic panic era that Hack-O-Lantern was made in.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2019/10/31/hack-o-lantern-1988-halloween-night-movie-review/"
+      }
+    }
+  ]
+}
