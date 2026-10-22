@@ -1,0 +1,502 @@
+{
+  "schema": 1,
+  "imdbId": "tt0115610",
+  "title": "Bad Moon",
+  "year": 1996,
+  "runtimeSec": 4800,
+  "generatedAt": "2026-10-22T11:28:06.547Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In the opening attack, two stunt women doubled for Marjorie, both nude. Director Eric Red says one promised him no full frontal nudity, \"but I lied.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0714599",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I1OGNlMjYtYWVkNi00YWVmLWJlNzUtMzYzMTkzNGU3MDY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A few seconds of sex and gore were trimmed from the opening werewolf attack to dodge an NC-17 rating. An extended version survives on a VHS source.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/178426/bad-moon-blu-ray/"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bad Moon is based on Thor, a 1992 novel by Wayne Smith told from the family dog's point of view. Director Eric Red got it from the William Morris Agency before it was published.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Eric Red called the book \"the most original idea he'd ever heard for a werewolf movie.\" The novel's family of five became just single mom Janet and son Brett to tighten the tension.",
+      "icon": "mic",
+      "byline": "Eric Red — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Red had written The Hitcher and Near Dark before directing Bad Moon. Before this he directed Showtime's Undertow with Lou Diamond Phillips, Mia Sara and Charles Dance.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0714599",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I1OGNlMjYtYWVkNi00YWVmLWJlNzUtMzYzMTkzNGU3MDY5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Michael Biehn and Robert Patrick both lobbied for the role of Ted. Eric Red picked Michael Paré for \"the power he has as an actor.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001595",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE0MjUxN2YtZDVlNy00NTg3LTliNGYtYWZhZDY5M2M3Y2ZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 765,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sheriff Jenson actor Ken Pogue and Tom Skerritt are the only two actors to appear in both The Dead Zone (1983) and the 2002 TV series of the same name.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0688285",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczOTAzMTY2NV5BMl5BanBnXkFtZTgwNjAzMTEzMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 830,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Thor the dog was played mainly by a German Shepherd named Primo. An older female, Decca, handled lying-down and over-the-shoulder shots, and she'd been a movie dog for 10 years.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 895,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Eric Red used several dogs because he knows of only one dog feature that used a single animal for every shot: the Benji films.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Virginian-Pilot's Mal Vincent gave Bad Moon half a star but still singled out Primo, the dog playing Thor, as the film's standout.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp961106/11060034.htm"
+      }
+    },
+    {
+      "t": 1090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's animal trainers play the animal control officers who come for Thor. The trainer said Michael Paré's ease with the dog reminded him of Jim Belushi on K-9.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1220,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ted's silver Airstream trailer is meant to evoke a silver bullet. Director Eric Red: \"That's a nuance nobody ever notices.\"",
+      "icon": "mic",
+      "byline": "Eric Red — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie's werewolf rules, like silver bullets and wolfsbane, were largely invented by screenwriter Curt Siodmak for The Wolf Man (1941). Janet's son Brett argues them as common knowledge.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Janet's son Brett watches Werewolf of London (1935) on TV in the movie. Ted's claim that the full moon alone triggers its transformations isn't actually true of that film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Werewolf effects came from Steve Johnson's XFX company. Eric Red's mandate was \"the ultimate werewolf,\" built to hold up in close-up and bright light.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1675,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stunt coordinator Ken Kirzinger wore Steve Johnson's werewolf suit. He later played Jason Voorhees in Freddy vs. Jason (2003).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=152835"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Steve Johnson's werewolf has a fully animatronic head and a full-body costume. Alamo Drafthouse programmer Robert Saucedo wrote that it \"steals the show.\"",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://birthmoviesdeath.com/2016/10/18/an-ode-to-bad-moon-the-best-werewolf-film-of-the-90s.html"
+      }
+    },
+    {
+      "t": 1870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Eric Red's director's cut drops a roughly 20-second CGI transformation shot he'd hated for two decades. Fans complained about it almost as long.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/178426/bad-moon-blu-ray/"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Red says practical effects beat digital ones because \"they are actual physical effects in front of the camera.\" The film's CGI transformation is the part reviewers most often single out as weak.",
+      "icon": "mic",
+      "byline": "Eric Red — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2065,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sharp-eyed viewers noted the film's full-moon nights show a new or nearly new moon, a goof listed on IMDb.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2130,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Eric Red was frank about star Mariel Hemingway: \"I found Mariel to be a limited actress,\" he says. He adds she's beautiful and athletic and moves well on screen.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000446",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODI4ODc4MV5BMl5BanBnXkFtZTYwNjY1OTYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "To get raw emotion from Mariel Hemingway, Eric Red made her do take after take, yelling at her to play it bigger, until she was exhausted and furious. Then the tears and rage came.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000446",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODI4ODc4MV5BMl5BanBnXkFtZTYwNjY1OTYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mariel Hemingway plays Michael Paré's big sister, but he's actually about three years older than she is.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000446",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODI4ODc4MV5BMl5BanBnXkFtZTYwNjY1OTYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mariel Hemingway was an Oscar nominee for Woody Allen's Manhattan (1979). She was also a runner-up for the Taxi Driver role that went to Jodie Foster.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000446",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODI4ODc4MV5BMl5BanBnXkFtZTYwNjY1OTYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Paré was a chef who studied at the Culinary Institute of America before modeling led to acting. He is best known as Eddie in Eddie and the Cruisers (1983).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001595",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE0MjUxN2YtZDVlNy00NTg3LTliNGYtYWZhZDY5M2M3Y2ZiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mason Gamble (Brett) was picked from over 20,000 kids to play the title role in Dennis the Menace (1993). He later played Dirk in Wes Anderson's Rushmore (1998).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001253",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2MTYxODAyN15BMl5BanBnXkFtZTcwMTI5MDEzOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2845,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In some old werewolf lore a loved one can cure the curse. Ted, an academic in the film, could dig up examples, and a book of legends in his trailer hints at where he got the idea.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2910,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bad Moon was budgeted at about $6 million with a forty-day shooting schedule. Director Eric Red was perfectly happy with both.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Warner Bros. opened Bad Moon the day after Halloween 1996 with almost no marketing. It grossed about $1.1 million on a $7 million budget and left theaters in roughly two weeks.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/178426/bad-moon-blu-ray/"
+      }
+    },
+    {
+      "t": 3105,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called the werewolf effects technically strong but said the creature \"looks like one of those plastic Classic Creature kitset models.\"",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/bad-moon-1996.htm"
+      }
+    },
+    {
+      "t": 3170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety's Joe Leydon called Bad Moon \"too silly to be suspenseful, yet not quite awful enough or intentionally funny enough to qualify as camp.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Thomas of the Los Angeles Times called it \"a straight-ahead horror picture with exceptionally well-written characters and well-directed actors.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3365,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bad Moon landed in theaters just weeks before Wes Craven's Scream (1996) revived horror, at a time when monster movies were out of fashion.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=152835"
+      }
+    },
+    {
+      "t": 3430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Alamo Drafthouse programmer Robert Saucedo called Bad Moon \"the best werewolf film of the '90s.\" Director Eric Red attended a 35mm screening in Houston.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://birthmoviesdeath.com/2016/10/18/an-ode-to-bad-moon-the-best-werewolf-film-of-the-90s.html"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Janet's revolver is a Rossi Model 971. Her SUV is a 1995 Ford Explorer XLT. Ted's trailer is a 1966 Tradewind Airstream.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Coffel of Bloody Disgusting said Bad Moon \"succeeds with what you want in a trashy werewolf movie.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wondering why the Explorer-driving lawyer Janet's brother is shooting in Vancouver? The film was shot around Vancouver and Anmore, British Columbia.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Red says the pound scene, where Thor is taken away, \"makes a lot of people cry.\"",
+      "icon": "mic",
+      "byline": "Eric Red — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A Russian border-patrol attack dog and a miniature Shepherd were used for the final werewolf fight, alongside the main dog, Primo.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Janet's revolver is a six-shooter, yet IMDb goof-spotters counted eight shots fired from it in the film without a reload.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A copy of the novel Thor appears on a bookshelf in Kiss Kiss Bang Bang (2005), a possible nod to Bad Moon.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://birthmoviesdeath.com/2016/10/18/an-ode-to-bad-moon-the-best-werewolf-film-of-the-90s.html"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dino De Laurentiis was initially attached to produce the film. It was ultimately produced by James G. Robinson of Morgan Creek.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
