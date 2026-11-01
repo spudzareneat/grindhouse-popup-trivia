@@ -2,6 +2,7 @@ import { buildPrompt, buildTopUpPrompt, targetFactCount, maxFactCount } from './
 import { MODEL_OUTPUT_SCHEMA, MIN_FACTS, WEB_SHARE } from './schema.js';
 import { validateFacts, buildDoc } from './validate.js';
 import { hasDoc, writeDoc } from './publish.js';
+import { titleVariants } from './titles.js';
 
 export class UsageLimitError extends Error {}
 export class PublishError extends Error {}
@@ -28,20 +29,28 @@ function subsNote(subtitles, wanted, transcript) {
     return subtitles.isExhausted?.() ? 'daily quota used up' : 'none';
 }
 
-async function resolveTconst(item, imdb) {
-    if (item.tconst) return item.tconst;
-    for (const title of [item.title, ...(item.akas || [])]) {
-        const m = await imdb.searchTitle(title, item.year ?? null);
-        if (m) return m.tconst;
+// Every name as written first (title, then akas), then the fallback variants of each.
+async function resolveTconst(item, imdb, log) {
+    if (item.tconst) return { tconst: item.tconst };
+    const names = [item.title, ...(item.akas || [])].filter(Boolean);
+    const tried = [];
+    for (const term of [...names, ...names.flatMap(titleVariants)]) {
+        if (tried.includes(term)) continue;
+        tried.push(term);
+        const m = await imdb.searchTitle(term, item.year ?? null);
+        if (m) {
+            if (!names.includes(term)) log?.(`  matched on IMDb as "${term}" -> ${m.title} (${m.year})`);
+            return { tconst: m.tconst };
+        }
     }
-    return null;
+    return { tconst: null, tried };
 }
 
 export async function processMovie(item, deps) {
     const { imdb, wiki, tmdb, subtitles, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
     const label = item.title ? `${item.title}${item.year ? ` (${item.year})` : ''}` : item.tconst;
-    const tconst = await resolveTconst(item, imdb);
-    if (!tconst) return { status: 'failed', title: label, reason: 'not found on IMDb' };
+    const { tconst, tried } = await resolveTconst(item, imdb, log);
+    if (!tconst) return { status: 'failed', title: label, reason: `not found on IMDb (tried: ${tried.map(t => `"${t}"`).join(', ')})` };
     if (!force && hasDoc(dataDir, tconst)) return { status: 'skipped', title: label, tconst, reason: 'already has a file' };
 
     const bundle = await imdb.fetchBundle(tconst);

@@ -267,3 +267,24 @@ test('processMovie: facts capped at one per minute of runtime, best rank kept', 
     const doc = JSON.parse(fs.readFileSync(path.join(deps.dataDir, 'tt0055830.json'), 'utf8'));
     assert.equal(doc.facts.filter(f => f.rank === 1).length, 20);
 });
+
+test('processMovie: a prefixed schedule title falls back to the part after the dash', async () => {
+    const searched = [], logs = [];
+    const { deps } = makeDeps({
+        imdb: { ...makeDeps().deps.imdb, searchTitle: async (title, year) => { searched.push(title); return title === 'HauntedWeen' ? { tconst: 'tt0101999', title, year } : null; } },
+        runClaude: skipTopUp(async () => ({ ok: true, usageLimited: false, facts: FIVE })),
+        log: m => logs.push(m),
+    });
+    const r = await processMovie({ title: 'Basement Grindhouse - HauntedWeen', year: 1991, akas: [] }, deps);
+    assert.equal(r.tconst, 'tt0101999');
+    assert.deepEqual(searched, ['Basement Grindhouse - HauntedWeen', 'HauntedWeen']);
+    assert.ok(logs.some(l => /matched on IMDb as "HauntedWeen"/.test(l)));
+});
+test('processMovie: akas as written are tried before any variant; failure lists what was tried', async () => {
+    const searched = [];
+    const { deps } = makeDeps({ imdb: { ...makeDeps().deps.imdb, searchTitle: async (title) => { searched.push(title); return null; } } });
+    const r = await processMovie({ title: 'Label - Film', year: 1980, akas: ['Other: Name'] }, deps);
+    assert.deepEqual(searched, ['Label - Film', 'Other: Name', 'Film', 'Label', 'Name', 'Other']);
+    assert.equal(r.status, 'failed');
+    assert.match(r.reason, /not found on IMDb \(tried: "Label - Film", "Other: Name", "Film"/);
+});
