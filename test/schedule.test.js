@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseEntries, selectCurrentEntry, parseSchedule, flattenMovies, fetchWeekendMovies, parseDateRange } from '../src/schedule.js';
+import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, parseDateRange } from '../src/schedule.js';
 
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entry = (id, title, pub, html) =>
@@ -87,4 +87,29 @@ test('parseSchedule: themed day headers + nested-tag section header (Halloween 2
             { day: 'Saturday', sections: ['Saturday Prime Time Drive-In:The Exorcist', 'Halloween Raffle Winners Reveal:The Beyond'] },
             { day: 'Sunday', sections: ['The Sunday Classics:Blood Feast'] },
         ]);
+});
+
+test('parseListItems: year typos, double-encoded entities, unbracketed numbers stay in titles', () => {
+    const items = parseListItems(['Jason X )2001)', 'Family Reunion [2003]', 'A Wrestling Christmas Miracle (2020',
+        'Fit to Kill 1993)', 'Judge &amp; Jury (1996)', 'Equalizer 2000 (1987)', 'Class of 1984 (1982)',
+        'The Chosen (1977) aka Holocaust 2000', 'Bloodstone: Subspecies II'].map(t => `<li>${t}</li>`).join(''));
+    assert.deepEqual(items.map(i => [i.title, i.year]), [
+        ['Jason X', '2001'], ['Family Reunion', '2003'], ['A Wrestling Christmas Miracle', '2020'],
+        ['Fit to Kill', '1993'], ['Judge & Jury', '1996'], ['Equalizer 2000', '1987'], ['Class of 1984', '1982'],
+        ['The Chosen', '1977'], ['Bloodstone: Subspecies II', null],
+    ]);
+    assert.deepEqual(items[7].akas, ['Holocaust 2000']);
+});
+test('parseSchedule keeps lists with no section header instead of dropping them', () => {
+    assert.deepEqual(shape(parseSchedule(
+        '<ul><li><a href="x">a link</a></li></ul>' +
+        '<p><strong>Friday</strong></p><ul><li>A (1990)</li></ul><p><strong>Late</strong></p><ul><li>B (1991)</li></ul>')),
+        [{ day: 'Friday', sections: ['Friday:A', 'Late:B'] }]);
+    assert.deepEqual(shape(parseSchedule('<p>This weekend:</p><ul><li>A (1990)</li><li>See you there</li></ul>')),
+        [{ day: 'Unknown', sections: ['Unknown:A'] }]);
+});
+test('selectCurrentEntry looks past the first five feed entries', () => {
+    const filler = Array.from({ length: 6 }, (_, i) => entry(`t3_f${i}`, `Chat ${i}`, '2026-10-01T00:00:00+00:00', '<p>x</p>')).join('');
+    const feed = `<feed>${filler}${entry('t3_s', 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5', '2026-09-30T12:00:00+00:00', BODY)}</feed>`;
+    assert.equal(selectCurrentEntry(parseEntries(feed)).postId, 't3_s');
 });

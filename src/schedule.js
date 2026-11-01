@@ -7,7 +7,6 @@
 export const FEED_URL = 'https://www.reddit.com/r/420Grindhouse/.rss';
 const BROWSER_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 const DAY_NAMES = ['Friday', 'Saturday', 'Sunday'];
-const CANDIDATE_SCAN_LIMIT = 5;
 
 function slugify(name) {
     return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
@@ -61,25 +60,37 @@ export function parseDateRange(title, publishedAt) {
 
 export function selectCurrentEntry(entries) {
     let best = null;
-    for (const entry of entries.slice(0, CANDIDATE_SCAN_LIMIT)) {
+    // Whole feed, not just the top few: pin order isn't recency, and the scan costs nothing here.
+    for (const entry of entries) {
         if (!parseDateRange(entry.title, entry.publishedAt)) continue;
         if (!best || new Date(entry.publishedAt) > new Date(best.publishedAt)) best = entry;
     }
     return best;
 }
 
+// Year typos seen across two years of posts: "Decampitated (1998))", "Jason X )2001)",
+// "...Family Reunion [2003]", "A Wrestling Christmas Miracle (2020", "Fit to Kill 1993)".
+// A year with no bracket on either side stays part of the title ("Equalizer 2000 (1987)",
+// aka "Holocaust 2000").
+const BRACKETED_YEAR_RE = /^(.*?)\s*[(\[)]\s*((?:18|19|20)\d{2})\s*[)\]]?/;
+const CLOSE_ONLY_YEAR_RE = /^(.*\S)\s+((?:18|19|20)\d{2})\s*[)\]]+/;
+const TRAILING_YEAR_RE = /\s*(?:[(\[)]\s*\d{4}\s*[)\]]*|\d{4}\s*[)\]]+)\s*$/;
+
 export function parseListItems(ulInnerHtml) {
     const items = [];
     const liRe = /<li>([\s\S]*?)<\/li>/g;
     let lm;
     while ((lm = liRe.exec(ulInnerHtml))) {
-        const display = lm[1].replace(/<strong>[^<]*<\/strong>\s*/, '').replace(/<[^>]+>/g, '').trim();
+        // Second decode: Reddit entity-encodes '&' inside the already-escaped feed blob,
+        // so "Judge & Jury" is still "Judge &amp; Jury" after parseEntries' pass.
+        const display = decodeHtmlEntities(lm[1].replace(/<strong>[^<]*<\/strong>\s*/, '').replace(/<[^>]+>/g, '')).trim();
         if (!display) continue;
         const [primary, ...akaParts] = display.split(/\s+aka\s+/i);
-        const akas = akaParts.map(a => a.replace(/\s*\(\d{4}\)\s*$/, '').trim()).filter(Boolean);
-        const ym = primary.trim().match(/^(.*?)\s*\((\d{4})\)/);
+        const akas = akaParts.map(a => a.replace(TRAILING_YEAR_RE, '').trim()).filter(Boolean);
+        const p = primary.trim();
+        const ym = p.match(BRACKETED_YEAR_RE) || p.match(CLOSE_ONLY_YEAR_RE);
         if (ym) items.push({ title: ym[1].trim(), year: ym[2], display, akas });
-        else items.push({ title: primary.trim(), year: null, display, akas });
+        else items.push({ title: p, year: null, display, akas });
     }
     return items;
 }
@@ -113,9 +124,18 @@ export function parseSchedule(contentHtml) {
             } else {
                 pendingSectionName = text;
             }
-        } else if (currentDay && pendingSectionName) {
-            const items = parseListItems(m[2]);
-            if (items.length) currentDay.sections.push({ name: pendingSectionName, slug: slugify(pendingSectionName), items });
+        } else {
+            // A list with no section header (or before any day header) used to be dropped
+            // silently, and a dropped film never gets trivia. Keep it: an unlabeled list takes
+            // the day's name as its section; a list before any day goes under "Unknown", dated
+            // items only, so a list of links in an intro doesn't turn into movies.
+            let items = parseListItems(m[2]);
+            if (!currentDay) {
+                items = items.filter(it => it.year);
+                if (items.length) { currentDay = { day: 'Unknown', sections: [] }; days.push(currentDay); }
+            }
+            const name = pendingSectionName || currentDay?.day;
+            if (currentDay && items.length) currentDay.sections.push({ name, slug: slugify(name), items });
             pendingSectionName = null;
         }
     }
