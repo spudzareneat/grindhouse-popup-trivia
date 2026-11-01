@@ -1,7 +1,8 @@
 // r/420Grindhouse weekend schedule: fetch the Atom feed, pick the current schedule
 // post, parse days -> sections -> "Title (Year)" items. Ported from the userscript's
 // tonights-lineup module (see its comments for the live-confirmed quirks handled here:
-// pinned-order != recency, "==Friday==" decorated headers, "(1998))" typo parens).
+// pinned-order != recency, "==Friday==" decorated headers, "(1998))" typo parens,
+// themed "==Halloween Eve Friday==" day headers, tags nested inside <strong> headers).
 
 export const FEED_URL = 'https://www.reddit.com/r/420Grindhouse/.rss';
 const BROWSER_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
@@ -87,13 +88,25 @@ export function parseSchedule(contentHtml) {
     const days = [];
     let currentDay = null;
     let pendingSectionName = null;
-    const re = /<strong>([^<]*)<\/strong>|<ul>([\s\S]*?)<\/ul>/g;
+    // [\s\S]*? + tag strip: a header can nest tags inside the bold ("<strong><em>Halloween
+    // Raffle Winners Reveal</em></strong>", 2026-10-30 -- was skipped, dropping its film).
+    const re = /<strong>([\s\S]*?)<\/strong>|<ul>([\s\S]*?)<\/ul>/g;
     let m;
     while ((m = re.exec(contentHtml))) {
         if (m[1] !== undefined) {
-            const text = m[1].trim();
-            const dayName = text.replace(/^[^A-Za-z]+|[^A-Za-z]+$/g, '');
-            if (DAY_NAMES.includes(dayName)) {
+            const text = m[1].replace(/<[^>]+>/g, '').trim();
+            const cleaned = text.replace(/^[^A-Za-z]+|[^A-Za-z]+$/g, '');
+            let dayName = DAY_NAMES.includes(cleaned) ? cleaned : null;
+            // Themed day headers add words ("==Halloween Eve Friday==", 2026-10-30). Section
+            // names contain day names too ("Funky Cheese Friday"), so tell them apart by
+            // structure: a section header is followed by its <ul>, a day header by another bold.
+            if (!dayName) {
+                const words = DAY_NAMES.filter(d => new RegExp(`\\b${d}\\b`, 'i').test(cleaned));
+                const rest = contentHtml.slice(re.lastIndex);
+                const nextUl = rest.indexOf('<ul>'), nextStrong = rest.indexOf('<strong>');
+                if (words.length === 1 && nextStrong !== -1 && (nextUl === -1 || nextStrong < nextUl)) dayName = words[0];
+            }
+            if (dayName) {
                 currentDay = { day: dayName, sections: [] };
                 days.push(currentDay);
                 pendingSectionName = null;
