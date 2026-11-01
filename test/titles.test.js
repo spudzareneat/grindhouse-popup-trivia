@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { normalizeTitle, titlesMatch } from '../src/titles.js';
+import { normalizeTitle, titlesMatch, titleVariants } from '../src/titles.js';
 
 test('normalizeTitle strips leading article, punctuation, roman numerals', () => {
     assert.equal(normalizeTitle('The Evil Dead II: Dead by Dawn'), 'evil dead 2 dead by dawn');
@@ -18,4 +18,13 @@ test('titlesMatch empty -> false', () => {
 });
 test('titlesMatch strips curly apostrophes', () => {
     assert.equal(titlesMatch('Don’t Look in the Basement', 'Dont Look in the Basement'), true);
+});
+
+test('titleVariants: event-label prefixes, subtitle tags, nothing for plain titles', () => {
+    assert.deepEqual(titleVariants('Basement Grindhouse - HauntedWeen'), ['HauntedWeen', 'Basement Grindhouse']);
+    assert.deepEqual(titleVariants('Monstervision – The Howling III: The Marsupials').slice(0, 1), ['The Howling III: The Marsupials']);
+    assert.ok(titleVariants('Monstervision - Friday the 13th Part 4: The Final Chapter').includes('Friday the 13th Part 4'));
+    assert.deepEqual(titleVariants('WAR: Women Against Rape'), ['Women Against Rape', 'WAR']);
+    assert.deepEqual(titleVariants('Carnival of Souls'), []);
+    assert.deepEqual(titleVariants('Psycho-Circus'), []);   // unspaced hyphen is part of the title
 });
