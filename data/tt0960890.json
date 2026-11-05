@@ -1,0 +1,488 @@
+{
+  "schema": 1,
+  "imdbId": "tt0960890",
+  "title": "Zombie Strippers!",
+  "year": 2008,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-11-05T11:57:45.756Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This opening newscast was originally going to be on-screen text only. Writer-director Jay Lee's fake news about a fourth George W. Bush term sets up the film's political satire.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Zombie Strippers began as a joke. Director Jay Lee, making a horror film called The Slaughter, quipped about making 'Zombie Strippers' instead, then found nobody had used the title.",
+      "icon": "mic",
+      "byline": "Jay Lee — Director",
+      "source": {
+        "type": "web",
+        "url": "https://movieweb.com/exclusive-jay-lee-reveals-all-in-zombie-strippers/"
+      },
+      "person": "nm0999415",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTI1NjA2NF5BMl5BanBnXkFtZTcwMDU3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jay Lee wrote, directed AND shot this movie as his own cinematographer, partly to save money. His sister Angela Lee produced it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://movieweb.com/exclusive-jay-lee-reveals-all-in-zombie-strippers/"
+      },
+      "person": "nm0999415",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTI1NjA2NF5BMl5BanBnXkFtZTcwMDU3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole film cost about one million dollars and was shot in just eighteen days. Jay Lee aimed for roughly 70 camera setups a day.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://movieweb.com/exclusive-jay-lee-reveals-all-in-zombie-strippers/"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jay Lee says he never wrote a synopsis for the film and suspects some of the backers approved it without even reading the script.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://movieweb.com/exclusive-jay-lee-reveals-all-in-zombie-strippers/"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Robert Englund (Freddy Krueger) dyed his hair white so he wouldn't look too much like himself. He told Classic-Horror: \"There's a wink there. You know it's me.\"",
+      "icon": "mic",
+      "byline": "Robert Englund",
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/newsreel/robert_englund_zombie_strippers_interview"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Robert Englund's strip club owner is named Ian Essko, a pun on absurdist playwright Eugène Ionesco, whose play Rhinoceros inspired the film. The club is called Rhino's.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Englund told Classic-Horror he played Ian Essko as a sleazy buffoon who \"doesn't like women\" and sees his strippers as scum, even while running a strip club.",
+      "icon": "mic",
+      "byline": "Robert Englund",
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/newsreel/robert_englund_zombie_strippers_interview"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jenna Jameson was the first person the filmmakers approached. Jay Lee's sister, producer Angela Lee, got her the script; Jameson liked its mix of horror, comedy and political statement.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmarcademedia.blogspot.com/2008/10/independent-film-corner-jay-lee.html"
+      },
+      "person": "nm0001398",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGEwNjI2NDAtMWM4Zi00MmFlLWE2MTctMjQyMjM4MTY3OWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1460,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The club bouncer is MMA fighter Tito Ortiz, then Jenna Jameson's boyfriend. They later had twin sons, born in March 2009.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The actresses choreographed their own striptease routines, and crew members doubled as extras in the club crowd.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joanna Pacula was originally cast as Madame Blavatski but left over a schedule conflict, and later regretted it. The role was specifically written for Carmit Levité.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roxy Saint, who plays goth stripper Lillith, also performed several songs on the soundtrack, including \"Smother You,\" heard again over the end credits.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm2641532",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjYxNjQ2ODcxNF5BMl5BanBnXkFtZTcwOTk2Nzg2MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jay Lee on nudity in horror: \"I actually don't think it's that essential,\" though he admits that given two DVDs, he'd probably rent the one with nudity.",
+      "icon": "mic",
+      "byline": "Jay Lee — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0999415",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTI1NjA2NF5BMl5BanBnXkFtZTcwMDU3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2160,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Zombie Strippers was a spoof of The Warriors (1979): a zombie taunts \"Warriors, come out to play,\" the line made famous by David Patrick Kelly as Luther.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first infected Marine is named Byrdflough, a pun on bird flu.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actress Shamron Moore told Boomtron the cast hadn't read Rhinoceros, so director Jay Lee sometimes had to explain the Ionesco references. She had originally read for the role of Kat.",
+      "icon": "mic",
+      "byline": "Shamron Moore",
+      "source": {
+        "type": "web",
+        "url": "https://www.boomtron.com/interview-shamron-moore/"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shamron Moore told Boomtron the Jeannie-vs-Kat fight was hard to film: she struggled to keep a straight face while Jenna Jameson hurled objects at her head.",
+      "icon": "mic",
+      "byline": "Shamron Moore",
+      "source": {
+        "type": "web",
+        "url": "https://www.boomtron.com/interview-shamron-moore/"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Robert Englund told Classic-Horror the movie was a \"punk-rock reaction\" to bloated, over-produced films, a nod to 70s and 80s exploitation and early Sam Raimi.",
+      "icon": "mic",
+      "byline": "Robert Englund",
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/newsreel/robert_englund_zombie_strippers_interview"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2860,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Penny Drake (Penny Vital), who plays stripper Sox, later appeared at E3 in 2009 as video game heroine Bayonetta, and was in Sin City and The 40 Year Old Virgin.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm1715297",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjUyNjg4N15BMl5BanBnXkFtZTcwMjk1ODgyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Englund reportedly cut his hand during filming. Director Jay Lee praised his professionalism: he covered the injury with makeup and kept working.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://movieweb.com/exclusive-jay-lee-reveals-all-in-zombie-strippers/"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roxy Saint's pierced nipples in the film were done with prosthetic make-up.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm2641532",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjYxNjQ2ODcxNF5BMl5BanBnXkFtZTcwOTk2Nzg2MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3280,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called Robert Englund's performance \"perpetually awful\" but said it suits the film's tone. He gave the movie three stars.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/zombie-strippers-2008.htm"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria praised Jay Lee's \"appealing sarcasm,\" comparing the opening Marine sequence to Aliens (1986), but played for absurd laughs.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/zombie-strippers-2008.htm"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes gives Zombie Strippers 38%, with the consensus: \"never rises above its silly premise.\" Richard Roeper said it \"doesn't work as camp.\" Variety called it a \"one-joke pic.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Hollywood Reporter's Michael Rechtshaffen found something \"perversely affecting\" in the film, despite its \"lame political satire.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Stranger compared the film to the \"blood, beasts, and breasts\" gospel of drive-in critic Joe Bob Briggs, and found it just wasn't any fun.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.thestranger.com/?p=42727"
+      }
+    },
+    {
+      "t": 3980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sony gave the film a limited theatrical release on April 18, 2008. The Numbers lists its worldwide take at only $8,259; Box Office Mojo lists about $82,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.the-numbers.com/movie/Zombie-Strippers"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's theatrical release pushed the DVD from spring to October 2008. Sony let Jay Lee add many deleted scenes back in, giving several characters more resolution.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://movieweb.com/exclusive-jay-lee-reveals-all-in-zombie-strippers/"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The R-rated theatrical cut was trimmed of nudity and gore to avoid an NC-17; the unrated version restores it. Germany's \"not under 18\" cut removes much of the violence.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jay Lee said he'd love to direct Jessica Alba or Jessica Biel as zombie strippers.",
+      "icon": "sunglasses",
+      "byline": "Jay Lee — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0999415",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTI1NjA2NF5BMl5BanBnXkFtZTcwMDU3MjczMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jenna Jameson announced her retirement from porn at the 2008 AVN Awards, the year this film came out. She'd won over 35 adult-video awards and crossed over with Howard Stern's Private Parts (1997).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001398",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGEwNjI2NDAtMWM4Zi00MmFlLWE2MTctMjQyMjM4MTY3OWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Englund's other directing credits include 976-EVIL (1988) and Killer Pad (2008). He is best known as Freddy Krueger in eight Elm Street films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000387",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ4OTQwMjItMWQ3YS00ODE5LWEyMjQtMWU1NjJlZmIwMDA4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4820,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Scream 4 (2011) and the found-footage horror film The Houses October Built (2014) both reference Zombie Strippers.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film nods to Star Trek II: The Wrath of Khan, The Boondock Saints and The Treasure of the Sierra Madre (\"We don't need no stinking badgers!\"), and spoofs UHF.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jenna Jameson's first striptease in the film was shot with two cameras. Zombie Strippers was also the screen debut of actress Kateland Carr.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001398",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGEwNjI2NDAtMWM4Zi00MmFlLWE2MTctMjQyMjM4MTY3OWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5240,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria places the film in the wave of comic zombie movies after Shaun of the Dead (2004), noting a near-twin rival, Zombies! Zombies! Zombies! (2008).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/zombie-strippers-2008.htm"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Production company Stage 6 Films, formed in 2007, is a Sony Pictures label named after the Culver City soundstage where The Wizard of Oz was shot.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline was \"Live Dead Nudes.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    }
+  ]
+}
