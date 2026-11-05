@@ -1,0 +1,541 @@
+{
+  "schema": 1,
+  "imdbId": "tt0085918",
+  "title": "Mausoleum",
+  "year": 1983,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-11-05T11:21:55.100Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mausoleum nods to another cemetery chiller, One Dark Night (1982), according to IMDb's list of the film's references to other movies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This film was produced and partly financed by Michael Franzese, a former capo of the Colombo crime family. It's rumored the movie was a money-laundering vehicle, though that's only an allegation.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Young Susan Walker was played by Julie Christy Murray, who landed the part because she's the daughter of the film's lighting designer, according to Fangoria's review of the DVD.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/?p=53368"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bobbie Bresee (Susan) wore scleral contact lenses for her possessed scenes. They damaged her eyes, so she shot some scenes early in the film without being able to see properly.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Bobbie Bresee says the budget showed up on set in 'little black suitcases.' She also hints at shady dealings by the film's distributor, Motion Picture Marketing (Fangoria).",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/?p=53368"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup artist John Carl Buechler brought a sketch pad to his job interview for this film. He later directed Friday the 13th Part VII: The New Blood and Troll.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      }
+    },
+    {
+      "t": 590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital notes Stephen Thrower's essay on the film's murky history: possibly in gestation since 1978, with multiple directors and a shoot done in two separate halves.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The family name Nomed, spoken here as 'Susan Nomed', is simply DEMON spelled backwards.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Credited director Michael Dugan shot a script by producers Robert Barich and Robert Madero. Star Bobbie Bresee's recollections suggest those producers had more say than Dugan, Fangoria reports.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/?p=53368"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production began in February 1981 in Los Angeles, but the film didn't open until February 1983 in Birmingham, AL and Nashville. It reached Los Angeles in late April 1983.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bobbie Bresee, who plays Susan, admits on the DVD commentary: 'I didn't know how to act.' This was her first big-screen performance (via Fangoria).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/?p=53368"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Oliver Farrell (Marjoe Gortner) drives a 1980 Bradley GTElectric, a fully electric kit car running on 16 six-volt batteries. A switch flips it between 'Boost' (96 volts) and 'Cruise' (48 volts).",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1195,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Star Marjoe Gortner was a child evangelist, ordained at age four. His 1972 documentary Marjoe, about the business of revivalist preaching, won the Oscar for Best Documentary Feature.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0331374",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmI1ZDVhODMtYmY4Yy00Mzc5LWIwYjUtZWFmYzIzMWVlMGFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1240,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Plot holes aside, the burning-car sequence has a slip: the car door is already open when Oliver rushes to rescue the trapped drunk, and the car is visibly empty when it explodes.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1285,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "LaWanda Page plays Elsie the maid. She's best known as Aunt Esther, Redd Foxx's Bible-thumping sister-in-law on TV's Sanford and Son, a role she played from 1972 into the 1980s.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0656250",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4Y2RiNmMtODg0ZC00YmU0LWEzMzgtNTMyMjRhMmI3ZDk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Marjoe Gortner tried directing too: Variety reported in 1982 that his film The Glory Road, with Gary Busey, began shooting, then suspended after a week. It went bankrupt and was never finished.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0331374",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmI1ZDVhODMtYmY4Yy00Mzc5LWIwYjUtZWFmYzIzMWVlMGFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bobbie Bresee was a former Playboy Bunny who'd appeared on The Love Boat and Wonder Woman. Press tried to sell her as a new scream queen, according to Mondo Digital.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      },
+      "person": "nm0107679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjk0MjEtOTc4Yi00ZDgwLWJiMjAtZTRiNGU2YWNlN2JlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bobbie Bresee and her husband later adapted Mausoleum into a radio play, according to Fangoria's DVD review. It isn't on the disc.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/?p=53368"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "On the DVD commentary, Bobbie Bresee said the producers set up bleachers so crew members could watch the filming of her sex scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0107679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjk0MjEtOTc4Yi00ZDgwLWJiMjAtZTRiNGU2YWNlN2JlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Makeup artist John Carl Buechler's monster work here includes breasts that morph into fanged monster heads, per Fangoria's review. Trashy and inventive.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/?p=53368"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Michael Dugan's other credits include the 1975 film Super Seal and the soap opera Santa Barbara (1984).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0240826",
+      "image": "https://m.media-amazon.com/images/M/MV5BMThhNmNhYzYtNjQ5NC00N2U2LTgxYWUtMzMwZDgwYWI3NTU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2290,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Laura Hippe, who plays Susan's Aunt Cora, made this her last film. Bobbie Bresee, who plays Susan, was only about 3 years older than her.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the staircase levitation that just played, the rig used to hoist the actress over the balcony is visible at the top of the frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dr. Simon Andrews' actor Norman Burton was one of only four actors in both the 1968 and 1974 Planet of the Apes. In 1968 he played the ape Hunt Leader, the first ape seen on screen.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0123680",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczNjU3ODQ0MV5BMl5BanBnXkFtZTgwMTMyMTM0MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2650,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Elsie the maid (LaWanda Page) gets the film's best line: 'There's some strange shit going on in this house!' Page started as a stripper billed the 'Bronze Goddess of Fire' who swallowed fire.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0656250",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4Y2RiNmMtODg0ZC00YmU0LWEzMzgtNTMyMjRhMmI3ZDk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "LaWanda Page played Aunt Esther in four different series: Sanford and Son, Sanford Arms, Sanford, and Steven Spielberg's Amazing Stories in 1985.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0656250",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY4Y2RiNmMtODg0ZC00YmU0LWEzMzgtNTMyMjRhMmI3ZDk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Bobbie Bresee said she got possessed-voice coaching from Mercedes McCambridge, the voice of the demon in The Exorcist. They'd worked together on Charlie's Angels.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0107679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjk0MjEtOTc4Yi00ZDgwLWJiMjAtZTRiNGU2YWNlN2JlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Marjoe Gortner (Oliver) also starred in the 1978 space opera Starcrash, one of the best-known cult roles of his acting career.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0331374",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmI1ZDVhODMtYmY4Yy00Mzc5LWIwYjUtZWFmYzIzMWVlMGFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bobbie Bresee's gel contact lenses here were made by an optometrist and reused in the 1984 horror-comedy Ghoulies. Bresee also worked through an allergic reaction to her makeup, according to Buechler.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dr. Andrews' own tape recorder picks up the high-pitched 'demon cue' from the movie's soundtrack, a rare case of a character's cassette recording the film's score.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After a limited run mostly at drive-ins, Mausoleum found its audience on VHS from Embassy Home Entertainment and on the USA Network, according to Mondo Digital.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dr. Andrews says his appointment with Susan was at 2:30. After the session, the clock behind him reads 11:37. Fans have noted this as a continuity gaffe.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several gore shots, including a head blowing apart in the opening, were trimmed from the American theatrical and video releases to avoid an X rating. Vinegar Syndrome's 2018 Blu-ray restored them.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The mall in this film is the Promenade Mall in Woodland Hills, Los Angeles. A famous death fall in the atrium was filmed there.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the UK, Mausoleum was seized during the 1980s 'video nasty' panic under the Obscene Publications Act, though never prosecuted. It was finally passed by the BBFC in March 1998.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mausoleum turns up in horror documentaries including Going to Pieces: The Rise and Fall of the Slasher Film (2006) and Video Nasties: Moral Panic, Censorship & Videotape (2010).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critics were harsh: Miami Herald's Bill Cosford gave it zero stars but called it 'just bad enough from start to finish to be thoroughly entertaining.' Variety called it an 'engaging minor film.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called the set-pieces 'absurdly entertaining' while criticizing the arbitrary script. He placed it among the 1980s 'Makeup Effects Vehicles' built around Buechler's work.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/mausoleum-1983.htm"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mausoleum grossed about $1.34 million domestically. Its Los Angeles opening weekend made $124,000 across eighteen theaters.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film won the Special Jury Prize at the 13th Paris Film Festival of Sci-Fi and Fantasy Films in December 1983.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After release, financier Michael Zide sued the film's production company, claiming an unpaid $30,000 loan and a forged signature. He sought $10 million in damages.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original director, Morton Green, sued the executive producers in 1981 for firing him from the film. He claimed a $60,000 salary and $1 million in punitive damages.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5425,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Executive producers Jerry Zimmerman and Robert Barich were charged with nine felony counts of grand theft and conspiracy, accused of buying luggage and other goods from importers without paying.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "When BCI Eclipse released the DVD in 2008, no original elements could be found, so it was made from a battered print. It was bundled as a double feature with Blood Song.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      }
+    },
+    {
+      "t": 5650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A 2023 UK Blu-ray from Treasured Films lowered the film's rating from an 18 to a 15. It includes a Kim Newman and Barry Forshaw commentary on the film's video-nasty history.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/mausoleum.html"
+      }
+    }
+  ]
+}
