@@ -1,0 +1,458 @@
+{
+  "schema": 1,
+  "imdbId": "tt0087795",
+  "title": "Night Patrol",
+  "year": 1984,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-05T11:29:13.133Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening titles are in French, and the producer is credited as \"Guillaume Osco\" — that's Bill Osco, husband of director Jackie Kong at the time, who also produced her earlier film The Being.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58253"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Murray Langston's \"Unknown Comic\" act, a comedian in a paper bag, came from TV's The Gong Show. Night Patrol was a vehicle built around him; it was even announced as \"The Unknown Comic Movie.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58253"
+      }
+    },
+    {
+      "t": 350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Murray Langston (The Unknown Comic) said he put a bag on his head for The Gong Show so nobody would know he'd been on Sonny & Cher. \"I had a really bad complexion, and it was cheaper than Clearasil.\"",
+      "icon": "mic",
+      "byline": "Murray Langston",
+      "source": {
+        "type": "interview",
+        "url": "https://www.avclub.com/murray-langston-the-unkown-comic-1798208145"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair has said Night Patrol was no Police Academy cash-in. Murray Langston wrote the script before Police Academy existed, but rewrites and production problems delayed the film until after it.",
+      "icon": "star",
+      "byline": "Linda Blair",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 575,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before the bag, Murray Langston got on Laugh-In by phoning the show and offering an impression of a fork. He was booked four times as \"downtown Burbank's greatest impressionist.\"",
+      "icon": "sunglasses",
+      "byline": "Murray Langston",
+      "source": {
+        "type": "interview",
+        "url": "https://www.avclub.com/murray-langston-the-unkown-comic-1798208145"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Linda Blair (Officer Sue Perman) won the 1985 Razzie for Worst Actress, awarded for this film plus Savage Island and Savage Streets, all in one year.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 725,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Murray Langston once ran a North Hollywood club, Showbiz, where future stars David Letterman and Debra Winger worked early on. He joked it \"specialized in ribs and later specialized in bankruptcy.\"",
+      "icon": "mic",
+      "byline": "Murray Langston",
+      "source": {
+        "type": "interview",
+        "url": "https://www.avclub.com/murray-langston-the-unkown-comic-1798208145"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Billy Barty (Captain Lewis) was furious when director Jackie Kong added flatulence sound effects in post-production to make his character seem to fart constantly. He reportedly tried to sue.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000863",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRlNmNmMTctODhlYi00MzhiLWI0NGUtNTFjZTcyOTEzZmZlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Billy Barty founded Little People of America in 1957 and was 3 ft 9 in tall. Here he plays Captain Lewis, a pathological liar.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000863",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRlNmNmMTctODhlYi00MzhiLWI0NGUtNTFjZTcyOTEzZmZlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair said in a 1999 interview that Jackie Kong wasn't \"playing with a full deck.\" She claimed Kong demanded needless retakes of Murray Langston and that he eventually quit the project.",
+      "icon": "mic",
+      "byline": "Linda Blair",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jackie Kong's Night Patrol was a comeback of sorts: the New York Times' Vincent Canby praised its \"good, low-burlesque style,\" though he called the humor strictly for the stag-party crowd.",
+      "icon": "mic",
+      "byline": "Vincent Canby — New York Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1325,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jackie Kong's own website says the Recording Industry Association of America gave her a Platinum Video Award for Night Patrol, which became a college-party staple on tape.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://jackiekongdirector.com/biography"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "TV Guide said the film \"does the impossible: It makes Police Academy look like a piece of sophisticated humor.\" The Chicago Tribune's Richard Christiansen said it seemed made by \"subnormal persons.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1475,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Disc jockey Machine Gun Kelly pops up in the cast. He also appeared in Linda Blair's earlier Roller Boogie (1979) and in Voyage of the Rock Aliens.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/05/06/repost-night-patrol-1984/"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Andrew Dice Clay is in this movie as stand-up Tony Baroni, billed as \"Andy Clay\". It was one of his earliest film roles, years before his Dice Man stardom.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Murray Langston later produced Playboy TV's The Unknown Comedy Hour, then The Sex and Violence Family Hour, which starred a very young Jim Carrey.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Unknown_Comic"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pat Morita, soon to be Mr. Miyagi in The Karate Kid (1984), has a bit part here as a crime victim.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1775,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Night Patrol became late-night cable filler: it aired several times on USA Network's Up All Night between 1989 and 1992.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/02/usa-up-all-night-month-night-patrol-1984"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pat Paulsen (Officer Kent Lane) ran for U.S. President as a satirical candidate starting in 1968 and kept at it until 1996. In 1967–68 he won an Emmy for The Smothers Brothers Comedy Hour.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0667323",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MzMwODI0MV5BMl5BanBnXkFtZTYwMTcxNTI2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Riley, who plays shrink Dr. Ziegler, was famous as the miserable patient Elliot Carlin on The Bob Newhart Show, and later voiced Stu Pickles in Rugrats.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/05/06/repost-night-patrol-1984/"
+      },
+      "person": "nm0727051",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NzY1NjEyM15BMl5BanBnXkFtZTYwNTUwMTQ0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sydney Lassick, Charlie Cheswick in One Flew Over the Cuckoo's Nest, plays a peeping tom. Reginald VelJohnson (later Die Hard and Family Matters) is also among the cops.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/05/06/repost-night-patrol-1984/"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jaye P. Morgan (agent Kate Parker) was a 1950s hit singer. She was a Gong Show panelist famous for baring her breasts on air, which got her fired from the show.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0604736",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWQyN2ExMDQtZjhlZC00OGU2LTgzYmEtNmRjNTRmMDEzN2FkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Murray Langston and Jaye P. Morgan were both Gong Show regulars. They also appeared together in The Gong Show Movie (1980) and Confessions of a Dangerous Mind (2002).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair and Murray Langston made two films together: Night Patrol and the romantic comedy Up Your Alley.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/05/06/repost-night-patrol-1984/"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's reported budget of $4.5 million dates from a 1981 Variety item, long before the shoot reportedly went to weekends only with the cast on deferred pay.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58253"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Night Patrol grossed $8,165,432 in its run. Its first week in New York earned $776,218 across 94 theaters.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The restaurant scenes were shot at Rae's Restaurant on Pico Boulevard in Santa Monica. Other locations include Venice jail, MacArthur Park and the Comedy & Magic Club in Hermosa Beach.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film opened regionally in Dallas on November 20, 1984. Los Angeles got it January 4, 1985, and New York March 8, 1985, by AFI's count.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/58253"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jackie Kong on Night Patrol: \"I did that with no money.\" She says NYT critic Vincent Canby wrote that it \"made me laugh even though I didn't want to.\"",
+      "icon": "mic",
+      "byline": "Jackie Kong — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jackie Kong did the directing, editing, co-writing and co-producing on this film, then got a three-picture Vestron deal. Vestron folded after Blood Diner and The Under Achievers (both 1987).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0465034"
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Night Patrol is one of many 1980s cop spoofs after Police Academy (1984), alongside Feds, Recruits, Off Beat, Moving Violations and Hollywood Vice Squad.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film shoots at E.T.: it spoofs E.T. the Extra-Terrestrial (1982) and also references Saturday Night Fever and Welcome Back, Kotter.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 1985 New World Video released an unrated cut on tape with about two minutes of footage not in the R-rated theatrical version.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Night Patrol is name-checked in Kong's later cult gore comedy Blood Diner (1987). Kong's best-known film, it eventually got a Vestron Video Collector's Series Blu-ray.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Another 1984 film is also called Night Patrol: the French film Ronde de nuit. IMDb notes the confusion.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A blog review at The Retro Network scored Night Patrol 3/10, saying it needs a plot and repeats \"the same 10-12 jokes\" after the first 30-40 minutes.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theretronetwork.com/?p=25889"
+      }
+    },
+    {
+      "t": 4750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A Blu-ray from Scorpion Releasing arrived January 14, 2020, 35 years after release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5040,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pat Paulsen's Kent Lane flubs his line here: IMDb lists a goof where he speaks too early, interrupting Jack Riley's Dr. Zeigler after the gun duel.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
