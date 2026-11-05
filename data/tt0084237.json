@@ -1,0 +1,656 @@
+{
+  "schema": 1,
+  "imdbId": "tt0084237",
+  "title": "The Last Unicorn",
+  "year": 1982,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-11-05T11:33:11.257Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peter S. Beagle's 1968 novel, which he adapted into this screenplay, has sold more than six million copies and been translated into at least 25 languages.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 165,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The songs by Jimmy Webb, performed by the band America, were written before any animation was drawn, so the animators worked to the music like old Disney shorts.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 245,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Voices were recorded first in New York under co-director Jules Bass. Tokyo animators then drew to the tracks with lip-sync charts, even though they didn't fully understand the English dialogue.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 325,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Variety's Todd McCarthy panned the animation but wrote that Mia Farrow's voice gives the Unicorn a plaintive quality, calling it a rare feat for an actress to register so strongly on voice alone.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001201",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ3NjgxMzQ5M15BMl5BanBnXkFtZTcwMDEzNTkzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's look came from Lester Abrams' early sketches and Topcraft artist Tsuguyuki Kubo, who co-designed the characters and co-storyboarded. His concept work dates to November 1979.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The butterfly quotes Elvis, the Andrews Sisters and Duke Ellington's 'Take the A Train', centuries before any of them existed. In a movie set in Robin Hood's era, that's quite the anachronism.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Michael Chase Walker bought the film rights outright about two weeks before his option ran out, a purchase worth roughly $200,000 in today's money.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Topcraft's Tokyo animators drew about 75,000 drawings and used around 260 colors. Typical Japanese animation of the day used 80 to 130.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peanuts TV-special producers Lee Mendelson and Bill Melendez once wanted to adapt the novel. Beagle says a partner's wife warned him they weren't good enough, and the project died.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 910,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Angela Lansbury, voicing the witch Mommy Fortuna, was making her first voice performance in a theatrical film. She later voiced Mrs. Potts in Beauty and the Beast (1991).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Mommy Fortuna is named for Fortuna, the Roman goddess of luck, who brought both good and bad fortune to humans.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Michael Chase Walker hoped for a $5 million budget. The finished film reportedly cost closer to $3.5 million, possibly less, and it still never turned a profit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 1105,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The name of Alan Arkin's character, the bumbling magician Schmendrick, comes from the Yiddish word 'schlemiel', meaning an unlucky bungler.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDk5Njc3MF5BMl5BanBnXkFtZTYwNjc5NDc0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1155,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The harpy is named Celaeno, a real figure from Greek and Roman myth. The name means 'the dark one', and Virgil's Aeneid is the oldest surviving source for it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Beagle was furious that Rankin/Bass got the job. He reportedly yelled at producer Michael Chase Walker, who answered that Hanna-Barbera were next on the list.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Beagle wrote the script for Ralph Bakshi's 1978 The Lord of the Rings, and Rankin/Bass made TV versions of The Hobbit and The Return of the King. This film is full of Middle-earth connections.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Early press billed the film as an 'adult musical fantasy-adventure', and Rankin/Bass cast actors like Alan Arkin, Mia Farrow and Christopher Lee to appeal to grown-ups, not just kids.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/611601/the-last-unicorn-movie-facts"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Even Beagle had a note about the voices. He said Alan Arkin's Schmendrick seemed 'too flat' to him, though he praised nearly everyone else in the cast.",
+      "icon": "mic",
+      "byline": "Peter S. Beagle — Author",
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/the-last-unicorn-movie-facts"
+      },
+      "person": "nm0000273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDk5Njc3MF5BMl5BanBnXkFtZTYwNjc5NDc0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alan Arkin was a founding member of the folk group The Tarriers and co-wrote 'The Banana Boat Song' ('Day-O'), which became a huge hit for Harry Belafonte.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDk5Njc3MF5BMl5BanBnXkFtZTYwNjc5NDc0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The riddle 'Why is a raven like a writing desk?' is the Mad Hatter's unanswerable riddle from Alice in Wonderland. Lewis Carroll wrote it with no answer at all.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Unusually for an animated film, stars including Mia Farrow, Alan Arkin, Angela Lansbury and Tammy Grimes recorded their lines together over two or three days.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Topcraft reportedly spent 2 million yen on an artbook so its artists could study the fairy-tale illustrator Kay Nielsen, whose work influenced the film's forest backgrounds.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 1910,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Keenan Wynn voices both the bandit Captain Cully and the harpy Celaeno. Paul Frees does triple duty too, as the wizard Mabruk, the Cat and the amorous Tree.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1978 Warner Bros. reportedly paid producer Michael Chase Walker $25,000 a month in a development deal for this film. When Warner dropped it, the money became debt he owed the studio.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dustin Hoffman, Harrison Ford and Mark Hamill were all considered for the voice of Schmendrick before Alan Arkin got it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2165,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "According to Mental Floss, Rankin/Bass never had to settle for a second choice: every actor they approached for a voice role said yes right away.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/611601/the-last-unicorn-movie-facts"
+      }
+    },
+    {
+      "t": 2235,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The love-struck tree is voiced by Paul Frees. Actors Don Messick and Nellie Bellflower were credited for years, but the Blu-ray's making-of confirmed those credits were wrong.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2325,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Molly Grue's swearing at the Unicorn ('Damn you!') was cut or dubbed over in the 2007 25th Anniversary DVD, even though the film is nominally G-rated.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Tammy Grimes (Molly Grue) was offered the lead role of Samantha on Bewitched but turned it down for the stage. Elizabeth Montgomery got the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0342245",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNzIwMDkwNF5BMl5BanBnXkFtZTYwODUyMDQ0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Universal was set to distribute but reportedly wasn't enthusiastic. The film ended up with a small Utah distributor, and director Arthur Rankin Jr. said the box office was 'not too good'.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 2570,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Imagine magazine's Colin Greenland singled out the Red Bull, a creature made entirely of fire, as one of the film's best-realized bursts of imagination.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Listen closely to the dragon's roars later in the film. They reportedly reuse the roars from the old Japanese Godzilla movies.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times' Janet Maslin called it 'an unusual children's film in many respects, the chief one being that it is unusually good.'",
+      "icon": "trophy",
+      "byline": "Janet Maslin — The New York Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2935,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Sir Christopher Lee (King Haggard) arrived at recording sessions with his own copy of the novel, marked with passages he insisted must not be cut.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2995,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jeff Bridges (Prince Lir) phoned director Jules Bass out of the blue, offering to do the film for free because the novel was a favorite. He also recommended songwriter Jimmy Webb.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000313",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3045,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "King Haggard was almost voiced by James Earl Jones, John Vernon or John Carradine. Sir Christopher Lee got the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The soundtrack album came out in Germany on Virgin Records in 1983, not in the US, and was one of West Germany's best-selling albums of that year.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The band America's Dewey Bunnell says they often play the film's title song on German tours, because audiences there love it. The film was a huge hit in Germany.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/611601/the-last-unicorn-movie-facts"
+      }
+    },
+    {
+      "t": 3330,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Topcraft photographed a clay model of King Haggard's castle under colored lights and used the photos as reference. Some effects were made by shining colored light through holes cut in the artwork.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://animationobsessive.substack.com/p/the-making-of-the-last-unicorn"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mia Farrow's singing in 'Now That I'm a Woman' was dubbed by studio singer Katie Irving. The song is missing from the film's original theatrical and HBO versions.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001201",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ3NjgxMzQ5M15BMl5BanBnXkFtZTcwMDEzNTkzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3610,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Cat's gag of flipping over his eye-patch to show he doesn't need it wasn't in the script. One of the Japanese animators improvised it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3715,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In the novel the Skull is only a skull. The Japanese animators gave it a body, and Orson Welles was once considered to voice it.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3815,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Art Garfunkel covered 'That's All I've Got to Say', the Jimmy Webb song sung by Jeff Bridges' Prince Lir, to close his album Scissors Cut.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/the-last-unicorn-movie-facts"
+      }
+    },
+    {
+      "t": 3920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Singer Fergie loved the film as a kid. In 2015 Playbill reported she planned a stage musical of it with then-husband Josh Duhamel, but it never got off the ground.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mentalfloss.com/entertainment/movies/the-last-unicorn-movie-facts"
+      }
+    },
+    {
+      "t": 4125,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "While Sir Christopher Lee recorded King Haggard's speech about unicorns bringing him joy, author Peter S. Beagle visited. Lee begged for his approval and offered to redo the take.",
+      "icon": "mic",
+      "byline": "Peter S. Beagle — Author",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2003 the Online Film Critics Society ranked The Last Unicorn the 96th greatest animated film of all time, a long way up for a movie that flopped on release.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4470,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The VHS/DVD cut extends the Skull's scene, including Schmendrick's quip 'Walk through a clock? What do I look like, a magician?' The theatrical version is shorter.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4680,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Distributor Jensen Farley opened the film on November 19, 1982 and soon went bankrupt. Rankin/Bass and the other producers never saw a profit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4770,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Topcraft, the Tokyo studio that animated this film, was hired by Hayao Miyazaki for Nausicaä of the Valley of the Wind. Its core staff later formed Studio Ghibli.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A US flop, but a hit in Germany, where it reportedly out-grossed Star Wars. Huge 'The Unicorn is Coming!' posters went up on buildings in Munich.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Beagle didn't know how to feel about the film for years. After many viewings he realized he thought it was a classic.",
+      "icon": "mic",
+      "byline": "Peter S. Beagle — Author",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Beagle refused to write a sequel for decades. In 2005 he wrote the short story 'Two Hearts', set after the film's events with Schmendrick, Molly and Lir, who is now a king.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5140,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A live-action remake has been in development hell for years, with Christopher Lee and Angela Lansbury once attached to return. Legal disputes and budget issues stalled it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5235,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It opened in 648 US theaters on November 19, 1982, and made $2.25 million its first weekend. It finished with about $6.5 million in the US and Canada.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5330,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A scene from the novel with a princess begging Prince Lir for help was designed and animated, but cut from the final film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5430,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dan Avidan of Game Grumps and Ninja Sex Party released a cover of the theme song in 2015, bringing a new audience to the film.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
