@@ -1,0 +1,542 @@
+{
+  "schema": 1,
+  "imdbId": "tt0109575",
+  "title": "Death Machine",
+  "year": 1994,
+  "runtimeSec": 5940,
+  "generatedAt": "2026-11-05T12:25:33.620Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Stephen Norrington made his directing debut here after years as an effects artist on Aliens, Hardware and Lifeforce. He later directed Blade (1998).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 155,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Outlaw Vern's review says the Warbeast killer robot was reportedly built by director Stephen Norrington himself and taken to a film market to help raise money for Death Machine.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/?p=66636"
+      },
+      "person": "nm0635759",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIxOWQzNGEtOTk4Zi00YmRkLTljMmQtMGRmYmVmOTUxNjBhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Three characters are named for directors: Brad Dourif's Jack Dante (Joe Dante), William Hootkins' John Carpenter, and John Sharian's Sam Raimi. Scott Ridley nods to Ridley Scott.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is set in 2003, which was then nearly a decade in the future of its 1994 release.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rachel Weisz, later an Oscar winner for The Constant Gardener, made her big-screen debut here as a junior executive. One review notes she's barely recognizable with black hair and a nose ring.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Brake, who plays Chaank chairman Scott Ridley, made his film debut here. Years later he'd become a go-to horror villain.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Death Machine shot at Pinewood Studios starting in September 1993, for about three months. The same studio built Bond sets and Alien's sets.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reported budget is wildly inconsistent: Wikidata lists $3 million, while one review (Popcorn Pictures) puts it at around £500,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/death-machine-1994"
+      }
+    },
+    {
+      "t": 915,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave Death Machine 3½ stars, saying the filmmakers pulled off 'genuine miracles' on a low budget and calling it a showcase for talent that later went on to bigger projects.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/death-machine-1995.htm"
+      }
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Norrington met producer Vic Bateman on the set of Split Second. Bateman had liked Norrington's script Speeder, a Terminator-meets-Nightmare on Elm Street pitch, and that led to Death Machine.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was co-produced by Entertainment Film Distributors and Japan's Victor Company, which explains why a Japanese LaserDisc carried the uncut director's version.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Villain Jack Dante is played by Brad Dourif, Oscar-nominated for One Flew Over the Cuckoo's Nest (1975) and the voice of Chucky in Child's Play.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000374",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTA2MDExOF5BMl5BanBnXkFtZTcwNDE0MDAxMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brad Dourif's Dante name-drops Oprah and Geraldo in a rant. Fitting, since the film's heroine, Ely Pouget, once appeared on Miami Vice and The A-Team before her film career.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0693531",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3NDE2NTE0OF5BMl5BanBnXkFtZTYwMjY2MjY3._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "There are four cuts of the film: 85, 99 (the North American one), 111 and 128 minutes. Norrington was never satisfied and kept re-editing it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1565,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer John de Borman, who later shot The Full Monty, gave this low-budget robot movie its slick, music-video look, according to Outlaw Vern's review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/?p=66636"
+      }
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The U.S. 99-minute cut trims a whole subplot. The UK cut is described as the best and director-approved, while the Spanish-dubbed 128-minute version is reportedly one Norrington doesn't like.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Warbeast monster is mostly practical, with no CGI, according to the Popcorn Pictures review. Its head is mostly red-painted teeth that clamp and spin 360 degrees.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/death-machine-1994"
+      }
+    },
+    {
+      "t": 1825,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Popcorn Pictures says the Warbeast's design blends the alien queen from Aliens with a Velociraptor from Jurassic Park, and that the crew shot around it to hide the wires and cables.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/death-machine-1994"
+      }
+    },
+    {
+      "t": 1890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Weyland and Yutani, the names of two eco-warriors, are the company names from Alien (1979), directed by Ridley Scott. The film is full of shout-outs to Alien, Aliens, Terminator and Blade Runner.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andreas Wisniewski, who plays eco-warrior Weyland, is better known as the German terrorist Tony in Die Hard (1988).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before Death Machine, William Hootkins (John Carpenter) was Porkins in Star Wars (1977) and Major Eaton in Raiders of the Lost Ark (1981).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0393853",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MjkzOTE1M15BMl5BanBnXkFtZTYwOTY2OTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2280,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "William Hootkins was once slated to play Dennis Nedry in Jurassic Park, but Steven Spielberg cast Wayne Knight instead after seeing Knight in Basic Instinct.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0393853",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MjkzOTE1M15BMl5BanBnXkFtZTYwOTY2OTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2345,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Death Machine won Best Special Effects at Italy's Fantafestival in 1994, and in 1995 was nominated at Spain's Sitges festival for Best Special Effects and for Brad Dourif as Best Actor.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Death_Machine"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "William Hootkins studied astrophysics at Princeton, and the FBI interviewed him after the JFK assassination because he'd taken Russian lessons from Ruth Paine.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0393853",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MjkzOTE1M15BMl5BanBnXkFtZTYwOTY2OTgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Stephen Norrington has a small cameo as an executive in an early boardroom scene, per a kqek.com Blu-ray review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Norrington learned monster-making from Dick Smith, Rick Baker and Stan Winston before turning director.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eco-warrior Yutani (Martin McDougall) yells 'Shouryuken' before firing. It's the battle cry of the uppercut move from Street Fighter II.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2930,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was banned in several countries, per IMDb, including Iraq, China, Malaysia and Australia, citing violence and Dourif's lewd, profane character.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Peter Frankfurt chose Stephen Norrington to direct Blade after seeing Death Machine.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephen Norrington's later film The League of Extraordinary Gentlemen (2003) was so troubled, with clashes with Sean Connery, that Norrington retired from directing.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3265,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria calls Brad Dourif's performance as inventor Jack Dante over-the-top, and says director Stephen Norrington lets Dourif run with it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/death-machine-1995.htm"
+      },
+      "person": "nm0000374",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTA2MDExOF5BMl5BanBnXkFtZTcwNDE0MDAxMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephen Norrington studied art and engineering in college and is also a sculptor and musician.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score is by Crispin Merrell, largely synthesizer, and one review says it resembles the Terminator score.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 3525,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Not everyone loves the in-joke names. Richard Scheib of Moria found characters named for genre directors like Carpenter, Raimi and Dante tiresome, saying they undermine the film's realism.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/death-machine-1995.htm"
+      }
+    },
+    {
+      "t": 3580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Warbeast reportedly runs on the pheromones of its victims, and its POV shots use a video-game style readout.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 3710,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Japanese LaserDisc was the only release of the uncut version with English audio until 2015. That year Turbine Medien issued a limited Blu-ray of the director's cut in Germany.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=20159"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leading lady Ely Pouget also starred in Lawnmower Man 2 (1995) and in the TV movie L.A. Takedown, directed by Michael Mann.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0693531",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3NDE2NTE0OF5BMl5BanBnXkFtZTYwMjY2MjY3._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trimark Pictures released Death Machine direct to video in the US on November 14, 1995, skipping theaters.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bloody Disgusting called the film 'frankly kind of terrible' but still recommended it for Brad Dourif's performance.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000374",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTA2MDExOF5BMl5BanBnXkFtZTcwNDE0MDAxMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Popcorn Pictures calls it an underrated B-movie derivative of Aliens, RoboCop and Die Hard that embraces those influences.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popcornpictures.co.uk/post/death-machine-1994"
+      }
+    },
+    {
+      "t": 4360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A short 'Death March' plays at the end of the uncut and director's cut versions, but it is missing from the American cut.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4490,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The end credits are dedicated to everyone who 'grasped the nettle', meaning acting boldly despite short-term consequences.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Its TMDB tagline is 'It feeds on your fear.' The film has since been referenced in the Spanish film La magra (1998).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some of the film's world was shot at Pinewood and some of it in Los Angeles and London, per IMDb filming locations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4880,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brad Dourif is the only actor in all seven Child's Play films, though he appears on screen only in two. He voices Chucky in the rest.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000374",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTA2MDExOF5BMl5BanBnXkFtZTcwNDE0MDAxMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
