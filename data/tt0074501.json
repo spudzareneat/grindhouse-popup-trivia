@@ -1,0 +1,464 @@
+{
+  "schema": 1,
+  "imdbId": "tt0074501",
+  "title": "Black Cobra",
+  "year": 1976,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-11-05T11:55:40.803Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Laura Gemser said this was the one Joe D'Amato film where he didn't pressure her toward hardcore scenes, only because he put none in. In his Emanuelle films he kept trying, and she kept refusing.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002098",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZlMDNiNzktM2ZiNC00YTE0LWI3ODItMGM0MWJjYzVhMWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato shot this back to back with Emanuelle in Bangkok, the first of the five Black Emanuelle films he made with star Laura Gemser, says Mondo Digital.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/blackcobra.html"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Laura Gemser handled snakes on set and even danced nude with them, looking at ease. In reality they terrified her, and one snake once relieved itself on her mid-handling.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002098",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZlMDNiNzktM2ZiNC00YTE0LWI3ODItMGM0MWJjYzVhMWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 645,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Jack Palance (Judas Carmichael) was working in Italy in 1976. Mondo Digital says he made this in quick succession with two other Italian crime films, Rulers of the City and The Cop in Blue Jeans.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/blackcobra.html"
+      },
+      "person": "nm0001588",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gabriele Tinti plays Jules Carmichael, and he was Laura Gemser's real-life husband. They met on Black Emanuelle (1975), married a year later, and stayed together until his death in 1991.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0864081",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTk1ZjM1OTYtZmFjMy00OTAzLTkzMDctMGQ1N2E1ZjljOWUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe D'Amato's Wikipedia bio credits Harry Alan Towers and Lucio Fulcisano as producers. Mondo Digital says Towers' money was uncredited and may be why Jack Palance ended up in the cast.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/blackcobra.html"
+      }
+    },
+    {
+      "t": 1170,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Monthly Film Bulletin called it a 'sex movie-cum-travelogue' whose single unusual sequence has characters cook and eat a snake that was skinned alive.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1275,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato met Laura Gemser on the set of Voto di castità, where she played a small part as a French maid. He decided there to make her the star of this film, Eva nera.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Joe_D%27Amato"
+      },
+      "person": "nm0002098",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZlMDNiNzktM2ZiNC00YTE0LWI3ODItMGM0MWJjYzVhMWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "IMDb trivia: star Jack Palance's character Judas calls one snake a green mamba, but it's really a much less dangerous Asian vine snake.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001588",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1485,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato recycled this film's Hong Kong footage of Laura Gemser into a later hardcore film, Porno Esotic Love.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Joe_D%27Amato"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Piero Umiliani's dreamy easy-listening score was largely recycled from his earlier work, including La ragazza dalla pelle di luna, Witchcraft '70 and Sweden, Heaven and Hell, per Mondo Digital.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/blackcobra.html"
+      }
+    },
+    {
+      "t": 1695,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite the star power of Jack Palance and the Hong Kong location shoot, Joe D'Amato's Wikipedia bio says Eva nera performed poorly at the Italian box office.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Joe_D%27Amato"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot partly in Hong Kong and partly at Elios Studios in Rome. Mondo Digital's reviewer says you can spot the difference between the Rome and Hong Kong footage.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/blackcobra.html"
+      }
+    },
+    {
+      "t": 1905,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The reptile site CaliforniaHerps notes that the movie's snakes are kept in glass boxes with no water or heat, on white styrofoam, under flimsy plastic lids. It calls one prop snake 'pathetic'.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://californiaherps.com/films/snakefilms/EvaNera.html"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before acting, Jack Palance was a pro heavyweight boxer called Jack Brazzo. He won his first 15 fights, then enlisted when World War II broke out and never boxed again.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001588",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2115,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer Dave Sindelar of Fantastic Movie Musings found this on a 'Killer Snakes' collection. He was surprised it was missing from most of his horror reference books, since it's mainly exploitation.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2021/05/02/black-cobra-1976"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's editor was Bruno Mattei, later a cult director himself. He also co-directed Emanuelle's Revenge (1975) with Joe D'Amato, uncredited because D'Amato was the 'rising name'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2325,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Loron Hays of Reel Reviews called the film 'sleek and sultry' and 'high on style and swagger.' He found Jack Palance's Judas surprisingly mild-mannered, not much of a charmer.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelreviews.com/home-video/badsass-sinema-unearthed/emmanuelle-and-the-deadly-black-cobra-blu-ray-review"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "AllMovie called the film 'unexpectedly high on style,' with glossiness worthy of an Emmanuelle film, but 'depressingly low on substance' and padded with travelogue footage of Hong Kong.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2535,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital called this 'prime Eurosleaze' with Laura Gemser at the peak of her allure. It praised Jack Palance for stepping away from the straight villain roles he was known for then.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/blackcobra.html"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline asks: 'How much snake can one woman take...'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2745,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ian Jane of DVD Talk noted that this is far less explicit than most of the movies director Joe D'Amato and star Laura Gemser made together.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/59837"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Understudying Marlon Brando in A Streetcar Named Desire, future star Jack Palance once threw a punch that missed a punching bag and broke Brando's nose. Palance went on in his place.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001588",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2955,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Michele Starck (Gerri) also appeared in Forever Emmanuelle (1976). Laura Gemser later reunited with Ziggy Zanger (Candy) and Nieves Navarro in Black Emanuelle, White Emanuelle.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/12/13/joe-damato-week-eva-nera-1975"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Elsewhere the film is called Erotic Eva in the UK, Emmanuelle and the Deadly Black Cobra, Hot Pants and Emmanuelle Goes Japanese, according to the Bands About Movies site.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/12/13/joe-damato-week-eva-nera-1975"
+      }
+    },
+    {
+      "t": 3270,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dave Sindelar of Fantastic Movie Musings warns horror fans they'll mostly be bored. He calls it 'mostly a snoozer,' though he says one moment involving a brother's fate is truly horrific.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2021/05/02/black-cobra-1976"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Italian magazine Playboy named Ziggy Zanger, who plays Candy, its Playmate of the Month for December 1978.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Laura Gemser was so tied to the Emanuelle brand that unrelated films were retitled to include the name, or billed her as 'Emanuelle'. She was actually born in Java, Indonesia, not in the Netherlands.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002098",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZlMDNiNzktM2ZiNC00YTE0LWI3ODItMGM0MWJjYzVhMWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie claims a snake can chew its way out of a human body. IMDb's goofs note snakes can't chew: their teeth only grip prey, which they swallow whole.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4110,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Joe D'Amato took his alias from Silvio Amadio, a director he worked under as cinematographer. On set he used his real name, Aristide Massaccesi, and he directed around 200 films.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Laura Gemser later left acting and became a costume designer. She did costumes for Troll 2 (1990), the legendary 'so bad it's good' cult film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002098",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZlMDNiNzktM2ZiNC00YTE0LWI3ODItMGM0MWJjYzVhMWQ5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4530,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Palance won the Best Supporting Actor Oscar for City Slickers (1991), after earlier nominations for Sudden Fear and Shane. He became a star again at 73, years after playing Judas here.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/12/13/joe-damato-week-eva-nera-1975"
+      },
+      "person": "nm0001588",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4740,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actor Gabriele Tinti, who plays Jules Carmichael, also guest-starred in the final episode of The Andy Griffith Show.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0864081",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTk1ZjM1OTYtZmFjMy00OTAzLTkzMDctMGQ1N2E1ZjljOWUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is name-checked in the documentary Video Nasties: Moral Panic, Censorship & Videotape (2010) and in the short Ban the Sadist Videos! (2005).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5160,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "TheCinemaholic ranked this film #2 on its 2017 list of the 10 Best Sexploitation Movies of All Time.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe D'Amato's other cult work includes the horror films Beyond the Darkness (1979) and Antropophagus (1980). He later produced and directed about 120 adult films.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001090",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0ZTBiNjctZTA5Yy00ZmM1LWIyZTMtOTg5ZGQwNmMwMTNiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jack Palance once fell asleep in his square during a taping of The Hollywood Squares.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001588",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4NTJmMDItZTYzOS00YmZmLWJjN2ItMDJkMjM3NjRhNzFkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
