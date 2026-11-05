@@ -1,0 +1,462 @@
+{
+  "schema": 1,
+  "imdbId": "tt0095871",
+  "title": "Pin",
+  "year": 1988,
+  "runtimeSec": 6180,
+  "generatedAt": "2026-11-05T12:18:50.156Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Sandor Stern started out as a medical doctor before turning to film, which is why a lifelike anatomy dummy in a doctor's office appealed to him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0827839"
+    },
+    {
+      "t": 295,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Studio New World Pictures needed an American cast member for the film, which is how Terry O'Quinn (Dr. Frank Linden) landed the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      },
+      "person": "nm0642368",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2NDY4Nzg5Ml5BMl5BanBnXkFtZTYwMjcwODA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 398,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The voice of Pin, the talking anatomy dummy, is Jonathan Banks, who is credited as the dummy's voice.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dr. Linden speaking through Pin by ventriloquism isn't in Andrew Neiderman's novel. Director Sandor Stern added the ventriloquism for the film, according to The Bedlam Files.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/pin/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Sandor Stern worked with novelist Andrew Neiderman for five years adapting Neiderman's 1981 novel before New World Pictures took it on.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Novelist Andrew Neiderman, who wrote the book Pin, later became the ghostwriter of the V.C. Andrews books, including the Flowers in the Attic series.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/11/08/paperbacks-from-hell-week-pin-1988"
+      }
+    },
+    {
+      "t": 990,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Pin the dummy is fully anatomically correct, a fact that drives some of the film's most disturbing scenes, like the sex-education lecture Dr. Frank Linden gives his children.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    },
+    {
+      "t": 1193,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The dance-scene tunes, including On the Run, were written by Larry Weir and performed by a band called Pleasant Company.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leon was David Hewlett's first leading role. He was 19 when he played the lonely, disturbed teen who believes an anatomy dummy is alive, according to Richard Scheib's Moria review.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/pin-1988.htm"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Sandor Stern also wrote the screenplay for the original The Amityville Horror (1979), and later wrote and directed Amityville: The Evil Escapes.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      },
+      "person": "nm0827839"
+    },
+    {
+      "t": 1588,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Pin's voice is Jonathan Banks, later known as ex-cop fixer Mike Ehrmantraut on Breaking Bad. His dummy voice speaks right now, as Leon's sister Ursula is told it's no use asking Pin for help.",
+      "icon": "mic",
+      "byline": "Jonathan Banks",
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cynthia Preston (Ursula) later spent three years as Faith Roscoe on the soap General Hospital, and she is credited here as Cyndy Preston in some listings.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0696395",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDUzOGRlNmItMTVmNC00NmQ1LWJmNjctNzg5YTVlMDgwZWE4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "David Hewlett, who plays Leon, later became Dr. Rodney McKay across three Stargate series, including a lead role in Stargate: Atlantis.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0382110",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVkNjA3N2ItMmVmZi00ZmU1LTlkYWUtMTZjZmIzMTE4NjU3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Leon's actor David Hewlett and Ursula's actress Cynthia Preston had already worked together on the Canadian horror anthology series The Darkside before playing siblings here.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mikesfilmtalk.com/2024/07/07/pin-1988-so-overlooked-and-unloved/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bad timing hurt the film: New World Pictures was dissolving its film division as Pin finished, so it dropped the planned theatrical release and sent the film straight to video in the US.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pin gets a shout-out in the John Goodman movie Matinee (1989), and again in the cult horror film May (2002).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At a test screening, the projection started over an hour late and the audience mocked the film. New World's money troubles meant there was no second screening.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Pierre David had a deal with Universal and pitched Pin to the studio first. Universal passed on it, and the film went to New World Pictures instead.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Terry O'Quinn played the title killer in The Stepfather (1987) a year before this, and later won an Emmy as John Locke on Lost.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0642368",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2NDY4Nzg5Ml5BMl5BanBnXkFtZTYwMjcwODA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2860,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film never settles whether Pin is truly alive or only exists in Leon's head, according to Richard Scheib's Moria review. That ambiguity is a big part of its cult appeal.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/pin-1988.htm"
+      }
+    },
+    {
+      "t": 3023,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Pin the dummy was a major expense: about $70,000 of the film's roughly $3 million (Canadian) budget went to building him.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pin is the only theatrical feature directed by Sandor Stern. His other directing credits are TV movies, though he wrote the screenplay for the original The Amityville Horror.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/pin/"
+      }
+    },
+    {
+      "t": 3406,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "John Pyper-Ferguson, who plays Stan Fraker, later played Peter Hutter on The Adventures of Brisco County, Jr. and Jack Soloff on Suits.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0701561",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmMzMWE2ZTUtMmE1Yi00ZTIyLWIwODAtNzk2MGMzNWNlNTI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pierre David had backed director Sandor Stern for years. When David visited the set to see the first week of footage, he was unhappy, and he had expected a more straightforward horror film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The movie Leon sees on a date is David Cronenberg's Scanners (1981). David Hewlett later starred in the sequel Scanners II: The New Order (1991).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Executive producer Pierre David had produced several David Cronenberg films. Cronenberg was shooting Dead Ringers, another twisted-siblings story, around the same time as Pin.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/pin-a-psychological-horror-gem-you-may-have-missed/"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave Pin three stars. He said he expected a story about a living ventriloquist's dummy and found 'a fascinating and surprisingly well-made Canadian horror film.'",
+      "icon": "star",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/pin-1988.htm"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film leaves out most of the incest content from Andrew Neiderman's novel, and the Paperbacks from Hell write-up calls the movie relatively bloodless.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2017/11/08/paperbacks-from-hell-week-pin-1988"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Janet Maslin of The New York Times called Pin 'a cool, bloodless, well-made thriller with a taste for the quietly bizarre.'",
+      "icon": "mic",
+      "byline": "Janet Maslin — The New York Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Movie Waffler called Pin a crossbreed of Psycho and Magic, the 1978 ventriloquist-dummy thriller, with the syrupy sheen of a made-for-TV Hallmark film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.themoviewaffler.com/2013/12/dvd-review-pin-1988.html"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrew Marshall of Starburst gave it 9 out of 10, calling it 'subtle, disturbing, and brilliant' at a time when horror was swamped with invincible serial killers.",
+      "icon": "mic",
+      "byline": "Andrew Marshall — Starburst",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pin was shot in Quebec in 1987, with filming locations including Iberville and Saint-Lambert.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pin had plenty of competition in 1988. One count puts the year's horror releases at 86, which helps explain how a quiet psychological chiller got lost.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mikesfilmtalk.com/2024/07/07/pin-1988-so-overlooked-and-unloved/"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fangoria magazine included Pin in its '101 Best Horror Movies You've Never Seen,' helping it grow into a cult favorite.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5525,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's ending departs from the bleaker finish of Andrew Neiderman's novel, according to The Bedlam Files.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebedlamfiles.com/film/pin/"
+      }
+    },
+    {
+      "t": 5650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pin got a second life in December 1991, when prints in Manhattan and San Francisco had successful runs and many critics said the film had been overlooked.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A Pin remake, to be directed again by Sandor Stern, was announced in 2011. Stern and novelist Andrew Neiderman reportedly disliked the pitch.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebloodypitofhorror.blogspot.com/2009/06/pin-1988.html"
+      }
+    },
+    {
+      "t": 6000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Hewlett called Pin a 'creepy little movie that I starred in' and said 'There should be a sequel.' Director Sandor Stern called it the best filmmaking experience of his career.",
+      "icon": "mic",
+      "byline": "David Hewlett — Leon",
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/pin-starring-terry-oquinn/"
+      }
+    }
+  ]
+}
