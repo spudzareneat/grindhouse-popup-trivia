@@ -1,0 +1,525 @@
+{
+  "schema": 1,
+  "imdbId": "tt0367093",
+  "title": "Starship Troopers 2: Hero of the Federation",
+  "year": 2004,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-11-05T12:37:26.596Z",
+  "facts": [
+    {
+      "t": 80,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Goof alert: the opening crawl calls the bugs arachnids, but the film's bugs have only four legs. Real arachnids have eight.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Phil Tippett, the effects wizard behind RoboCop and Jurassic Park creatures, makes his directing debut here. Producer Jon Davison told him, 'You've got to direct something.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0864138",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTI5NDkxOF5BMl5BanBnXkFtZTcwNjkxMzA4NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 195,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original 1997 bug models were built in Softimage 3D. Tippett Studio couldn't import the old animation into Maya, so artists redid it by hand for this sequel.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tippett pitched TriStar a horror film: 'If Starship Troopers was Aliens, this is going to be Alien. Ten Little Indians in a haunted house.' The studio bought it.",
+      "icon": "mic",
+      "byline": "Phil Tippett — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 285,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Besides Sony's HD CineAlta camera, the shoot used a Panasonic VariCam, which can run from 4 to 60 frames per second, for the over- and under-cranked effects shots. Some miniDV footage went in too.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The budget was about $6 million, versus $107 million for the 1997 original Starship Troopers.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 375,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One effects shot, a hero fighting hundreds of warrior bugs from atop a building, was added late and was never in Tippett Studio's budget, according to Post Magazine.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shot in just 26 days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 465,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The outpost seen in the film was partly a miniature. Tippett Studio shot it with motion control and combined it with CG bugs and a digital double.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 510,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Brenda Strong plays Sergeant Dede Rake. She also played Captain Deladier in the 1997 original, making her the only actor in both films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Post Magazine reported that Tippett Studio made about 120 effects shots in five months with 16 people. The 1997 film had 220 shots, 14 months and a crew of 100.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof spotting: the Mobile Infantry patches on the troopers' jackets are sewn on upside down. MI becomes WI.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Those ominous storm clouds are toilet paper tubes with cotton stuck on them, slowly rolled forward. They were then darkened and layered digitally.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Post Magazine reported that most of the film was shot on Sony's CineAlta HD video camera, not film. Over half the shots were handheld.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Captain Dax (Richard Burgi) is named for Colonel Dax, Kirk Douglas' character in Paths of Glory (1957). Both are officers who feel betrayed by their own military.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0121404",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTMwMzU4N15BMl5BanBnXkFtZTYwNTAyMDU0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dax was first written as Zim, the character Clancy Brown played in the first film. When Brown was unavailable, he became Pike, after The Wild Bunch's Pike Bishop. The name changed again to Dax.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trooper Kobe was written as an Indian character named Haji. Sony wanted an East Asian character for Eastern markets, so Haji became Kobe.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In a radio exchange, General Jack Shepherd (Ed Lauter) is talking to Carmen Ibanez, the character Denise Richards played in the first film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Burgi (Dax) was once the original choice for the title role in CBS's 1990 series The Flash. His brother Chuck Burgi has drummed for Billy Joel and Meat Loaf.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0121404",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTMwMzU4N15BMl5BanBnXkFtZTYwNTAyMDU0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Phil Tippett invented go-motion, a stop-motion technique that adds motion blur. A dinosaur species, Elaphrosaurus philtippettorum, is named after him.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0864138",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTI5NDkxOF5BMl5BanBnXkFtZTcwNjkxMzA4NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Private Billie Otter's actor, Cy Carter, beat out Shane Thomas Meier for the role of Matthew Shepard in Anatomy of a Hate Crime. Meier then played Shepard in a different TV film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0141550",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDJkNzU5NTAtMDA2OC00ODUzLThkOWEtMTRlNjY0MzI3ODRlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sandrine Holt (Private Jill Sandee) is one of the few actors to appear in both an Underworld film and a Resident Evil film. Both are long-running Sony horror franchises.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002142",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg2MWIyYzQtOTA1ZC00MGNhLWI4ZWYtZWM0NTRiNTI2MDgwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects footage was delivered on HDCAM video, not the usual 2K frames on hard drives. Post Magazine called it 'champagne effects on a beer budget.'",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.postmagazine.com/Publications/Post-Magazine/2004/April-1-2004/SPECIAL-EFFECTS.aspx"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Apart from stock footage in the FedNet opening, no effects shots were reused from the first film. Tippett Studio built them all new.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kelly Carlson (Private Charlie Soda) soon became a series regular as Kimber Henry on FX's Nip/Tuck.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1023018",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0NzE4NDQ2Nl5BMl5BanBnXkFtZTcwNjM1MTkyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Parts of Private Lei Sahara's dream sequences were shot on Apple's then-new iSight FireWire video camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TriStar Pictures released this sequel. The studio's earlier hits include Terminator 2: Judgment Day, Basic Instinct and the 1998 American Godzilla.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called this the 'zero-expectation' sequel. He preferred it to Paul Verhoeven's original, praising Richard Burgi as 'excellent' as Dax, but gave it two stars.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/starship-troopers-2-hero-of-the-federation-2003.htm"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Reviewer Outlaw Vern wrote in 2004 that Phil Tippett's bugs are probably the best effects ever in a straight-to-video sequel. He also said, 'This one just isn't very funny.'",
+      "icon": "mic",
+      "byline": "Outlaw Vern",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2004/03/25/starship-troopers-2-hero-of-the-federation/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A Men in Black nod: the sugar-craving infected soldiers echo the alien Edgar, who needed sugar water.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Outlaw Vern compared the body-snatching plot of Starship Troopers 2 to The Thing, Pitch Black and The Hidden. He said giving the bugs human-like thoughts 'kind of ruins it.'",
+      "icon": "link",
+      "byline": "Outlaw Vern",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2004/03/25/starship-troopers-2-hero-of-the-federation/"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity goof: as a character shuffles cards around now, the bottom card is the Ace of Spades. After a cut it becomes the Ace of Clubs.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Film Threat's Christopher Zinsli called the script 'a first draft' and the film 'dark and uninspired.' He said the effects featurette on the DVD accidentally shows the seams in the effects.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/starship-troopers-2-hero-of-the-federation-dvd/"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Verdict's Patrick Naugle called the film 'a slasher movie in space' and said it should be put out of its misery 'with a large can of digital Raid.'",
+      "icon": "skull",
+      "byline": "Patrick Naugle — DVD Verdict",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdverdict.com/reviews/starshiptroopers2.php"
+      }
+    },
+    {
+      "t": 3975,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Around 1:06 the soundtrack erupts into a cacophony that nods to John Carpenter's The Thing, another story of aliens taking over humans in an isolated station.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stop-motion legend Ray Harryhausen visited the set during production, according to the making-of documentary on the DVD, as reviewed by Film Threat.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/starship-troopers-2-hero-of-the-federation-dvd/"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered on Encore Action on April 24, 2004, then hit DVD and VHS on June 1, 2004. It won Best DVD Release at the 2005 Saturn Awards.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists a 33% approval rating from 6 reviews. IGN's Andy Patrizio called it mediocre and said films like it are why direct-to-video has not earned respectability.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Billy Brown, who plays Private Ottis Brick, later played Detective Nate Lahey on How to Get Away with Murder and August Marks on Sons of Anarchy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0113117",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxMDMxNTgzNF5BMl5BanBnXkFtZTcwMTQwODQyNQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tippett's later feature Mad God (2021) is a mostly stop-motion nightmare, funded through Kickstarter and distributed by Shudder.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0864138",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTI5NDkxOF5BMl5BanBnXkFtZTcwNjkxMzA4NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4950,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The cigarette-tapping recruiting sergeant wears a patch reading 'Davison'. It's a wink to producer Jon Davison.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The franchise went on with Starship Troopers 3: Marauder in 2008, then Invasion (2012), Traitor of Mars (2017) and Deadlock (2022).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The credits include the disclaimer 'No animators were harmed in the making of this motion picture.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5245,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Stay for the end of the credits: there's one last bug scream.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
