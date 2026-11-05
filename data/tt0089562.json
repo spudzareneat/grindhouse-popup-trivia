@@ -1,0 +1,393 @@
+{
+  "schema": 1,
+  "imdbId": "tt0089562",
+  "title": "Massacre in Dinosaur Valley",
+  "year": 1985,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-11-05T11:44:40.288Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's original Italian title is Nudo e selvaggio, meaning \"Naked and Savage.\" It was also released as Amazonas and, in the UK, as Cannibal Ferox II.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Much of the score is recycled from Fabio Frizzi's music for Blastfighter (1984), another Italian B-movie starring Michael Sopkiw, who plays Kevin Hall here.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/dinovalley"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Suzane Carvalho, who plays Professor Ibañez's daughter Eva, had a short film career. This was her last role, and she's credited on some prints as \"Susane Carvall.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/dinovalley"
+      },
+      "person": "nm0142495"
+    },
+    {
+      "t": 225,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Michele Massimo Tarantini is credited as \"Michael E. Lemick\" here. The name is a pseudonym he used on several of his low-budget Brazilian genre films.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0850212"
+    },
+    {
+      "t": 270,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The hotel clerk on Kevin Hall's fellow guests: \"The two girls are models... He says he works for a fashion magazine. If you ask me, I bet it's a sex one.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Michael Sopkiw (Kevin Hall) dubbed his own voice for the English track. It's the only one of his four Italian films where he did, and he stood firm about getting paid for it.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/dinovalley"
+      },
+      "person": "nm0814679",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU1YjVkYzktYzk5MC00OTFkLTlmM2MtZDc1YjJiYWI2YzU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film shot in Brazil in 1985 under the working title Stranded in the Valley of Dinosaurs.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 452,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This cockfight is the only footage still cut from the UK 88 Films Blu-ray, which removes 13 seconds of it. UK law, the 1937 Cinematograph Films (Animals) Act, bars showing animals fighting.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dinosaur tracks are mentioned, but there are no dinosaurs. Variety's 1987 review called the title \"intentionally misleading: there are no dinosaurs or fantasy elements in this potboiler.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer Dardano Sacchetti says the original idea was a giallo mixed with dinosaurs. Director Michele Massimo Tarantini then rewrote the script in three days, adding scantily-clad girls.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/dinovalley"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Dardano Sacchetti also wrote Lucio Fulci's The Beyond and City of the Living Dead, and Lamberto Bava's Demons. His first screen credit was Dario Argento's The Cat o' Nine Tails (1971).",
+      "icon": "reel",
+      "byline": "Dardano Sacchetti — Co-writer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dardano_Sacchetti"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Michael Sopkiw says his wife watched the film with him years later and covered her eyes during the scene where his character, Kevin Hall, sleeps with a Brazilian woman.",
+      "icon": "sunglasses",
+      "byline": "Michael Sopkiw — Star",
+      "source": {
+        "type": "web",
+        "url": "http://mcbastardsmausoleum.blogspot.com/2020/09/massacre-in-dinosaur-valley-1985.html"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Michael Sopkiw was a former sailor who turned to modeling. He then starred in four Italian action and adventure films in about two years, and this was the last.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Michael_Sopkiw"
+      },
+      "person": "nm0814679",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU1YjVkYzktYzk5MC00OTFkLTlmM2MtZDc1YjJiYWI2YzU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Michele Massimo Tarantini is a cousin of Italian genre filmmakers Sergio Martino and Luciano Martino. Sergio Martino cast Michael Sopkiw in 2019: After the Fall of New York.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0850212"
+    },
+    {
+      "t": 1270,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Look closely at the plane crash. The plane is obviously a model, and it flies sideways with the strings holding it visible.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1370,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Marta Anderson (Betty Heinz) nearly died of cancer in 1977. After a religious experience, she became a well-known religious speaker in Brazil and now hosts her own TV show there.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0027153"
+    },
+    {
+      "t": 1565,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cutting the heels off a woman's shoes to hike through the jungle? The B&S About Movies review says that scene borrows from Romancing the Stone (1984).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/10/14/massacre-in-dinosaur-valley-1985/"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline was \"A journey into the cannibal inferno!\"",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1815,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Most of the cannibals were played by Brazilian military men on shore leave.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was barely seen in Italian theaters. Most US viewers know it from Lightning Video's VHS release, which sold it with an Indiana Jones angle.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/dinovalley"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The jungle scenes were shot in the Amazon rainforest and around Rio de Janeiro, Brazil.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2380,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Continuity slip: the piranhas stripped a man's leg to the bone, yet ignore his bleeding body once it's thrown back in the water, and two men then wrestle there untouched.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Samuka, who plays the native chief, really ate a raw pig heart for the scene where his character eats the heart of a victim.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Michele Massimo Tarantini moved to Brazil in 1983 and kept making low-budget genre films there. He later owned a ranch hosting large weddings and events.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0850212"
+    },
+    {
+      "t": 3489,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Kevin says he has only three shells left. But his 10-gauge shotgun holds nine, and he fires it over twenty times in the film without reloading.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3740,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "These dinosaur tracks are meant to be fossilized, but they look freshly made and sit in plain sight.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is referenced in The Green Inferno (2013), a modern cannibal movie. It's also referenced in Bleeder (1999) and No Dinosaurs Were Harmed While Making This Movie (2021).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Tied up, Kevin Hall tells the villain China exactly what he thinks: \"You're a fat, smelly, evil bastard.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 2002 the BBFC cut 1 minute 54 seconds from the UK release, titled Cannibal Ferox 2. The cuts targeted sexual violence, nudity and the cockfight.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The pig that frees Kevin changes color between shots, from white to brown to gray. It's obviously a fake one in the close-ups.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The UK label VIPCO retitled it Cannibal Ferox II to link it to the notorious Cannibal Ferox (1981). The two films have little else in common.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital calls Tarantini's 1977 crime film A Man Called Magnum his peak. He mostly directed Italian sex comedies, with stars like Edwige Fenech.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/dinovalley"
+      },
+      "person": "nm0850212"
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Odd credit: the closing credits don't list the cast at all.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
