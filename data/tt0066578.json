@@ -1,0 +1,460 @@
+{
+  "schema": 1,
+  "imdbId": "tt0066578",
+  "title": "The Wizard of Gore",
+  "year": 1970,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-11-05T11:48:47.146Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Ray Sager, a crew member, only plays Montag because the original actor quit. Director Herschell Gordon Lewis said the first Montag walked off after a clash with Lewis collaborator Fred Sandy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0756107",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdmMzljODAtMDIyMi00YWU3LWFhM2MtOTNiYTU2NWNjNzhkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 160,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Wizard of Gore was shot in 1969 in just two weeks, on an estimated budget of $60,000 — and it cost more than twice what Lewis' Blood Feast did ($24,000).",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/the-wizard-of-gore-blu-ray-review-splatter-magic/"
+      }
+    },
+    {
+      "t": 340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: in the guillotine trick, the hair of the actor hiding behind the guillotine can be seen poking out on the right side as Montag's headless body grabs at his head.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ray Sager was a grip on the crew when director Herschell Gordon Lewis asked if he'd ever thought of playing the Wizard. Sager says Lewis offered five times his grip pay, and he answered, \"I'm yours.\"",
+      "icon": "money",
+      "byline": "Ray Sager — Montag",
+      "source": {
+        "type": "web",
+        "url": "https://mubi.com/cast/ray-sager"
+      },
+      "person": "nm0756107",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdmMzljODAtMDIyMi00YWU3LWFhM2MtOTNiYTU2NWNjNzhkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 740,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The chainsaw victim was played by two women: one showed her upper body, another her legs. A fake midsection stuffed with animal organs, mortician's wax and condoms of stage blood went in between.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The real guts here came from two sheep carcasses. The crew lugged them around for over two weeks of shooting, soaking them in Pine-Sol to fight the smell.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: in the restaurant scene, the woman lying on the floor with her intestines out is visibly still breathing.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity check: Jack (Wayne Ratay) wears a different suit, shirt and tie outside the theater after the show than he did inside it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1083,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Jack's cure for Sherry's queasiness is the \"Emergency Special\": half gin, half vermouth. The vermouth gets sprinkled over a female toad and they drink the gin.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1173,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Sherry Carson (Judy Cler) calls magicians 'tuxedo-ed Svengalis'. The film nods to the 1931 movie Svengali, and then to The Wolf Man (1941), which she says scared her in a Kansas City theater.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Herschell Gordon Lewis, 'the Godfather of Gore', created the splatter genre with Blood Feast (1963). The Golden Turkey Awards nominated him as worst director ever; he lost to Ed Wood.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/wizard-of-gore-1970.htm"
+      },
+      "person": "nm0504496",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQxNDY2MDkwMl5BMl5BanBnXkFtZTgwNDU3MTUxMDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Herschell Gordon Lewis worked in advertising and financed most of his own films. He also did most of his movies' voice-overs himself, trailers included, so he wouldn't have to pay more actors.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0504496",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQxNDY2MDkwMl5BMl5BanBnXkFtZTgwNDU3MTUxMDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs described Herschell Gordon Lewis' early nudie films as \"movies where six ugly people with acne played volleyball in the nude for an hour and a half.\"",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://ink19.com/2019/02/magazine/screen-reviews/wizard-of-gore"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On his Wizard of Gore commentary with Something Weird's Mike Vraney, director Herschell Gordon Lewis is open that his films were money-making projects, not high art.",
+      "icon": "mic",
+      "byline": "Herschell Gordon Lewis — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/54483/wizard-of-gore-the-gore-gore-girls-the/"
+      }
+    },
+    {
+      "t": 1870,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria noted the spike gets pounded into 'an appallingly unconvincing dummy head', yet he still found the gore shocking.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/wizard-of-gore-1970.htm"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fred M. Sandy, the Lewis collaborator whose clash reportedly sent the first Montag packing, is credited as executive producer and also appears as an audience member.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/18321"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lewis' son Robert helped make the gore effects because he was willing to handle the animal viscera. A. Louise Downe, who worked on Blood Feast, also helped design the effects.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When The Wizard of Gore opened in Chicago in 1970, Variety (Nov. 4) noted that Herschell Gordon Lewis' films were said to have all turned a profit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/18321"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered in Washington, D.C. on October 23, 1970. It then played Chicago's Cinestage Theatre on a double bill with Blood of Dracula's Castle (1969).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/18321"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Herschell Gordon Lewis' first film, The Prime Time (1959), was shot in Chicago. B-Movie Enema says it was the first film made there since the silent era. Wizard of Gore was shot around Illinois too.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bmovieenema.com/2024/10/25/the-wizard-of-gore-1970/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film shot around Chicago, Highland Park and Rockford, Illinois. Its tagline asked: 'Is It Magic? Or Wholesale Slaughter?'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Phil Laurenson, who plays reporter Greg, returned for Herschell Gordon Lewis' next gore picture, The Gore Gore Girls (1972).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0491192"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A March 1971 Variety box-office chart listed The Wizard of Gore at $23,500 cumulative gross at a single theater, a decent grindhouse take for a $60,000 film.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/18321"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The title nods to The Wizard of Oz (1939), and the film also name-drops Svengali (1931) and The Wolf Man (1941), according to IMDb's connections list.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1982 the film was re-released as 'House of Torture' on a package called '5 Deranged Features'. The bill included Shriek of the Mutilated and Lewis' fellow gorefest The Corpse Grinders.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On the commentary track, director Herschell Gordon Lewis mentions a big finish involving a sheep's carcass that never made it into the film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/54483/wizard-of-gore-the-gore-gore-girls-the/"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dissatisfied with the finished film, Lewis said it suffered from rushed schedules, tight money and on-set accidents. AllMovie still called it 'arguably the most interesting product' of his career.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0504496",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQxNDY2MDkwMl5BMl5BanBnXkFtZTgwNDU3MTUxMDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "No original negative for The Wizard of Gore survives. Arrow Video restored it from the best available elements, and Cinema Sentries notes scratches and debris still show.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/the-wizard-of-gore-blu-ray-review-splatter-magic/"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: as Montag pushes the sword down the second woman's throat, you can see the 'blade' bend.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4275,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinema Sentries notes director Herschell Gordon Lewis keeps the camera in static, mid-level shots and lets each scene play out without moving.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/the-wizard-of-gore-blu-ray-review-splatter-magic/"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A clip of the film appears in Juno (2007). The character Mark Loring shows it to Juno MacGuff to prove Herschell Gordon Lewis is the 'master of horror'.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/18321"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was remade in 2007 with Crispin Glover as Montag. It reached DVD in 2008.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/18321"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ray Sager (Montag) moved to Canada in the late '80s and became a successful TV and film producer. He also has credits on slasher My Bloody Valentine (1981).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0756107",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdmMzljODAtMDIyMi00YWU3LWFhM2MtOTNiYTU2NWNjNzhkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4960,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The logo on the TV camera reads WTVO channel 17. That's a real station in Rockford, Illinois, the oldest continuously operating UHF station in northern Illinois.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5095,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Ray Sager keeps telling the audience to 'concentrate', but in one take he actually says 'croncentrate'. Lewis kept it in the film.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0756107",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdmMzljODAtMDIyMi00YWU3LWFhM2MtOTNiYTU2NWNjNzhkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film inspired a lot of later references, including The Texas Chain Saw Massacre (1974), Serial Mom (1994) and the Red Letter Media series Wheel of the Worst.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "IMDb lists nods to the film in the Doctor Who serial The Talons of Weng-Chiang (1977), The Uncanny (1977) and Rocktober Blood (1984), plus a 2000 spoof, The Bunk Witch Project.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria rates the film three stars, calling it Lewis' best. He says the meta-fiction ending, where Montag talks straight to the audience, gave it 'a certain academic legitimacy'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/wizard-of-gore-1970.htm"
+      }
+    }
+  ]
+}
