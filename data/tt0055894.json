@@ -1,0 +1,538 @@
+{
+  "schema": 1,
+  "imdbId": "tt0055894",
+  "title": "The Day of the Triffids",
+  "year": 1963,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-11-05T12:07:08.964Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Wyndham's 1951 novel behind this film also inspired the 2002 zombie hit 28 Days Later, which borrows its hero waking up alone in a hospital in an emptied London.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Novelist John Wyndham watched the London Blitz from Bloomsbury rooftops and described the destruction in letters to his partner Grace Wilson. That fed the emptied-city feel of The Day of the Triffids.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2022/04/13/april-movie-thon-day-13-the-day-of-the-triffids-1962/"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria praised the film's optical effects, like this meteor shower and a burning London, but dismissed the model work, such as the train and plane crashes, as unconvincing.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/day-of-the-triffids-1962.htm"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hammer screenwriter Jimmy Sangster was hired to adapt the novel in 1956 for producers Albert R. Broccoli and Irving Allen. He says he got paid, then never heard back. The script was never filmed.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 1959 the producers reportedly offered the lead to Fred MacMurray. Instead Howard Keel, the Seven Brides for Seven Brothers star, ended up as sailor Bill Masen.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 513,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Lighthouse couple Kieron Moore and Janette Scott were only added after filming wrapped, when the cut had just 57 usable minutes. Their scenes were shot later by Freddie Francis.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Rocky Horror Picture Show opens with the song Science Fiction/Double Feature, which has the line: 'And I really got hot when I saw Janette Scott fight a Triffid that spits poison and kills.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The credited writer, Philip Yordan, was a front. Blacklisted screenwriter Bernard Gordon actually rewrote the script in secret, and the Writers Guild later restored his credit.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The deserted hospital Bill Masen wanders through was shot at Moorfields Eye Hospital in London's Islington, a real eye hospital. That's fitting for a film about mass blindness.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "London locations include Piccadilly Circus, Westminster Bridge, Charing Cross and Marylebone Station. Interiors were built at Shepperton and MGM British Studios.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The budget was about $750,000. Producers financed it with a $1.23 million Bank of America loan secured against the Rank (UK) and Allied Artists (US) distribution deals.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Howard Keel (Bill Masen) was the original choice for Gene Kelly's role in Singin' in the Rain. He's best known for Seven Brides for Seven Brothers and Kiss Me Kate.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To meet UK rules about British executives, retired film exec George Pitcher was hired as a credited producer, but producer Bernard Glasser said Pitcher was a front with no real authority.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1430,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Freddie Francis, later an Oscar-winning cinematographer, said he was approached through his agent to add 'a prologue and a coda which became the lighthouse sequences.' He got a flat fee and no credit.",
+      "icon": "mic",
+      "byline": "Freddie Francis — Uncredited director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.oocities.org/phase2productions/freddiefrancisinterview.html"
+      },
+      "person": "nm0005711"
+    },
+    {
+      "t": 1570,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Carole Ann Ford (Susan) found this shoot tough, with last-minute script changes and new directors. A stuntman's nails once accidentally raked her back and drew blood.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Bernard Glasser, a former substitute teacher who began with a $50,000 Three Stooges film, kept his name off Triffids' credits to qualify the film for a British government subsidy.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/r-i-p-bernard-glasser-producer-of-classic-b-movies-li-1798265255"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the stuck car: when the shot cuts away and back, two rocks and some pebbles have appeared in front of the spinning rear tire.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1915,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria singled out this triffid chasing a skidding car as a real scare. He notes John Carpenter's 1980 horror film The Fog later echoed the idea.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/day-of-the-triffids-1962.htm"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib noted the triffids look like they're being pulled along on a low trolley. IMDb viewers spot the wires and operators' sneakers too.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/day-of-the-triffids-1962.htm"
+      }
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria praised director Steve Sekely's invented apocalypse vignettes, like this airliner running out of fuel, which have nothing to do with John Wyndham's novel.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/day-of-the-triffids-1962.htm"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Freddie Francis, who directed the lighthouse scenes, won Oscars for shooting Sons and Lovers and Glory. He then directed Hammer and Amicus horror, including Tales from the Crypt (1972).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0005711"
+    },
+    {
+      "t": 2450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Steve Sekely was a Hungarian-born journalist turned filmmaker who made over 40 features in Budapest, Berlin and Paris. Triffids was his first British film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2590,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mervyn Johns (Mr. Coker) played Bob Cratchit to Alastair Sim's Scrooge in 1951's A Christmas Carol. He's also the father of actress Glynis Johns.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Nicole Maurey (Christine Durrant) was a French actress with 65 film and TV credits between 1945 and 1997, including The Scapegoat (1959).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Janette Scott (Karen Goodwin) is the daughter of actress Thora Hird. She later married singer Mel Tormé and gave up acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kieron Moore (Tom Goodwin) once played Count Vronsky opposite Vivien Leigh in the 1948 Anna Karenina. He later co-starred with Janette Scott again in Crack in the World (1965).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3042,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Listen to the line 'they don't usually pull themselves out of the ground and chase you.' Part of it was dubbed in later and the lip movements don't match.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Halliwell's Film Guide called the movie a 'rough and ready adaptation of a famous sci-fi novel, sometimes blunderingly effective and with moments of good trick work.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Howard Keel remembered director Steve Sekely as a lovely man with a thick Hungarian accent who gave a direction and walked away. 'But somehow you knew what he wanted.'",
+      "icon": "mic",
+      "byline": "Howard Keel — Bill Masen",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3490,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The creatures are called triffids because of their three-pronged root, according to IMDb trivia. The book's triffids walk on those roots like a man on crutches.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3595,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The plane in this scene is a silver Chipmunk trainer, but the wreck found afterward is a Tiger Moth biplane with its top wing removed.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3745,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Johnny Douglas, credited only for 'additional music', actually wrote more score than main composer Ron Goodwin. Cue sheets show Douglas wrote 26 minutes and Goodwin 19.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Howard Keel said the script 'was awful and was rewritten by the producer and his wife, which only made it worse.' He also said the money ran out before the climax was shot.",
+      "icon": "mic",
+      "byline": "Howard Keel — Bill Masen",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3995,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's music was reconstructed decades later. Producer David Schecter rebuilt composer Ron Goodwin's complete score for a 2006 re-recording.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.kqek.com/dvd_reviews/d/3559_DayTriffids1962.htm"
+      }
+    },
+    {
+      "t": 4090,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The American naval base Bill Masen mentions is real: Rota Naval Station, a Spanish base leased by the US. It sits across the Bay of Cadiz, not in Cadiz itself.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When the film came out, some theaters reportedly gave out packets of 'triffid seeds' that were really sunflower seeds. Plant them and you'd get a big plant.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4380,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Spanish scenes, shot around Sitges and Alicante, were filmed by a second unit under producer Bernard Glasser. Much of the triffid footage there was judged unusable, which led to the reshoots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film premiered in Kitchener, Canada on 27 March 1963. In the UK it opened on the Odeon circuit in May, double-billed with The Legion's Last Patrol.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pan-and-scan video versions have an extra scene of Bill and Susan leaving England by motorboat. They see a ship explode behind them. It's missing from letterbox versions.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4740,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the light: during the electric-fence sequence at the villa, the shots jump from bright sunlight to darkness to evening and back again.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4820,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes gives the film a 79% approval rating from 19 reviews, a better score than its reputation might suggest.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film just half a star out of five. He called it a 'complete demolition job' of John Wyndham's novel.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/day-of-the-triffids-1962.htm"
+      }
+    },
+    {
+      "t": 5060,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Simon Clark, author of the sequel novel The Night of the Triffids, said the film's trick of luring triffids away with ice-cream-van music is good fun. He'd rank it in his all-time top 100.",
+      "icon": "mic",
+      "byline": "Simon Clark",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5185,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The navy says life rafts will keep searching, but the raft is a tiny oar-powered dinghy with no radio. Anyone picked up that way is arguably worse off than before.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In August 1962 producer Bernard Glasser said of the finished film: 'I am pleased with the film now. But it's an experience I'll be happy to forget.'",
+      "icon": "mic",
+      "byline": "Bernard Glasser — Producer",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filmink wrote that it's a shame that when the Rank Organisation tried sci-fi, 'the result was such a mess.' It added that even rabid fans wouldn't call it well made.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5430,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The seawater idea came from a rejected draft by screenwriter Robert L. Richards. He later claimed his material had been appropriated and sought redress from the producers and Allied Artists.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
