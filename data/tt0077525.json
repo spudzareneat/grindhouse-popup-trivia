@@ -1,0 +1,570 @@
+{
+  "schema": 1,
+  "imdbId": "tt0077525",
+  "title": "Massacre Mafia Style",
+  "year": 1974,
+  "runtimeSec": 4920,
+  "generatedAt": "2026-11-05T12:11:40.633Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Per the documentary Like Father, Like Son, Duke Mitchell once plugged a wheelchair-bound stage manager's chair into an outlet because he was mad at him. That prank inspired this opening scene.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This opening tune, 'Tic-a-Te', was a 1920s Italian hit. Duke Mitchell's version was first recorded in the early 1960s for the novelty song 'Buzzy the Christmas Bee,' sung by his ten-year-old son Jeff.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 215,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mondo Digital notes the film opens with Mimi and Jolly killing nearly everyone in an office building, sparing only a little boy in an elevator. Grindhouse, indeed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/massacremafia"
+      }
+    },
+    {
+      "t": 265,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mondo Digital notes the film's theatrical trailer is basically a condensed version of this opening office-building massacre. The trailer really does lead with its best shot.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/massacremafia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Frank Sinatra was offered a role in the film. His reply to pal Duke Mitchell: 'Duke, I love you but I get paid real money to do real movies.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Duke Mitchell was also the singing voice of Fred Flintstone in The Flintstones episode 'Hot Lips Hannigan' (1960).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0593299"
+    },
+    {
+      "t": 490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Duke Mitchell wrote, produced, directed, scored and starred in this film. Cinema Sentries notes he used a version of his real name, Dominic Miceli, for his character Mimi Miceli.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/massacre-mafia-style-blu-ray-review-duke-mitchells-godfather-antithesis/"
+      }
+    },
+    {
+      "t": 585,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Vic Caesar (Jolly Rizzo) wrote a 45 RPM Nixon campaign song, 'Nixon's The One.' Nixon visited his Phoenix supper club and autographed copies, which show up in the 2007 film The Hoax.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0128379"
+    },
+    {
+      "t": 640,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In early treatments, Jolly Rizzo, played here by Vic Caesar, was written as a black character for Duke Mitchell's friend George Jacobs.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 715,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mimi's tale of his father's name being changed at Ellis Island echoes real life: Duke Mitchell was born Dominic Salvatore Miceli.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0593299"
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Duke Mitchell and Sammy Petrillo's act imitated Dean Martin and Jerry Lewis so closely that Lewis sued after their 1952 film Bela Lugosi Meets a Brooklyn Gorilla.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "IMDb lists St. Anthony Church in Long Beach, California as one of the film's filming locations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To fund the film, Duke Mitchell sold his lease on a supper club.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Hollywood Reporter reviewed it on June 24, 1974 under the title Like Father, Like Son. Alan R. Howard compared Duke Mitchell to John Cassavetes and Sam Fuller and called it technically crude.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/55376"
+      }
+    },
+    {
+      "t": 1205,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Louis Zito (Chucky Tripoli) later turned up in the TV series Airwolf (1984) and in the 1984 film Savage Streets.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1255,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "For this wedding scene, Duke Mitchell mailed real wedding invitations, so many guests thought it was a real wedding. He then sold their gifts to help fund the film.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "This song is credited as 'Rigatone, Mostacoioli and Spaget,' written by Carl Coccomo.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Cara Peters (credited Cara Salerno as Liz) was an LA stripper and men's-magazine pinup. Her first known film was Russ Meyer's Europe in the Raw (1963).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0676355"
+    },
+    {
+      "t": 1525,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gabe Powers of Genre Grinder says Duke Mitchell's film plays less like The Godfather and more like the episodic, comic-violent Mean Streets, with an amateurish style that is part of its charm.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/massacre-mafia-style-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Duke Mitchell often shot in nightclubs where he performed, including The Buggy Whip in Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The slow-dance number 'One Hundred Years From Today' is a pre-war pop standard credited to Ned Washington and Victor Young, not a Duke Mitchell original.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Made in the wake of The Godfather (1972), the film draws on real mob stories Duke Mitchell heard from gangster buddies while performing his stage shows.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinema Sentries says the film was shot in pieces, with whoever was available running the camera. It was released in Todd-AO.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/massacre-mafia-style-blu-ray-review-duke-mitchells-godfather-antithesis/"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the 1970s Italy's poliziotteschi crime films were booming, but few American mob films followed The Godfather. Duke Mitchell filled that gap with nightclub-flavored mob tales.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Duke Mitchell anointed himself the 'King of Palm Springs.' Cinema Sentries adds he was also called 'Mr. Palm Springs' and served as its honorary mayor for four years.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/massacre-mafia-style-blu-ray-review-duke-mitchells-godfather-antithesis/"
+      },
+      "person": "nm0593299"
+    },
+    {
+      "t": 2140,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Schlockmania notes director-star Duke Mitchell gives himself three long, direct-to-camera-style monologues, like this tribute to Italian mothers. Several supporting players were non-actors.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/massacre-mafia-style"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cinema Sentries points out this shoestring mob flick hit theaters at the same time as The Godfather Part II, making it the big-budget film's ultimate antithesis.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/massacre-mafia-style-blu-ray-review-duke-mitchells-godfather-antithesis/"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Chucky's line 'you're in or you're in the way' became the film's tagline: 'You're IN... or... you're IN THE WAY!'",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A European distribution deal barred the film from North America for six years and retitled it The Executioner. Home video later used that title, too.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Fred Otash, who plays Bones, was a real LA private eye whose firm Hollywood Research did work for Confidential magazine. Peter Lawford reportedly hired him to investigate Marilyn Monroe.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Otash"
+      }
+    },
+    {
+      "t": 2765,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Fanny Tripoli is played by Jo Mitchell, Duke Mitchell's real-life wife.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2835,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jolly's joke title for a porno, 'Deep Thought,' is a wink at the 1972 hit Deep Throat, which this film references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "IMDb lists the S.S. Princess Louise, a restaurant ship at Berth 236 in the Port of Los Angeles, as one of the film's locations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film built its cult following on 1980s VHS, released by Video Gems as The Executioner. That revived its grindhouse theatrical run.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/massacremafia"
+      }
+    },
+    {
+      "t": 3170,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AFI notes a May 26, 1975 Box Office item reporting that Moonstone Films had acquired distribution rights, with the film retitled Massacre Mafia Style.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/55376"
+      }
+    },
+    {
+      "t": 3245,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AFI found an August 1975 Los Angeles Times ad showing the film playing at the Skyway theater in Las Vegas, one of its earliest traceable bookings.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/55376"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The pimp crucified on Easter was based on a real incident in Las Vegas in the late 1960s.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3410,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital says the old Video Gems VHS tape ran about 79 minutes, while the restored uncut version is 82 minutes.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/massacremafia"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Las Vegas Sun called it 'a virtual torrent of bloodshed' that 'makes the GODFATHER movies look like Sunday school picnic outings!'",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Waters' Serial Mom (1994) name-checks this obscure film, a mark of its cult reputation.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "During Britain's video nasty panic, the film was seized under Section 3 of the Obscene Publications Act 1959. It was never prosecuted for obscenity.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Duke Mitchell's follow-up, Gone with the Pope, existed only as a work print until Grindhouse Releasing's Bob Murawski and Sage Stallone found it in a garage. They restored it for release in 2011.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nathaniel Thompson of TCM Underground called the film 'mind-bending.' Josh Hurtado of Twitchfilm called it 'the rare film that is BETTER than its trailer.'",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is name-checked in the 2012 documentary Eurocrime! The Italian Cop and Gangster Films That Ruled the '70s, as well as in several video nasty documentaries.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Duke Mitchell's old partner Sammy Petrillo later had a small non-speaking role in the cult horror film The Brain That Wouldn't Die (1962).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://manoronmovies.com/MMS.htm"
+      }
+    },
+    {
+      "t": 4470,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mimi's rant about a hit motion picture glorifying his father is Duke Mitchell's nod to The Godfather. He references the film in dialogue without naming it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Grindhouse Releasing restored the film and issued it on Blu-ray and DVD in 2015, long after VHS bootleg-quality copies were the only way to see it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Duke Mitchell died of lung cancer on December 2, 1981. His son Jeffrey, who sang on the film's soundtrack as a boy, helped keep his father's work alive.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0593299"
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The closing credits are preceded by the Italian word 'FINI,' meaning 'ends.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
