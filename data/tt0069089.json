@@ -1,0 +1,576 @@
+{
+  "schema": 1,
+  "imdbId": "tt0069089",
+  "title": "Pink Flamingos",
+  "year": 1972,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-11-05T12:15:05.452Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "These opening credits list every actor and every extra, making them among the longest front-credit sequences ever. There are no closing credits at all.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director John Waters shot this for about $12,000. He says his father lent him the money, and he paid it back. He had planned on $10,000 but \"went overboard.\"",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://baltimorefishbowl.com/stories/john-waters-reflects-on-pink-flamingos-as-it-approaches-50-and-joins-the-national-film-registry/"
+      }
+    },
+    {
+      "t": 235,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Variety's review called Pink Flamingos \"surely one of the most vile, stupid and repulsive films ever made.\" Today it sits in the Library of Congress National Film Registry.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67621-PINK-FLAMINGOS"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production designer Vincent Peranio says the art department had about $200. Half bought Divine's trailer, half decorated it. After that, \"we would just steal things.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Los Angeles Times critic Kevin Thomas called the film \"as funny as it is outrageous,\" but warned it was \"for the very open-minded.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67621-PINK-FLAMINGOS"
+      }
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shooting ran only on weekends, from October 1971 to January 1972, because director John Waters spent the weekdays raising money.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director John Waters picked a bland title on purpose, \"a very normal title that wasn't exploitative,\" for such an outrageous movie. He says people still think it's about Florida.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thepopularflamingo.com/blogs/posts/the-movie-pink-flamingos-turned-50-this-month"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "John Waters on writing this: \"I was high when I wrote this film. I was not high when I made it.\"",
+      "icon": "mic",
+      "byline": "John Waters — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Waters' rough editing of his 16mm footage left a sound delay at every cut in early prints. It's part of the film's homemade look, nicknamed the \"Baltimore aesthetic\" by Providence art students.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67621-PINK-FLAMINGOS"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The narrator is John Waters himself, credited as \"Mr. J.\" He wanted Baltimore radio personality Mr. Ray, famous for hair-weave ads, but Mr. Ray refused. Waters imitated his voice.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director John Waters' parents financed the film, but neither of them ever saw it, according to the AFI Catalog.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67621-PINK-FLAMINGOS"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Mink Stole (Connie Marble) and David Lochary (Raymond) styled their own hair for the film. Lochary reportedly colored his with a blue Magic Marker.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Waters later apologized in his book Role Models for the film's opening dedication to three Charles Manson followers.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67621-PINK-FLAMINGOS"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Marbles' house was the one John Waters shared with Mink Stole. The interiors were shot in Stole's part of the house with almost no redressing.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Waters called his film \"a terrorist act against the tyranny of good taste.\" He also said it had the best shot of his films at making the National Film Registry.",
+      "icon": "mic",
+      "byline": "John Waters — Director",
+      "source": {
+        "type": "web",
+        "url": "https://thepopularflamingo.com/blogs/posts/the-movie-pink-flamingos-turned-50-this-month"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film has graffiti reading \"Free Tex Watson\" and a framed photo of Manson Family member Susan Atkins in the Marbles' home. The film is also dedicated to the convicted Manson women.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Divine was reportedly arrested for theft during production. Divine's defense was that Divine was a method actor playing a criminal.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Pink_Flamingos/Fun_Facts"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Waters met Edith Massey (Divine's mother Edie, the Egg Lady) in 1968 while she tended bar at Pete's Hotel in Baltimore. He calls her \"an outsider actress\" with a delivery nobody could make up.",
+      "icon": "star",
+      "byline": "John Waters",
+      "source": {
+        "type": "web",
+        "url": "https://www.baltimoremagazine.com/section/artsentertainment/edith-massey-the-egg-lady-in-her-own-words-actress-john-waters-films/"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Divine's friend Bob Adams recalled that Divine sometimes had to wait on the road in full drag for a ride. Cars of blue-collar commuters nearly mounted the curb gawking.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's budget was so tight that John Waters couldn't afford separate A and B reels. The edited work print served as the master copy.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's music came from director John Waters' own record collection, including Little Richard, Link Wray and The Trashmen. He used it without clearing the rights.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1997 re-release replaced The Crests' \"Sixteen Candles\" with \"Happy, Happy Birthday, Baby\" because permission for the original song couldn't be obtained.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Elizabeth Coffey, who plays the woman who stops Raymond Marble's scheme, had surgery a week to the day after her scene was filmed. She returned in Female Trouble (1974).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "New Line Cinema's Bob Shaye had turned down Waters' Multiple Maniacs. He reportedly decided to distribute this film after seeing the Elizabeth Coffey scene.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://baltimorefishbowl.com/stories/john-waters-reflects-on-pink-flamingos-as-it-approaches-50-and-joins-the-national-film-registry/"
+      }
+    },
+    {
+      "t": 2260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At the birthday party, Divine and the guests really did inhale amyl nitrate poppers, legal at drugstores then. John Waters says Divine's sudden laughing fit is where it \"kicked in.\"",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The uncredited \"Singing Asshole\" performer stayed nameless at his request. After his 2020 death, John Waters revealed he was David Gluck.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A chicken was killed during a sex scene in the film. The chicken was reportedly cooked and eaten by the cast and crew.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actress Pat Moran played \"Patty Hitler\" in scenes cut from the film. She can still be seen in the crowd at the birthday party.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mink Stole's character Connie was supposed to have her hair catch fire. Stole backed out of the stunt. Waters later said she'd have suffered third-degree burns and he'd have gone to jail.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A cut scene had Connie Marble asking a magic mirror who is filthiest. A pimp in a zoot suit would appear in smoke and answer \"Divine is.\" The effects didn't work, so it was dropped.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3005,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Village Voice critic J. Hoberman wrote that Pink Flamingos had the most sustained midnight-movie popularity of any film until David Lynch's Eraserhead.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/67621-PINK-FLAMINGOS"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Danny Mills (Crackers) and Linda Olgeirson never acted again outside documentaries. Mills reportedly regretted the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "John Waters says the one scene he regrets is the unsimulated oral sex scene between Divine and Danny Mills, who were friends. He calls it a satire of \"porno chic\" after Deep Throat (1972).",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Maryland censor Mary Avara made director John Waters cut the oral sex and artificial insemination scenes. She said he should have cut the finale too.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://baltimorefishbowl.com/stories/john-waters-reflects-on-pink-flamingos-as-it-approaches-50-and-joins-the-national-film-registry/"
+      }
+    },
+    {
+      "t": 3520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Marbles speak of \"Phase 1\" and \"Phase 3\" of their scheme, but there is never a Phase 2. It is a known continuity slip.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered March 17, 1972 at the University of Baltimore. It sold out three shows, at 8, 10 and midnight.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film became a midnight-movie hit at New York's Elgin Theater, which had pioneered the format with El Topo. Fans memorized lines, much like Rocky Horror later.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film ran for 95 weeks in New York City and ten consecutive years in Los Angeles.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some theaters handed out \"Pink Phlegm-ingo\" barf bags to patrons.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Marilyn Manson sampled Mink Stole shouting \"Burn, you fucker!\" on \"Dogma\" from the 1994 album Portrait of an American Family.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first UK video release in 1981 was completely uncut, before BBFC rules applied. The 1990 release was cut by 3m 4s, and the BBFC said in 2008 it could pass uncut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Waters says the Criterion Blu-ray's restoration was supervised by him. Criterion's booklet reprints Dreamlander Cookie Mueller's memoir chapter about shooting the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmhounds.co.uk/2022/08/11/pink-flamingos-blu-ray-review/"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Waters wrote a sequel, Flamingos Forever, and Troma offered $600,000 to make it. It died when Divine wanted more serious roles and Edith Massey passed away.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert gave the film no stars in 1997, saying it should be considered \"not as a film but as a fact, or perhaps as an object.\"",
+      "icon": "mic",
+      "byline": "Roger Ebert",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4780,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The dog-feces finale was real. The dog reportedly ate steak for three days beforehand, and Divine afterward phoned a hospital pretending a child had eaten it.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Divine later said, \"I followed that dog around for three hours just zooming in on its asshole.\" Divine said the finale was the only time Divine ever ate excrement, \"because it was in the script.\"",
+      "icon": "mic",
+      "byline": "Divine",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Divine asked mother Frances Milstead not to watch. Years later, Divine told her, \"you wouldn't believe what they can do nowadays with trick photography.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Waters says the finale was a political statement and publicity stunt, not a sexual act. Years later he told a reporter, \"It was just a little piece of dogshit, and it made her a star.\"",
+      "icon": "mic",
+      "byline": "John Waters — Director",
+      "source": {
+        "type": "web",
+        "url": "https://baltimorefishbowl.com/stories/john-waters-reflects-on-pink-flamingos-as-it-approaches-50-and-joins-the-national-film-registry/"
+      }
+    },
+    {
+      "t": 5340,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In December 2021 the Library of Congress added the film to the National Film Registry, calling it a landmark in queer cinema. It was Waters' first film there.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pbs.org/newshour/arts/pink-flamingos-selena-join-star-wars-film-in-national-film-registry"
+      }
+    },
+    {
+      "t": 5480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gus Van Sant called the film \"an absolute classic piece of American cinema, right up there with The Birth of a Nation, Dr. Strangelove, and Boom!\"",
+      "icon": "mic",
+      "byline": "Gus Van Sant",
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
