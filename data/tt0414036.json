@@ -1,0 +1,400 @@
+{
+  "schema": 1,
+  "imdbId": "tt0414036",
+  "title": "Game Box 1.0",
+  "year": 2004,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-11-05T11:11:26.968Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Danielle Fishel said the cast spent four weeks of 14-to-18-hour days surrounded by neon green paint. Nearly the whole movie was shot on a green stage.",
+      "icon": "camera",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://dailybruin.com/2007/04/08/danielle_meets_world"
+      },
+      "person": "nm0004918",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTg4MzQ1MF5BMl5BanBnXkFtZTgwNzY5Nzk5OTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriters Patrick Casey and Worm Miller later wrote the Sonic the Hedgehog movies and Violent Night. Before that, they wrote Gamebox 1.0 and both Dorm Daze comedies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Patrick_Casey_(writer)"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gamebox 1.0 was directed by brothers David and Scott Hillenbrand, who also made the 1999 giant-snake movie King Cobra.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Hillenbrand brothers' previous film, National Lampoon Presents Dorm Daze (2003), grossed just $436,365 worldwide and holds a 0% Rotten Tomatoes score from seven critics.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/National_Lampoon_Presents_Dorm_Daze"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Danielle Fishel plays two roles: Kate, the murdered girlfriend, and Princess, the video-game version of her. Fishel said Kate gave her a break so she could 'use my face again.'",
+      "icon": "star",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://www.popentertainmentarchives.com/post/danielle-fishel-gamebox-princess"
+      },
+      "person": "nm0004918",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTg4MzQ1MF5BMl5BanBnXkFtZTgwNzY5Nzk5OTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The game worlds borrow freely: the crime level copies Grand Theft Auto, and later scenes echo the cabin from The Evil Dead, the foggy woods of Resident Evil and the look of Silent Hill.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviemistakes.com/film6760/trivia"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fishel said game-world Princess wore heavy makeup, so 'in person you look like a complete freak.' She added that video game characters have few expressions, so she put all her emotion into her eyes.",
+      "icon": "mic",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://dailybruin.com/2007/04/08/danielle_meets_world"
+      },
+      "person": "nm0004918",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTg4MzQ1MF5BMl5BanBnXkFtZTgwNzY5Nzk5OTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk compared the film to Tron, The Matrix and Brainscan. Star Danielle Fishel also told the Daily Bruin she'd recommend it to anyone who liked Tron.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/27588"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film won Best Screenplay and Best Visual Effects at the Horror and Fantasy Film Festival in Malaga, Spain, according to a 2007 Daily Bruin piece.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailybruin.com/2007/04/08/danielle_meets_world"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The DVD cover used a Saw-style design, but DVD Talk's Scott Weinberg stressed that Gamebox 1.0 is 'definitely not a horror movie.' It's rated PG-13.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/27588"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Danielle Fishel said she grew up playing Nintendo and always wanted to be a video game princess. Gamebox 1.0 was her third movie with the Hillenbrand brothers.",
+      "icon": "star",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://dailybruin.com/2007/04/08/danielle_meets_world"
+      },
+      "person": "nm0004918",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTg4MzQ1MF5BMl5BanBnXkFtZTgwNzY5Nzk5OTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1770,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Nate Richert is also a musician. He released an album, Tone Control, in 2004, the same year this movie premiered. He plays guitar, banjo, drums and harmonica.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Two TGIF sitcom alumni lead this film. Nate Richert played Harvey on Sabrina the Teenage Witch, and Danielle Fishel played Topanga on Boy Meets World.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Songwriters Ali Dee and Zach Danziger wrote tracks credited to at least five different acts on the soundtrack, including Basko, Invisible Man, Boomish, The Skeem and The Grand Skeem.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fishel shot this alongside the National Lampoon's Dorm Daze movies. She said those shoots also ran 16 to 18 hours a day, over about three weeks to a month.",
+      "icon": "camera",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://www.popentertainmentarchives.com/post/danielle-fishel-gamebox-princess"
+      },
+      "person": "nm0004918",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTg4MzQ1MF5BMl5BanBnXkFtZTgwNzY5Nzk5OTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Danielle Fishel believes the Hillenbrand brothers hired her and Nate Richert partly because they'd worked together before and were reliable, which matters on a grueling green-screen shoot.",
+      "icon": "mic",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://www.popentertainmentarchives.com/post/danielle-fishel-gamebox-princess"
+      }
+    },
+    {
+      "t": 2520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mariana Klaveno made her screen debut in this movie. She later became known for TV vampire roles.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk said some effects here are 'appreciably slick' and others 'purely amateur hour,' and that the film would need 'at least 10 million bucks' to reach its potential.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/27588"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scott Weinberg of DVD Talk said the film is too choppy and 'a little too beholden to other movies.' He still gave it 3 out of 5 as a rental for game fans.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/27588"
+      }
+    },
+    {
+      "t": 2970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before acting, Patrick Kilpatrick (villain Ronald Hobbes) worked as a bodyguard for Jimi Hendrix, Pink Floyd, the Grateful Dead and the Beach Boys when they toured New York in the 1970s.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0453304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE5MzdhNWItOWYzYS00NDQ1LTg3YmYtODE4ZDQ3NTgwZGU0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie's three game levels are Crime Spree, Zombie Land and Alien Planet. Its influences include Videodrome, eXistenZ and Gremlins, which it references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Danielle Fishel said the movie's message is about escaping reality: 'You can't just drown yourself in a video game.'",
+      "icon": "mic",
+      "byline": "Danielle Fishel",
+      "source": {
+        "type": "interview",
+        "url": "https://www.popentertainmentarchives.com/post/danielle-fishel-gamebox-princess"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rick Bentley of The Fresno Bee gave it a D+, writing: 'There are only two words to describe the lousy graphics, bad acting and stupid story in Gamebox 1.0: game over.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The soundtrack leans on indie acts such as Ghost In The Machine, Boomish, Freakhouse and Maple Mars.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Hillenbrand brothers later directed Transylmania, which opened on 1,007 screens with $263,941, then the worst opening ever for a film in over 1,000 theaters.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Transylmania"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Patrick Kilpatrick plays Ronald Hobbes. He also played a villain in Eraser and Death Warrant, and he was in Minority Report.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0453304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE5MzdhNWItOWYzYS00NDQ1LTg3YmYtODE4ZDQ3NTgwZGU0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2012 financial backers sued the Hillenbrand brothers. Their company countersued, alleging fraud and seeking at least $107 million, per Wikipedia's Transylmania article.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Transylmania"
+      }
+    },
+    {
+      "t": 4320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film shot in 2004 but reached U.S. DVD only on April 10, 2007, from Lionsgate. Fishel said it had been filmed about three years earlier.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4470,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Patrick Cavanaugh, who plays Peter here, later appeared on Mad Men and Agents of S.H.I.E.L.D.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0146941",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzNjNTRjNzAtYTY1OC00MzEzLWE4YmItMGY0MDIzOTEzOGM4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tomb Raider, 2001: A Space Odyssey, and the games Halo: Combat Evolved and Mario Kart: Super Circuit are all referenced or shown in this movie.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Danielle Fishel was first cast as a one-episode guest on the Boy Meets World pilot. When the actress playing Topanga wasn't working out, Fishel read on the spot and won the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0004918",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTg4MzQ1MF5BMl5BanBnXkFtZTgwNzY5Nzk5OTE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Nate Richert played Harvey Kinkle in 123 episodes of Sabrina the Teenage Witch (1996 to 2003), and made a brief TV return in Home Work in 2020.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Nate_Richert"
+      },
+      "person": "nm0724921",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NDM0NzMzNV5BMl5BanBnXkFtZTcwNTU3NTcxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
