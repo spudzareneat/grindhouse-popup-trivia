@@ -1,0 +1,403 @@
+{
+  "schema": 1,
+  "imdbId": "tt0100639",
+  "title": "Slumber Party Massacre III",
+  "year": 1990,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-11-05T11:25:30.332Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This sequel cost about $350,000 and grossed $1,242,995 in a limited 1990 release by Concorde Pictures, Roger Corman's company. That's roughly 3.5 times its budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "These opening beach scenes were shot at Venice Beach on a freezing January day, so the sunny volleyball vibe took some acting.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Slumber Party Massacre trilogy is the only slasher series with all-female directors and all-female writers. This third entry was directed by Sally Mattison and written by Catherine Cyran.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 405,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-producer Catherine Cyran reportedly appears in the credits under the pseudonym \"Bruce Carson,\" according to Outlaw Vern's review. She also wrote Bloodfist II and Honey 3.",
+      "icon": "camera",
+      "byline": "Catherine Cyran — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2018/10/29/slumber-party-massacre-iii/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Sally Mattison has said she hated horror films. She took this one because Roger Corman offered it and it was her first chance to direct a feature. It was also her only one.",
+      "icon": "mic",
+      "byline": "Sally Mattison — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0560370"
+    },
+    {
+      "t": 560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Sally Mattison says she put the first murder before the party starts, so the movie wouldn't suggest that sex leads to death. That's the old slasher rule, and she wanted to dodge it.",
+      "icon": "mic",
+      "byline": "Sally Mattison — Director",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2018/10/29/slumber-party-massacre-iii/"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tagline \"It's Driller Time... And This Bit's For You\" riffs on two beer slogans: Miller's \"It's Miller Time\" and Budweiser's \"This Bud's For You.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The girls on the film's poster don't appear anywhere in the movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pizza girl Marta Kober was also in Friday the 13th Part 2 as Sandra. Slumber Party Massacre II stars Juliette Cummins and Heidi Kozak also had Friday the 13th roles, in Part 5 and Part 7.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1025,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Catherine Cyran studied at Harvard and spent two years with the Royal Shakespeare Company. She then started at Roger Corman's company as an executive assistant and wrote this script.",
+      "icon": "star",
+      "byline": "Catherine Cyran — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1154106/catherine-cyran-writer-of-roger-corman-movies-like-slumber-party-massacre-iii-has-died-at-59"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before directing, Sally Mattison worked as a casting director at New World Studios, Roger Corman's company, and then as a producer, according to Richard Scheib's Moria review.",
+      "icon": "camera",
+      "byline": "Sally Mattison — Director",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/slumber-party-massacre-iii-1990.htm"
+      },
+      "person": "nm0560370"
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The actresses knew the roles involved nudity when they auditioned. After casting, some refused, including Playmate Hope Marie Carlton. Sally Mattison let them keep their clothes on.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hope Marie Carlton, a Playboy Playmate, did her own stunt in this film: crashing through a glass door.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Janine actress Hope Marie Carlton was Playboy's July 1985 Playmate of the Month. She also had a cameo in A Nightmare on Elm Street 4 (1988) and was in Hard Ticket to Hawaii (1987).",
+      "icon": "star",
+      "byline": "Hope Marie Carlton",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/List_of_Playboy_Playmates_of_1985"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie reuses ideas from the 1982 original and skips the Nightmare on Elm Street imitation of Part II, Richard Scheib wrote on Moria, calling it formulaic and predictable. He gave it two stars.",
+      "icon": "link",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/slumber-party-massacre-iii-1990.htm"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety's contemporary review said the film \"eschews the role-reversal aspects of Amy Jones' superior 1982 original\" and called its gore \"plentiful but unimaginative.\"",
+      "icon": "reel",
+      "byline": "Variety",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Maria Ford, who plays Maria, became a Corman regular. A year later she starred in Deathstalker IV: Match of Titans, and a Deathstalker movie plays on TV in this very film.",
+      "icon": "link",
+      "byline": "Maria Ford",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Maria_Ford"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Interiors were shot on a set at Roger Corman's Venice, California studio. After filming, the leftover set was reused for Corman's Sorority House Massacre II (1990).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the Philippines, the film was released on January 17, 1992 under the title Captive Women.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Slasher films usually electrocute victims with hair dryers or toasters. In this one, a bathtub victim meets her end when the killer drops a plug-in vibrator into the water, per Moria's review.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/slumber-party-massacre-iii-1990.htm"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists only five critic reviews of the film, and 20% of them are positive.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brandi Burkett (Diane) and Hope Marie Carlton joined Sally Mattison on the DVD commentary. Fangoria said their funny recollections make it more entertaining than the movie.",
+      "icon": "mic",
+      "byline": "Fangoria",
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/review-the-slumber-party-massacre-collection-dvd/"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original R-rated VHS ran 75 minutes. The unrated tape ran 80. The 2000 DVD restored extra footage and runs 87 minutes, the most complete cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Yan Birch, who plays the beach weirdo, worked only two days on this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lulu Wilson's role as Juliette was her only acting credit.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bloody Disgusting gave the film 3 out of 5 and called its violence bloody and agonizing, especially in the unrated edition. Film Frenzy gave it 1 out of 4 for lacking wit or imagination.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rottentomatoes.com/m/slumber_party_massacre_iii"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several scenes in this movie nod to classics: Rear Window, Psycho, Halloween, Friday the 13th, A Nightmare on Elm Street and The Texas Chain Saw Massacre.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sally Mattison opposed one attack scene as gratuitous, and the Fangoria review says she remains doubtful about it. Roger Corman ordered it reshot with more nudity, and the shoot became a flashpoint.",
+      "icon": "censor",
+      "byline": "Sally Mattison — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/review-the-slumber-party-massacre-collection-dvd/"
+      },
+      "person": "nm0560370"
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mattison's wasn't Corman's only link to this house of horrors: she had been casting director and associate producer at Concorde on Bloodfist and Silk 2 before directing her one and only feature.",
+      "icon": "camera",
+      "byline": "Sally Mattison — Director",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2018/10/29/slumber-party-massacre-iii/"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actor David Greenlee (Duncan) lived in Hollywood's Fontenoy Tower apartments, near neighbors Johnny Depp and Crispin Glover.",
+      "icon": "star",
+      "byline": "David Greenlee",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0339123"
+    },
+    {
+      "t": 4175,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Catherine Cyran later directed White Wolves: A Cry in the Wild II, earning a Daytime Emmy nomination. She also wrote many Prince & Me films, plus Universal's Werewolf: The Beast Among Us.",
+      "icon": "trophy",
+      "byline": "Catherine Cyran — Writer",
+      "source": {
+        "type": "web",
+        "url": "https://slashfilm.com/1154106/catherine-cyran-writer-of-roger-corman-movies-like-slumber-party-massacre-iii-has-died-at-59"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Brandi Burkett (Diane) thought her character would survive, as in the original script. Two endings were shot, and she was shocked at the screening. Producers chose the version that kills her.",
+      "icon": "tombstone",
+      "byline": "Brandi Burkett",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0121939"
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's body count is 12. A remake of the first Slumber Party Massacre arrived in 2021, and the series spawned later spin-offs such as Cheerleader Massacre (2003).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sally Mattison wrote and performed two songs on the soundtrack herself, \"Pale Imitation\" and \"Hold Your Fire,\" besides directing the movie.",
+      "icon": "boombox",
+      "byline": "Sally Mattison — Director",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2018/10/29/slumber-party-massacre-iii/"
+      }
+    }
+  ]
+}
