@@ -1,0 +1,680 @@
+{
+  "schema": 1,
+  "imdbId": "tt0089695",
+  "title": "No Retreat, No Surrender",
+  "year": 1986,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-05T11:40:13.970Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This Hong Kong-American co-production cost about $250,000 and grossed $4.66 million in the US and Canada, plus 395,013 tickets in France alone.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 120,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: in this opening dojo scene, the American flag on the wall is hung backward.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 165,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Keith W. Strandberg says his first draft, then titled Ring of Truth, ran roughly 200 pages. He learned on set to just write fights as 'they fight.'",
+      "icon": "mic",
+      "byline": "Keith W. Strandberg — Screenwriter",
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/movies/keith-strandberg-interview-no-retreat-no-surrender/"
+      }
+    },
+    {
+      "t": 235,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jean-Claude Van Damme was picked from a line of fighters at an open call. Screenwriter Keith W. Strandberg helped choose him over another guy who 'couldn't really move.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://kungfukingdom.com/interview-keith-strandberg/"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 285,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jean-Claude Van Damme's flying kick off a downed thug's shoulder was meant to hit Timothy D. Baker's chest. Baker says Van Damme kept hitting his face, knee and throat instead.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 345,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Van Damme's leap-off-a-crouching-man flying side kick returns in Bloodsport (1988), where the crouching man is the referee. Same stunt, same opening-move surprise.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was director Corey Yuen's English-language debut. As a kid he had played an uncredited Japanese fighter in Bruce Lee's Fist of Fury (1972).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0477035",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ZlYTAyMjktY2Q4ZC00MzBlLWJjMDgtMmMyOWI5NDkxM2IzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 470,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Though the story moves to Seattle, the film was shot mostly in Los Angeles, with only some exterior location work in Seattle itself.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 535,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: Jason hangs his punching bag from a garage beam, but the bag jumps between shoulder height and head height from shot to shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 615,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "No Retreat, No Surrender opened May 2, 1986 at number eleven at the US box office, earning $739,723 in its first week.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "J.W. Fails (R.J. Madison) lied to the filmmakers that he could break dance and skateboard to land the role. A double did his dancing and skating.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0265361"
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kurt McKinney (Jason) found the audition in the Drama-Logue paper. The lead was the only role left when he arrived, and he was cast right after reading.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571893",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFlYWYzMTQtZTk1Yy00OGMyLTk5OGEtNTU3MmQwNjJlMzk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kurt McKinney's LAPD application was accepted the same day he won the lead. He passed on becoming a cop to act instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571893",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFlYWYzMTQtZTk1Yy00OGMyLTk5OGEtNTU3MmQwNjJlMzk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 925,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Why does bully Scott hate R.J.? A cafeteria scene where R.J. (J.W. Fails) trips Scott and spills his food was scripted to explain it, but it was never filmed.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 975,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: this film is set in Seattle, but palm trees stand in the background of the burger-joint confrontation.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Ng See-yuen came up with the idea of an American story with Hong Kong fighting. Strandberg says it had never been done before.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/movies/keith-strandberg-interview-no-retreat-no-surrender/"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Actor Ryan Gosling has named No Retreat, No Surrender as one of his favorite films.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1215,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Keith W. Strandberg got past Hong Kong producer Ng See-yuen's gatekeepers by switching from English to Mandarin mid-call after other studios ignored him.",
+      "icon": "mic",
+      "byline": "Keith W. Strandberg — Screenwriter",
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/movies/keith-strandberg-interview-no-retreat-no-surrender/"
+      }
+    },
+    {
+      "t": 1305,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Seattle dojo was a converted Van Nuys bowling alley. The dark arrows and dots on the wood floor are leftover bowling-lane markings.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Time Out compared the film to The Last Dragon, The Karate Kid and Rocky IV, saying it 'borrows heavily' and makes them look like masterpieces.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jason Stillwell was written as a teenager, but Kurt McKinney was already 22 when filming began.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571893",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFlYWYzMTQtZTk1Yy00OGMyLTk5OGEtNTU3MmQwNjJlMzk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film reached US theaters May 2, 1986, less than two months before The Karate Kid Part II. Reviewers constantly compared it to the first Karate Kid.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://vhsrevival.com/2020/05/19/van-damme-to-brucesploitation-no-retreat-no-surrender/"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The pinball machine in the bar's background is Bally's 1982 Vector. The beer foam in Jason's dad's glass also changes drastically between shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1710,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "During filming Jean-Claude Van Damme's car was in such bad shape that he often asked cast members to push it to start the engine after the day's shoot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Patrick Goldstein of the Los Angeles Times called the film 'hilariously bad' and an 'amateurish clunker.' It has since built a cult following.",
+      "icon": "sunglasses",
+      "byline": "Patrick Goldstein — Los Angeles Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: the red stain on Jason's shirt during the pool fight keeps changing in intensity from shot to shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tae-jeong Kim, who plays Bruce Lee's ghost, was a real stand-in for Bruce Lee in Game of Death (1978) and Game of Death II (1980).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1015087"
+    },
+    {
+      "t": 2190,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: Jason's dad tears the Bruce Lee poster down, but half stays on the garage wall. Jason somehow arrives at the abandoned house holding the other half.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "RiffTrax, with ex-MST3K stars Mike Nelson, Bill Corbett and Kevin Murphy, riffed this movie. It was also one of two films in the 2019 MST3K Live Great Cheesy Movie Tour.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2430,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Bruce Lee's ghost, Tae-jeong Kim, and Kurt McKinney spoke different languages in their scenes. They read cue cards and didn't know what the other said; Kim was dubbed later.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1015087"
+    },
+    {
+      "t": 2508,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: Jason greets Bruce Lee's ghost as 'Sensei Lee.' Lee was Chinese, so the proper title would be 'Sifu'; 'sensei' is Japanese.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A Korean dialogue coach wrote Korean lines timed to the English script for Tae-jeong Kim. Kurt McKinney reportedly called Kim only 'Sensei Lee' even off camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fast-rewind.com/making_retreat.htm"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Keith W. Strandberg says he didn't want the Bruce Lee ghost to be exploitation. He saw it as a tribute to Bruce Lee, whose poster hung where he trained.",
+      "icon": "mic",
+      "byline": "Keith W. Strandberg — Screenwriter",
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/movies/keith-strandberg-interview-no-retreat-no-surrender/"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kurt McKinney's two-finger push-ups were filmed with wires hoisting him up and down, hidden by the trees in the background.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571893",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFlYWYzMTQtZTk1Yy00OGMyLTk5OGEtNTU3MmQwNjJlMzk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2925,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Keith W. Strandberg says few US martial arts films existed in 1984, so the cast couldn't fight on camera. The crew taught them how to react and throw a pretty kick for the cameras.",
+      "icon": "knuckles",
+      "byline": "Keith W. Strandberg — Screenwriter",
+      "source": {
+        "type": "web",
+        "url": "https://deathraydive.com/2020/07/22/full-power-long-hours-an-oral-history-of-no-retreat-no-surrender/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fight choreographer Hoi Mang doubled for both Kurt McKinney and Tae-jeong Kim in the back-somersault flip kick.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3110,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the sandbag montage, Jason kicks a bag so hard it breaks. That wasn't planned.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2004 UK DVD uses a totally different score of stock music from Hong Kong films like Project A and My Lucky Stars, and a different theme song, 'Hold On To The Vision.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Kurt McKinney didn't want to do the foot-in-a-looped-rope stunt, but director Corey Yuen insisted. It worked in the end.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571893",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFlYWYzMTQtZTk1Yy00OGMyLTk5OGEtNTU3MmQwNjJlMzk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3395,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Writer Keith W. Strandberg plays one of the thugs fighting Jason outside the bar. He says he turned the wrong way on a kick and never lived it down with the stuntmen.",
+      "icon": "knuckles",
+      "byline": "Keith W. Strandberg — Screenwriter",
+      "source": {
+        "type": "interview",
+        "url": "https://kungfukingdom.com/interview-keith-strandberg/"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "While shooting the fight where Jason saves his father, Kurt McKinney accidentally kicked his opponent in the face with a flying kick.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0571893",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFlYWYzMTQtZTk1Yy00OGMyLTk5OGEtNTU3MmQwNjJlMzk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "British censors cut seven seconds from the cinema release: two shots of a Bruce Lee poster showing him holding nunchaku.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3630,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some cuts include a Seattle Space Needle date for Jason (Kurt McKinney) and Kelly (Kathie Sileno) that is missing from other versions. Those versions trade it for other trims.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Two cuts exist: the international version and a US cut by New World Pictures that runs about 14 minutes shorter, with a different score and fewer comedic scenes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The US version's theme is 'Hold On to the Vision,' sung by Kevin Chalfant. The UK cut was re-edited with a rock score and Joe Torono's 'Stand on Your Own.'",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3990,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: the 'MGM Grand Reno' tournament cuts big crowds and TV crews against fights that look like an empty gym with folding chairs.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4105,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Jean-Claude Van Damme is a supporting player here, but later video releases put him alone on the cover as the headline star.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jean-Claude Van Damme inspired Mortal Kombat's Johnny Cage. The game was first planned as a Van Damme vehicle until Midway and Van Damme couldn't agree on a likeness fee.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: the tournament crowd is completely silent in many shots of the fights.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Van Damme knocked stuntman Pete 'Sugarfoot' Cunningham out cold with a spinning kick, ran to help him, and ruined the take. On the retake he knocked him out again.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://kungfukingdom.com/interview-keith-strandberg/"
+      }
+    },
+    {
+      "t": 4535,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: when Ivan kicks the referee out of the ring, the safety mattress the referee lands on is visible.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1993 Black Belt magazine ranked this film seventh on its list of top martial arts films for choreography, praising Van Damme's jump kicks.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film half a star and called it 'shabbily made.' He still called Jean-Claude Van Damme 'the one good performance' and praised his fight's 'physical poetry.'",
+      "icon": "star",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/fantasy/no-retreat-no-surrender-1986.htm"
+      }
+    },
+    {
+      "t": 4760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jean-Claude Van Damme originally had a two-picture deal with screenwriter Keith W. Strandberg but later broke the contract.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie got shout-outs in Pineapple Express (2008) and the video game Far Cry 3: Blood Dragon (2013). It also had a 1986 spoof, No Blood, No Surrender.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the end credits, Jean-Claude Van Damme's character Ivan is listed as 'Karl Brezdin.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000241",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA2OTE1Njg4NjVeQTJeQWpwZ15BbWU3MDAyNjU4MDM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5035,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It was a big hit on video, which led to sequels. In parts of Europe the film was released as Karate Tiger.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/movies/keith-strandberg-interview-no-retreat-no-surrender/"
+      }
+    }
+  ]
+}
