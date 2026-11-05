@@ -1,0 +1,626 @@
+{
+  "schema": 1,
+  "imdbId": "tt0087451",
+  "title": "The Ice Pirates",
+  "year": 1984,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-11-05T11:18:21.493Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The title was inspired by the Rochester, NY men's hockey team, the \"Ice Pyrates.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This started as The Water Planet, a serious sci-fi film with a $20 million budget. MGM's bankers capped its films at $8 million, so director Stewart Raffill rewrote it as a comedy.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 210,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "MGM hired Stewart Raffill because his 1981 film High Risk impressed the studio. They asked if he could make a cheaper version of the script, and he said yes if he could rewrite it as a comedy.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Robert Urich (Jason) was cast because MGM had him under contract for a TV series and insisted he get the lead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001810",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIyODM3MDMtNjhlMi00YzI2LWI4MjEtYTdjYTMyYzkzM2IxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hero Jason is named after the hero of the 1963 film Jason and the Argonauts, whose crew sails off on a quest for the Golden Fleece.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 385,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Princess Karina is played by Mary Crosby, who played Kristin Shepard on Dallas, the character who shot J.R. Ewing in the 1980 \"Who shot J.R.?\" cliffhanger.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002026",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU0YmNlMjgtZjlhNS00NjgwLTk1NTMtOTBjYTU4YTdjOWYyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Costner turned down the role of Jason. He later starred in another water-obsessed sci-fi adventure, Waterworld (1995).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 495,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Anjelica Huston (Maida) got the part because producer John Foreman, a personal friend, wanted her in the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNTE1MTAyNDReQTJeQWpwZ15BbWU3MDk5NDI0Mjc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Look at the monitors in the control room as the alarm sounds. The screens show footage from the 1975 sci-fi film Rollerball.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Raffill and producer John Foreman say pirate movies like The Crimson Pirate (1952) were the main inspiration. They deliberately did not watch Star Wars.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 710,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Raffill's crew cast the junky spaceship parts in molds taken from car engines and gearing. He wanted a \"super-funky, steam engine high-tech\" look, as if pirates built the ships from scraps.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robert Urich (Jason) was best known for the ABC detective series Vega$ (1978–81), which earned him two Golden Globe nominations.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001810",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIyODM3MDMtNjhlMi00YzI2LWI4MjEtYTdjYTMyYzkzM2IxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Canby of The New York Times called it a \"busy, bewildering, exceedingly jokey science-fiction film that looks like a Star Wars spin-off made in an underdeveloped galaxy.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria noted that the film's space battle is staged like a video game, and said the special effects show very obvious matte lines.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=2259"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Stewart Raffill started out renting wild animals to film studios and doing stunt work on the TV series Tarzan before making his 1971 directing debut, The Tender Warrior.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/unsung-auteurs-stewart-raffill/"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A January 1983 Variety news brief said William Katt, star of The Greatest American Hero, was considered for the lead role of Jason before it went to Robert Urich.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57113"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The domed city the prison ship approaches is a set reused from the 1976 sci-fi film Logan's Run.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1430,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria faulted the premise because water could be made from hydrogen and oxygen. He called the film a \"muddle from beginning to end\" and gave it two stars.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=2259"
+      }
+    },
+    {
+      "t": 1484,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "John Matuszak (Killjoy) was cast because one of the film's financiers liked the former NFL star. He was the Houston Oilers' first overall pick in the 1973 draft.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0560596",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNjQ3MDY0OF5BMl5BanBnXkFtZTcwNjE1ODQyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hollywood Reporter charts put the start of filming at March 7, 1983, at MGM in Culver City. Locations included a Playa del Rey power plant and a theatre at CalArts in Valencia.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57113"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Parts of the film were shot at a disused power plant in Playa del Rey and at a Budweiser factory in Van Nuys, California.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mary Crosby (Princess Karina) is the only daughter of Bing Crosby and his second wife, Kathryn Grant.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002026",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU0YmNlMjgtZjlhNS00NjgwLTk1NTMtOTBjYTU4YTdjOWYyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Ice Pirates has a 17% Rotten Tomatoes rating and a CinemaScore of \"C.\" It still became a moderate hit and later a cult favorite.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2090,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The pimp's \"bad chariot\" is a car from Logan's Run (1976). It was visible in the background when the slave cages were unloaded, and a hovercraft from the same film reappears as Zorn's vehicle.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some scenes were shot at the Los Angeles Theatre on South Broadway in downtown Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The AFI Catalog credits computer imagery to Digital Productions and Pacific Electric Pictures, plus motion-control work by Praxis Filmworks, in a 1984 comedy that otherwise looks gloriously junky.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57113"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Trek creator Gene Roddenberry joked that this movie was \"singularly responsible for bringing back the death penalty to California.\"",
+      "icon": "mic",
+      "byline": "Gene Roddenberry",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Stewart Raffill says sets were already being built when a new MGM studio head tried to cancel the film three weeks before shooting. The budget had been $17-18 million before the cuts.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://bristolbadfilmclub.co.uk/exclusive-interview-stewart-raffill-director-of-tammy-and-the-t-rex-mac-me-and-the-ice-pirates/"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The UK theatrical release was cut by 2 minutes 11 seconds for a PG. The cuts included castration talk and every mention of the \"Space Herpe.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2790,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "This was only the second major film for both Ron Perlman, who plays Zeno, and Mary Crosby, who plays Princess Karina.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2877,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The waitress is Patty Maloney. She later played Lois Addams in The Addams Family (1991), in which Anjelica Huston, her co-star here, played Morticia.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The body armor Anjelica Huston wears in the bar scene was reused from the 1982 fantasy film The Sword and the Sorcerer.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNTE1MTAyNDReQTJeQWpwZ15BbWU3MDk5NDI0Mjc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Raffill says MGM's new studio head tried to sabotage the film by pulling money. He also says producer John Foreman, a friend of Paul Newman's, punched the executive over a remark about Newman's wife.",
+      "icon": "money",
+      "byline": "Stewart Raffill — Director",
+      "source": {
+        "type": "web",
+        "url": "https://bristolbadfilmclub.co.uk/exclusive-interview-stewart-raffill-director-of-tammy-and-the-t-rex-mac-me-and-the-ice-pirates/"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Ice Pirates was one of the last major Hollywood studio films of veteran actor John Carradine.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3506,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The bounty hunters' vehicle is a parody of the vehicles in The Road Warrior (1981).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look beside Lanky Nibs as he talks. A Bridgestone Desert Dueler tire, an early-80s Earth product, sits next to him in this far-future scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Matuszak (Killjoy) went on to play Sloth in The Goonies (1985), another pirate-treasure adventure. His Sloth makeup took five hours to apply.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0560596",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNjQ3MDY0OF5BMl5BanBnXkFtZTcwNjE1ODQyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3855,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The film's robots, including the pirates' junkyard bots, were designed and built by brothers Michael John McCracken and Michael Shawn McCracken, working out of Simi Valley, California.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/57113"
+      }
+    },
+    {
+      "t": 3926,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The creature bursting out of the turkey is a spoof of the chestburster scene in Alien (1979).",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4090,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the fog on Wendon's planet, the folds of the backdrop on the set are visible if you look for them.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A year after this film, Anjelica Huston won the Best Supporting Actress Oscar for Prizzi's Honor (1985), directed by her father John Huston.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNTE1MTAyNDReQTJeQWpwZ15BbWU3MDk5NDI0Mjc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robert Urich and Anjelica Huston later reunited in the TV miniseries Lonesome Dove (1989).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film took in about $14.25 million against a budget of about $9 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Stewart Raffill made the time-travel thriller The Philadelphia Experiment (1984) only a few months after finishing this space comedy.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=2259"
+      }
+    },
+    {
+      "t": 4830,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch Jason undo the knot on the left string of Karina's dress with his teeth. He does it twice, a continuity slip.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria called the time-warp battle, where characters age and have children who join the fight, the film's most memorable and amusingly staged sequence.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=2259"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jay Bauman and Rich Evans of Red Letter Media praised the film's chaotic plot and said its budget troubles gave it a certain charm.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Stewart Raffill's next sci-fi film was Mac and Me (1988), an E.T. imitation partly funded by McDonald's. It earned him a Golden Raspberry for Worst Director.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/12/27/star-wars-droppings-the-ice-pirates-1984/"
+      }
+    },
+    {
+      "t": 5140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Stewart Raffill also wrote the original screenplay for the Wesley Snipes hijack thriller Passenger 57 (1992).",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmink.com.au/unsung-auteurs-stewart-raffill/"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Germany released two VHS cuts: an uncut FSK18 version and a trimmed FSK12 one. German TV often airs the uncut version in daytime slots meant for FSK12 films.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "TCM's article calls the film \"bracingly sophomoric,\" with a paper-plate look and potty humor closer to Flesh Gordon (1974) than to Flash Gordon.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1084040/the-ice-pirates"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The original ending had the crew fly over beaches full of swimmers. Raffill says the studio head cut it without telling him, and he had to drink vodka to calm down.",
+      "icon": "censor",
+      "byline": "Stewart Raffill — Director",
+      "source": {
+        "type": "web",
+        "url": "https://bristolbadfilmclub.co.uk/exclusive-interview-stewart-raffill-director-of-tammy-and-the-t-rex-mac-me-and-the-ice-pirates/"
+      }
+    },
+    {
+      "t": 5560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The theatrical trailer gave away that the 7th World is Earth, spoiling the movie's big reveal.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
