@@ -1,0 +1,481 @@
+{
+  "schema": 1,
+  "imdbId": "tt0106302",
+  "title": "Arcade",
+  "year": 1993,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-05T11:14:30.259Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original CGI had 'sky cycles' that looked a lot like the light cycles in Disney's Tron. After Disney reportedly threatened legal action, Full Moon had the effects redone.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Megan Ward (Alex Manning) supplied her own wardrobe for Arcade. She'd just come off the caveman comedy Encino Man (1992) and played in Trancers II (1991) for the same director, Albert Pyun.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0911725",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhkZWI2YTgtNzE0Zi00MzJjLTgwMjgtMDZhNmJhMTk4MjIzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Arcade was filmed back-to-back with Dollman (1991), another Full Moon production. Dollman's director Peter Manoogian and Pyun both worked the same low-budget shop for Charles Band.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Full Moon first planned Arcade for video in 1991, then pushed it to September 1992, then February 1993, and it finally reached US video in March 1994. The Tron problem was a big part of the delay.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 479,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Seth Green plays Stilts. In 1992 he also became famous as the drive-thru cashier shouting 'Cha-CHING!' in Rally's Burgers commercials.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001293",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGY0OTE5YTctMjZlMS00ZTg5LThmNjAtMjZiZDc5YTRkZTc3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 524,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The arcade manager sneers that Space Invaders is for retards. Arcade name-checks the 1978 classic Space Invaders, a game already ancient by 1993.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 611,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "John de Lancie (Difford, the slick game-company CEO) is best known as the omnipotent trickster Q on Star Trek: The Next Generation. IMDb says he worked on Arcade for just one day.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0209496",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwMDk3OTAxM15BMl5BanBnXkFtZTcwNDM0NTQwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Peter Billingsley (Nick) was Ralphie in A Christmas Story (1983) and Messy Marvin in Hershey's syrup commercials. He also helped redo Arcade's CGI after the Tron trouble.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0082526",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4NDg5MTc4NzNeQTJeQWpwZ15BbWU3MDEyMDIwNjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The A.V. Club's Sean O'Neal called Arcade's VR effects 'risibly outmoded in 1993,' but said it's 'strangely memorable.' He watched it about a dozen times on late-night HBO in the mid-90s.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/in-1993-arcade-turned-virtual-reality-into-virtually-w-1823706632"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter David S. Goyer got his start at Full Moon, then wrote Blade and co-wrote the Nolan Batman films. He reunited with director Albert Pyun, who'd directed his Kickboxer 2 script, for Arcade.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/in-1993-arcade-turned-virtual-reality-into-virtually-w-1823706632"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The A.V. Club notes the VHS box of Arcade promised 'Virtual Reality' Special Effects! Virtual reality was the hot buzzword of the early 90s, as in The Lawnmower Man (1992).",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://avclub.com/in-1993-arcade-turned-virtual-reality-into-virtually-w-1823706632"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original CGI cut still reached video in Germany, Italy, Poland, Argentina, the Netherlands, and Mexican TV. Those viewers got the sky cycles US viewers never saw.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1370,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The photo montage here uses real pictures from star Megan Ward's own photo collection. Ward modeled in Japan for six years as a teen and speaks Japanese.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0911725",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhkZWI2YTgtNzE0Zi00MzJjLTgwMjgtMDZhNmJhMTk4MjIzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Arcade was shot in early 1991 with a reported budget of $750,000, and its CGI game-world effects stretched that to the limit, according to The Schlock Pit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2026/04/27/arcade-1993/"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Albert Pyun left Arcade mid-editing to make Nemesis (1992). He admitted he left it in disarray, and producer Charles Band was reportedly furious. Pyun later called his conduct unprofessional.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2026/04/27/arcade-1993/"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Arcade's teaser trailer re-used music from an earlier Full Moon film, Arena (1989). Recycling was routine in Charles Band's low-budget shop.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Charles Band's first idea for Arcade was a simpler ghost story about a haunted arcade. Writer David S. Goyer's script turned it into a sci-fi virtual-reality adventure.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2026/04/27/arcade-1993/"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Albert Pyun directed Captain America (1990) and Cyborg (1989) with Jean-Claude Van Damme. The Independent Film Channel said he made 'high-concept genre films starring actors past their prime.'",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0089502",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY2MzNhYjYtZDk5OC00YTM5LTkxMjMtNTQyMDVmMTdhMGQzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A scene in which Megan Ward's Alex gives Peter Billingsley's Nick a good-luck kiss was filmed but cut from both the original and the redone versions.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Albert Pyun said producer Charles Band 'really loved' the darker script written by David S. Goyer, then in his early 20s. But Pyun added that Band 'still didn't provide any more money.'",
+      "icon": "mic",
+      "byline": "Albert Pyun — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://alibi.com/film/film-interview-b-movie-king-albert-pyun-returns-with-road-to-hell/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Stilts asks whether it's supernatural evil or 'pod people.' Arcade's connections list includes the original Invasion of the Body Snatchers (1956).",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Special effects artist Greg Cannom was originally slated to do Arcade's effects. Cannom later won Oscars for Bram Stoker's Dracula, Mrs. Doubtfire and Benjamin Button.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Miles Wynton replaced Dean Goodhill as editor on Arcade, but some advertising still credits Goodhill.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The soundtrack includes Blue Öyster Cult's 'The Horsemen Arrive,' co-written by sci-fi author John Shirley, credited as James Shirley.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Arcade was filmed around Santa Monica, including the Santa Monica Pier and the Ocean Park Boardwalk.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2765,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The game's programmer, played by actor Peter Billingsley's co-star in this scene, is named Albert, the same first name as director Albert Pyun. The Schlock Pit points out the match.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2026/04/27/arcade-1993/"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline was 'The Game Wants to Play With You.' Per IMDb, a sequel was written but never fully materialized.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Puppet Master II, Trancers II and Dollman (all 1991) reference Arcade, years before it reached US video. Full Moon was advertising its movies inside its other movies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peter Billingsley was a spokesman for Reagan's Young Astronaut Council. He's also in two films the Library of Congress picked for the National Film Registry: A Christmas Story and Iron Man.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0082526",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4NDg5MTc4NzNeQTJeQWpwZ15BbWU3MDEyMDIwNjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "John de Lancie's Q was named after British Star Trek fan Janet Quarton, a close friend of Gene Roddenberry.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0209496",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwMDk3OTAxM15BMl5BanBnXkFtZTcwNDM0NTQwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Megan Ward said she was nervous driving the muscle car in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0911725",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhkZWI2YTgtNzE0Zi00MzJjLTgwMjgtMDZhNmJhMTk4MjIzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scenes were cut from Arcade, including one where A.J. Langer and Seth Green (Stilts) appear to Megan Ward's Alex inside the game. One reviewer thinks they might have cleared up plot points.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fthismovie.com/2014/02/full-moon-fever-arcade.html"
+      }
+    },
+    {
+      "t": 3651,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Sharon Farrell (Alex's mom) was in Larry Cohen's It's Alive (1974) and was the last surviving cast member of the original Hawaii Five-O. She died in 2023.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0268331",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk4ZDMzOWItZGY2ZC00OTQyLTllOTEtZmRlOWM3ZmIxZTI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3795,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The boatman riddle here, one who lies and one who tells the truth, echoes Labyrinth (1986), another film on Arcade's list of references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Alan Howarth's son Ashton dubbed over child actor Humberto Ortiz's lines in Arcade.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave Arcade one star, calling the effects 'cheap, flat visuals.' He still praised Megan Ward (Alex) for playing it 'with both strength and vulnerability.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moriareviews.com/sciencefiction/arcade-1994.htm"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib spotted a continuity hole: the game has no Level 4, and the promised urban street scenario never really appears. He saw Arcade as a cheap Lawnmower Man knockoff.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moriareviews.com/sciencefiction/arcade-1994.htm"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was reportedly edited in just seven days. Charles Band's company then released it directly to video rather than theaters.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Arcade is on Wikipedia's 'see also' list with Brainscan, The Lawnmower Man, Johnny Mnemonic and Tron, the early-90s cyber-thrillers.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A 2024 episode of eXistenZ-era VR discussions and a 2023 Pyun tribute month both revisited Arcade. Albert Pyun died on November 26, 2022.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
