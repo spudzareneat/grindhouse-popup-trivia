@@ -1,0 +1,431 @@
+{
+  "schema": 1,
+  "imdbId": "tt0105464",
+  "title": "Star Time",
+  "year": 1991,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-05T12:33:16.301Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Alexander Cassini's original opening credits were made with a Xerox machine. He cut them for the brief VHS release; the restored version brought them back.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Critic Jonathan Rosenbaum wrote that Star Time \"crosses The King of Comedy with Henry: Portrait of a Serial Killer.\" He also called it an \"exceedingly odd first feature.\"",
+      "icon": "mic",
+      "byline": "Jonathan Rosenbaum",
+      "source": {
+        "type": "web",
+        "url": "http://www.dvdbeaver.com/film6/dvd_reviews_67/star_time_blu-ray.htm"
+      }
+    },
+    {
+      "t": 310,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Alexander Cassini says he cites Jane Campion's 1989 film Sweetie as a main influence on Star Time, along with Jean-Luc Godard's sci-fi noir Alphaville.",
+      "icon": "reel",
+      "byline": "Alexander Cassini — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.pulsingcinema.com/2026/05/04/review-star-time-1992/"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Alexander Cassini says John P. Ryan, who plays Sam Bones, was briefly fired during production and was a \"nightmare\" on set.",
+      "icon": "mic",
+      "byline": "Alexander Cassini — Director",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      },
+      "person": "nm0752636",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDIyNjM4OF5BMl5BanBnXkFtZTcwNjMzOTgxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 530,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score for Star Time was composed by Blake Leyh, who later became a music supervisor on HBO's The Wire.",
+      "icon": "boombox",
+      "byline": "Blake Leyh",
+      "source": {
+        "type": "web",
+        "url": "http://www.dvdbeaver.com/film6/dvd_reviews_67/star_time_blu-ray.htm"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Alexander Cassini rejects the \"slasher\" label for Star Time. The murders mostly happen off-screen, and the film is more about TV and fame than gore.",
+      "icon": "skull",
+      "byline": "Alexander Cassini — Director",
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2018/03/26/star-time-1992-movie-review/"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time director Alexander Cassini once worked in America as a translator for composer Ennio Morricone. He called the maestro a \"consummate professional\" and a \"real bastard.\"",
+      "icon": "mic",
+      "byline": "Alexander Cassini — Director",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      },
+      "person": "nm0144301",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzA0YWVmOTMtN2Y3Ny00N2E2LTlkZTktZmM5YmE5YmQ4ZDE2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 890,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Alexander Cassini says John P. Ryan (Sam Bones) was nearly fired. But cinematographer Fernando Arguelles disputes that, saying Ryan was fine to work with.",
+      "icon": "mic",
+      "byline": "Fernando Arguelles — Cinematographer",
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2018/03/26/star-time-1992-movie-review/"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time's Henry Pinkle is a TV addict. Morbidly Beautiful's Bobby Lisse compares the film to The Cable Guy and links one channel-surfing sequence to Videodrome.",
+      "icon": "link",
+      "byline": "Bobby Lisse",
+      "source": {
+        "type": "web",
+        "url": "https://morbidlybeautiful.com/?p=90530"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time was made for very little money with just three principal actors. Many scenes play against pure black backgrounds or bare walls.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Time played Sundance in January 1992, then the Houston Film Festival, AFI Fest and a 1993 Brussels festival. Distributor Northern Arts then shelved it for about 13 months.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://todayshaul.net/startime/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time premiered at the 1992 Sundance Film Festival. It was the feature debut of writer-director-producer Alexander Cassini.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1610,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time's US theatrical run was tiny. After Sundance in 1992, it reached Los Angeles' Nuart Theatre only in April 1993, and it did better as a VHS rental.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesanddrinks.com/2018/03/26/star-time-1992-movie-review/"
+      }
+    },
+    {
+      "t": 1720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cassini cast his own wife. Maureen Teefy, who plays social worker Wendy, still had to audition for her husband, director Alexander Cassini.",
+      "icon": "star",
+      "byline": "Maureen Teefy",
+      "source": {
+        "type": "web",
+        "url": "https://www.pulsingcinema.com/2026/05/04/review-star-time-1992/"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actor Michael Jeter was also considered for the role of Henry Pinkle, which went to Michael St. Gerard.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time's monopoly on TV paranoia didn't last. Pulsing Cinema's review notes Oliver Stone's Natural Born Killers hit with similar media-and-violence themes in 1994, two years later.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pulsingcinema.com/2026/05/04/review-star-time-1992/"
+      }
+    },
+    {
+      "t": 2080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline on TMDB reads: \"A serial killer stalks Hollywood... and he wants to be a star.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael St. Gerard (Henry Pinkle) played Link in the original Hairspray (1988) and has played Elvis Presley in several productions.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      },
+      "person": "nm0820544",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ3Yjg0ODYtYmE3My00N2Y3LTgwNDktOTVkM2ZlNjBhNjExXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "At age 14, future Star Time director Alexander Cassini reportedly offered to write and star in a film that Andy Warhol would produce.",
+      "icon": "sunglasses",
+      "byline": "Alexander Cassini — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Time's soundtrack and TV imagery include clips of the 1939 short The Fresh Vegetable Mystery and the Frank Capra classic It's a Wonderful Life (1946), per IMDb's connections list.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several scenes in Star Time were shot in Los Angeles without permits.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Time also features footage from the 1987 film Second Honeymoon and references the 1981 slasher Happy Birthday to Me, per IMDb's connections list.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Fernando Arguelles' credits include Intruder, Mind Ripper and Hidden Assassin. Cassini's 1992 debut was shot by a veteran of low-budget genre films.",
+      "icon": "camera",
+      "byline": "Fernando Arguelles",
+      "source": {
+        "type": "web",
+        "url": "https://todayshaul.net/startime/"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time's sound mix reportedly took a month to complete.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pulsing Cinema's review notes similarities to Eraserhead in St. Gerard's physical performance, and to Lost Highway in Sam Bones' pale, white-haired look.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.pulsingcinema.com/2026/05/04/review-star-time-1992/"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blu-ray.com lists Star Time as a 1991 film, while IMDb's listing also reads 1991. Most other sources, including Wikipedia, give 1992.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Star-Time-Blu-ray/198865"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Maureen Teefy (Wendy) of Fame and Grease 2 was married to director Alexander Cassini at the time. Their daughter Isabella was born in 1986.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      },
+      "person": "nm0853808",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODYwNDA4NV5BMl5BanBnXkFtZTcwOTIyNTUyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Time got a quiet VHS release from Fox Lorber in 1992, and Monarch Home Video issued it on tape again in late 1998. It had no US DVD before Vinegar Syndrome's 2018 Blu-ray.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://todayshaul.net/startime/"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John P. Ryan (Sam Bones) was introduced to film by Jack Nicholson, who cast him in five projects starting with Five Easy Pieces. He also played the father in the It's Alive horror films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0752636",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDIyNjM4OF5BMl5BanBnXkFtZTcwNjMzOTgxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3770,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Celluloid Terror speculated that the makers of Rocko's Modern Life may have seen Star Time before making a Heffer episode with a similar TV-obsession scene. It is a guess, not a confirmed influence.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://celluloidterror.blogspot.com/2018/03/star-time-vinegar-syndrome-blu-ray.html"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Time barely played theaters outside LA. A brief VHS release used an altered cut; Vinegar Syndrome restored the original version on Blu-ray in 2018.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      }
+    },
+    {
+      "t": 4130,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Maureen Teefy (Wendy) left acting after 1997's Men Seeking Women. She returned 20 years later in the 2017 film Hollywood Girl: The Peg Entwistle Story.",
+      "icon": "star",
+      "byline": "Maureen Teefy",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0853808",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODYwNDA4NV5BMl5BanBnXkFtZTcwOTIyNTUyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Los Angeles Times critic Kevin Thomas called Star Time \"an impressively ambitious and potent first feature, an often surreal parable.\"",
+      "icon": "trophy",
+      "byline": "Kevin Thomas — Los Angeles Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Blu-ray.com review by Brian Orndorf praised Star Time's performances and visuals. He said it was more artful than accessible and made smart use of a tight budget and limited locations.",
+      "icon": "money",
+      "byline": "Brian Orndorf",
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Star-Time-Blu-ray/198865"
+      }
+    },
+    {
+      "t": 4740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Fernando Arguelles says his aim was to evoke loneliness \"that it hurts you.\" He also had trouble finding the right baby mask.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/startime.html"
+      }
+    }
+  ]
+}
