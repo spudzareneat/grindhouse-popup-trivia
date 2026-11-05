@@ -1,0 +1,380 @@
+{
+  "schema": 1,
+  "imdbId": "tt0107009",
+  "title": "Ghost in the Machine",
+  "year": 1993,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-11-05T12:22:23.906Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The title comes from Arthur Koestler's 1967 philosophy book, same as The Police's 1981 album Ghost in the Machine. No Police songs are in the film, though.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writers William Davies and William Osborne got the idea in 1987 from a hacking program called Skeleton Key, which could raid other networks unseen. Then they imagined a serial killer living inside it.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Wil Horneff (Josh), Karen Allen (his mom Terry) and Brandon Adams (Josh's friend Frazer) all also appeared in the baseball hit The Sandlot, released the same year.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Karen Allen (Terry Munroe) was Marion Ravenwood in Raiders of the Lost Ark, and returned to the role in 2008 and 2023. She also runs her own knitwear design studio, Karen Allen Fiber Arts.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000261",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2NjgyMjQwMF5BMl5BanBnXkFtZTcwNzkwMjE3MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Rachel Talalay came off Freddy's Dead: The Final Nightmare, which made $34.8 million on an $11 million budget. She is the only woman to direct a Nightmare on Elm Street film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/2222280/alfred-hitchcock-classic-the-birds-inspired-90s-sci-fi-flop-ghost-in-the-machine/"
+      },
+      "person": "nm0003080",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjVhMmM1NDktMmI4My00MmVjLWJlMGUtYjQ4YjliMWE1MDcxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 625,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Chris Mulkey, who plays hacker Bram Walker, also appeared in Twin Peaks, Captain Phillips and Whiplash. He has recorded eight albums as a blues and Americana musician.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0611889",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWRhYTk2ZjktZWJkMy00OGYxLTgxYjktYjk2NTk0MzA4OTBiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 690,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rick Ducommun, who plays Bram's grouchy boss Phil Stewart, was also in Arnold Schwarzenegger's Last Action Hero the same year. He died in 2015 at age 58.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tvinsider.com/people/rick-ducommun/"
+      }
+    },
+    {
+      "t": 770,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jessica Walter (Terry's mother, Elaine) was the psychotic fan in Play Misty for Me and later Lucille Bluth on Arrested Development. She also auditioned to voice Chucky in Child's Play.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0910055",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyNjA5NTA1NV5BMl5BanBnXkFtZTcwNjU0NjgyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "20th Century Fox briefly put the film into turnaround because it resembled Wes Craven's Shocker. It resumed after uncredited rewrites by Todd Graff.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 985,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film's glowing computer imagery was made by manipulating real MRI body-scan data, at director Rachel Talalay's suggestion. Ted Marcoux, who plays killer Karl, was scanned at UCLA.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0545998",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0NjAxNDk1NV5BMl5BanBnXkFtZTgwMDEzNzI0MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1136,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The soundtrack is mostly rap from Jive Records, including Mr. Lee's 'I Like the Girls,' D-Nice, Kool Moe Dee, Schoolly D, and Too $hort.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production was supposed to include Denis Leary as a co-star, according to trade reports. He doesn't appear in the finished film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59536-GHOST-IN-THE-MACHINE"
+      }
+    },
+    {
+      "t": 1345,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "When the computer searches names, viewers who pause can spot Hollywood producers like Lorne Michaels and Wink Martindale in the list. The target, 'Terry Munroe,' is also Stepin Fetchit's birth name.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1430,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brandon Quintin Adams, who plays Josh's friend Frazer, was also the kid hero of Wes Craven's horror hit The People Under the Stairs, as Daily Grindhouse notes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailygrindhouse.com/?p=88761"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Principal photography began November 30, 1992, per the Hollywood Reporter. Variety estimated about 50 shooting days and a $10 to $12 million budget. Los Angeles stood in for Cleveland, Ohio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59536-GHOST-IN-THE-MACHINE"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Terry's last name is spelled 'Munroe' on screen in most places but 'Monroe' on her son's computer record and in the credits, a continuity slip fans have spotted.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script was rewritten to bring its effects up to date with newer technology from movies like Terminator 2, according to Cinefantastique coverage cited by SlashFilm.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/2222280/alfred-hitchcock-classic-the-birds-inspired-90s-sci-fi-flop-ghost-in-the-machine/"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Karen Allen (Terry) won the Saturn Award for Best Actress for playing Marion Ravenwood in Raiders of the Lost Ark. Her film debut was National Lampoon's Animal House in 1978.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave the film one star, calling it a cash-in on The Lawnmower Man. He said morphing effects were already familiar after Terminator 2, and called the finale's magnetism muddled.",
+      "icon": "reel",
+      "byline": "Richard Scheib, Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/ghost-in-the-machine-1993.htm"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wil Horneff (Josh) later became a Brazilian jiu-jitsu competitor, winning the middleweight division of the 2004 U.S. Open. He also runs with the bulls in Pamplona every summer.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0395078",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5NzU1OTEwMF5BMl5BanBnXkFtZTYwNjA2Njc2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Women worked all over this production: director Rachel Talalay, plus editors Janice Hampton and Erica Huggins, who cut the film. That was unusual for a studio thriller in 1993.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59536-GHOST-IN-THE-MACHINE"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Rachel Talalay says she used this crash-test scene when teaching film because it 'has the three classic beats and then surprise.' She credits music and sound for the tension.",
+      "icon": "mic",
+      "byline": "Rachel Talalay — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.denofgeek.com/tv/rachel-talalay-five-scariest-scenes"
+      },
+      "person": "nm0003080",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjVhMmM1NDktMmI4My00MmVjLWJlMGUtYjQ4YjliMWE1MDcxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Daily Grindhouse argues this film previewed the formula Final Destination later made famous: ordinary household objects turned into elaborate, accident-style death traps.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailygrindhouse.com/?p=88761"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The end credits acknowledge footage from the 1947 film The Ghost and Mrs. Muir and from the sketch show In Living Color.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59536-GHOST-IN-THE-MACHINE"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer Phil Meheux shot this film, then later photographed the 2006 James Bond reboot Casino Royale, earning a BAFTA nomination for Best Cinematography.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Phil_M%C3%A9heux"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fox shifted the release up to December 29, 1993 and skipped advance press screenings. Variety's Leonard Klady still said the film's 'adroit sense of fun and thrills cannot be discounted.'",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/2222280/alfred-hitchcock-classic-the-birds-inspired-90s-sci-fi-flop-ghost-in-the-machine/"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Graeme Revell scored this film in 1993 and then scored Alex Proyas' gothic cult hit The Crow in 1994.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Graeme_Revell"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times' James Caryn called the film 'a competent, witty genre piece that never tries to be anything more.' Rotten Tomatoes now shows 10% on 10 reviews.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59536-GHOST-IN-THE-MACHINE"
+      }
+    },
+    {
+      "t": 4530,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The flood of fake 911 calls (robbery, hostages, shots fired) is an early version of 'swatting,' years before the FBI treated it as a recognized danger.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film opened at no. 10 with $1.85 million, and finished with $5.09 million against a $12 million budget. It reached VHS and LaserDisc on May 25, 1994.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The comedy podcast How Did This Get Made covered the film. It's also referenced in Halt and Catch Fire, Saints Row IV and Team Fortress 2.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
