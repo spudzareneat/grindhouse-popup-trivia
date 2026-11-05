@@ -1,0 +1,559 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081184",
+  "title": "Motel Hell",
+  "year": 1980,
+  "runtimeSec": 6060,
+  "generatedAt": "2026-11-05T11:51:52.751Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The title gag: a neon \"Motel Hello\" sign loses its final \"o\" to become \"Motel Hell\". It's the film's poster image too, and the sign sputters out again after the closing credits.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script by brothers Robert and Steven-Charles Jaffe was finished around 1977. Studios \"either hated it or thought it was the most bizarre script they'd ever read,\" Steven-Charles said.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Universal planned the film with Texas Chain Saw Massacre director Tobe Hooper, then backed out after reading the script. United Artists passed too, then reconsidered months later and made it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Connor never heard of Tobe Hooper's supposed involvement until around 2010, so one write-up suggests the Hooper story may be a myth.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/?p=4601"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The first draft was far darker, with bestiality and much more violence. Director Kevin Connor only took the job if it became a black comedy and the crudeness was cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/443270/motel-hell"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Connor got the job after three fruitless months in Los Angeles, when agent Bobby Litman got him the job. He'd impressed the Jaffes with his 1974 horror film From Beyond the Grave.",
+      "icon": "mic",
+      "byline": "Kevin Connor — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0175428",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA2NTFkNzctYjE2MS00MjNjLWI3N2MtYjYwNzgxZWM2OGU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Harry Dean Stanton was first approached to play Farmer Vincent and turned it down. Rory Calhoun, a 1950s matinee idol, took the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Tagline on some posters: \"You might just die...laughing!\" Yet United Artists sold it as straight horror, fearing quirky ads would scare audiences off.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bob Balagna's \"spot check\" visits are the film's inspector gag. Farmer Vincent's meat was a regional brand, sold only within a hundred miles, so he says he can keep quality high.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1120,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Radio legend Wolfman Jack plays Reverend Billy, a TV preacher. The DJ was also famous for American Graffiti (1973) and was an ordained minister in the Universal Life Church.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0413125",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAyNGM1ZjMtNTcxZi00N2FiLWE3YjEtMzQxYmMzNGExZWVjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1220,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A scene where Wolfman Jack's Reverend Billy officiates a wedding in a church was shot but cut from the finished film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writers Robert and Steven-Charles Jaffe reportedly drew on a terrible babysitter they once had, and gave the story an Old West spin.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/motel-hell-1980/"
+      }
+    },
+    {
+      "t": 1479,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The band's number is the film's only real song: \"Up to Here with You,\" sung by Don Nowak and co-written by Nowak and Lance Rubin, who also composed and conducted the score.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56466"
+      }
+    },
+    {
+      "t": 1540,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "John Ratzenberger, later Cliff on Cheers, plays the doomed band's drummer here. He'd worked with director Kevin Connor in England and reportedly was a good luck charm on set.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/?p=4601"
+      }
+    },
+    {
+      "t": 1770,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jim Knipfel of Den of Geek praised the \"garden\" of buried heads and the smokehouse, comparing the film's grisly imagery to the paintings of Francis Bacon.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/motel-hell-1980-review"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Actors spent days buried up to their necks in Farmer Vincent's garden. Playmate Rosanne Katon says the physically demanding garden scenes were surprisingly fun to shoot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/ds-motel-hell"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rory Calhoun was about 57 and had spent years in TV and supporting roles. Publicity touted this as his first major film role in quite a while.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001983",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ1YWUxZWEtYzk0Yy00ODkwLWE5NDAtM2UxZGQwOGJmY2ZkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rory Calhoun served time as a teen in reformatory and federal prison for car theft and robbery. In 1955 he revealed it himself before Confidential magazine could, and his career survived.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001983",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ1YWUxZWEtYzk0Yy00ODkwLWE5NDAtM2UxZGQwOGJmY2ZkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paul Linke lost 25 pounds to play Sheriff Bruce Smith. The role was written for him by co-writer and producer Robert Jaffe, a college friend. Linke is best known as Artie Grossman on TV's CHiPs.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0512912",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzNlYmY4YjctMmI2Ni00OTM2LWE4Y2YtOTI0YTE5MTBiYmJmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2360,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The movie playing at the drive-in is The Monster That Challenged the World (1957), a giant mollusk monster B-movie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2405,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Sheriff Bruce Smith's PA line \"You are violating the law\" was sampled by Static-X's Wayne Static on \"Assassins of Youth\" from his 2011 solo album Pighammer.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2490,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Goof: the film seems set in summer, but these two women have skis on their car and talk about ski season. Reports say the shoot also hit unseasonable cold.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2545,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Two Playboy Playmates were hired for these roles: Monique St. Pierre (Debbie), Playmate of the Year for 1979, and Rosanne Katon (Suzi).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56466"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writers Robert and Steven-Charles Jaffe were sons of producer Herb Jaffe. They'd earlier worked reading bad scripts for a talent agency.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/443270/motel-hell"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before this, Robert and Steven-Charles Jaffe had co-written the sci-fi horror film Demon Seed (1977), where a computer imprisons a woman. Different kind of hostage-taking.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/motel-hell-1980-review"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The swingers' night: actress Nina Axelrod (Terry) was considered for Rachael in Blade Runner (1982) based on her work in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0043497",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMzI1NTYxMV5BMl5BanBnXkFtZTgwNzMxMDM5MDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming ran April 23 to June 12, 1980, on about $3 million. The film shot in around five weeks.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Exteriors were shot at Sable Ranch in Santa Clarita, California, where a ranch house became the motel office. Interiors, including the smokehouse, were built at Laird Studios in Culver City.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Devil's Rejects (2005) was shot at the same ranch location, director Kevin Connor notes on the Blu-ray commentary. The film is also referenced in that Rob Zombie film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/ds-motel-hell"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Thomas Del Ruth made his feature debut here, in bright neon colors. He later won an Emmy for The West Wing.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/443270/motel-hell"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nancy Parsons (Ida) later played gym coach Beulah Balbricker in Porky's (1981), the hit teen comedy that spawned two sequels.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0663878",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRlOTBkMGYtZjE4YS00ZTUyLThmNzktODBjNDgxNTkyNTcxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3670,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Horror author Thomas Ligotti references the film in his short story \"Metaphysica Morum\" and his 2010 book The Conspiracy Against the Human Race. IDW also published a comic adaptation in 2010.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3780,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The nudie magazine Sheriff Bruce Smith hands Wolfman Jack's Reverend Billy has a centerfold of Maryann Banning, from Hustler's May 1980 issue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Kevin Connor had just moved from England, where he'd been an editor on Richard Attenborough's films. He wasn't a horror fan or much into Hammer and Amicus, and he cut out the juvenile humor.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gavinschmitt.com/motel-hell-1980/"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rory Calhoun and Paul Linke play brothers, though Calhoun was 26 years older than Linke. Director Kevin Connor said Calhoun and Nancy Parsons were naturals who loved each other and needn't work at it.",
+      "icon": "mic",
+      "byline": "Kevin Connor — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0175428",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA2NTFkNzctYjE2MS00MjNjLWI3N2MtYjYwNzgxZWM2OGU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4320,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The \"space trip\" scene feels like TV-evangelist and cult-guru parody. Director Kevin Connor says Dr. Gene Scott inspired the film's televangelist elements.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/ds-motel-hell"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Author John Kenneth Muir called it a \"country masterpiece and satire\" in Horror Films of the 1980s: a comedy about how killers tell themselves little lies to get through the day.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Farmer Vincent's TV-ad pitch recalls a 1959 Alfred Hitchcock Presents episode, \"Specialty of the House,\" about a restaurant secretly serving human meat.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film scholar Barry Keith Grant calls it a sendup of modern horror, especially Psycho and The Texas Chain Saw Massacre.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roger Ebert gave it three of four stars: \"What Motel Hell brings to this genre is the refreshing sound of laughter.\" The Los Angeles Times' Kevin Thomas called it a \"protracted sick joke.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "United Artists first planned a Halloween Day 1980 release, then moved it up a week to open in Los Angeles on October 24. Midnight shows came even earlier.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56466"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Motel Hell grossed $6.3 million in the US on a roughly $3 million budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Hollywood Reporter and Daily Variety reported Motel Hell grossed $2.3 million in its first three days, from about 800 theaters. That's over a third of its eventual US total.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/56466"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "A shot of Farmer Vincent in a bloody pig's head with a chainsaw made Fangoria #9's cover. Poor sales and a recall made it one of the rarest, priciest Fangoria issues of the 1980s.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5560,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The chainsaw duel was a last-minute idea, not in the script. It took five 12-hour days, per IMDb. Connor said the pig carcasses were ripe by then, and the saws had rubber blades.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5800,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The final line, \"It's an evil motel,\" might have another taker: the film's neon sign gets one last short-circuit joke after the credits.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In a 2025 Rue Morgue retrospective, Bill Reick called it a great argument for silliness in horror: \"light and fun while also being gross and dark all at the same time.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
