@@ -1,0 +1,483 @@
+{
+  "schema": 1,
+  "imdbId": "tt0071675",
+  "title": "It's Alive",
+  "year": 1974,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-11-05T11:36:00.481Z",
+  "facts": [
+    {
+      "t": 95,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer-director Larry Cohen shot this Monday to Friday, then spent weekends making Hell Up in Harlem with much of the same cast and crew. Seven-day weeks for everybody.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0169540",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwZDFmMDMtYTQyMy00MTBjLWFlZDAtNDgwZjc2NDRhZmJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 140,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Star John P. Ryan (Frank Davis) won the part after Larry Cohen saw him play Agamemnon on Broadway opposite Irene Papas. He was also a Jack Nicholson regular, in five of Nicholson's projects.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      },
+      "person": "nm0752636",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDIyNjM4OF5BMl5BanBnXkFtZTcwNjMzOTgxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 225,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Daniel Holzman (Chris) recalled that Larry Cohen once told the crew, \"Throw some water on the kid's puss\" to get him crying. Holzman had never heard 'puss' used that way.",
+      "icon": "mic",
+      "byline": "Daniel Holzman — Chris",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Larry Cohen first planned to cast Anthony Perkins and Janet Leigh as the parents, a mini Psycho reunion. Instead, the police lieutenant is named Perkins.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The hospital scenes were shot at Coldwater Community Hospital in North Hollywood. Director Larry Cohen lived in Coldwater Canyon in a house built for William Randolph Hearst.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 735,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Larry Cohen phoned makeup artist Rick Baker, then working on The Exorcist, and suggested the baby suit could be worn by Cohen's cat. Or \"a chicken or something... maybe two chickens!\"",
+      "icon": "alien",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rick Baker's monster baby was a hybrid of the 2001 Starchild and a wolf, with veiny, oversized forehead, to Larry Cohen's own sketch. Baker was only 23.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Larry Cohen first planned to barely show the baby. Rick Baker built a wire-armature 'dummy baby' with movable eyeballs so the actors had something to react to. Cohen liked it enough to show more.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/its-alive-1974-larry-cohen-best-horror-movie-you-never-saw/amp/"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In close-ups the baby was Elaine Parkyn, makeup artist Rick Baker's girlfriend and later wife, in a mask, gloves and body suit. Baker said he needed a model on call 24 hours a day in his garage.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The composer Bernard Herrmann, who scored Psycho and Citizen Kane, was estranged from Alfred Hitchcock when he took this job. It was his last film score released in his lifetime.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bernard Herrmann titled the music cue for the milkman's death \"The Milkman Goeth.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Guy Stockwell, who plays Frank's boss Bob Clayton, also taught acting. He was in UCLA's master's acting program for two years.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0830967",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRhOGU1MDQtZTU2My00ZmQwLWJmMzctYTNiZjI5ZTRiYWQ2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2030,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Charley's car carries the license plate WAW JR, matching the initials of actor William A. Wellman Jr., who plays Charley.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "James Dixon (Lt. Perkins) also appeared in Larry Cohen's Hell Up in Harlem, which was shot on weekends alongside this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/its-alive-1974-larry-cohen-best-horror-movie-you-never-saw/amp/"
+      },
+      "person": "nm0228857",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ3ZTliZmEtODRlNS00MjcyLWJhMjUtZTM2MDA1MjAxZTk3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Larry Cohen has no typewriter or computer. He dictates scripts into a handheld tape recorder, including the one that became Phone Booth (2002).",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0169540",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwZDFmMDMtYTQyMy00MTBjLWFlZDAtNDgwZjc2NDRhZmJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2530,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lt. Perkins' complaint that \"hunting and killing babies doesn't seem to be my specialty\" is the quote the cops' grim humor hangs on. The film's title echoes \"It's alive!\" from the 1931 Frankenstein.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 2575,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sharon Farrell (Lenore) slapped young Daniel Holzman (Chris) before a take to make him cry. She then asked him to slap her back, and he did, hard.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0268331",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk4ZDMzOWItZGY2ZC00OTQyLTllOTEtZmRlOWM3ZmIxZTI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2620,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Andrew Duggan (The Professor) gained a raspy voice after surgery on his vocal cords. He narrated Disney's Carousel of Progress as 'Father' from 1975.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0240887",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyMzAxMDgwMV5BMl5BanBnXkFtZTcwMjI3NDIyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2665,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Frank Davis compares the baby to Frankenstein's monster here. Cohen's title \"It's Alive\" echoes the famous line from James Whale's 1931 Frankenstein.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sharon Farrell later starred in Night of the Comet (1984) and published her memoir, Hollywood Princess, in 2013.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0268331",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk4ZDMzOWItZGY2ZC00OTQyLTllOTEtZmRlOWM3ZmIxZTI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2795,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The novelization says Lenore took experimental fertility drugs after the birth control pills. In the film, a drug exec fears lawsuits over pills his firm made.",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's eyes-unfocused baby is accurate: newborns under two months can't focus their eyes yet.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critics saw echoes of The Exorcist and Rosemary's Baby. Kevin Thomas of the Los Angeles Times called it a \"primitive low-budget sequel — rip-off may be the better word\" to Rosemary's Baby.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cohen's TV credits include creating Branded (1965) and The Invaders (1967). He lost creative control of Branded after a year.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0169540",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwZDFmMDMtYTQyMy00MTBjLWFlZDAtNDgwZjc2NDRhZmJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Warner Bros. nearly buried the film. After producer Dick Shepherd left for MGM, the studio disowned it. It opened at one Chicago theater, then sat at the bottom of double bills.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Made for about $400,000 (Wikipedia lists $500,000), it earned over $30 million in worldwide rentals for Warner Bros., per TCM.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 1977 re-release added a TV spot: a baby carriage, a lullaby and the line \"There's only one thing wrong with the Davis baby. It's alive.\" It drew $7.1 million in U.S. rentals.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Ray Bradbury story \"The Small Assassin\" (1946), about a killer baby, is a possible literary ancestor of the film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: around now, a crew member is reflected in a mirror to Frank's right as he approaches the baby's bed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gene Siskel gave it one star out of four and called it \"imbecilic.\" Dennis Schwartz of Ozus' World Movie Reviews gave it an A.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tom Milne of the Monthly Film Bulletin wrote that John P. Ryan's performance brings the film \"within striking distance of Night of the Living Dead.\" Variety called it \"stomach-churning.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0752636",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDIyNjM4OF5BMl5BanBnXkFtZTcwNjMzOTgxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is the only PG-rated entry in the It's Alive series; the two sequels, It Lives Again (1978) and Island of the Alive (1987), are rated R.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4581,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: the police cruise the tunnels with sirens blaring even where there's nobody around.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "These tunnels are the Los Angeles River basin and the tunnel under the 6th Street Viaduct. Another noir-ish L.A. River setting, TCM says, recalls The Third Man.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Warner Bros. marketing VP Arthur Manson, who had sold the rat movie Willard, relaunched the film with the baby-carriage campaign. It reached a wider release in 1977.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/its-alive-1974-larry-cohen-best-horror-movie-you-never-saw/amp/"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rick Baker, 23 when he made the Davis baby, later won the first Oscar for Best Makeup for An American Werewolf in London.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: as Frank carries the swaddled baby, the blanket reveals a patch of hair, implying a dog stood in for the prop.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film became Warner Bros.' top release in Singapore, behind only My Fair Lady, and screened at the Cinémathèque Française in Paris.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bernard Herrmann's score was reused in the first sequel, It Lives Again (1978). He died in 1975.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1083032/its-alive-1974"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was spoofed on South Park in Cartman Joins NAMBLA, and referenced in Bride of Chucky and Small Soldiers. A remake arrived in 2009.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
