@@ -1,0 +1,350 @@
+{
+  "schema": 1,
+  "imdbId": "tt0108153",
+  "title": "The Skateboard Kid",
+  "year": 1993,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-11-05T11:04:20.971Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Trevor Lissauer, who plays the kid Zack, was born October 29, 1973 in Dallas. That made him about 18 or 19 when this movie shot in 1992.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Trevor_Lissauer"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Trevor Lissauer (Zack) booked the very first audition he ever went on, in 1992. It was for this Roger Corman production, and it launched his acting career.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Trevor_Lissauer"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bess Armstrong (Maggie) played biologist Dr. Kay Morgan in Jaws 3-D (1983). It cost $18 million and opened at #1, but critics sank it: 10% on Rotten Tomatoes, plus five Razzie nominations.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jaws_3-D"
+      },
+      "person": "nm0000787",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjIxMjFiNWMtNjk0Ni00MDVmLThhYWItZjg2MTM3YWYzMjhiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Roger Corman reportedly shot The Little Shop of Horrors (1960) in two days and one night. This movie came from his Concorde-New Horizons, the same cheap-and-fast school.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Roger_Corman"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The DVD cover art shows a dog riding along with the kid. There's no dog in this movie, or in the 1994 sequel The Skateboard Kid 2, whose poster also has one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Corman's Concorde-New Horizons was among the first companies to build its business around home video. Corman formed it in 1983, right after selling New World Pictures for $16.9 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/New_Concorde"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dom DeLuise, who voices the wisecracking skateboard Rip, began in kids' TV. In 1958 he took over as Tinker the Toymaker on a show created by Captain Kangaroo's Robert Keeshan.",
+      "icon": "sunglasses",
+      "byline": "Dom DeLuise",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001123",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJkNmQzMzQtY2NlZC00ZDJhLWIwNjgtNDJhMTRiMmM0NzI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cliff De Young (Big Dan) was lead singer of the 1960s rock band Clear Light, which shared bills with The Doors, Jimi Hendrix and Janis Joplin. He later appeared in the Broadway production of Hair.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Cliff_De_Young"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Timothy Busfield (Frank) won a 1991 Primetime Emmy for Outstanding Supporting Actor in a Drama Series for thirtysomething. He's also Arnold Poindexter in Revenge of the Nerds.",
+      "icon": "trophy",
+      "byline": "Timothy Busfield",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0124079",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JiZWY2ZWUtMzZjYS00NzAxLWEyZDYtMGIyODdhYzVjZDM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 1961, Dom DeLuise (the voice of Rip) was in an off-Broadway revue, Another Evening with Harry Stoons, with a 19-year-old Barbra Streisand. It closed after nine previews and one performance.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dom_DeLuise"
+      },
+      "person": "nm0001123",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJkNmQzMzQtY2NlZC00ZDJhLWIwNjgtNDJhMTRiMmM0NzI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cliff De Young (Big Dan) had a real pop hit: his song 'My Sweet Lady', from the 1973 TV movie Sunshine, reached #17 on the Billboard Hot 100 in early 1974.",
+      "icon": "boombox",
+      "byline": "Cliff De Young",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bess Armstrong (Maggie) studied Latin and theater at Brown University, and she's an accomplished violinist. She later starred in the TV series My So-Called Life.",
+      "icon": "star",
+      "byline": "Bess Armstrong",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000787",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjIxMjFiNWMtNjk0Ni00MDVmLThhYWItZjg2MTM3YWYzMjhiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Corman's Concorde-New Horizons still turned out 15 to 24 pictures a year through the 1990s, even as the drive-in market faded. This movie was one of that assembly line.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Roger_Corman"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dom DeLuise (Rip's voice) played the villain Fagin in Disney's Oliver & Company. He was also Itchy in All Dogs Go to Heaven, and he voiced Tiger in the An American Tail films.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dom_DeLuise"
+      },
+      "person": "nm0001123",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJkNmQzMzQtY2NlZC00ZDJhLWIwNjgtNDJhMTRiMmM0NzI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dom DeLuise spoofed The Godfather twice: as Don Canneloni in Cannonball Run II and as Don Giovanni in Mel Brooks' Robin Hood: Men in Tights, which came out the same year as this movie.",
+      "icon": "link",
+      "byline": "Dom DeLuise",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001123",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJkNmQzMzQtY2NlZC00ZDJhLWIwNjgtNDJhMTRiMmM0NzI2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A year after this film, Roger Corman produced a Fantastic Four movie (1994) that never got a release. Stan Lee said it was made mainly to keep the film rights.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Roger_Corman"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cliff De Young (Big Dan) starred in The Craft with Skeet Ulrich, later Billy Loomis in Scream. De Young then played a Grey's Anatomy character named Phillip Loomis.",
+      "icon": "link",
+      "byline": "Cliff De Young",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Concorde released another Corman-family kid-and-wheels movie, The Dirt Bike Kid (1985), produced by Julie Corman. This film follows that kid-with-magic-ride formula.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/New_Concorde"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bess Armstrong (Maggie) starred opposite Tom Selleck in High Road to China (1983). The role earned her a Saturn Award nomination for Best Actress.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bess_Armstrong"
+      },
+      "person": "nm0000787",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjIxMjFiNWMtNjk0Ni00MDVmLThhYWItZjg2MTM3YWYzMjhiXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trevor Lissauer later became best known as Miles Goodman on Sabrina, the Teenage Witch, and he also releases music. In La La Land (2016) he turns up as a valet.",
+      "icon": "star",
+      "byline": "Trevor Lissauer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Trevor_Lissauer"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 1993, the year this film came out, Trevor Lissauer also had a main role in the TV series Running the Halls.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Trevor_Lissauer"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trevor Lissauer named his band The Glass Plastiks. His band's music turned up on Nip/Tuck and on the DVD releases of Party of Five and Felicity.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Trevor_Lissauer"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Timothy Busfield and his brother Buck founded the Fantasy Theatre, a touring children's theater company, in Sacramento. It later became California's Honorary State Children's Theater.",
+      "icon": "camera",
+      "byline": "Timothy Busfield",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0124079",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JiZWY2ZWUtMzZjYS00NzAxLWEyZDYtMGIyODdhYzVjZDM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Corman's Machine-Gun Kelly (1958) gave Charles Bronson his first leading role. Corman is also known for launching Francis Ford Coppola, Martin Scorsese, Ron Howard and Jack Nicholson.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Roger_Corman"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The sequel, The Skateboard Kid II, was directed by actor Andrew Stevens. It follows a new hero, 12-year-old Sammy, who gets an enchanted flying board.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.allmovie.com/movie/skateboard-kid-2-v135468"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Larry Swerdlove's other credits are mostly animation: Muppet Babies, Chip 'n' Dale Rescue Rangers, and RoboCop: Alpha Commando.",
+      "icon": "reel",
+      "byline": "Larry Swerdlove",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0842468"
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Skateandannoy.com says the closing credits play a music video for \"Hard to Find\" by Trashkittens.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://skateandannoy.com/?p=42340"
+      }
+    }
+  ]
+}
