@@ -1,0 +1,598 @@
+{
+  "schema": 1,
+  "imdbId": "tt0097573",
+  "title": "In the Cold of the Night",
+  "year": 1990,
+  "runtimeSec": 6720,
+  "generatedAt": "2026-11-05T12:02:54.114Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis shot this and the action film Hired to Kill back to back in 1990. Hired to Kill even name-checks this movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film opens with Peggy Lee's 'Fever' over a fashion montage. The song began as a 1956 R&B No. 1 for Little Willie John, who reportedly disliked it at first.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/incold"
+      }
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis' back-to-back sister film Hired to Kill was shot mainly on the Greek island of Corfu, with Oliver Reed, George Kennedy and Brian Thompson.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Hired_to_Kill_(1990_film)"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis also made the notorious 1975 exploitation shocker Island of Death, and later co-created Greece's Star Channel in 1993.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0557789",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMDM2MDY4OV5BMl5BanBnXkFtZTcwNTgwMDQ5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Andreas Bellis also shot the notorious Swedish revenge film Thriller: A Cruel Picture (1973). Here he went for a softer, foggier look than that gritty work.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fredbarrett.substack.com/p/a-fever-all-through-the-night"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis' Zero Boys (1986) was among Hans Zimmer's earliest film scores, the first of four B-movies Zimmer scored for Mastorakis' Omega Entertainment in 1986-87.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Zero_Boys"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The MPAA first slapped this film with an X rating, just before the NC-17 existed. It was cut to an R, and the full version later came out on video as NC-17.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peggy Lee rewrote 'Fever' with new lyrics but never copyrighted them, so credit stayed with Eddie Cooley and Otis Blackwell, who used the pseudonym 'John Davenport' because of a contract.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.udiscovermusic.com/stories/fever-peggy-lee/"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis made his notorious Island of Death on Mykonos in 1975 for a reported $30,000. The UK banned it as a 'video nasty' from 1984 until 2011.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Island_of_Death_(film)"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis said the MPAA's objection was to shots of Adrianne Sachs (Kimberly) on top of Jeff Lester (Scott) in the love scenes.",
+      "icon": "censor",
+      "byline": "Nico Mastorakis — Director",
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html?m=0"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Republic Pictures Home Video released the film in both NC-17 and R versions in 1991. Both ran about 112 minutes, because the censorship trims were minimal.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Henry & June, the first NC-17 film, reportedly earned the rating partly from a Hokusai postcard of 'The Dream of the Fisherman's Wife' and a Paris ball scene. Sex on screen was newly risky.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Henry_%26_June"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The NC-17 rating had been created only months earlier, so this was among the first films to carry it. The first was Philip Kaufman's Henry & June.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html?m=0"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Nico Mastorakis claims this film's X rating helped push studios to demand a new adults-only category. One blogger notes that's only his version of events.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://allesglotzer.blogspot.com/2023/01/in-cold-of-night.html"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "David Soul (Dr. Frieberg) was Hutch on TV's Starsky & Hutch. His 1977 single 'Don't Give Up on Us' hit No. 1 on the US Hot 100 and in the UK.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/David_Soul"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tippi Hedren (Clara) starred in Alfred Hitchcock's The Birds (1963). Her scene here includes a bird nod, and the film also references In the Heat of the Night and Friday the 13th.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000238",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTQ5MzcyNV5BMl5BanBnXkFtZTcwNDgyODE0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tippi Hedren (Clara) also made 1981's Roar with real lions and tigers. It took about 11 years, cost $17 million, grossed ~$2 million, and injured 70+ people, incl. her daughter Melanie Griffith.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tippi_Hedren"
+      }
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Alfred Hitchcock discovered Tippi Hedren (Clara) in a TV commercial for a diet drink called Sego, then gave her a pricey two-day color screen test.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Tippi_Hedren"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Adrianne Sachs (Kimberly) played the brunette prostitute in the famous 'Bitches leave!' scene of RoboCop (1987).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html?m=0"
+      },
+      "person": "nm0755124"
+    },
+    {
+      "t": 2520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Beck (shop owner Rudy) was in Woody Allen's Sleeper (1973) and played Moonpie opposite James Caan in sci-fi classic Rollerball (1975).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Beck_(actor)"
+      }
+    },
+    {
+      "t": 2660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Beck (Rudy) played Mark Graison in 67 episodes of TV's Dallas, and later voiced Frank Castle, the Punisher, in the 1990s Spider-Man animated series.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Beck_(actor)"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Adrianne Sachs was Miss Brazil in 1986 and appeared on the covers of more than 500 romance novels.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0755124"
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Jeff Lester (Scott Bruin) was earlier one of Bo Svenson's deputies in the 1981 TV spinoff of Walking Tall, and appeared in Star Trek IV: The Voyage Home.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kimberly's laserdisc collection includes two other Nico Mastorakis films, The Wind (1986) and Glitch! (1988). A little self-promotion from the director.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html?m=0"
+      }
+    },
+    {
+      "t": 3330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Marc Singer (Ken Strom) voiced Man-Bat on Batman: The Animated Series, and played Matt Cantrell in Dallas' ninth 'dream season'.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Marc_Singer"
+      }
+    },
+    {
+      "t": 3470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vanity Fair called Shannon Tweed (Lena) 'one of home video's most rented erotic thriller goddesses.' She has appeared in over 60 films, including Night Eyes 2 and 3.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Shannon_Tweed"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Jeff Lester (Scott Bruin) is married to singer-actress Susan Anton. He later quit acting to direct commercials and music videos.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html?m=0"
+      },
+      "person": "nm0504467",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGI5ZGEwMjgtMjQ0MS00MDAxLTlmYjYtZjQ5Yzc3MDZjMzcyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mondo Digital's reviewer calls this a near-perfect example of mainstream erotic thrillers from before Basic Instinct, praising its over-the-top style and camp appeal.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/incold"
+      }
+    },
+    {
+      "t": 3880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blogger Fred Barrett says the film's nightmare sequences look like LaserDisc-era video graphics. He ties it to Looker (1981), Videodrome (1983) and Brian De Palma's thrillers.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fredbarrett.substack.com/p/a-fever-all-through-the-night"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shannon Tweed (Lena) was Playboy's 1982 Playmate of the Year. She is married to KISS bassist Gene Simmons, and the two starred in the reality show Gene Simmons Family Jewels.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000238",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTQ5MzcyNV5BMl5BanBnXkFtZTcwNDgyODE0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Brian Thompson (Phil) later played Klingon Lt. Klag on Star Trek: The Next Generation, the Klingon who says 'Gagh is always best when served live.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brian_Thompson_(actor)"
+      }
+    },
+    {
+      "t": 4280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Soul (Dr. Frieberg) first got national attention as the masked 'Covered Man' singing on The Merv Griffin Show. On Top Gear he posted a fast lap but broke the car's gearbox.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/David_Soul"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brian Thompson (Phil) was the Night Slasher in Cobra (1986) and a Terminator-era punk in The Terminator (1984). He was also once Nico Mastorakis' son-in-law.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0859921",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2ODA3NDg0M15BMl5BanBnXkFtZTYwMTcyNDky._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rob Hunter of Film School Rejects called the film ridiculous but said its softcore fun and stellar B-movie cast outweigh the moments that overstay their welcome.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brian Orndorf of Blu-ray.com called the film 'ridiculous' too, saying it labors through an uninteresting story with an 'uncomfortably dim protagonist.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Marc Singer (Ken Strom) is best known as The Beastmaster (1982) and as Mike Donovan in the TV series V. He has a black belt in kung fu.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001743",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxNjUyNTg2NF5BMl5BanBnXkFtZTYwNjc2MDM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jack Kehler, the homeless man here, didn't act until age 24, made his film debut in Strange Invaders (1983), and later recurred on The Man in the High Castle.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jack_Kehler"
+      }
+    },
+    {
+      "t": 5080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Marc Singer (Ken Strom) made his early mark as a gladiator on the Planet of the Apes TV series, and was cast as Andy Warner in Roots: The Next Generations.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Marc_Singer"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The director's own red Chevy was used as a picture car. During a car stunt it nearly blew a gasket.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Though mostly a straight-to-video release in the US, the film also got theatrical runs in Japan, Portugal and South Korea.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fredbarrett.substack.com/p/a-fever-all-through-the-night"
+      }
+    },
+    {
+      "t": 5480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Good Efficient Butchery blog calls this a mix of a late-'80s Italian fashion giallo and an early direct-to-video erotic thriller, anticipating the VR craze of The Lawnmower Man.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Locations include Venice's Muscle Beach, the Third Street Tunnel downtown and Pacific Coast Highway in Malibu.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 2nd Street Tunnel, a location here, also appears in Blade Runner, The Terminator, Flashdance, Lethal Weapon 2, Demolition Man and Con Air.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/2nd_Street_Tunnel"
+      }
+    },
+    {
+      "t": 5900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vinegar Syndrome restored the film in 4K from its original 35mm camera negative for a 2019 Blu-ray release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peggy Lee's 'Fever' and The Lettermen's 'Love Is a Many Splendored Thing' are on the soundtrack alongside John Cameron's 'Scott's Theme'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peggy Lee's 'Fever' peaked at No. 8 on the Billboard chart in July 1958, her biggest hit. Its stripped-down arrangement is just bass, percussion, finger snaps and voice.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.udiscovermusic.com/stories/fever-peggy-lee/"
+      }
+    },
+    {
+      "t": 6300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Kehler, who plays the homeless man, is also known as the Dude's landlord in The Big Lebowski.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/03/retro-review-in-cold-of-night-1991.html?m=0"
+      }
+    },
+    {
+      "t": 6450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Shannon Tweed (Lena) lived at the Playboy Mansion about 14 months as Hugh Hefner's partner and met Gene Simmons there. She later voiced a character on SpongeBob SquarePants.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Shannon_Tweed"
+      }
+    },
+    {
+      "t": 6580,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brian Thompson (Phil) later played the villain Shao Kahn in Mortal Kombat: Annihilation (1997) and the Alien Bounty Hunter on The X-Files.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brian_Thompson_(actor)"
+      }
+    }
+  ]
+}
