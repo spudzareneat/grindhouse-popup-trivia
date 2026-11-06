@@ -336,8 +336,8 @@ test('processMovie: replaces passes the old file to commitAndPush only when it d
     assert.deepEqual(calls[0][2], [path.join(a.deps.dataDir, 'tt0000001.json')]);
     const b = makeDeps({ git, replaces: 'tt0055830' });
     await processMovie({ title: 'Carnival of Souls', year: 1962 }, b.deps);
-    assert.equal(calls[1].length, 2);
+    assert.equal(calls[1][2], undefined);
     const c = makeDeps({ git });
     await processMovie({ title: 'Carnival of Souls', year: 1962 }, c.deps);
-    assert.equal(calls[2].length, 2);
+    assert.equal(calls[2][2], undefined);
 });
