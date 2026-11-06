@@ -42,5 +42,24 @@ run is in progress — they share the `/work` checkout.
 Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth failure (re-run later / fix the token),
 3 git push failed (run stopped; the commit stays local and is pushed by the next run), 64 bad command line.
 
+### Discord (optional)
+
+A small bot posts a summary after each run and lets you fix wrong or missing movie matches with a click.
+
+1. In the [Discord developer portal](https://discord.com/developers/applications) create an application → Bot,
+   and copy its token. Leave all privileged intents off.
+2. Invite it to one server (OAuth2 → URL Generator → scope `bot`, permission **Send Messages**). That is all it
+   needs: it posts and edits its own messages and receives button clicks.
+3. In Discord enable Developer Mode (Settings → Advanced), then right-click the channel and your own user →
+   Copy ID.
+4. Set `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID` and `DISCORD_OWNER_ID` (`.env` or the Portainer stack
+   variables) and redeploy. With no token nothing changes. `docker compose run --rm generator bot` runs the bot alone.
+
+After each run the bot posts one summary message (movies generated, skipped and failed, with short reasons). Each
+movie that was unmatched or only a best guess gets its own message with a button per candidate title plus "None of these".
+Clicking a candidate (only you can) saves it to `overrides/title-overrides.json`, generates the pick, and, if a guess
+file was already published for that movie, replaces it in the same commit. "None of these" dismisses the message and never
+deletes a generated file. The overrides file is committed alongside `data/`. Candidate search uses TMDB, so set `TMDB_API_KEY`.
+
 Hand-editing: files in `data/` are plain JSON — fix or delete a fact on GitHub; the next run skips movies
 that already have a file.
