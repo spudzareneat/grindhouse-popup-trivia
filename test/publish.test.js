@@ -9,8 +9,7 @@ import { execFileSync } from 'node:child_process';
 
 const recorder = (tracked = []) => {
     const calls = [];
-    return { calls, exec: (cmd, args) => { calls.push(args.slice(2)); return args[2] === 'ls-files' && tracked.includes(args[4]) ? `${args[4]}
-` : ''; } };
+    return { calls, exec: (cmd, args) => { calls.push(args.slice(2)); return args[2] === 'ls-files' && tracked.includes(args[4]) ? args[4] + '\n' : ''; } };
 };
 
 test('commitAndPush: without removals the git sequence is add, commit, push', () => {
