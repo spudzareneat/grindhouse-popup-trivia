@@ -105,3 +105,50 @@ test('fetchRelatedArticles: nothing to look up -> [] without a request; bad qid 
     assert.deepEqual(await wiki.fetchRelatedArticles('Q1} DROP', []), []);
     assert.equal(calls, 0);
 });
+
+function tmdbFetch({ searchStatus = 200, failExt = [] } = {}) {
+    const calls = [];
+    const f = async (url) => {
+        calls.push(url);
+        const u = new URL(url);
+        if (u.pathname === '/3/search/movie') {
+            if (searchStatus !== 200) return jsonResponse({}, searchStatus);
+            return jsonResponse({ results: [
+                { id: 1, title: 'A', release_date: '1980-05-01', vote_count: 10 },
+                { id: 2, title: 'B', release_date: '1990-01-01', vote_count: 20 },
+                { id: 3, title: 'C', release_date: '', vote_count: 30 },
+            ] });
+        }
+        const m = u.pathname.match(/^\/3\/movie\/(\d+)\/external_ids$/);
+        if (m) {
+            if (failExt.includes(+m[1])) return jsonResponse({}, 500);
+            return jsonResponse({ imdb_id: m[1] === '2' ? null : `tt${m[1]}` });
+        }
+        throw new Error('unexpected ' + url);
+    };
+    return { f, calls };
+}
+
+test('tmdb searchCandidates -> hits with imdb ids only', async () => {
+    const { f } = tmdbFetch();
+    const c = await makeTmdb('KEY', f).searchCandidates('x');
+    assert.deepEqual(c, [
+        { tconst: 'tt1', title: 'A', year: 1980, votes: 10, source: 'tmdb' },
+        { tconst: 'tt3', title: 'C', year: null, votes: 30, source: 'tmdb' },
+    ]);
+});
+
+test('tmdb searchCandidates: 401 -> []', async () => {
+    assert.deepEqual(await makeTmdb('KEY', tmdbFetch({ searchStatus: 401 }).f).searchCandidates('x'), []);
+});
+
+test('tmdb searchCandidates: external_ids failure drops only that hit', async () => {
+    const c = await makeTmdb('KEY', tmdbFetch({ failExt: [1] }).f).searchCandidates('x');
+    assert.deepEqual(c.map(x => x.tconst), ['tt3']);
+});
+
+test('tmdb searchCandidates without key -> [], no requests', async () => {
+    const { f, calls } = tmdbFetch();
+    assert.deepEqual(await makeTmdb('', f).searchCandidates('x'), []);
+    assert.equal(calls.length, 0);
+});
