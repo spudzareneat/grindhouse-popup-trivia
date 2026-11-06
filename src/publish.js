@@ -18,10 +18,11 @@ export function makeGit(repoDir, { dryRun = false, exec = execFileSync } = {}) {
         pull() { if (!dryRun) git('pull', '--rebase', '--autostash'); },
         // Delivers commits stranded by an earlier failed push; fails fast on a read-only deploy key.
         push() { if (!dryRun) git('push'); },
-        commitAndPush(filePath, message) {
+        commitAndPush(filePath, message, removePaths = []) {
             if (dryRun) return false;
             git('add', '--', filePath);
-            git('commit', '-m', message, '--', filePath);
+            for (const p of removePaths) git('rm', '-q', '--ignore-unmatch', '--', p);
+            git('commit', '-m', message, '--', filePath, ...removePaths);
             try { git('push'); } catch {
                 // Remote moved (e.g. a manual edit on GitHub) -- rebase our one commit and retry once.
                 try {
