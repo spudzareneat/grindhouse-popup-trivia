@@ -143,3 +143,16 @@ test('TMDB fallback with no year resolves but is unsure', async () => {
   const r = await run({ title: 'Zombi', year: null }, stubs({ tmdbPool: [C('tt5', 'Zombi', 1979, 500, 'tmdb')] }));
   assert.deepEqual([r.tconst, r.source, r.confidence], ['tt5', 'tmdb', 'unsure']);
 });
+
+test('an unsure match missing from the gathered pool is added first, deduped, still capped at 5', async () => {
+  const pool = [C('tt11', 'The Fly', 1986, 900), C('tt12', 'The Fly', 1987, 800), C('tt13', 'The Fly', 1988, 700),
+    C('tt14', 'The Fly', 1989, 600), C('tt15', 'The Fly', 1990, 500), C('tt16', 'The Fly', 1991, 400)];
+  const r = await run({ title: 'The Fly', year: null }, stubs({ hit, imdbPool: pool }));
+  assert.equal(r.confidence, 'unsure');
+  assert.equal(r.candidates[0].tconst, 'tt1');
+  assert.equal(r.candidates.length, 5);
+  assert.equal(new Set(r.candidates.map(c => c.tconst)).size, 5);
+  const inPool = await run({ title: 'The Fly', year: null }, stubs({ hit, imdbPool: [C('tt1', 'The Fly', 1986, 1000), C('tt2', 'Other', 1950, 5)] }));
+  assert.equal(inPool.candidates.filter(c => c.tconst === 'tt1').length, 1);
+  assert.equal(inPool.candidates[0].tconst, 'tt1');
+});

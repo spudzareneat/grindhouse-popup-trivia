@@ -47,6 +47,8 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
     return cache.get(k);
   };
 
+  // The matched film always heads the list (so the owner can confirm it), then the ranked rest; capped.
+  const withMatched = (list, m) => [m, ...list.filter(c => c.tconst !== m.tconst)].slice(0, MAX_CANDIDATES);
   const gather = async () => {
     const seen = new Map();
     for (const term of terms.slice(0, 2)) {
@@ -71,7 +73,7 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
     const confidence = found.failed ? 'unsure' : rateMatch({ scheduleTitle: term, scheduleYear: year, matched, pool });
     return res(m.tconst, 'imdb', confidence, {
       matchedTitle: m.title, matchedYear: m.year ?? null, tried: terms,
-      candidates: confidence === 'unsure' ? await gather() : [],
+      candidates: confidence === 'unsure' ? withMatched(await gather(), matched) : [],
     });
   }
 
@@ -84,7 +86,7 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
     const confidence = rateMatch({ scheduleTitle: term, scheduleYear: year, matched, pool: hits });
     return res(matched.tconst, 'tmdb', confidence, {
       matchedTitle: matched.title, matchedYear: matched.year ?? null, tried: terms,
-      candidates: confidence === 'unsure' ? await gather() : [],
+      candidates: confidence === 'unsure' ? withMatched(await gather(), matched) : [],
     });
   }
 
