@@ -42,6 +42,8 @@ test('an empty or unreadable lock file is taken over', async () => {
     const f = tmp();
     fs.mkdirSync(path.dirname(f), { recursive: true });
     fs.writeFileSync(f, '');
+    const old = new Date(Date.now() - 60000);
+    fs.utimesSync(f, old, old);
     let ran = false;
     await withLock(f, async () => { ran = true; }, { isAlive: () => true, sleep: async () => { throw new Error('should not wait'); } });
     assert.ok(ran);
@@ -63,4 +65,44 @@ test('releases the lock when fn throws', async () => {
     const f = tmp();
     await assert.rejects(withLock(f, async () => { throw new Error('boom'); }), /boom/);
     assert.equal(fs.existsSync(f), false);
+});
+
+test('release leaves a lock now owned by someone else untouched', async () => {
+    const f = tmp();
+    await withLock(f, async () => { fs.writeFileSync(f, '4242'); });
+    assert.equal(fs.readFileSync(f, 'utf8'), '4242');
+});
+
+test('a fresh empty lock is not taken over; an old empty one is', async () => {
+    const f = tmp();
+    fs.mkdirSync(path.dirname(f), { recursive: true });
+    fs.writeFileSync(f, '');
+    let sleeps = 0, ran = false;
+    const sleep = async () => { if (++sleeps === 2) { const old = new Date(Date.now() - 60000); fs.utimesSync(f, old, old); } };
+    await withLock(f, async () => { ran = true; assert.ok(sleeps >= 2); }, { isAlive: () => true, sleep });
+    assert.ok(ran);
+    assert.equal(sleeps, 2);
+});
+
+test('takeover and normal runs leave no .stale/.tmp litter', async () => {
+    const f = tmp();
+    fs.mkdirSync(path.dirname(f), { recursive: true });
+    fs.writeFileSync(f, '999999');
+    await withLock(f, async () => {}, { isAlive: () => false });
+    await withLock(f, async () => {});
+    assert.deepEqual(fs.readdirSync(path.dirname(f)), []);
+});
+
+test('a live lock moved aside by a race is restored and waited on', async () => {
+    const f = tmp();
+    fs.mkdirSync(path.dirname(f), { recursive: true });
+    fs.writeFileSync(f, '777');
+    // First check says dead (stale), the recheck after the rename says alive.
+    let calls = 0, sleeps = 0, ran = false;
+    const isAlive = () => ++calls > 1;
+    const sleep = async () => { if (++sleeps === 1) assert.equal(fs.readFileSync(f, 'utf8'), '777'); fs.rmSync(f); };
+    await withLock(f, async () => { ran = true; }, { isAlive, sleep });
+    assert.ok(ran);
+    assert.equal(sleeps, 1);
+    assert.deepEqual(fs.readdirSync(path.dirname(f)), []);
 });
