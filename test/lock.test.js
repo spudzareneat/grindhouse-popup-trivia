@@ -18,12 +18,12 @@ test('runs fn, returns its value and removes the lock file', async () => {
 test('two concurrent calls run strictly one after the other', async () => {
     const f = tmp();
     const order = [];
-    const opts = { isAlive: () => true, sleep: tick };
+    const pids = { a: 111, b: 222 };   // distinct owners: a lock naming our own pid counts as stale
     const job = name => withLock(f, async () => {
         order.push(`start ${name}`);
         for (let i = 0; i < 5; i++) await tick();
         order.push(`end ${name}`);
-    }, opts);
+    }, { isAlive: () => true, sleep: tick, pid: pids[name] });
     await Promise.all([job('a'), job('b')]);
     assert.deepEqual(order, ['start a', 'end a', 'start b', 'end b']);
 });
@@ -105,4 +105,14 @@ test('a live lock moved aside by a race is restored and waited on', async () => 
     assert.ok(ran);
     assert.equal(sleeps, 1);
     assert.deepEqual(fs.readdirSync(path.dirname(f)), []);
+});
+
+test('a lock naming our own pid is stale (pid reuse after a container restart) and is taken over', async () => {
+    const f = tmp();
+    fs.mkdirSync(path.dirname(f), { recursive: true });
+    fs.writeFileSync(f, String(process.pid));
+    let ran = false;
+    await withLock(f, async () => { ran = true; }, { isAlive: () => true, sleep: async () => { throw new Error('should not wait'); } });
+    assert.ok(ran);
+    assert.equal(fs.existsSync(f), false);
 });
