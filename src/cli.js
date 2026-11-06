@@ -20,6 +20,7 @@ import { makeGit } from './publish.js';
 import { processMovie, runWeekend, UsageLimitError, PublishError } from './pipeline.js';
 import { runBackfill } from './backfill.js';
 import { parseArgs, USAGE } from './args.js';
+import { withLock } from './lock.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
@@ -56,12 +57,17 @@ async function main() {
         now: () => new Date().toISOString(),
     };
 
+    // run and movie share one checkout, so they take turns; dry runs and backfill-totals do not touch it.
+    const locked = fn => args.dryRun ? fn() : withLock(path.join(repoDir, '.cache', 'run.lock'), fn, {
+        onWait: pid => log(`waiting for another run to finish (pid ${pid})...`),
+    });
+
     if (command === 'run') {
-        const results = await runWeekend(deps, {
+        const results = await locked(() => runWeekend(deps, {
             fetchWeekend: () => fetchWeekendMovies(),
             delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
             sleep,
-        });
+        }));
         const attempted = results.filter(r => r.status !== 'skipped');
         if (results.some(r => r.stop === 'publish')) process.exitCode = 3;
         else if (results.some(r => r.stop === 'usage')) process.exitCode = 2;
@@ -81,9 +87,11 @@ async function main() {
     } else {
         const item = /^tt\d+$/.test(target) ? { tconst: target } : { title: target, year: args.year, akas: [] };
         try {
-            deps.git.pull();
-            deps.git.push();
-            const r = await processMovie(item, deps);
+            const r = await locked(async () => {
+                deps.git.pull();
+                deps.git.push();
+                return processMovie(item, deps);
+            });
             log(`${r.status}${r.reason ? `: ${r.reason}` : ''}${r.kept ? ` — ${r.kept} facts` : ''}`);
             process.exitCode = r.stop === 'usage' ? 2 : r.status === 'failed' ? 1 : 0;
         } catch (e) {
