@@ -25,6 +25,9 @@ if [ ! -d /work/.git ]; then
   git clone "${GIT_REMOTE:?set GIT_REMOTE}" /work
 fi
 
+# A lock left on the volume by a previous container names a pid that may be reused here; nothing else runs yet.
+rm -f "${DATA_REPO_DIR:-/work}/.cache/run.lock"
+
 case "${1:-cron}" in
   cron)
     # Optional Discord bot beside the schedule. DATA_REPO_DIR=/work comes from the image ENV.

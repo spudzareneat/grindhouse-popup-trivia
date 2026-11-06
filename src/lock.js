@@ -26,10 +26,10 @@ function inspect(file) {
 }
 
 // Try to create the lock atomically with the pid inside. Returns true if we now hold it.
-function tryCreate(lockFile) {
+function tryCreate(lockFile, pid) {
     const tmp = `${lockFile}.${uniq()}.tmp`;
     try {
-        fs.writeFileSync(tmp, String(process.pid), { flag: 'wx' });
+        fs.writeFileSync(tmp, String(pid), { flag: 'wx' });
         fs.linkSync(tmp, lockFile);
         return true;
     } catch (e) {
@@ -40,11 +40,11 @@ function tryCreate(lockFile) {
     }
 }
 
-export async function withLock(lockFile, fn, { pollMs = 5000, isAlive = pidAlive, sleep = delay, onWait, emptyStaleMs = 2000 } = {}) {
+export async function withLock(lockFile, fn, { pollMs = 5000, isAlive = pidAlive, sleep = delay, onWait, emptyStaleMs = 2000, pid = process.pid } = {}) {
     fs.mkdirSync(path.dirname(lockFile), { recursive: true });
-    const isStale = info => info.pid === null ? Date.now() - info.mtimeMs > emptyStaleMs : !isAlive(info.pid);
+    const isStale = info => info.pid === null ? Date.now() - info.mtimeMs > emptyStaleMs : info.pid === pid || !isAlive(info.pid);   // our own pid in a lock we did not make: left over from before a restart
     let waited = false;
-    while (!tryCreate(lockFile)) {
+    while (!tryCreate(lockFile, pid)) {
         const info = inspect(lockFile);
         if (info.gone) continue;
         if (isStale(info)) {
@@ -64,6 +64,6 @@ export async function withLock(lockFile, fn, { pollMs = 5000, isAlive = pidAlive
         return await fn();
     } finally {
         // Only remove the lock if it is still ours; it may have been taken over meanwhile.
-        if (inspect(lockFile).pid === process.pid) fs.rmSync(lockFile, { force: true });
+        if (inspect(lockFile).pid === pid) fs.rmSync(lockFile, { force: true });
     }
 }
