@@ -5,6 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { processMovie, runWeekend, UsageLimitError, PublishError, summarize } from '../src/pipeline.js';
 import { makeGit, writeDoc } from '../src/publish.js';
+import { saveOverride, overrideKey } from '../src/overrides.js';
 
 const fact = (t, text) => ({ t, rank: 1, anchor: 'spread', text, icon: 'reel', source: { type: 'imdb' } });
 const FIVE = [fact(100, 'a'), fact(300, 'b'), fact(500, 'c'), fact(700, 'd'), fact(900, 'e')];
@@ -340,4 +341,62 @@ test('processMovie: replaces passes the old file to commitAndPush only when it d
     const c = makeDeps({ git });
     await processMovie({ title: 'Carnival of Souls', year: 1962 }, c.deps);
     assert.equal(calls[2][2], undefined);
+});
+
+test('processMovie: an overrides file on disk (deps.overridesFile) resolves the title via the pick', async () => {
+    const { deps, root } = makeDeps();
+    const file = path.join(root, 'overrides', 'title-overrides.json');
+    saveOverride(file, overrideKey('Carnival of Souls', 1962), { tconst: 'tt0000007' });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, { ...deps, overridesFile: file });
+    assert.equal(r.status, 'done');
+    assert.equal(r.tconst, 'tt0000007');
+    assert.equal(r.match.source, 'override');
+    // read fresh per movie: a later edit of the file is seen without rebuilding deps
+    saveOverride(file, overrideKey('Carnival of Souls', 1962), { tconst: 'tt0000008' });
+    assert.equal((await processMovie({ title: 'Carnival of Souls', year: 1962 }, { ...deps, overridesFile: file })).tconst, 'tt0000008');
+    // explicit deps.overrides still wins
+    const w = await processMovie({ title: 'Carnival of Souls', year: 1962 }, { ...deps, overridesFile: file, overrides: { picks: {}, dismissed: {} } });
+    assert.equal(w.tconst, 'tt0055830');
+});
+
+test('processMovie: pick whose file exists is skipped but still removes the tracked guess', async () => {
+    const calls = [];
+    const git = { pull() {}, push() {}, commitAndPush() { throw new Error('no'); }, removeAndPush: (...a) => { calls.push(a); return true; } };
+    const { deps } = makeDeps({ git, replaces: 'tt0000001' });
+    writeDoc(deps.dataDir, { imdbId: 'tt0055830' });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.status, 'skipped');
+    assert.equal(r.removed, 'tt0000001');
+    assert.deepEqual(calls[0][0], [path.join(deps.dataDir, 'tt0000001.json')]);
+    assert.match(calls[0][1], /tt0000001/);
+});
+
+test('processMovie: skipped without replaces, same-id replaces, dry run or untracked guess removes nothing', async () => {
+    let n = 0;
+    const git = { pull() {}, push() {}, removeAndPush: () => { n++; return false; } };
+    for (const over of [{}, { replaces: 'tt0055830' }, { replaces: 'tt0000001', dryRun: true }]) {
+        const { deps } = makeDeps({ git, ...over });
+        writeDoc(over.dryRun ? deps.outDir : deps.dataDir, { imdbId: 'tt0055830' });
+        writeDoc(deps.dataDir, { imdbId: 'tt0055830' });
+        const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+        assert.equal(r.status, 'skipped');
+        assert.equal(r.removed, undefined);
+    }
+    assert.equal(n, 0);
+    const { deps } = makeDeps({ git, replaces: 'tt0000001' });
+    writeDoc(deps.dataDir, { imdbId: 'tt0055830' });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.removed, undefined);   // not tracked -> nothing removed
+    assert.equal(n, 1);
+});
+
+test('processMovie: TV skip also removes the replaced guess; a removal failure is a PublishError', async () => {
+    const calls = [];
+    const git = { pull() {}, push() {}, removeAndPush: (...a) => { calls.push(a); return true; } };
+    const { deps } = makeDeps({ git, replaces: 'tt0000001' });
+    const r = await processMovie({ tconst: 'tt9' }, deps);
+    assert.equal(r.status, 'skipped');
+    assert.equal(r.removed, 'tt0000001');
+    const bad = makeDeps({ git: { ...git, removeAndPush() { throw new Error('push rejected'); } }, replaces: 'tt0000001' });
+    await assert.rejects(processMovie({ tconst: 'tt9' }, bad.deps), PublishError);
 });

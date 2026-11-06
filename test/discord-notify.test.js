@@ -4,7 +4,8 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { makePendingStore } from '../src/discord/pending.js';
-import { notifyRun } from '../src/discord/notify.js';
+import { notifyRun, notifyFailure } from '../src/discord/notify.js';
+import { overrideKey } from '../src/overrides.js';
 
 const cands = [{ tconst: 'tt1', title: 'A', year: 1999, source: 'imdb' }];
 const done = { title: 'Fine', status: 'done', kept: 5, tconst: 'tt9', dataFile: 'data/fine.json', match: { confidence: 'sure', candidates: [] } };
@@ -87,4 +88,57 @@ test('one failing picker does not stop the next', async () => {
         const withIds = t.store.list().filter(e => e.messageId);
         assert.equal(withIds.length, 1);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+const skippedUnsure = { title: 'Hmm', status: 'skipped', tconst: 'tt2', reason: 'already has a file',
+    match: { confidence: 'unsure', scheduleTitle: 'Hmm', scheduleYear: 1980, candidates: cands, matchedTitle: 'Hmm2' } };
+
+test('skipped+unsure (already has a file) counts as the guess, with its data file', async () => {
+    const t = setup();
+    try {
+        await notifyRun({ api: t.api, store: t.store, results: [skippedUnsure], dataDir: path.join(t.dir, 'data'), log: t.log });
+        const [e] = t.store.list();
+        assert.equal(e.guessTconst, 'tt2');
+        assert.equal(e.guessFile, path.join(t.dir, 'data', 'tt2.json'));
+        const noDir = setup();
+        await notifyRun({ api: noDir.api, store: noDir.store, results: [skippedUnsure], log: noDir.log });
+        assert.equal(noDir.store.list()[0].guessTconst, 'tt2');
+        assert.equal(noDir.store.list()[0].guessFile, null);
+        fs.rmSync(noDir.dir, { recursive: true, force: true });
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+test('no second picker while an open or running entry has the same override key', async () => {
+    const t = setup();
+    try {
+        const id = t.store.add({ scheduleTitle: 'HMM', scheduleYear: 1980, candidates: cands, guessTconst: 'tt2', guessFile: null, messageId: 'm0' });
+        await notifyRun({ api: t.api, store: t.store, results: [skippedUnsure], log: t.log });
+        assert.equal(t.store.list().length, 1);
+        t.store.update(id, { status: 'running' });
+        await notifyRun({ api: t.api, store: t.store, results: [skippedUnsure], log: t.log });
+        assert.equal(t.store.list().length, 1);
+        t.store.update(id, { status: 'done' });
+        await notifyRun({ api: t.api, store: t.store, results: [skippedUnsure], log: t.log });
+        assert.equal(t.store.list().length, 2);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+test('a dismissed title gets no picker', async () => {
+    const t = setup();
+    try {
+        await notifyRun({ api: t.api, store: t.store, results: [unsure, notFound], dismissed: { [overrideKey('Hmm', 1980)]: true }, log: t.log });
+        assert.deepEqual(t.store.list().map(e => e.scheduleTitle), ['Lost']);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+test('notifyFailure posts a truncated "Run failed" embed and never throws', async () => {
+    const posted = [];
+    await notifyFailure({ api: { postMessage: async (p) => { posted.push(p); return { id: 'x' }; } }, error: new Error('x'.repeat(900)) });
+    const d = posted[0].embeds[0].description;
+    assert.match(d, /^Run failed: x+/);
+    assert.ok(d.length <= 'Run failed: '.length + 500);
+    const logs = [];
+    await notifyFailure({ api: { postMessage: async () => { throw new Error('discord down'); } }, error: 'boom', log: (m) => logs.push(m) });
+    assert.ok(logs.some(l => l.includes('discord down')));
+    await notifyFailure({ api: null, error: null });
 });

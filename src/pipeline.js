@@ -3,6 +3,7 @@ import { MODEL_OUTPUT_SCHEMA, MIN_FACTS, WEB_SHARE } from './schema.js';
 import { validateFacts, buildDoc } from './validate.js';
 import { hasDoc, writeDoc, docPath } from './publish.js';
 import { resolveTitle } from './resolve.js';
+import { loadOverrides } from './overrides.js';
 
 export class UsageLimitError extends Error {}
 export class PublishError extends Error {}
@@ -32,7 +33,7 @@ function subsNote(subtitles, wanted, transcript) {
 export async function processMovie(item, deps) {
     const { imdb, wiki, tmdb, subtitles, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
     const label = item.title ? `${item.title}${item.year ? ` (${item.year})` : ''}` : item.tconst;
-    const resolved = await resolveTitle(item, { imdb, tmdb, overrides: deps.overrides ?? { picks: {}, dismissed: {} }, log });
+    const resolved = await resolveTitle(item, { imdb, tmdb, overrides: deps.overrides ?? (deps.overridesFile ? loadOverrides(deps.overridesFile) : { picks: {}, dismissed: {} }), log });
     const { tconst, tried } = resolved;
     const match = {
         scheduleTitle: item.title ?? item.tconst, scheduleYear: item.year ?? null,
@@ -40,10 +41,20 @@ export async function processMovie(item, deps) {
         matchedTitle: resolved.matchedTitle, matchedYear: resolved.matchedYear, candidates: resolved.candidates,
     };
     if (!tconst) return { status: 'failed', title: label, reason: `not found on IMDb (tried: ${tried.map(t => `"${t}"`).join(', ')})`, match };
-    if (!force && hasDoc(dataDir, tconst)) return { status: 'skipped', title: label, tconst, reason: 'already has a file', match };
+    // The film is not (re)generated, but a guess the owner replaced must still go: otherwise it stays published.
+    const skipped = reason => {
+        const out = { status: 'skipped', title: label, tconst, reason, match };
+        if (deps.replaces && deps.replaces !== tconst && !dryRun) {
+            try {
+                if (git.removeAndPush([docPath(dataDir, deps.replaces)], `data: remove replaced guess ${deps.replaces} (${label} is ${tconst})`)) out.removed = deps.replaces;
+            } catch (e) { throw new PublishError(e.message); }
+        }
+        return out;
+    };
+    if (!force && hasDoc(dataDir, tconst)) return skipped('already has a file');
 
     const bundle = await imdb.fetchBundle(tconst);
-    if (bundle.isSeries || bundle.isEpisode) return { status: 'skipped', title: label, tconst, reason: 'TV series/episode', match };
+    if (bundle.isSeries || bundle.isEpisode) return skipped('TV series/episode');
 
     // Subtitles cost one download from a small daily quota: spend it on the first blocks of each night only.
     const wantSubs = !!subtitles && (item.block == null || item.block < SUBTITLE_BLOCKS);

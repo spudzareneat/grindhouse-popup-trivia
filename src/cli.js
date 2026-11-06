@@ -24,7 +24,8 @@ import { parseArgs, USAGE } from './args.js';
 import { withLock } from './lock.js';
 import { makeDiscordApi } from './discord/api.js';
 import { makePendingStore } from './discord/pending.js';
-import { notifyRun } from './discord/notify.js';
+import { notifyRun, notifyFailure } from './discord/notify.js';
+import { loadOverrides } from './overrides.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
@@ -52,6 +53,7 @@ async function main() {
         runClaude: (prompt, opts) => runClaude(prompt, { ...opts, timeoutMs }),
         model: process.env.CLAUDE_MODEL || 'sonnet',
         dataDir: path.join(repoDir, 'data'),
+        overridesFile: path.join(repoDir, 'overrides', 'title-overrides.json'),
         outDir: path.join(repoDir, 'out'),
         git: makeGit(repoDir, { dryRun: args.dryRun }),
         force: args.force,
@@ -62,7 +64,12 @@ async function main() {
     };
 
     // run and movie share one checkout, so they take turns; dry runs and backfill-totals do not touch it.
-    const locked = fn => args.dryRun ? fn() : withLock(path.join(repoDir, '.cache', 'run.lock'), fn, {
+    // The Claude CLI's scratch state is cleared while we still hold the lock, so a waiting holder never loses its folders.
+    let pruned = false;
+    const prune = () => { if (process.env.PRUNE_CLAUDE_STATE === '1') { pruned = true; pruneClaudeState(); } };
+    const locked = fn => args.dryRun ? fn() : withLock(path.join(repoDir, '.cache', 'run.lock'), async () => {
+        try { return await fn(); } finally { prune(); }
+    }, {
         onWait: pid => log(`waiting for another run to finish (pid ${pid})...`),
     });
 
@@ -70,17 +77,26 @@ async function main() {
         const discordOn = process.env.DISCORD_BOT_TOKEN && process.env.DISCORD_CHANNEL_ID;
         let postTitle = null;
         const results = await locked(async () => {
-            const res = await runWeekend(deps, {
-                fetchWeekend: async () => { const s = await fetchWeekendMovies(); postTitle = s.postTitle; return s; },
-                delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
-                sleep,
-            });
+            const makeApi = () => makeDiscordApi({ token: process.env.DISCORD_BOT_TOKEN, channelId: process.env.DISCORD_CHANNEL_ID });
+            let res;
+            try {
+                res = await runWeekend(deps, {
+                    fetchWeekend: async () => { const s = await fetchWeekendMovies(); postTitle = s.postTitle; return s; },
+                    delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
+                    sleep,
+                });
+            } catch (e) {
+                if (discordOn && !args.dryRun) await notifyFailure({ api: makeApi(), error: e, log });
+                throw e;
+            }
             if (discordOn && !args.dryRun) {
                 try {
                     await notifyRun({
-                        api: makeDiscordApi({ token: process.env.DISCORD_BOT_TOKEN, channelId: process.env.DISCORD_CHANNEL_ID }),
+                        api: makeApi(),
                         store: makePendingStore(path.join(repoDir, '.cache', 'discord-pending.json')),
                         results: res, postTitle, log,
+                        dismissed: loadOverrides(deps.overridesFile).dismissed,   // read now: the run's git pull may have brought new ones
+                        dataDir: deps.dataDir,
                     });
                 } catch (e) { log(`Discord notify failed: ${e.message}`); }
             }
@@ -110,7 +126,7 @@ async function main() {
                 deps.git.push();
                 return processMovie(item, deps);
             });
-            log(`${r.status}${r.reason ? `: ${r.reason}` : ''}${r.kept ? ` — ${r.kept} facts` : ''}`);
+            log(`${r.status}${r.reason ? `: ${r.reason}` : ''}${r.kept ? ` — ${r.kept} facts` : ''}${r.removed ? ` — removed ${r.removed}` : ''}`);
             process.exitCode = r.stop === 'usage' ? 2 : r.status === 'failed' ? 1 : 0;
         } catch (e) {
             if (e instanceof UsageLimitError) { log(`${e.authError ? 'Claude auth failed' : 'usage limit'}: ${e.message}`); process.exitCode = 2; }
@@ -122,4 +138,4 @@ async function main() {
 
 main().catch(e => { console.error(e.stack || e); process.exitCode = 1; })
     // Container only: the CLI's scratch state would otherwise grow in the container layer forever.
-    .finally(() => { if (process.env.PRUNE_CLAUDE_STATE === '1') pruneClaudeState(); });
+    .finally(() => { if (!pruned) prune(); });
