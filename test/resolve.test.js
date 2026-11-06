@@ -95,3 +95,51 @@ test('nothing found with stubs lacking searchCandidates does not throw', async (
   const r = await run({ title: 'Blob', year: 1958 }, stubs({ imdbCands: false, tmdbCands: false }));
   assert.deepEqual([r.tconst, r.confidence, r.candidates], [null, 'none', []]);
 });
+
+test('rejecting imdb.searchCandidates in the rival check: still resolves, unsure, logged', async () => {
+  const logs = [];
+  const imdb = { searchTitle: async () => hit, searchCandidates: async () => { throw new Error('boom'); } };
+  const r = await resolveTitle({ title: 'The Fly', year: 1986 }, { imdb, tmdb: {}, overrides: noOverrides, log: m => logs.push(m) });
+  assert.deepEqual([r.tconst, r.confidence], ['tt1', 'unsure']);
+  assert.ok(logs.some(l => l.includes('boom')));
+});
+
+test('synchronously throwing searchCandidates is caught and logged', async () => {
+  const logs = [];
+  const imdb = { searchTitle: async () => hit, searchCandidates: () => { throw new Error('sync'); } };
+  const r = await resolveTitle({ title: 'The Fly', year: 1986 }, { imdb, tmdb: {}, overrides: noOverrides, log: m => logs.push(m) });
+  assert.equal(r.confidence, 'unsure');
+  assert.ok(logs.some(l => l.includes('sync')));
+});
+
+test('rejecting tmdb.searchCandidates in the fallback is treated as no hits', async () => {
+  const logs = [];
+  const imdb = { searchTitle: async () => null, searchCandidates: async () => [] };
+  const tmdb = { searchCandidates: async () => { throw new Error('tmdb down'); } };
+  const r = await resolveTitle({ title: 'Zombi', year: 1979 }, { imdb, tmdb, overrides: noOverrides, log: m => logs.push(m) });
+  assert.deepEqual([r.tconst, r.confidence], [null, 'none']);
+  assert.ok(logs.some(l => l.includes('tmdb down')));
+});
+
+test('candidates with a falsy tconst are never returned or picked', async () => {
+  const s = stubs({ tmdbPool: [C(null, 'Zombi', 1979, 900, 'tmdb'), C('tt5', 'Zombi', 1979, 10, 'tmdb')] });
+  const r = await run({ title: 'Zombi', year: 1979 }, s);
+  assert.equal(r.tconst, 'tt5');
+  const none = await run({ title: 'Zombi', year: 1979 }, stubs({ tmdbPool: [C(null, 'Zombi', 1979, 900, 'tmdb')] }));
+  assert.deepEqual([none.tconst, none.candidates], [null, []]);
+});
+
+test('unsure results populate candidates including the matched tconst', async () => {
+  const rival = stubs({ hit, imdbPool: [C('tt1', 'The Fly', 1986, 1000), C('tt2', 'The Fly', 1987, 600)] });
+  const r = await run({ title: 'The Fly', year: 1986 }, rival);
+  assert.equal(r.confidence, 'unsure');
+  assert.ok(r.candidates.some(c => c.tconst === 'tt1'));
+  const noYear = await run({ title: 'The Fly', year: null }, stubs({ hit, imdbPool: [C('tt1', 'The Fly', 1986, 1000)] }));
+  assert.equal(noYear.confidence, 'unsure');
+  assert.ok(noYear.candidates.some(c => c.tconst === 'tt1'));
+});
+
+test('TMDB fallback with no year resolves but is unsure', async () => {
+  const r = await run({ title: 'Zombi', year: null }, stubs({ tmdbPool: [C('tt5', 'Zombi', 1979, 500, 'tmdb')] }));
+  assert.deepEqual([r.tconst, r.source, r.confidence], ['tt5', 'tmdb', 'unsure']);
+});
