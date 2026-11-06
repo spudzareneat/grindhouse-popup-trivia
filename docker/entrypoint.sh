@@ -26,7 +26,20 @@ if [ ! -d /work/.git ]; then
 fi
 
 case "${1:-cron}" in
-  cron)  exec supercronic /app/docker/crontab ;;
+  cron)
+    # Optional Discord bot beside the schedule. DATA_REPO_DIR=/work comes from the image ENV.
+    # Restart it if it dies; bot-main exits 0 right away when channel/owner ids are missing,
+    # so wait longer after a clean exit than after a crash.
+    if [ -n "${DISCORD_BOT_TOKEN:-}" ]; then
+      (
+        cd /app
+        while true; do
+          if node /app/src/bot-main.js; then sleep 30; else sleep 5; fi
+        done
+      ) &
+    fi
+    exec supercronic /app/docker/crontab ;;
+  bot)   exec node /app/src/bot-main.js ;;
   run)   shift; exec node /app/src/cli.js run "$@" ;;
   movie) shift; exec node /app/src/cli.js movie "$@" ;;
   shell) exec /bin/sh ;;
