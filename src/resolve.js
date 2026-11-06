@@ -34,17 +34,23 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
   const terms = [];
   for (const t of [...names, ...names.flatMap(titleVariants)]) if (!terms.includes(t)) terms.push(t);
 
+  // Never throws: a failure is logged and reported so callers can decide how to treat it.
   const cache = new Map();
   const search = (svc, key, term) => {
     const k = `${key}:${term}`;
-    if (!cache.has(k)) cache.set(k, Promise.resolve(svc?.searchCandidates?.(term)).then(r => r || [], () => []));
+    if (!cache.has(k)) {
+      cache.set(k, (async () => (await svc?.searchCandidates?.(term)) || [])().then(
+        r => ({ items: r.filter(c => c && c.tconst), failed: false }),
+        e => { log?.(`  ${key} candidate search for "${term}" failed: ${e?.message ?? e}`); return { items: [], failed: true }; },
+      ));
+    }
     return cache.get(k);
   };
 
   const gather = async () => {
     const seen = new Map();
     for (const term of terms.slice(0, 2)) {
-      for (const c of [...await search(imdb, 'imdb', term), ...await search(tmdb, 'tmdb', term)]) {
+      for (const c of [...(await search(imdb, 'imdb', term)).items, ...(await search(tmdb, 'tmdb', term)).items]) {
         if (!seen.has(c.tconst)) seen.set(c.tconst, c);
       }
     }
@@ -58,10 +64,11 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
     const m = await imdb.searchTitle(term, year);
     if (!m) continue;
     if (!names.includes(term)) log?.(`  matched on IMDb as "${term}" -> ${m.title} (${m.year})`);
-    const pool = year == null ? [] : await search(imdb, 'imdb', term);
+    const found = year == null ? { items: [], failed: false } : await search(imdb, 'imdb', term);
+    const pool = found.items;
     const known = pool.find(c => c.tconst === m.tconst);
     const matched = { tconst: m.tconst, title: m.title, year: m.year ?? null, votes: m.votes ?? known?.votes ?? 0, source: 'imdb' };
-    const confidence = rateMatch({ scheduleTitle: term, scheduleYear: year, matched, pool });
+    const confidence = found.failed ? 'unsure' : rateMatch({ scheduleTitle: term, scheduleYear: year, matched, pool });
     return res(m.tconst, 'imdb', confidence, {
       matchedTitle: m.title, matchedYear: m.year ?? null, tried: terms,
       candidates: confidence === 'unsure' ? await gather() : [],
@@ -69,7 +76,7 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
   }
 
   for (const term of terms) {
-    const hits = (await search(tmdb, 'tmdb', term))
+    const hits = (await search(tmdb, 'tmdb', term)).items
       .filter(c => titlesMatch(term, c.title) && (year == null || yearNear(c.year, year)))
       .sort(byVotes);
     if (!hits.length) continue;
