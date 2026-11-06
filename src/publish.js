@@ -21,8 +21,10 @@ export function makeGit(repoDir, { dryRun = false, exec = execFileSync } = {}) {
         commitAndPush(filePath, message, removePaths = []) {
             if (dryRun) return false;
             git('add', '--', filePath);
-            for (const p of removePaths) git('rm', '-q', '--ignore-unmatch', '--', p);
-            git('commit', '-m', message, '--', filePath, ...removePaths);
+            // Only tracked files can be removed in the commit; an unknown id is silently skipped.
+            const tracked = removePaths.filter(p => String(git('ls-files', '--', p) ?? '').trim() !== '');
+            for (const p of tracked) git('rm', '-q', '--ignore-unmatch', '--', p);
+            git('commit', '-m', message, '--', filePath, ...tracked);
             try { git('push'); } catch {
                 // Remote moved (e.g. a manual edit on GitHub) -- rebase our one commit and retry once.
                 try {
