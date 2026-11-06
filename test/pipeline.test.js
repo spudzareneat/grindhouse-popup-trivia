@@ -288,3 +288,56 @@ test('processMovie: akas as written are tried before any variant; failure lists 
     assert.equal(r.status, 'failed');
     assert.match(r.reason, /not found on IMDb \(tried: "Label - Film", "Other: Name", "Film"/);
 });
+
+test('processMovie: not found still reports the tried terms and carries match info with candidates', async () => {
+    const cand = { tconst: 'tt5', title: 'Nope Again', year: 1980, votes: 10 };
+    const { deps } = makeDeps({
+        imdb: { ...makeDeps().deps.imdb, searchTitle: async () => null, searchCandidates: async () => [cand] },
+    });
+    const r = await processMovie({ title: 'Nope', year: 1980 }, deps);
+    assert.equal(r.status, 'failed');
+    assert.match(r.reason, /not found on IMDb \(tried:/);
+    assert.equal(r.match.scheduleTitle, 'Nope');
+    assert.equal(r.match.scheduleYear, 1980);
+    assert.equal(r.match.confidence, 'none');
+    assert.equal(r.match.source, null);
+    assert.deepEqual(r.match.candidates.map(c => c.tconst), ['tt5']);
+});
+test('processMovie: an unsure IMDb match still completes, flagged unsure, with dataFile', async () => {
+    const { deps } = makeDeps({
+        runClaude: skipTopUp(async () => ({ ok: true, usageLimited: false, facts: FIVE })),
+    });
+    const r = await processMovie({ title: 'Carnival of Souls' }, deps);   // no year -> unsure
+    assert.equal(r.status, 'done');
+    assert.equal(r.match.confidence, 'unsure');
+    assert.equal(r.match.source, 'imdb');
+    assert.equal(r.match.matchedTitle, 'Carnival of Souls');
+    assert.ok(r.dataFile.endsWith('tt0055830.json'));
+});
+test('processMovie: skipped results carry match info too', async () => {
+    const { deps } = makeDeps();
+    writeDoc(deps.dataDir, { imdbId: 'tt0055830' });
+    const r = await processMovie({ title: 'Carnival of Souls', year: 1962 }, deps);
+    assert.equal(r.status, 'skipped');
+    assert.equal(r.match.scheduleTitle, 'Carnival of Souls');
+});
+test('processMovie: tconst-only item reports the tconst as its schedule title', async () => {
+    const { deps } = makeDeps();
+    const r = await processMovie({ tconst: 'tt0055830' }, deps);
+    assert.equal(r.match.scheduleTitle, 'tt0055830');
+    assert.equal(r.match.scheduleYear, null);
+    assert.equal(r.match.source, 'direct');
+});
+test('processMovie: replaces passes the old file to commitAndPush only when it differs', async () => {
+    const calls = [];
+    const git = { pull() {}, push() {}, commitAndPush: (...a) => { calls.push(a); return true; } };
+    const a = makeDeps({ git, replaces: 'tt0000001' });
+    await processMovie({ title: 'Carnival of Souls', year: 1962 }, a.deps);
+    assert.deepEqual(calls[0][2], [path.join(a.deps.dataDir, 'tt0000001.json')]);
+    const b = makeDeps({ git, replaces: 'tt0055830' });
+    await processMovie({ title: 'Carnival of Souls', year: 1962 }, b.deps);
+    assert.equal(calls[1].length, 2);
+    const c = makeDeps({ git });
+    await processMovie({ title: 'Carnival of Souls', year: 1962 }, c.deps);
+    assert.equal(calls[2].length, 2);
+});

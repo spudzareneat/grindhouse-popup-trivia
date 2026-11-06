@@ -1,8 +1,8 @@
 import { buildPrompt, buildTopUpPrompt, targetFactCount, maxFactCount } from './prompt.js';
 import { MODEL_OUTPUT_SCHEMA, MIN_FACTS, WEB_SHARE } from './schema.js';
 import { validateFacts, buildDoc } from './validate.js';
-import { hasDoc, writeDoc } from './publish.js';
-import { titleVariants } from './titles.js';
+import { hasDoc, writeDoc, docPath } from './publish.js';
+import { resolveTitle } from './resolve.js';
 
 export class UsageLimitError extends Error {}
 export class PublishError extends Error {}
@@ -29,32 +29,21 @@ function subsNote(subtitles, wanted, transcript) {
     return subtitles.isExhausted?.() ? 'daily quota used up' : 'none';
 }
 
-// Every name as written first (title, then akas), then the fallback variants of each.
-async function resolveTconst(item, imdb, log) {
-    if (item.tconst) return { tconst: item.tconst };
-    const names = [item.title, ...(item.akas || [])].filter(Boolean);
-    const tried = [];
-    for (const term of [...names, ...names.flatMap(titleVariants)]) {
-        if (tried.includes(term)) continue;
-        tried.push(term);
-        const m = await imdb.searchTitle(term, item.year ?? null);
-        if (m) {
-            if (!names.includes(term)) log?.(`  matched on IMDb as "${term}" -> ${m.title} (${m.year})`);
-            return { tconst: m.tconst };
-        }
-    }
-    return { tconst: null, tried };
-}
-
 export async function processMovie(item, deps) {
     const { imdb, wiki, tmdb, subtitles, runClaude, model, dataDir, outDir, git, force, dryRun, log, now } = deps;
     const label = item.title ? `${item.title}${item.year ? ` (${item.year})` : ''}` : item.tconst;
-    const { tconst, tried } = await resolveTconst(item, imdb, log);
-    if (!tconst) return { status: 'failed', title: label, reason: `not found on IMDb (tried: ${tried.map(t => `"${t}"`).join(', ')})` };
-    if (!force && hasDoc(dataDir, tconst)) return { status: 'skipped', title: label, tconst, reason: 'already has a file' };
+    const resolved = await resolveTitle(item, { imdb, tmdb, overrides: deps.overrides ?? { picks: {}, dismissed: {} }, log });
+    const { tconst, tried } = resolved;
+    const match = {
+        scheduleTitle: item.title ?? item.tconst, scheduleYear: item.year ?? null,
+        source: resolved.source, confidence: resolved.confidence,
+        matchedTitle: resolved.matchedTitle, matchedYear: resolved.matchedYear, candidates: resolved.candidates,
+    };
+    if (!tconst) return { status: 'failed', title: label, reason: `not found on IMDb (tried: ${tried.map(t => `"${t}"`).join(', ')})`, match };
+    if (!force && hasDoc(dataDir, tconst)) return { status: 'skipped', title: label, tconst, reason: 'already has a file', match };
 
     const bundle = await imdb.fetchBundle(tconst);
-    if (bundle.isSeries || bundle.isEpisode) return { status: 'skipped', title: label, tconst, reason: 'TV series/episode' };
+    if (bundle.isSeries || bundle.isEpisode) return { status: 'skipped', title: label, tconst, reason: 'TV series/episode', match };
 
     // Subtitles cost one download from a small daily quota: spend it on the first blocks of each night only.
     const wantSubs = !!subtitles && (item.block == null || item.block < SUBTITLE_BLOCKS);
@@ -87,7 +76,7 @@ export async function processMovie(item, deps) {
         if (v.facts.length >= MIN_FACTS) break;
     }
     if (best.facts.length < MIN_FACTS) {
-        return { status: 'failed', title: label, tconst, reason: lastError || `only ${best.facts.length} valid facts` };
+        return { status: 'failed', title: label, tconst, reason: lastError || `only ${best.facts.length} valid facts`, match };
     }
 
     // Top-up: one more pass when the film came back thin or leaning on IMDb trivia viewers have seen.
@@ -111,12 +100,14 @@ export async function processMovie(item, deps) {
     const file = writeDoc(dryRun ? outDir : dataDir, doc);
     if (!dryRun) {
         try {
-            git.commitAndPush(file, `data: ${bundle.title} (${bundle.year}) — ${best.facts.length} facts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`);
+            const message = `data: ${bundle.title} (${bundle.year}) — ${best.facts.length} facts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`;
+            if (deps.replaces && deps.replaces !== tconst) git.commitAndPush(file, message, [docPath(dataDir, deps.replaces)]);
+            else git.commitAndPush(file, message);
         } catch (e) {
             throw new PublishError(e.message);
         }
     }
-    const done = { status: 'done', title: label, tconst, kept: best.facts.length, dropped: best.dropped };
+    const done = { status: 'done', title: label, tconst, kept: best.facts.length, dropped: best.dropped, dataFile: file, match };
     if (stopForUsage) {
         const what = stopForUsage.authError ? 'Claude auth failed' : 'usage limit';
         return { ...done, stop: 'usage', reason: `${what} during top-up (${(stopForUsage.error || "").slice(0, 160)}) — published what we had, run stopped` };

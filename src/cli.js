@@ -50,6 +50,7 @@ async function main() {
         outDir: path.join(repoDir, 'out'),
         git: makeGit(repoDir, { dryRun: args.dryRun }),
         force: args.force,
+        replaces: args.replaces,
         dryRun: args.dryRun,
         log,
         now: () => new Date().toISOString(),
