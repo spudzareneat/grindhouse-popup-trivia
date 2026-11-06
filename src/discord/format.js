@@ -4,10 +4,12 @@ const BUDGET = 4000;
 const MAX_CANDIDATES = 5;
 const LABEL_MAX = 80;
 const REASON_MAX = 300;
+const REASON_MIN = 60;
+const TITLE_MAX = 80;
 
 const clip = (s, n) => {
-    s = String(s ?? '');
-    return s.length <= n ? s : `${s.slice(0, n - 1)}…`;
+    const chars = Array.from(String(s ?? ''));
+    return chars.length <= n ? chars.join('') : `${chars.slice(0, n - 1).join('')}…`;
 };
 
 const year = (y) => (y ? ` (${y})` : '');
@@ -21,10 +23,11 @@ export function needsPicker(result) {
         && (match.candidates?.length ?? 0) > 0;
 }
 
-function needsLine(r) {
-    if (r.status === 'failed') return `• **${r.title}**: ${clip(r.reason ?? 'failed', REASON_MAX)}`;
+function needsLine(r, reasonMax) {
+    const title = clip(r.title, TITLE_MAX);
+    if (r.status === 'failed') return `• **${title}**: ${clip(r.reason ?? 'failed', reasonMax)}`;
     const mt = r.match;
-    return `• **${r.title}**: unsure match, used ${mt.matchedTitle ?? '?'}${year(mt.matchedYear)}`;
+    return `• **${title}**: unsure match, used ${clip(mt.matchedTitle ?? '?', TITLE_MAX)}${year(mt.matchedYear)}`;
 }
 
 function doneLine(r) {
@@ -35,16 +38,16 @@ function doneLine(r) {
     return `• ${name}${facts}${via}`;
 }
 
-const skippedLine = (r) => `• ${r.title}${r.reason ? `: ${clip(r.reason, REASON_MAX)}` : ''}`;
+const skippedLine = (r) => `• ${clip(r.title, TITLE_MAX)}${r.reason ? `: ${clip(r.reason, REASON_MAX)}` : ''}`;
 
 export function buildSummary(results, { postTitle = null } = {}) {
-    const needs = [];
+    const needsRes = [];
     const done = [];
     const skipped = [];
     const stops = [];
     for (const r of results) {
         if (r.stop) stops.push(r.stop);
-        if (r.status === 'failed' || r.match?.confidence === 'unsure') needs.push(needsLine(r));
+        if (r.status === 'failed' || r.match?.confidence === 'unsure') needsRes.push(r);
         else if (r.status === 'done') done.push(doneLine(r));
         else if (r.status === 'skipped') skipped.push(skippedLine(r));
     }
@@ -53,32 +56,42 @@ export function buildSummary(results, { postTitle = null } = {}) {
         ? `**Run stopped**: ${stops.includes('usage') ? 'Claude usage limit or auth failure' : 'publish (git push) failure'}. Remaining movies were not processed.`
         : null;
 
-    // Droppable lines: Done then Skipped, cut from the end. Needs a look is never cut.
-    const render = (drop) => {
-        const keepTotal = done.length + skipped.length - drop;
-        const keepDone = Math.min(done.length, keepTotal);
-        const keepSkipped = keepTotal - keepDone;
+    const others = done.length + skipped.length;
+    // Degradation order: drop Done/Skipped lines, then shrink Needs reasons, then drop whole Needs lines.
+    const render = (reasonMax, keepNeeds, keepOthers) => {
+        const needs = needsRes.slice(0, keepNeeds).map((r) => needsLine(r, reasonMax));
+        const keepDone = Math.min(done.length, keepOthers);
+        const keepSkipped = keepOthers - keepDone;
         const parts = [];
         if (needs.length) parts.push(['**Needs a look**', ...needs].join('\n'));
         if (keepDone) parts.push(['**Done**', ...done.slice(0, keepDone)].join('\n'));
         if (keepSkipped) parts.push(['**Skipped**', ...skipped.slice(0, keepSkipped)].join('\n'));
         if (stopNote) parts.push(stopNote);
-        if (drop) parts.push(`...and ${drop} more`);
+        const dropped = (needsRes.length - keepNeeds) + (others - keepOthers);
+        if (dropped) parts.push(`...and ${dropped} more`);
         return parts.join('\n\n');
     };
+    const fits = (t) => t.length <= BUDGET;
 
-    const total = done.length + skipped.length;
-    let drop = 0;
-    let text = render(0);
-    while (text.length > BUDGET && drop < total) text = render(++drop);
-    if (text.length > BUDGET) text = `${text.slice(0, BUDGET - 15).trimEnd()}\n...and more`; // needs alone overflowed
+    let text = render(REASON_MAX, needsRes.length, others);
+    if (!fits(text)) {
+        // Largest reason clip at which Needs fits with Done/Skipped fully collapsed.
+        let reasonMax = REASON_MAX;
+        while (reasonMax > REASON_MIN && !fits(render(reasonMax, needsRes.length, 0))) reasonMax -= 10;
+        let keepNeeds = needsRes.length;
+        while (keepNeeds > 0 && !fits(render(reasonMax, keepNeeds, 0))) keepNeeds--;
+        // Keep as many Done/Skipped lines as still fit.
+        let keepOthers = others;
+        while (keepOthers > 0 && !fits(render(reasonMax, keepNeeds, keepOthers))) keepOthers--;
+        text = render(reasonMax, keepNeeds, keepOthers);
+    }
     if (!text) text = 'No movies processed.';
 
     return {
         embeds: [{
             title: postTitle ? `Trivia run: ${postTitle}` : 'Trivia run',
             description: text,
-            color: needs.length ? 0xe67e22 : stops.length ? 0xe74c3c : 0x2ecc71,
+            color: needsRes.length ? 0xe67e22 : stops.length ? 0xe74c3c : 0x2ecc71,
         }],
     };
 }
@@ -89,7 +102,7 @@ export function buildPicker(entry) {
         return {
             type: 2,
             style: 1,
-            label: clip(`${mark}${c.title}${year(c.year)} · ${c.source}`, LABEL_MAX),
+            label: clip(`${mark}${c.title}${year(c.year)}${c.source ? ` · ${c.source}` : ''}`, LABEL_MAX),
             custom_id: `pick:${entry.id}:${c.tconst}`,
         };
     });

@@ -56,12 +56,36 @@ test('long run is truncated to 4000 chars ending in ...and N more, keeping Needs
     assert.ok(d.includes('Broken'));
 });
 
-test('15 long-reason results all stay within 4000', () => {
+test('15 failures with 400-char reasons: fits, all titles kept, no lone "...and more"', () => {
     const long = 'y'.repeat(400);
     const results = [];
-    for (let i = 0; i < 15; i++) results.push({ status: 'failed', title: `F${i}`, reason: long, match: m() });
+    for (let i = 0; i < 15; i++) results.push({ status: 'failed', title: `Fail${i}x`, reason: long, match: m() });
     const d = desc(results);
     assert.ok(d.length <= 4000);
+    for (let i = 0; i < 15; i++) assert.ok(d.includes(`Fail${i}x`), `missing Fail${i}x`);
+    assert.ok(!d.includes('...and more'));
+});
+
+test('60 failures: fits, whole lines dropped, stop note kept, N matches dropped lines', () => {
+    const results = [];
+    for (let i = 0; i < 60; i++) results.push({ status: 'failed', title: `Fail${i}x`, reason: 'z'.repeat(400), match: m() });
+    results.push({ status: 'failed', title: 'Stopper', stop: 'usage', reason: 'usage limit' });
+    const d = desc(results);
+    assert.ok(d.length <= 4000);
+    assert.ok(d.includes('Run stopped'));
+    const n = Number(/\.\.\.and (\d+) more/.exec(d)[1]);
+    assert.ok(n > 0);
+    const lines = d.split('\n').filter((l) => l.startsWith('• '));
+    assert.equal(lines.length + n, 61);
+    assert.ok(lines.every((l) => /^• \*\*[^*]+\*\*: /.test(l)));
+});
+
+test('clip does not split surrogate pairs; missing source omitted from label', () => {
+    const results = [{ status: 'failed', title: '😀'.repeat(200), reason: '😀'.repeat(400), match: m() }];
+    assert.ok(desc(results).isWellFormed());
+    const e = entry(1);
+    delete e.candidates[0].source;
+    assert.ok(!buildPicker(e).components[0].components[0].label.includes('undefined'));
 });
 
 const entry = (n, guess = null) => ({
