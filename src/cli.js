@@ -6,7 +6,8 @@
 // Env: DATA_REPO_DIR (git checkout to write data/ into; default cwd), CLAUDE_MODEL (default "sonnet"),
 //      TMDB_API_KEY (optional), OPENSUBTITLES_API_KEY [+ _USERNAME/_PASSWORD] (optional, scene timing),
 //      MOVIE_DELAY_SEC (default 60), CLAUDE_TIMEOUT_MIN (default 30),
-//      PRUNE_CLAUDE_STATE=1 (container only: clear the Claude CLI's scratch folders after each run).
+//      PRUNE_CLAUDE_STATE=1 (container only: clear the Claude CLI's scratch folders after each run),
+//      DISCORD_BOT_TOKEN + DISCORD_CHANNEL_ID (both required to post a run summary and match pickers to Discord).
 import path from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { fetchWeekendMovies } from './schedule.js';
@@ -21,6 +22,9 @@ import { processMovie, runWeekend, UsageLimitError, PublishError } from './pipel
 import { runBackfill } from './backfill.js';
 import { parseArgs, USAGE } from './args.js';
 import { withLock } from './lock.js';
+import { makeDiscordApi } from './discord/api.js';
+import { makePendingStore } from './discord/pending.js';
+import { notifyRun } from './discord/notify.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
@@ -63,11 +67,25 @@ async function main() {
     });
 
     if (command === 'run') {
-        const results = await locked(() => runWeekend(deps, {
-            fetchWeekend: () => fetchWeekendMovies(),
-            delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
-            sleep,
-        }));
+        const discordOn = process.env.DISCORD_BOT_TOKEN && process.env.DISCORD_CHANNEL_ID;
+        let postTitle = null;
+        const results = await locked(async () => {
+            const res = await runWeekend(deps, {
+                fetchWeekend: async () => { const s = await fetchWeekendMovies(); postTitle = s.postTitle; return s; },
+                delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
+                sleep,
+            });
+            if (discordOn && !args.dryRun) {
+                try {
+                    await notifyRun({
+                        api: makeDiscordApi({ token: process.env.DISCORD_BOT_TOKEN, channelId: process.env.DISCORD_CHANNEL_ID }),
+                        store: makePendingStore(path.join(repoDir, '.cache', 'discord-pending.json')),
+                        results: res, postTitle, log,
+                    });
+                } catch (e) { log(`Discord notify failed: ${e.message}`); }
+            }
+            return res;
+        });
         const attempted = results.filter(r => r.status !== 'skipped');
         if (results.some(r => r.stop === 'publish')) process.exitCode = 3;
         else if (results.some(r => r.stop === 'usage')) process.exitCode = 2;
