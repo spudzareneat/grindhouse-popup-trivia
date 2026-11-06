@@ -75,3 +75,18 @@ test('commitAndPush (real git): a missing removed file is skipped without error'
     assert.equal(run('rev-list', '--count', 'HEAD').trim(), '2');
     assert.equal(run('show', '--no-renames', '--name-status', '--format=', 'HEAD').trim(), 'A\tnew.json');
 });
+
+test('removeAndPush: git rm-s tracked paths and commits only them; untracked is a no-op', () => {
+    const { calls, exec } = recorder(['data/tt0.json']);
+    assert.equal(makeGit('/repo', { exec }).removeAndPush(['data/tt0.json'], 'msg'), true);
+    assert.deepEqual(calls, [
+        ['ls-files', '--', 'data/tt0.json'],
+        ['rm', '-q', '--ignore-unmatch', '--', 'data/tt0.json'],
+        ['commit', '-m', 'msg', '--', 'data/tt0.json'],
+        ['push'],
+    ]);
+    const none = recorder();
+    assert.equal(makeGit('/repo', { exec: none.exec }).removeAndPush(['data/tt0.json'], 'msg'), false);
+    assert.deepEqual(none.calls, [['ls-files', '--', 'data/tt0.json']]);
+    assert.equal(makeGit('/repo', { dryRun: true, exec: none.exec }).removeAndPush(['x'], 'm'), false);
+});

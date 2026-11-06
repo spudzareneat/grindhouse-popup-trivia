@@ -32,6 +32,12 @@ export function makeInteractionHandler({ api, store, ownerId, channelId, saveCho
             await api.ackInteraction(interaction, 7, { content: 'This picker has expired.', components: [] });
             return;
         }
+        // The id comes from the interaction payload: only a tconst this picker actually offered may reach the CLI.
+        if (pick.tconst !== null && !(/^tt\d+$/.test(pick.tconst)
+            && ((entry.candidates ?? []).some((c) => c.tconst === pick.tconst) || pick.tconst === entry.guessTconst))) {
+            log(`discord: ignoring pick ${JSON.stringify(pick.tconst)} not offered by ${entry.id}`);
+            return;
+        }
         if (entry.status !== 'open') {
             await api.ackInteraction(interaction, 6);
             return;
@@ -41,6 +47,8 @@ export function makeInteractionHandler({ api, store, ownerId, channelId, saveCho
 
         const messageId = interaction.message?.id ?? entry.messageId;
         const edit = (payload) => api.editMessage(messageId, payload);
+        // On any failure after a pick the wrong best-guess file is still published; say so.
+        const stillPublished = entry.guessTconst ? ` The best-guess file for this title (${entry.guessTconst}) is still published.` : '';
         const reopen = async (why) => {
             store.update(entry.id, { status: 'open' });
             const picker = buildPicker(entry);
@@ -64,7 +72,7 @@ export function makeInteractionHandler({ api, store, ownerId, channelId, saveCho
                     await saveChoice({ entry, tconst: pick.tconst });
                 } catch (err) {
                     log(`discord: saving choice for ${entry.id} failed: ${err?.message ?? err}`);
-                    await reopen(`Could not save the choice: ${err?.message ?? err}`);
+                    await reopen(`Could not save the choice: ${err?.message ?? err}.${stillPublished}`);
                     return;
                 }
                 if (isNone) {
@@ -85,9 +93,14 @@ export function makeInteractionHandler({ api, store, ownerId, channelId, saveCho
                 }
                 if (res?.ok) {
                     store.update(entry.id, { status: 'done' });
-                    await edit({ content: `Done: generated ${pick.tconst} for "${entry.scheduleTitle}".`, components: [] });
+                    const content = res.skipped
+                        ? (res.removed
+                            ? `${pick.tconst} already existed; removed guess ${res.removed} for "${entry.scheduleTitle}".`
+                            : `${pick.tconst} already existed for "${entry.scheduleTitle}"; nothing generated.`)
+                        : `Done: generated ${pick.tconst} for "${entry.scheduleTitle}".`;
+                    await edit({ content, components: [] });
                 } else {
-                    await reopen(`Failed: ${res?.reason ?? 'unknown error'}`);
+                    await reopen(`Failed: ${res?.reason ?? 'unknown error'}.${stillPublished}`);
                 }
             } catch (err) {
                 log(`discord: click on ${entry.id} failed: ${err?.message ?? err}`);
@@ -145,7 +158,15 @@ export function makeRunMovie({ spawnImpl = spawn, cliPath = CLI_PATH, env = proc
         child.stderr?.on('data', grab);
         child.on('error', (err) => resolve({ ok: false, reason: String(err?.message ?? err).slice(0, 200) }));
         child.on('close', (code) => {
-            if (code === 0) return resolve({ ok: true });
+            if (code === 0) {
+                // The CLI's last line is "<ISO time> <status>[: reason][ - removed ttN]"; a skipped film was not generated.
+                const lastLine = out.split('\n').map((l) => l.trim()).filter(Boolean).at(-1) ?? '';
+                if (/^(?:\S+\s+)?skipped\b/.test(lastLine)) {
+                    const removed = /removed (tt\d+)/.exec(lastLine)?.[1];
+                    return resolve({ ok: true, skipped: true, ...(removed ? { removed } : {}) });
+                }
+                return resolve({ ok: true });
+            }
             const lines = out.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
             resolve({ ok: false, reason: (lines.at(-1) ?? `exit code ${code}`).slice(0, 200) });
         });

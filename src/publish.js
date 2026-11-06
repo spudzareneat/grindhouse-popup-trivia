@@ -14,6 +14,20 @@ export function writeDoc(dir, doc) {
 
 export function makeGit(repoDir, { dryRun = false, exec = execFileSync } = {}) {
     const git = (...args) => exec('git', ['-C', repoDir, ...args], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+    const pushWithRetry = () => {
+        try { git('push'); } catch {
+            // Remote moved (e.g. a manual edit on GitHub) -- rebase our one commit and retry once.
+            try {
+                git('pull', '--rebase', '--autostash');
+                git('push');
+            } catch (e) {
+                try { git('rebase', '--abort'); } catch { /* no rebase in progress */ }
+                throw e;
+            }
+        }
+    };
+    // Only tracked files can be removed in a commit; an unknown id is silently skipped.
+    const trackedOf = paths => paths.filter(p => String(git('ls-files', '--', p) ?? '').trim() !== '');
     return {
         pull() { if (!dryRun) git('pull', '--rebase', '--autostash'); },
         // Delivers commits stranded by an earlier failed push; fails fast on a read-only deploy key.
@@ -21,20 +35,20 @@ export function makeGit(repoDir, { dryRun = false, exec = execFileSync } = {}) {
         commitAndPush(filePath, message, removePaths = []) {
             if (dryRun) return false;
             git('add', '--', filePath);
-            // Only tracked files can be removed in the commit; an unknown id is silently skipped.
-            const tracked = removePaths.filter(p => String(git('ls-files', '--', p) ?? '').trim() !== '');
+            const tracked = trackedOf(removePaths);
             for (const p of tracked) git('rm', '-q', '--ignore-unmatch', '--', p);
             git('commit', '-m', message, '--', filePath, ...tracked);
-            try { git('push'); } catch {
-                // Remote moved (e.g. a manual edit on GitHub) -- rebase our one commit and retry once.
-                try {
-                    git('pull', '--rebase', '--autostash');
-                    git('push');
-                } catch (e) {
-                    try { git('rebase', '--abort'); } catch { /* no rebase in progress */ }
-                    throw e;
-                }
-            }
+            pushWithRetry();
+            return true;
+        },
+        // Removal-only commit (nothing to add). Returns true if something was removed, false if no path was tracked.
+        removeAndPush(paths, message) {
+            if (dryRun) return false;
+            const tracked = trackedOf(paths);
+            if (!tracked.length) return false;
+            for (const p of tracked) git('rm', '-q', '--ignore-unmatch', '--', p);
+            git('commit', '-m', message, '--', ...tracked);
+            pushWithRetry();
             return true;
         },
     };

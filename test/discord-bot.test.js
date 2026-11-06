@@ -194,3 +194,49 @@ test('runMovie spawns the CLI and reports ok / last line', async () => {
     assert.equal(bad.reason, 'last line here');
     assert.deepEqual(spawned[1][1].slice(1), ['movie', 'tt2']);
 });
+
+test('runMovie recognises a skipped result from the CLI log line', async () => {
+    const mk = (out) => () => {
+        const ch = new EventEmitter();
+        ch.stdout = new EventEmitter();
+        ch.stderr = new EventEmitter();
+        setImmediate(() => { ch.stdout.emit('data', Buffer.from(out)); ch.emit('close', 0); });
+        return ch;
+    };
+    const a = await makeRunMovie({ spawnImpl: mk('x\n2026-11-06T10:00:00.000Z skipped: already has a file — removed tt1\r\n') })({ tconst: 'tt2', replaces: 'tt1' });
+    assert.deepEqual(a, { ok: true, skipped: true, removed: 'tt1' });
+    const b = await makeRunMovie({ spawnImpl: mk('2026-11-06T10:00:00.000Z skipped: already has a file\n') })({ tconst: 'tt2' });
+    assert.deepEqual(b, { ok: true, skipped: true });
+    const c = await makeRunMovie({ spawnImpl: mk('2026-11-06T10:00:00.000Z done — 12 facts\n') })({ tconst: 'tt2' });
+    assert.deepEqual(c, { ok: true });
+});
+
+test('skipped result edits the message to "already existed", not "Done: generated"', async () => {
+    const t = setup({ runMovie: async () => ({ ok: true, skipped: true, removed: 'tt1' }) });
+    await t.handler(t.click(`pick:${t.id}:tt2`));
+    assert.match(last(t.edits).p.content, /tt2 already existed; removed guess tt1/);
+    assert.doesNotMatch(last(t.edits).p.content, /Done/);
+    assert.equal(t.store.get(t.id).status, 'done');
+    const u = setup({ runMovie: async () => ({ ok: true, skipped: true }) });
+    await u.handler(u.click(`pick:${u.id}:tt2`));
+    assert.match(last(u.edits).p.content, /already existed/);
+    assert.doesNotMatch(last(u.edits).p.content, /removed/);
+});
+
+test('a pick not offered by the picker (or not a tconst) is ignored with a log and no state change', async () => {
+    const t = setup();
+    for (const bad of ['tt999', 'abc', 'tt1x']) await t.handler(t.click(`pick:${t.id}:${bad}`));
+    assert.deepEqual(t.calls, []);
+    assert.deepEqual(t.acks, []);
+    assert.equal(t.logs.length, 3);
+    assert.equal(t.store.get(t.id).status, 'open');
+});
+
+test('failure texts say the best-guess file is still published', async () => {
+    const t = setup({ runMovie: async () => ({ ok: false, reason: 'boom' }) });
+    await t.handler(t.click(`pick:${t.id}:tt2`));
+    assert.match(last(t.edits).p.content, /best-guess file .*tt1.* still published/);
+    const u = setup({ saveChoice: async () => { throw new Error('push rejected'); } });
+    await u.handler(u.click(`pick:${u.id}:tt2`));
+    assert.match(last(u.edits).p.content, /push rejected\. The best-guess file .* still published/);
+});
