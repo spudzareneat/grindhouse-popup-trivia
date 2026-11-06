@@ -30,7 +30,7 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
    reference `refs/heads/main`, compose path `docker-compose.yml`.
 3. Environment variables: `CLAUDE_CODE_OAUTH_TOKEN=<from claude setup-token>`,
    `DEPLOY_KEY_PATH=/opt/grindhouse-popup-trivia/deploy_key`, `TZ=America/Los_Angeles`
-   (optional: `CLAUDE_MODEL`, `TMDB_API_KEY`, `OPENSUBTITLES_API_KEY` / `_USERNAME` / `_PASSWORD`, `MOVIE_DELAY_SEC`, `CLAUDE_TIMEOUT_MIN`). Deploy.
+   (optional: `CLAUDE_MODEL`, `TMDB_API_KEY`, `OPENSUBTITLES_API_KEY` / `_USERNAME` / `_PASSWORD`, `MOVIE_DELAY_SEC`, `CLAUDE_TIMEOUT_MIN`, and for Discord `DISCORD_BOT_TOKEN` / `DISCORD_CHANNEL_ID` / `DISCORD_OWNER_ID`). Deploy.
 4. Test: container → Console (user `node`, `/bin/sh`) → `cd /app && node src/cli.js movie tt0055830 --dry-run`
    then `cat /work/out/tt0055830.json`. The same console runs `node src/cli.js run` / `movie …` by hand.
 
@@ -48,18 +48,18 @@ A small bot posts a summary after each run and lets you fix wrong or missing mov
 
 1. In the [Discord developer portal](https://discord.com/developers/applications) create an application → Bot,
    and copy its token. Leave all privileged intents off.
-2. Invite it to one server (OAuth2 → URL Generator → scope `bot`, permission **Send Messages**). That is all it
+2. Invite it to one server (OAuth2 → URL Generator → scope `bot`, permissions **View Channel** and **Send Messages**; View Channel matters if the channel is private). That is all it
    needs: it posts and edits its own messages and receives button clicks.
 3. In Discord enable Developer Mode (Settings → Advanced), then right-click the channel and your own user →
    Copy ID.
 4. Set `DISCORD_BOT_TOKEN`, `DISCORD_CHANNEL_ID` and `DISCORD_OWNER_ID` (`.env` or the Portainer stack
-   variables) and redeploy. With no token nothing changes. `docker compose run --rm generator bot` runs the bot alone.
+   variables) and redeploy. All three are required: the bot that handles clicks does not start unless every one is set. With no token nothing changes. `docker compose run --rm generator bot` runs the bot alone.
 
 After each run the bot posts one summary message (movies generated, skipped and failed, with short reasons). Each
 movie that was unmatched or only a best guess gets its own message with a button per candidate title plus "None of these".
 Clicking a candidate (only you can) saves it to `overrides/title-overrides.json`, generates the pick, and, if a guess
 file was already published for that movie, replaces it in the same commit. "None of these" dismisses the message and never
-deletes a generated file. The overrides file is committed alongside `data/`. Candidate search uses TMDB, so set `TMDB_API_KEY`.
+deletes a generated file. The overrides file is committed alongside `data/`. Candidate search uses IMDb and TMDB: TMDB only widens it, and matching falls back to TMDB only when `TMDB_API_KEY` is set.
 
 Hand-editing: files in `data/` are plain JSON — fix or delete a fact on GitHub; the next run skips movies
 that already have a file.
