@@ -53,8 +53,7 @@ function realRepo() {
     const run = (...a) => execFileSync('git', ['-C', dir, ...a], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
     run('init', '-q');
     run('config', 'user.name', 'T'); run('config', 'user.email', 't@example.com'); run('config', 'commit.gpgsign', 'false');
-    fs.writeFileSync(path.join(dir, 'old.json'), '{}
-');
+    fs.writeFileSync(path.join(dir, 'old.json'), '{}\n');
     run('add', '.'); run('commit', '-q', '-m', 'init');
     const exec = (cmd, args, opts) => args[2] === 'push' ? '' : execFileSync(cmd, args, opts);
     return { dir, run, git: makeGit(dir, { exec }) };
@@ -63,20 +62,17 @@ function realRepo() {
 test('commitAndPush (real git): a tracked removed file is deleted in the same commit', () => {
     const { dir, run, git } = realRepo();
     const nu = path.join(dir, 'new.json');
-    fs.writeFileSync(nu, '{}
-');
+    fs.writeFileSync(nu, '{}\n');
     git.commitAndPush(nu, 'replace', [path.join(dir, 'old.json')]);
     assert.equal(run('rev-list', '--count', 'HEAD').trim(), '2');
-    assert.deepEqual(run('show', '--name-status', '--format=', 'HEAD').trim().split(/?
-/).sort(), ['A	new.json', 'D	old.json']);
+    assert.deepEqual(run('show', '--no-renames', '--name-status', '--format=', 'HEAD').trim().split(/\r?\n/).sort(), ['A\tnew.json', 'D\told.json']);
 });
 
 test('commitAndPush (real git): a missing removed file is skipped without error', () => {
     const { dir, run, git } = realRepo();
     const nu = path.join(dir, 'new.json');
-    fs.writeFileSync(nu, '{}
-');
+    fs.writeFileSync(nu, '{}\n');
     git.commitAndPush(nu, 'add only', [path.join(dir, 'ghost.json')]);
     assert.equal(run('rev-list', '--count', 'HEAD').trim(), '2');
-    assert.equal(run('show', '--name-status', '--format=', 'HEAD').trim(), 'A	new.json');
+    assert.equal(run('show', '--no-renames', '--name-status', '--format=', 'HEAD').trim(), 'A\tnew.json');
 });
