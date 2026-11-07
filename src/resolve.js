@@ -39,7 +39,7 @@ export async function resolveTitle(item, { imdb, tmdb, overrides, log } = {}) {
   const search = (svc, key, term) => {
     const k = `${key}:${term}`;
     if (!cache.has(k)) {
-      cache.set(k, (async () => (await svc?.searchCandidates?.(term)) || [])().then(
+      cache.set(k, (async () => (await svc?.searchCandidates?.(term, item.year ?? null)) || [])().then(
         r => ({ items: r.filter(c => c && c.tconst), failed: false }),
         e => { log?.(`  ${key} candidate search for "${term}" failed: ${e?.message ?? e}`); return { items: [], failed: true }; },
       ));
