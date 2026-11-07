@@ -1,0 +1,382 @@
+{
+  "schema": 1,
+  "imdbId": "tt0101579",
+  "title": "China O'Brien II",
+  "year": 1990,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-11-07T00:59:50.332Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Golden Harvest had director Robert Clouse shoot China O'Brien II right after the first film, before the original had even been released.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Robert Clouse made Bruce Lee's Enter the Dragon (1973), then completed Lee's unfinished Game of Death with a new storyline and cast in 1978.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0167195"
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Cynthia Rothrock (Sheriff China O'Brien) was an undefeated World Karate Champion in forms and weapons for five straight years, 1981 to 1985.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001686",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYwNzIyNGMtNTBjMy00Zjc2LWE5NzktZjgxYTcwZjdkYTdmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Melanie Good, the birthday stripper in this scene, made her screen debut in China O'Brien II.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 795,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The mayor praises two crime-free years because the sequel is set two years after the first film, with China now sheriff and Matt and Dakota her deputies, per Den of Geek.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/china-obrien/40235/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 845,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "China dedicates her plaque to her late father, a cop. Film scholar Rikke Schubart says producers gave Cynthia Rothrock's character a slain-cop dad to make her seem more feminine and less threatening.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/China_O%27Brien"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cynthia Rothrock tore the ligament in her right knee in the mid-80s and skipped surgery. Doctors found her thigh muscles were strong enough to hold the kneecap in place without it.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001686",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYwNzIyNGMtNTBjMy00Zjc2LWE5NzktZjgxYTcwZjdkYTdmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 945,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Cindy Clark plays dispatcher Lucille. Den of Geek calls her a sassy desk sergeant and notes China's department now has women on staff, unlike in the first film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/china-obrien/40235/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 1120,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Chester, the mountain man who gets drunk and wrecks Lizard's place, is one of the quirky small-town background characters Den of Geek singles out as a highlight of the sequel.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/china-obrien/40235/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Norton (Deputy Matt Conroy) worked as a bodyguard for Rod Stewart, David Bowie and Fleetwood Mac before becoming a screen fighter.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0636280"
+    },
+    {
+      "t": 1350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before she was famous, Tori Amos recorded the song 'Distant Storm' for the first China O'Brien film under the fake band name Tess Makes Good.",
+      "icon": "boombox",
+      "byline": "Tori Amos",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/China_O%27Brien"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cynthia Rothrock is said to be the inspiration for Sonya Blade, the fighter in the Mortal Kombat video games.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001686",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYwNzIyNGMtNTBjMy00Zjc2LWE5NzktZjgxYTcwZjdkYTdmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Fred Weintraub owned the Greenwich Village club the Bitter End, where he booked Peter, Paul and Mary and Lenny Bruce, and later oversaw Woodstock as a Warner Bros. executive.",
+      "icon": "star",
+      "byline": "Fred Weintraub — Producer",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Weintraub"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Keith Cooke (Deputy Dakota) auditioned for Liu Kang in 1995's Mortal Kombat but was cast as the green ninja Reptile instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0177455",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NTAzMDcwNl5BMl5BanBnXkFtZTcwMzk3NDY3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Variety called the first China O'Brien 'an okay showcase' for Cynthia Rothrock. Golden Harvest made both films to build her profile in America after her Hong Kong stardom.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/China_O%27Brien"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Keith Cooke was born Keith Hirabayashi. Producer Fred Weintraub suggested the stage name Cooke, his mother's surname, as it sounded more all-American.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0177455",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NTAzMDcwNl5BMl5BanBnXkFtZTcwMzk3NDY3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Norton trained gymnast Kurt Thomas for Gymkata (1985) and helped choreograph it. Gymkata was directed by Robert Clouse, who also made this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0636280"
+    },
+    {
+      "t": 2600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Robert Clouse's Enter the Dragon cost about $850,000 and grossed an estimated $90 million worldwide. It was added to the U.S. National Film Registry in 2004.",
+      "icon": "money",
+      "byline": "Robert Clouse — Director",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_Clouse"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Some fights were shot after principal photography to pad the running time. Billy Blanks was cast at short notice for a fight with Keith Cooke (Dakota).",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Keith Cooke and Billy Blanks fought again in The King of the Kickboxers (1990). There Cooke's character dies off-screen at the hands of Blanks' villain, Khan.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sandra Weintraub wrote the story for the first China O'Brien, and Den of Geek says a different writing team adapted her outline for this sequel. Her father Fred Weintraub produced both films.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/china-obrien/40235/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Flickering Myth's review says Keith Cooke gets more to do here than in the first film. It also says Billy Blanks adds some edge as one of the drug-dealing thugs.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.flickeringmyth.com/4k-ultra-hd-review-china-obrien-china-obrien-2/"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Norton and Cynthia Rothrock co-starred in five martial arts films: both China O'Brien films, Lady Dragon, Rage and Honor, and Rage and Honor II.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0636280"
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Den of Geek's look back at the series points to the sequel's quirky fighters: a metal-clawed brawler, chefs who chop in unison and a whip-cracking Indiana Jones type.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wikipedia notes fans rate the sequel level with the first film, though the film was criticised for another aging villain who can't fight and has no final showdown.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Golden Harvest stopped at two China O'Brien films. Den of Geek's retrospective laments that a TV series or books never followed, despite how well the sequel's action held up.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.denofgeek.com/movies/china-obrien/40235/looking-back-at-the-china-o-brien-films"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cynthia Rothrock made her acting debut in Hong Kong's Yes, Madam (1985) opposite Michelle Yeoh, before Golden Harvest brought her to Hollywood-style roles like this one.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001686",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYwNzIyNGMtNTBjMy00Zjc2LWE5NzktZjgxYTcwZjdkYTdmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Norton's first screen role was in Chuck Norris' The Octagon (1980). Fighting Stars magazine later ranked their fight #13 among the 25 greatest fight scenes ever.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0636280"
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Both China O'Brien films came out together on a double VHS in 1991, becoming rental-store staples for martial arts fans.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film gets a nod in the documentary In Search of the Last Action Heroes (2019), which also features Cynthia Rothrock.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Norton (Deputy Matt Conroy) died on March 30, 2025. He worked on more than 80 films and TV shows as an actor, stunt performer and fight choreographer.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0636280"
+    }
+  ]
+}
