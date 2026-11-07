@@ -4,6 +4,8 @@
 // pinned-order != recency, "==Friday==" decorated headers, "(1998))" typo parens,
 // themed "==Halloween Eve Friday==" day headers, tags nested inside <strong> headers).
 
+import { minimalFetch } from './http.js';
+
 export const FEED_URL = 'https://www.reddit.com/r/420Grindhouse/.rss';
 const BROWSER_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 const DAY_NAMES = ['Friday', 'Saturday', 'Sunday'];
@@ -157,7 +159,8 @@ export function flattenMovies(days) {
     return out;
 }
 
-export async function fetchWeekendMovies(fetchImpl = fetch) {
+// minimalFetch, not the global fetch: Reddit 403s Node's fetch from this server but serves a bare request.
+export async function fetchWeekendMovies(fetchImpl = minimalFetch) {
     const res = await fetchImpl(FEED_URL, { headers: { 'User-Agent': BROWSER_UA }, signal: AbortSignal.timeout(20000) });
     if (!res.ok) throw new Error('Reddit feed HTTP ' + res.status);
     const entry = selectCurrentEntry(parseEntries(await res.text()));
