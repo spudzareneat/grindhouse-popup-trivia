@@ -156,3 +156,13 @@ test('an unsure match missing from the gathered pool is added first, deduped, st
   assert.equal(inPool.candidates.filter(c => c.tconst === 'tt1').length, 1);
   assert.equal(inPool.candidates[0].tconst, 'tt1');
 });
+
+test('passes the schedule year to the TMDB search so a year-filtered search can find films that rank low unfiltered', async () => {
+  const seen = [];
+  const imdb = { searchTitle: async () => null, searchCandidates: async () => [] };
+  const tmdb = { searchCandidates: async (t, y) => { seen.push([t, y]); return y === 1979 ? [{ tconst: 'tt0079882', title: 'Seven', year: 1979, votes: 40, source: 'tmdb' }] : []; } };
+  const r = await resolveTitle({ title: 'Seven', year: 1979, akas: [] }, { imdb, tmdb, overrides: { picks: {}, dismissed: {} } });
+  assert.equal(r.tconst, 'tt0079882');
+  assert.equal(r.source, 'tmdb');
+  assert.ok(seen.length > 0 && seen.every(([, y]) => y === 1979));
+});

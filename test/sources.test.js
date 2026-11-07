@@ -152,3 +152,33 @@ test('tmdb searchCandidates without key -> [], no requests', async () => {
     assert.deepEqual(await makeTmdb('', f).searchCandidates('x'), []);
     assert.equal(calls.length, 0);
 });
+
+// "Seven (1979)" is buried under Se7en and a pile of other "Seven"s in an unfiltered TMDB search, but
+// is the top hit when TMDB is asked for that release year.
+test('tmdb searchCandidates with a year asks TMDB for that year first, then the plain search, de-duplicated', async () => {
+    const calls = [];
+    const f = async (url) => {
+        calls.push(url);
+        const u = new URL(url);
+        if (u.pathname === '/3/search/movie') {
+            const hits = u.searchParams.get('year') === '1979'
+                ? [{ id: 102961, title: 'Seven', release_date: '1979-09-07', vote_count: 40 }]
+                : [{ id: 807, title: 'Se7en', release_date: '1995-09-22', vote_count: 9000 }, { id: 102961, title: 'Seven', release_date: '1979-09-07', vote_count: 40 }];
+            return jsonResponse({ results: hits });
+        }
+        const m = u.pathname.match(/^\/3\/movie\/(\d+)\/external_ids$/);
+        if (m) return jsonResponse({ imdb_id: m[1] === '102961' ? 'tt0079882' : 'tt0114369' });
+        throw new Error('unexpected ' + url);
+    };
+    const c = await makeTmdb('KEY', f).searchCandidates('Seven', 1979);
+    assert.deepEqual(c.map(x => x.tconst), ['tt0079882', 'tt0114369']);
+    assert.ok(calls.some(u => new URL(u).searchParams.get('year') === '1979'));
+    assert.equal(calls.filter(u => u.includes('/102961/external_ids')).length, 1, 'a film found by both searches is looked up once');
+});
+
+test('tmdb searchCandidates without a year sends no year parameter', async () => {
+    const { f, calls } = tmdbFetch();
+    await makeTmdb('KEY', f).searchCandidates('x');
+    assert.ok(calls.filter(u => u.includes('/search/movie')).every(u => !new URL(u).searchParams.has('year')));
+    assert.equal(calls.filter(u => u.includes('/search/movie')).length, 1);
+});
