@@ -142,3 +142,32 @@ test('notifyFailure posts a truncated "Run failed" embed and never throws', asyn
     assert.ok(logs.some(l => l.includes('discord down')));
     await notifyFailure({ api: null, error: null });
 });
+
+// First live run: both pickers were rejected by Discord (HTTP 400), yet their store entries stayed
+// "open", and the one-picker-per-title rule then blocked every later attempt for those titles.
+test('a picker that fails to post is not left open, so the next run can post it', async () => {
+    const t = setup({ postMessage: async (p) => { if (p.components) throw new Error('HTTP 400'); return { id: 'sum' }; } });
+    try {
+        await notifyRun({ api: t.api, store: t.store, results: [notFound], log: t.log });
+        assert.ok(t.logs.some(l => l.includes('HTTP 400')));
+        assert.equal(t.store.list().filter(e => e.status === 'open').length, 0);
+
+        const second = setup();
+        second.store = t.store;
+        await notifyRun({ api: second.api, store: t.store, results: [notFound], log: second.log });
+        assert.equal(second.posted.filter(p => p.components).length, 1);
+        const open = t.store.list().filter(e => e.status === 'open');
+        assert.equal(open.length, 1);
+        assert.ok(open[0].messageId);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+test('an open entry that never got a message (left by an older failed post) does not block a new picker', async () => {
+    const t = setup();
+    try {
+        t.store.add({ scheduleTitle: notFound.match.scheduleTitle, scheduleYear: notFound.match.scheduleYear, candidates: cands, guessTconst: null, guessFile: null, messageId: null });
+        await notifyRun({ api: t.api, store: t.store, results: [notFound], log: t.log });
+        assert.equal(t.posted.filter(p => p.components).length, 1);
+        assert.ok(t.store.list().some(e => e.status === 'open' && e.messageId));
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
