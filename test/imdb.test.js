@@ -93,3 +93,16 @@ test('fetchBundle people carry a headshot (or null when IMDb has none / lookup f
     assert.equal(b.people[0].image, 'https://m.media-amazon.com/images/M/abc@._V1_QL75_UX120_CR0,0,120,120_.jpg');
     assert.equal(b.people[1].image, null);
 });
+
+test('searchCandidates: movies and videos only, most votes first, no similarity filter', async () => {
+    const imdb = makeImdb(imdbStub(() => search([
+        ent('tt1', 'Totally Different', 1980, 'movie', 10),
+        ent('tt2', 'Some Series', 1990, 'tvSeries', 9999),
+        ent('tt3', 'Straight To Tape', 1995, 'video', 500),
+    ])));
+    const c = await imdb.searchCandidates('whatever');
+    assert.deepEqual(c, [
+        { tconst: 'tt3', title: 'Straight To Tape', year: 1995, votes: 500, source: 'imdb' },
+        { tconst: 'tt1', title: 'Totally Different', year: 1980, votes: 10, source: 'imdb' },
+    ]);
+});
