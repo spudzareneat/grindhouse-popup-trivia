@@ -1,0 +1,562 @@
+{
+  "schema": 1,
+  "imdbId": "tt0079882",
+  "title": "Seven",
+  "year": 1979,
+  "runtimeSec": 6000,
+  "generatedAt": "2026-11-07T01:11:04.838Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening credits print out like computer readouts, one line at a time. Director Andy Sidaris reuses the gimmick to introduce each cartel boss with height, weight and aliases.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Andy Sidaris spent years at ABC Sports and won Emmys for the 1968 and 1976 Olympics. He reportedly gave this movie the look of a Wide World of Sports broadcast.",
+      "icon": "camera",
+      "byline": "Andy Sidaris — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sidaris was the first director of ABC's Wide World of Sports and stayed about 25 years. His LA Times obituary credited him with instant replay, slow-mo replay and split-screen sports coverage.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/05/12/an-introduction-to-the-films-of-andy-sidaris/"
+      },
+      "person": "nm0796477",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkzMDg5MjQ0Ml5BMl5BanBnXkFtZTcwODI2ODQ0MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sidaris also choreographed the football game in Robert Altman's M*A*S*H before turning to B-movies he called 'Bullets, Bombs and Babes.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/05/12/an-introduction-to-the-films-of-andy-sidaris/"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This movie's story reportedly came together after a bank loan fell through on Sidaris' planned film Malibu Express. He made Seven first and finally made Malibu Express six years later.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trade paper The Hollywood Reporter budgeted Seven at $2 million and said it had 'just completed' shooting in its February 7, 1979 issue.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Credited screenwriter Robert Baird is a pseudonym. It belongs to writer and photographer William Edgar.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewing the Kino Lorber Blu-ray, Brian Orndorf said Seven 'understands ridiculousness, but remains focused enough to supply a fun ride.' It shares its title with David Fincher's 1995 Se7en.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://brianorndorf.com/2018/08/13/blu-ray-review-seven"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Seven was filmed on Oahu and Kauai. One reviewer at ZekeFilm says it rained the whole shoot, which would explain why the tropical paradise looks so gloomy.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.zekefilm.org/2018/06/23/seven-1979-blu-ray-review/"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Variety was unimpressed: it called Seven 'filled with stock Hawaiian footage, and not very good stuff at that' and warned that it 'lags continually.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Britain's Monthly Film Bulletin dismissed the film as 'thoroughly mechanical' but noted its bizarre executions, including a hang-glider, a laser gun and an inflatable sex doll.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Seven is credited with an early version of the 'shoot the swordsman' gag that Raiders of the Lost Ark made famous in 1981.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star William Smith (hitman Drew) was Falconetti in the 1976 miniseries Rich Man, Poor Man. He joined Hawaii Five-O for its final season, also shot in Hawaii.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      },
+      "person": "nm0810342",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQyNTcyZWEtOTk2OS00YmM0LTg4ZjItNWE1NTM1YzdlNWE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "William Smith studied kung fu for eight years and trained in kenpo karate with Ed Parker, who also appears in Seven playing himself.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0810342",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQyNTcyZWEtOTk2OS00YmM0LTg4ZjItNWE1NTM1YzdlNWE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bruce Lee personally offered William Smith (Drew) the co-lead in Enter the Dragon. Another film ran over schedule, and John Saxon took the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0810342",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQyNTcyZWEtOTk2OS00YmM0LTg4ZjItNWE1NTM1YzdlNWE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "William Smith threw the discus 151 feet when the top AAU distance was 150.6, and once did over 5,100 continuous sit-ups in five hours.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0810342",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQyNTcyZWEtOTk2OS00YmM0LTg4ZjItNWE1NTM1YzdlNWE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "ZekeFilm's reviewer says the finale car chase was shot on back roads along the Meramec River outside St. Louis, so parts of this Hawaii movie look like southern Missouri.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.zekefilm.org/2018/06/23/seven-1979-blu-ray-review/"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lenny Montana, who plays the kingpin The Kahuna, was a real pro wrestler. He is best known as hulking mobster Luca Brasi in The Godfather.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Reggie Nalder, who plays crime lord The Hermit, played the vampire Barlow in Salem's Lot the same year.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Barbara Leigh (Alexa) was the first model to wear the Vampirella costume on the cover of Warren's Vampirella magazine, in 1978. She also starred beside her boyfriend Steve McQueen in Junior Bonner.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0500175",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNDkwMjc2Ml5BMl5BanBnXkFtZTYwNDQyMTky._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Karate master Ed Parker plays himself in Seven. A blogger at Good Efficient Butchery says his students reportedly included Elvis Presley.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Seven was Susan Kiger's first Playboy-Playmate casting in a Sidaris movie, a staple he kept for the rest of his career. Kiger also made the sorority comedy H.O.T.S. in 1979.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Art Metrano plays a doomed stand-up comic here. Six years later he became Lieutenant Mauser in Police Academy 2 and 3.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0582586",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTIzNzMyNjEyM15BMl5BanBnXkFtZTcwMTg1NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "For Art Metrano's nightclub routine, director Andy Sidaris told him to 'go wild.' Co-star Martin Kove reportedly laughed throughout the scene.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0582586",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTIzNzMyNjEyM15BMl5BanBnXkFtZTcwMTg1NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Art Metrano fell from a ladder in later life, broke his neck in six places and used a wheelchair. His stage show The Accidental Comedy raised money for spinal cord injury research.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0582586",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTIzNzMyNjEyM15BMl5BanBnXkFtZTcwMTg1NDYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tadashi Yamashita plays the swordsman here. In 1980 he played a ninja in Chuck Norris' The Octagon, and later the Black Star Ninja in American Ninja.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "ZekeFilm noted that, unlike the 'silicone era' of Andy Sidaris' later Bullets, Bombs and Babes films, every body on screen in Seven is natural.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.zekefilm.org/2018/06/23/seven-1979-blu-ray-review/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Richard LePore's 'The Professor,' the team's gadget man, returns nine years later in Sidaris' Picasso Trigger (1988), alongside Guich Koock's character.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Guich Koock, who plays The Cowboy, once bought the entire town of Luckenbach, Texas in the early 1970s. He also appeared in Piranha (1978).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0465515"
+    },
+    {
+      "t": 3800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Audiences kept seeing hang-gliders, helicopters, boats, jets and Cadillacs in Seven. Sidaris reused that toybox in his later Bullets, Bombs and Babes series.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Susan Kiger was Playboy's January 1977 Playmate. She had a busy 1979, appearing in Seven, H.O.T.S. and Angels' Revenge, and later in the sci-fi spoof Galaxina (1980).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Susan_Kiger"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The line 'Hiyah, my ass!' that martial-arts legend Ed Parker delivers here returns in Sidaris' 1992 film Guns, where Dona Speir says it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Melvin Simon, the mall magnate behind Seven, also backed the vampire comedy Love at First Bite (1979) and later the raunchy teen hit Porky's.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety also noticed that Seven's product placement was 'heavy-handed' and 'enumerated again with a final credit.' One blogger counts Orange Julius and Subaru plugs.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Seven was produced by shopping-mall magnate Melvin Simon and released by American International Pictures. It is the only Sidaris film he didn't own himself.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Seven came out as American International Pictures was winding down. The company soon became Filmways Pictures, and it hardly shows: the film has no studio logo at all.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The only music is uncredited, with no composer named anywhere, even on the closing credits. Sidaris may have borrowed tracks from ABC's Wide World of Sports library.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Its tagline promised 'Death is their way of life!' Drew is paid $7 million, one million per dead boss, and has just 30 minutes to finish the job.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Seven's plan hinges on a tight window: all the targets must die within about half an hour, before any one of the gangsters can warn the rest.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2018/05/retro-review-seven-1979.html?m=0"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Seven is virtually the only Sidaris film with no true sex scene, only post-sex scenes. The silicone-and-sex era of his later movies hadn't started yet.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Seven got no DVD or Blu-ray release until Kino Lorber put out an uncut Blu-ray in May 2018, almost 40 years after it opened.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Seven-Blu-ray/200475"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A shortened 90-minute version aired on MGM's cable channel. Kino Lorber's restored cut puts back about eleven minutes, including more of the fights.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the late 1980s the film was rereleased on video as part of Sybil Danning's Adventure Videos. Fans rented them expecting her to be in them and demanded refunds.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Hard Ticket to Hawaii (1987), a Sidaris movie later named best B-movie of all time by Paste magazine in 2014, reportedly references Seven.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Kino Lorber Blu-ray reviewed on Blu-ray.com, by critic Brian Orndorf, rated the movie 2.5 out of 5. Blu-ray.com noted it hadn't been available since VHS.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Seven-Blu-ray/200475"
+      }
+    },
+    {
+      "t": 5750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Seven premiered in Los Angeles on September 21, 1979, with American International Pictures as distributor.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sidaris' next projects were years away: his first fully independent film, Malibu Express, arrived in 1985 and starred Art Metrano.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
