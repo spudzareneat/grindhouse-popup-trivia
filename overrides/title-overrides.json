@@ -4,5 +4,7 @@
     "black cobra woman|1976": "tt0074501",
     "skateboard kid|1993": "tt0108153"
   },
-  "dismissed": {}
+  "dismissed": {
+    "seven|1979": true
+  }
 }
