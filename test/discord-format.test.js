@@ -93,20 +93,32 @@ const entry = (n, guess = null) => ({
     candidates: Array.from({ length: n }, (_, i) => ({ tconst: `tt${i}`, title: `T${i}`, year: 2000 + i, votes: 1, source: i % 2 ? 'tmdb' : 'imdb' })),
 });
 
-test('buildPicker caps at 5 candidates plus None of these', () => {
+test('buildPicker caps at 5 candidates plus None of these, spread over rows of at most 5 buttons', () => {
     const p = buildPicker(entry(8, 'tt1'));
-    const row = p.components[0];
-    assert.equal(row.type, 1);
-    assert.equal(row.components.length, 6);
-    assert.ok(row.components.every((b) => b.type === 2 && b.custom_id.length < 100 && b.label.length <= 80));
-    assert.equal(row.components[0].custom_id, 'pick:e1:tt0');
-    assert.ok(row.components[1].label.startsWith('✓ '));
-    assert.ok(!row.components[0].label.startsWith('✓'));
-    const none = row.components.at(-1);
+    const buttons = p.components.flatMap((row) => row.components);
+    assert.equal(buttons.length, 6);
+    assert.ok(p.components.every((row) => row.type === 1));
+    assert.ok(buttons.every((b) => b.type === 2 && b.custom_id.length < 100 && b.label.length <= 80));
+    assert.equal(buttons[0].custom_id, 'pick:e1:tt0');
+    assert.ok(buttons[1].label.startsWith('✓ '));
+    assert.ok(!buttons[0].label.startsWith('✓'));
+    const none = buttons.at(-1);
     assert.equal(none.custom_id, 'pick:e1:none');
     assert.equal(none.style, 2);
     assert.equal(none.label, 'None of these');
     assert.ok(p.content.includes('S'));
+});
+
+// Discord rejects the whole message (HTTP 400, "Must be between 1 and 5 in length") when an
+// action row holds more than 5 buttons; the first live run hit this with 5 candidates + None.
+test('buildPicker never puts more than 5 buttons in a row, for any number of candidates', () => {
+    for (let n = 0; n <= 8; n++) {
+        const p = buildPicker(entry(n));
+        assert.ok(p.components.length >= 1 && p.components.length <= 5, `${n} candidates: rows`);
+        for (const row of p.components) assert.ok(row.components.length >= 1 && row.components.length <= 5, `${n} candidates: row size ${row.components.length}`);
+        assert.equal(p.components.flatMap((row) => row.components).length, Math.min(n, 5) + 1, `${n} candidates: total buttons`);
+        assert.equal(p.components.at(-1).components.at(-1).custom_id, 'pick:e1:none');
+    }
 });
 
 test('buildPicker truncates long labels and handles zero candidates', () => {

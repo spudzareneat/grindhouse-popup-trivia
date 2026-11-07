@@ -2,6 +2,7 @@
 
 const BUDGET = 4000;
 const MAX_CANDIDATES = 5;
+const BUTTONS_PER_ROW = 5;
 const LABEL_MAX = 80;
 const REASON_MAX = 300;
 const REASON_MIN = 60;
@@ -107,9 +108,13 @@ export function buildPicker(entry) {
         };
     });
     buttons.push({ type: 2, style: 2, label: 'None of these', custom_id: `pick:${entry.id}:none` });
+    // Discord allows at most 5 buttons per action row (more is an HTTP 400 for the whole message), so
+    // 5 candidates + "None of these" goes over two rows.
+    const rows = [];
+    for (let i = 0; i < buttons.length; i += BUTTONS_PER_ROW) rows.push({ type: 1, components: buttons.slice(i, i + BUTTONS_PER_ROW) });
     return {
         content: clip(`Which film is "${entry.scheduleTitle}"${year(entry.scheduleYear)}?`, 2000),
-        components: [{ type: 1, components: buttons }],
+        components: rows,
     };
 }
 

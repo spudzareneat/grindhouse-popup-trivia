@@ -13,16 +13,18 @@ export async function notifyRun({ api, store, results, postTitle = null, dismiss
     } catch (e) { warn('summary post', e); }
     try {
         for (const r of results ?? []) {
+            let id = null;
             try {
                 if (!needsPicker(r)) continue;
                 const m = r.match;
                 const key = overrideKey(m.scheduleTitle, m.scheduleYear);
                 if (dismissed?.[key]) continue;
                 // One picker per title: a later run must not stack a second one on an unanswered first.
-                if (store.list().some(e => (e.status === 'open' || e.status === 'running') && overrideKey(e.scheduleTitle, e.scheduleYear) === key)) continue;
+                // An entry with no message id never reached Discord (its post failed), so nobody can answer it.
+                if (store.list().some(e => e.messageId && (e.status === 'open' || e.status === 'running') && overrideKey(e.scheduleTitle, e.scheduleYear) === key)) continue;
                 const published = r.status === 'done' || (r.status === 'skipped' && /already has a file/i.test(r.reason ?? ''));
                 const guessed = published && m.confidence === 'unsure' && !!r.tconst;
-                const id = store.add({
+                id = store.add({
                     scheduleTitle: m.scheduleTitle,
                     scheduleYear: m.scheduleYear,
                     candidates: m.candidates,
@@ -32,7 +34,11 @@ export async function notifyRun({ api, store, results, postTitle = null, dismiss
                 });
                 const msg = await api.postMessage(buildPicker(store.get(id)));
                 store.update(id, { messageId: msg.id });
-            } catch (e) { warn(`picker for "${r?.title}"`, e); }
+            } catch (e) {
+                warn(`picker for "${r?.title}"`, e);
+                // The picker never reached the channel: don't leave an open entry nobody can answer.
+                if (id) { try { store.update(id, { status: 'expired' }); } catch { /* best effort */ } }
+            }
         }
     } catch (e) { warn('pickers', e); }
 }
