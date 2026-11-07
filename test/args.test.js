@@ -18,3 +18,10 @@ test('parseArgs: valid movie args', () => {
     assert.equal(a.dryRun, true);
     assert.equal(a.force, false);
 });
+
+test('parseArgs: --replaces takes a tconst, defaults to null', () => {
+    assert.equal(parseArgs(['movie', 'X']).replaces, null);
+    assert.equal(parseArgs(['movie', 'X', '--replaces', 'tt123']).replaces, 'tt123');
+    assert.match(parseArgs(['movie', 'X', '--replaces', 'nope']).error, /--replaces/);
+    assert.match(parseArgs(['movie', 'X', '--replaces']).error, /--replaces/);
+});

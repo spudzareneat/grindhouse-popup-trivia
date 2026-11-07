@@ -24,14 +24,18 @@ export function titleTokens(s) {
     return new Set(normalizeTitle(s).split(' ').filter(w => w && !TITLE_STOPWORDS.has(w)));
 }
 
-// Dice coefficient over normalized, stopword-stripped word sets (>= 0.7).
-export function titlesMatch(a, b) {
+// Dice coefficient over normalized, stopword-stripped word sets, in [0, 1].
+export function titleSimilarity(a, b) {
     const setA = titleTokens(a);
     const setB = titleTokens(b);
-    if (!setA.size || !setB.size) return false;
+    if (!setA.size || !setB.size) return 0;
     let intersection = 0;
     for (const w of setA) if (setB.has(w)) intersection++;
-    return (2 * intersection) / (setA.size + setB.size) >= 0.7;
+    return (2 * intersection) / (setA.size + setB.size);
+}
+
+export function titlesMatch(a, b) {
+    return titleSimilarity(a, b) >= 0.7;
 }
 
 // Fallback search terms for a schedule title that found nothing on IMDb as written, best

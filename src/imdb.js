@@ -58,11 +58,16 @@ export function makeImdb(fetchImpl = fetch) {
     }
 
     // Movie-ish titles first; series/episodes are never eligible (spec: skip TV).
-    async function searchAndMatch(term) {
+    async function searchResults(term) {
         const data = await query('MainSearch', SEARCH_Q, { term });
-        const results = (data.mainSearch?.edges || []).map(e => e?.node?.entity).filter(e => e && e.id);
+        return (data.mainSearch?.edges || []).map(e => e?.node?.entity).filter(e => e && e.id);
+    }
+    const movieTypeOnly = results => results.filter(r => MOVIE_TYPES.includes(r.titleType?.id));
+
+    async function searchAndMatch(term) {
+        const results = await searchResults(term);
         const tiers = [
-            results.filter(r => MOVIE_TYPES.includes(r.titleType?.id)),
+            movieTypeOnly(results),
             results.filter(r => !r.titleType?.isSeries && !r.titleType?.isEpisode && r.titleType?.id !== 'podcastEpisode'),
         ];
         for (const tier of tiers) {
@@ -88,6 +93,14 @@ export function makeImdb(fetchImpl = fetch) {
         if (!pool.length) return null;
         const best = pool.slice().sort(byVotesDesc)[0];
         return { tconst: best.id, title: best.titleText?.text ?? title, year: best.releaseYear?.year ?? year };
+    }
+
+    // Picker candidates: no title-similarity filter, the human chooses.
+    async function searchCandidates(term) {
+        return movieTypeOnly(await searchResults(term)).sort(byVotesDesc).slice(0, 10).map(r => ({
+            tconst: r.id, title: r.titleText?.text ?? '', year: r.releaseYear?.year ?? null,
+            votes: r.ratingsSummary?.voteCount ?? 0, source: 'imdb',
+        }));
     }
 
     async function fetchPerson(p, excludeTconst) {
@@ -141,5 +154,5 @@ export function makeImdb(fetchImpl = fetch) {
         };
     }
 
-    return { query, searchTitle, fetchBundle };
+    return { query, searchTitle, searchCandidates, fetchBundle };
 }
