@@ -65,8 +65,6 @@ async function main() {
 
     // run and movie share one checkout, so they take turns; dry runs and backfill-totals do not touch it.
     // The Claude CLI's scratch state is cleared while we still hold the lock, so a waiting holder never loses its folders.
-    let pruned = false;
-    const prune = () => { if (process.env.PRUNE_CLAUDE_STATE === '1') { pruned = true; pruneClaudeState(); } };
     const locked = fn => args.dryRun ? fn() : withLock(path.join(repoDir, '.cache', 'run.lock'), async () => {
         try { return await fn(); } finally { prune(); }
     }, {
@@ -135,6 +133,10 @@ async function main() {
         }
     }
 }
+
+// Module scope on purpose: the final .finally() below must see these even when main() returns early.
+let pruned = false;
+const prune = () => { if (process.env.PRUNE_CLAUDE_STATE === '1') { pruned = true; pruneClaudeState(); } };
 
 main().catch(e => { console.error(e.stack || e); process.exitCode = 1; })
     // Container only: the CLI's scratch state would otherwise grow in the container layer forever.
