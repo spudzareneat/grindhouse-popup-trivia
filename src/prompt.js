@@ -115,6 +115,12 @@ Every bubble is about this film, or ties it to something viewers know.
   the series it belongs to).
 - Spread it around: at most 3 bubbles about any one person's life or career outside this film, and at most 3 about
   studio, franchise or genre history. Lead with their best-known work, not their lifetime awards.
+- Skip anything that just narrates or quotes what's on screen: a line of dialogue, a description of a scene, or what a
+  character does or says ("Tied up, Kevin Hall tells the villain China exactly what he thinks: 'You're a fat, smelly, evil
+  bastard.'"). Viewers are watching the film, so that tells them nothing. A fact needs something they can't see: who
+  said or wrote it and why, how it was made, what it cost, who it inspired. A line from the film is only worth a bubble
+  when the story behind it is the fact (ad-libbed, censored, quoted in another film). The "Quotes" and "Crazy credits"
+  material below is for finding those stories and for timing, not for repeating.
 - Skip: what's on a DVD/Blu-ray (extras, audio tracks, which disc set it's in), bare credit lists ("the score was by X,
   the cinematographer was Y") with nothing surprising attached, running time, and history two steps removed from the film
   (a martial-arts lineage, folklore, a studio's founding years) unless it pays off with a link back to this movie.
