@@ -1,0 +1,1077 @@
+{
+  "schema": 1,
+  "imdbId": "tt0085811",
+  "title": "Krull",
+  "year": 1983,
+  "runtimeSec": 7260,
+  "generatedAt": "2026-11-12T17:36:22.582Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Krull cost a reported $30 million, huge for 1983, but grossed only about $16.9 million in the US and Canada. It's now a cult favorite.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikidata"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety dismissed Krull as a \"blatantly derivative hodgepodge\" of Excalibur meets Star Wars, but said director Peter Yates' professionalism kept it from becoming laughable.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 252,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Freddie Jones, narrating the prophecy as Ynyr, worked in three David Lynch films: The Elephant Man (1980), Dune (1984) and Wild at Heart (1990).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0428086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 323,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Princess Lyssa's voice isn't Lysette Anthony's. Producers wanted a more mature sound, so American actress Lindsay Crouse secretly dubbed all her lines.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000771",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcxOGQ1ZTYtZjA1NC00YTE2LTkyNTUtNjhlOGVhNDU4YmMyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Peter Yates made Steve McQueen's Bullitt (1968) and Breaking Away (1979). Krull is his only sword-and-sorcery fantasy.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0946811",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4ODUwMzQ3N15BMl5BanBnXkFtZTcwNjYyMDkwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Columbia president Frank Price asked producer Ron Silverman for a Dungeons & Dragons movie. The first draft was called The Dragons of Krull. D&D's Gary Gygax said nobody ever licensed the game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 505,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Ken Marshall (Prince Colwyn) was 31 during filming. Lysette Anthony, playing his bride Lyssa, was just 18.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Before acting, Freddie Jones (Ynyr) worked as a ceramics-factory lab assistant. He said it nearly drove him clinically insane, and he turned pro in his 30s.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0428086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 615,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Author Lawrence Watt-Evans disliked the name Glaive. A real glaive is a pole-arm with one long blade, not a \"brass starfish\".",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "To promote the wedding, Columbia ran an essay contest. Six couples got married in Krull costumes in 1983. It was dropped because it got no extra press.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 735,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Forty Slayer costumes were made for the film, and twenty of them were built in just ten days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 785,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Around 13:00, Colwyn lands on a stone basin and chunks of painted plaster flake off the column, showing the polystyrene underneath.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 835,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Slayers' death shrieks were reused from the Mahar bird-creatures' screams in the 1976 movie At the Earth's Core.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Krull won a Stinkers Bad Movie Award for Worst Picture. Siskel and Ebert gave it two thumbs down, calling it one of the most boring, nonsensical fantasies in a long time.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was originally The Dragons of Krull. Richard Scheib of Moria notes it became Krull because there are no dragons in it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/fantasy/krull-1983.htm"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A monstrous snake woman was cut from the script because she looked too much like Medusa in Clash of the Titans, which had come out only a couple of years earlier.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ken Marshall (Colwyn) modeled his hero on Errol Flynn and did his own stunts, including the mountain climbing. He had just starred in the TV series Marco Polo (1982).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0550989",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJkYmM5MmMtMzhjNS00NDZjLWEzYTktNjgxZGIxZjUyZTQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Peter Yates also made Summer Holiday (1963), the Cliff Richard bus musical, years before Bullitt's car chase and this space-fantasy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://itsastampede.com/2021/03/12/14-things-to-know-about-krull"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Krull earned Saturn Award nominations for Best Fantasy Film, Best Music (James Horner) and Best Costumes. Something Wicked This Way Comes took Best Fantasy.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Glaive pops up as an Easter egg in World of Warcraft, floating out of the lava in the tunnels before the Onyxia boss fight.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup designer Christopher Tucker was first hired to create Krull's creatures but left over creative differences. Nick Maley took over the effects makeup.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sci-fi author Alan Dean Foster wrote the novelization. Marvel published a comic adaptation by David Michelinie and Bret Blevins.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Krull spawned an arcade game from Gottlieb, a Columbia-owned company, plus Atari and Parker Brothers games. A Krull pinball machine was cancelled, and only ten prototypes exist.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "While filming in Italy's Abruzzo region, Peter Yates asked the whole crew to suggest a better title than \"Krull\". Everyone voted, and the name stayed anyway.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Krull's crew built 23 sets across ten sound stages at Pinewood Studios. Pre-production alone lasted almost a year.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Krull opened on July 29, 1983 in 1,281 US theaters and earned about $5.47 million its first weekend, roughly a third of its entire domestic run.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.the-numbers.com/movie/Krull"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Ergo's transformations skipped the usual cross-dissolve. Effects chief Derek Meddings blended blow-up stills with artwork. For the puppy, actor David Battley's stills dissolved into a real dog.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1905,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Peter Yates called his concept for Krull \"sort of a fairy storybook that moves,\" aiming for old-fashioned romance where things were always in motion.",
+      "icon": "mic",
+      "byline": "Peter Yates — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Peter Yates released two films in 1983, both for Columbia: Krull and the acclaimed The Dresser, which earned Best Picture and Best Actor Oscar nominations.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0946811",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4ODUwMzQ3N15BMl5BanBnXkFtZTcwNjYyMDkwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Beast's voice was provided by actor Trevor Martin, who is not credited on screen as the villain.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://itsastampede.com/2021/03/12/14-things-to-know-about-krull"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Liam Neeson and Robbie Coltrane were both early in their film careers when they took supporting roles in Krull.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2110,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Robbie Coltrane's voice was dubbed over by an uncredited Michael Elphick, a fellow British actor.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2216,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "When Ynyr guesses that Torquil has sons, it may have been an ad-lib. Alun Armstrong, who plays Torquil, really does have three sons.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0035605",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2QyZWI3YzEtZjU4ZC00MDk2LWFiZGYtYTM0NTJkZDY5ZTBmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alun Armstrong (Torquil) spent nine years with the Royal Shakespeare Company. He later originated Thénardier in the West End Les Misérables and won an Olivier for Sweeney Todd.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0035605",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2QyZWI3YzEtZjU4ZC00MDk2LWFiZGYtYTM0NTJkZDY5ZTBmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2390,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Bernard Bresslaw, the 6'7\" actor playing the Cyclops Rell, wore lifts to look even taller. A radio controlled his single forehead eye, and he could only see out of one eye hole.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2460,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cyclops actor Bernard Bresslaw also played the giant Gort in the 1980 British fantasy Hawk the Slayer.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nick Maley says the Beast was the first self-contained animatronic suit, with facial, lung, heart and body-fluid movement and no external cables.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Emerald Seer's glittering cave was built from wood, plaster and glass, with silver glass on the floor. It followed two freezing nights shooting in Black Park near Pinewood.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Production designer Stephen Grimes reportedly modeled the swamp set on photos of World War I battlefield crosses at the Somme.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://itsastampede.com/2021/03/12/14-things-to-know-about-krull"
+      }
+    },
+    {
+      "t": 2786,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the swamp fight at 46:26, a Slayer sinking into the sand is played in reverse. The sand visibly flies upward toward its chest.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The swamp was built on Pinewood's giant 007 Stage, a James Bond stage 336 feet long. The sets took five months to build, and the quicksand was four tons of painted cork.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2924,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ken Marshall (Colwyn) says the swamp shoot was in a very harsh winter. The set was too big to heat, and crew lost in the mist stumbled into \"cork chips\".",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bernard Bresslaw could only see through one eye hole in his Cyclops costume. During the swamp shoot his fellow actors had to stop him from wandering into the water.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2001 PC game Arcanum has a throwing weapon, Azram's Star, modeled directly on the Glaive. Bloons TD 3 also lets Boomerang Monkeys throw Glaives.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ryan Lambie of Den of Geek called Krull \"among the most visually creative and downright fun movies of the enchanted 80s\".",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects supervisor Derek Meddings brought Krull's miniatures expertise from Superman (1978), several James Bond films and Gerry Anderson puppet shows.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://itsastampede.com/2021/03/12/14-things-to-know-about-krull"
+      }
+    },
+    {
+      "t": 3240,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The special effects team's quicksand mire swallowed about twenty unlucky technicians at one time or another.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3295,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Liam Neeson (Kegan) told Den of Geek in 2011 he's still very proud of Krull and had a lot of fun with director Peter Yates.",
+      "icon": "mic",
+      "byline": "Liam Neeson",
+      "source": {
+        "type": "web",
+        "url": "https://www.bgr.com/2290236/liam-neeson-first-sci-fi-movie-flop-cult-classic-krull/"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "James Horner's Krull score was reused as ambient music for Disneyland Paris' Space Mountain: Mission 2.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Composer James Horner reportedly had only about seven weeks to write roughly 110 minutes of music for Krull, while battling illness and a staff shortage.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmtracks.com/titles/krull.html"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Janet Maslin of The New York Times called Krull \"a gentle, pensive sci-fi adventure\" that was a little too moody for the Star Wars crowd.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A shape-shifting \"Changeling Claw\" hand built for Krull ran out of time and was cut. It was later finished for Tobe Hooper's Lifeforce (1985).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Steve Tesich wrote a second Krull script that was tossed as dialogue-heavy and short on effects. Stanford Sherman's first draft was reused, and Sherman fitted it to the already-built sets.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jennie Kermode of Eye for Film called Krull \"just about the most boring fantasy film ever made.\" Starburst's Richard Hollis called it \"a dull derivative movie idea.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bgr.com/2290236/liam-neeson-first-sci-fi-movie-flop-cult-classic-krull/"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Eric D. Snider wrote that Krull is crammed with magic and quests \"yet still manages to be boring... You'd almost have to be doing it on purpose.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In How to Lose a Guy in 10 Days (2003), Matthew McConaughey's character calls his private parts \"Krull, the Warrior King\".",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Family Guy joked about Krull twice. In \"Meet the Quagmires\" Peter, in 1984, says he'd rather see Krull than Zapped!",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "An early draft had Lyssa turn villain near the end. Lysette Anthony said she thought that idea was boring, but producers wanted her pure.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000771",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcxOGQ1ZTYtZjA1NC00YTE2LTkyNTUtNjhlOGVhNDU4YmMyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A 2007 South Park episode spoofs the Krull Glaive: Jesus uses it to kill self-appointed pope Bill Donohue.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4280,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In John Darnielle's novel Wolf in White Van (2014), the reclusive main character buys an ex-rental VHS of Krull and spends four pages musing on it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4340,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Filming began with Ynyr's spider-web climb. Freddie Jones did it without safety wires, because wires would have shown on camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0428086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Stop-motion animator Steve Archer spent two weeks on the first Crystal Spider model, later redone. It was plexiglass with solid legs, a hollow abdomen and eight black plastic eyes.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Spider-Man: Across the Spider-Verse director Justin K. Thompson says Krull's spider influenced the Go Home Machine, a spider named Ynyr as a homage.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Francesca Annis' Widow of the Web needed 23 separate aging prosthetic pieces on her face, head and body.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000768",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxMDIyMDgzNF5BMl5BanBnXkFtZTcwNjAzOTY5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Francesca Annis and Freddie Jones (Ynyr) reunited a year later in David Lynch's Dune (1984).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000768",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxMDIyMDgzNF5BMl5BanBnXkFtZTcwNjAzOTY5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4820,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robot Chicken spoofed the Glaive's boomerang return: Colwyn throws it in a cave, it jams in his back, and he asks, \"The glaive is stuck in my back, isn't it?\"",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lysette Anthony told Playboy in 1988 she detests Krull, partly for the dubbing and partly because Princess Lyssa mostly looks helpless and waits to be rescued.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000771",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcxOGQ1ZTYtZjA1NC00YTE2LTkyNTUtNjhlOGVhNDU4YmMyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave Krull one star, calling its look a \"Saran-wrap world\" that feels sterile and lacks any history or culture.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/fantasy/krull-1983.htm"
+      }
+    },
+    {
+      "t": 5120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2009 comedy Gentlemen Broncos copies Krull's Cyclops and fire mares. One character also gets his dialogue dubbed over, like Lysette Anthony and Robbie Coltrane.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5230,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Stunt coordinator Vic Armstrong bought sixteen Clydesdale horses, which trained for months to play the Fire Mares. Horses from the Queen's Household Cavalry were also borrowed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The \"Fire Mares\" aren't all mares. Some of the Clydesdales are visibly geldings, and at least one looks like a stallion.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "When the horses crossed to France for the Italy shoot, customs needed a passport for each Clydesdale. Each held two photos, a \"before makeup\" and an \"after makeup\" shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5460,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The video game Warframe has characters named Rell and Ergo. Dark Sector's hero also throws a three-bladed Glaive.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Derek Meddings' miniature Black Fortress stood twelve feet high and was lit from within by an electrical system. Lyssa's castle model was twenty feet tall.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Krull was Lysette Anthony's film debut, and the same year she appeared in the TV comedy Auf Wiedersehen, Pet. She later played in Dracula: Dead and Loving It.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/fantasy/krull-1983.htm"
+      }
+    },
+    {
+      "t": 5720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Special effects artist Brian Johnson said director Peter Yates hated the shoot so much he vacationed in the Caribbean mid-filming. The effects crew took a three-week break too.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0946811",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4ODUwMzQ3N15BMl5BanBnXkFtZTcwNjYyMDkwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Part of Krull was shot on Lanzarote in the Canary Islands, where Columbia picked the volcanic landscapes of Timanfaya National Park as a backdrop.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://film.turismolanzarote.com/en/archivo/krull/"
+      }
+    },
+    {
+      "t": 5900,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In the Black Fortress corridor stunt, Ken Marshall nearly got caught when the floor slabs slammed shut. He says he had no feeling in his heel for months.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0550989",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJkYmM5MmMtMzhjNS00NDZjLWEzYTktNjgxZGIxZjUyZTQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 6000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Colin Greenland of Imagine magazine said that if as much attention went to the plot as the visuals, \"perhaps it wouldn't be so hard to care what happens next.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Filmtracks review calls Horner's Krull score outstanding but too derivative of his other work of the time, tying it to his Star Trek II and Aliens scores.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmtracks.com/titles/krull.html"
+      }
+    },
+    {
+      "t": 6150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author Lawrence Watt-Evans compared Krull to a superior version of The Dark Crystal (1982), a fairy tale where magic is as ordinary as cars are for us.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes scores Krull at 35% from 26 reviews, and audiences polled by CinemaScore gave it a C+. Its cult following grew anyway.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filmtracks says the Black Fortress destruction cue has staggered rhythms that could pass for Star Trek II's finale, and the love theme anticipates Horner's The Rocketeer.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmtracks.com/titles/krull.html"
+      }
+    },
+    {
+      "t": 6300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "RiffTrax spoofed Krull on 28 December 2018, after a RiffTrax Live theater show of it that August.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Stanford Sherman also wrote The Ice Pirates (1984) and the 3D comedy The Man Who Wasn't There (1983), which opened the same year as Krull.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Many of Colwyn's slick one-handed Glaive catches are really throws filmed and played in reverse.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Krull Glaive shows up in the final battle of Steven Spielberg's Ready Player One (2018), where the character Sho uses it to cut off I-R0k's arm.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6735,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "At 1:52:12, as the last column of rock lifts away, a long thin rod retracts into the ground near center screen.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Den of Geek's Ryan Lambie praised Krull's harsh climax, noting Star Wars never killed off so many heroes in such a graphic manner.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6900,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Black Fortress was built like a jigsaw puzzle, so its pieces could be pulled apart on cue. The collapse was filmed upside down so the pieces appear to rise into the sky.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Killstar weapon near the end of Far Cry 3: Blood Dragon is styled very like Krull's Glaive.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 7120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In September 2023 it was announced that J.J. Abrams is attached to a Krull reboot.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 7200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Because of its poor box office, a Krull sequel was never produced.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
