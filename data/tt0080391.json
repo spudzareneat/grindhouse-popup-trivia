@@ -1,0 +1,410 @@
+{
+  "schema": 1,
+  "imdbId": "tt0080391",
+  "title": "Attack of the Killer Tomatoes!",
+  "year": 1978,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-11-12T17:00:18.862Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Composer Gordon Goodwin arranged this opening theme. He later wrote an Emmy-nominated big-band piece inspired by the film's music for his Big Phat Band.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer Costa Dillon got the idea as a San Diego teen after seeing the Japanese film Matango, shown on US TV as Attack of the Mushroom People. He thought: how dumb is this? Then made it sillier.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 275,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The giant tomatoes were foam. After PVC and papier-mache failed, the crew built them from soundproofing material from BART train cars, per Mental Floss.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TMDB lists the budget at $100,420 and the worldwide gross at $567,000, a decent return for a parody made by college buddies with money from friends and family.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 476,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This conference room scene was parodied in the opening titles of the 2022 anime series Chainsaw Man, 44 years after the film came out.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 575,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Japanese scientist Dr. Fuji Nokitofa knocks a picture of the USS Arizona into a goldfish tank. The Arizona was sunk by Japan at Pearl Harbor.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dana Ashbrook, later Bobby Briggs in Twin Peaks, made his film debut here as an uncredited boy on a boat, at about age 10 or 11.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It began as a short made for a film class at UC Davis by Costa Dillon, John De Bello and Steve Peace. It was shot on Super 8 and earned an A. No known copies survive.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "This press conference was shot in a high school auditorium. The production was non-union and ran on a shoestring.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before the film, De Bello and Steve Peace ran Four Square Productions in San Diego, taping high school and junior college football games. Dillon joined later.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety was not kind on release, writing that the film \"isn't even worthy of sarcasm.\" It has since become a cult favorite.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Relatives of the filmmakers helped finance the movie, and family members pop up in small parts. Most of the cast had never acted before, and several never acted again.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1389,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "\"Puberty Love\" is sung by Matt Cameron, then about 14 with a changing voice. He was director John De Bello's neighbor and later drummed for Soundgarden and Pearl Jam.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 1556,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Co-writer and producer Steve Peace plays Wilbur Finletter and did his own stunts. For the street-drag scene, a wheeled board was put under his stomach. He was also knocked out in one rehearsal.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A fourth Four Square member, Michael Grant, was a college roommate of John De Bello, Costa Dillon and Steve Peace and worked on the 1976 short, but skipped the feature for school.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer Steve Peace later became a California legislator: Assembly from 1982 to 1993, then State Senate until 2002.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot on 35mm Kodak 5247 negative, unusual for a micro-budget movie. That polished look is one reason people assumed it cost more than it did.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Attack_of_the_Killer_Tomatoes/Fun_Facts"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Costa Dillon says the crew used two kinds of tomatoes: cheap rotting \"stock tomatoes\" to smash and throw, and photogenic \"star tomatoes\" saved for close-ups.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Many scenes were shot on the UC San Diego campus. In 2007, director John De Bello admitted the crew borrowed lab coats from empty campus offices.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes puts the film at 27% on 11 reviews. Metacritic scores it 9 out of 100, a fittingly rotten result for a movie about tomatoes.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This is the only entry in the franchise that never features or mentions Dr. Gangrene, the mad scientist who shows up in the sequels.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1983, producer Steve Peace, by then a California assemblyman, sponsored a bill requiring tomatoes be labeled \"vine picked\" or \"artificially ripened.\" The AP joked he owed a debt to the tomato.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In March 1980, one theater billed the film as a double feature with Return of the Pink Panther, a very odd pairing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Attack_of_the_Killer_Tomatoes/Fun_Facts"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rue Morgue's Michael Gingold wrote in 2018 that it may be \"one of history's most misunderstood films\": an attempt at intentional comedy, not an accidental so-bad-it's-good movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3183,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Most of the army uniforms came from Goodwill thrift stores.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When John Astin, who played Professor Gangreen in the sequels, asked director John De Bello if he should watch the original, De Bello said: \"Don't bother.\"",
+      "icon": "mic",
+      "byline": "John De Bello",
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director John De Bello on the bad reviews: he was \"greatly honored\" that someone had to make the worst vegetable movie, and asked why it couldn't be him.",
+      "icon": "mic",
+      "byline": "John De Bello",
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1988 sequel Return of the Killer Tomatoes! is notable for an early role for a young George Clooney.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is name-checked in Trancers, Gremlins 2: The New Batch, Mars Attacks! and Eight Legged Freaks, among many others.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author Kim Harrison admitted this film inspired her urban fantasy series The Hollows, set in a world where genetically engineered tomatoes killed much of humanity.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "On January 13, 1990, the crew of space shuttle Columbia was woken with this film's theme song, a joke since Columbia was retrieving 12.5 million tomato seeds launched in 1984.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A remake was announced in 2008 by Kent Nichols and Douglas Sarine, creators of Ask a Ninja. By 2011 director John De Bello said they were no longer involved.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4440,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The stadium finale was shot in a single day at San Diego Stadium, and the extras wore their own outfits.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4540,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Among the crowd of \"every screwball in San Diego County\" was Ted Giannoulas, the San Diego Chicken.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The giant tomato's earmuffs were two bright green toilet seat covers.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
