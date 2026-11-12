@@ -1,0 +1,410 @@
+{
+  "schema": 1,
+  "imdbId": "tt0391355",
+  "title": "The Mummy Theme Park",
+  "year": 2000,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-11-12T16:31:36.607Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Mummy Theme Park became one of four films riffed in Mystery Science Theater 3000: The RiffTrax Experiments (2026), with Michael J. Nelson, Kevin Murphy and Bill Corbett.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 270,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Hieroglyphs are read from the direction the figures face. IMDb's goofs list says this film's Professor Mason reads them left to right, the wrong way for symbols that look right.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The A.V. Club's Erik Adams called director Alvaro Passeri a 'special effects guy turned filmmaker' in his Nov. 6, 2026 recap of the MST3K riff on this movie.",
+      "icon": "mic",
+      "byline": "Erik Adams — A.V. Club",
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/mst3k-rifftrax-experiments-recap-the-mummy-theme-park"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The A.V. Club's Erik Adams called the film 'leering and racist' yet charming in its strangeness, and compared its fever-dream feel to Nobuhiko Obayashi's psychedelic 1977 oddity House.",
+      "icon": "mic",
+      "byline": "Erik Adams — The A.V. Club",
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/mst3k-rifftrax-experiments-recap-the-mummy-theme-park"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Alvaro Passeri built Egypt from miniatures, projected backdrops and forced-perspective sets. The A.V. Club called the result a 'cartoon vision of Egypt.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/mst3k-rifftrax-experiments-recap-the-mummy-theme-park"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A screening program for director Alvaro Passeri's films quotes Senseless Cinema calling this 'the Francis Ford Coppola's Bram Stoker's Dracula of Italian mummy movies.' Promo blurb, but bold.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.spectacletheater.com/?p=25412"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Passeri co-wrote the script with Antony Pedicini. The film went straight to video, as the follow-up to Passeri's 1994 creature feature Creatures from the Abyss.",
+      "icon": "reel",
+      "byline": "Alvaro Passeri — Director",
+      "source": {
+        "type": "web",
+        "url": "https://cinemaoftheabstract.blogspot.com/2022/03/the-mummy-theme-park-2000.html?m=0"
+      }
+    },
+    {
+      "t": 1170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blogger Michael Hewis (Cinema of the Abstract) reads the film as a satire of Western exploitation of Egyptian artifacts, while faulting its casting of white European actors in Egyptian roles.",
+      "icon": "mic",
+      "byline": "Michael Hewis — Cinema of the Abstract",
+      "source": {
+        "type": "web",
+        "url": "https://cinemaoftheabstract.blogspot.com/2022/03/the-mummy-theme-park-2000.html?m=0"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The title looks like a nod to Universal's hit The Mummy (1999), released a year earlier. Cinema of the Abstract blog speculates it was a deliberate play on it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemaoftheabstract.blogspot.com/2022/03/the-mummy-theme-park-2000.html?m=0"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bands About Movies describes the Sheik's pitch as 'Jurassic Park in the sands' and calls the film 'deliriously sure of itself' but unaware of what it is. It doesn't play as intentional comedy.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/08/16/the-films-of-alvaro-passeri-the-mummy-theme-park-2000/"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Alvaro Passeri worked on special effects for the killer-octopus movie Tentacles (1977) and the horror film Madhouse (1981) before directing this.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1770,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Erik Adams of The A.V. Club said the harem subplot 'feels like the director working something personal out—possibly something prosecutable.' He was recapping the MST3K riff on this movie.",
+      "icon": "mic",
+      "byline": "Erik Adams — The A.V. Club",
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/mst3k-rifftrax-experiments-recap-the-mummy-theme-park"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Author Bryan Senn (2024) called this film an 'execrable Westworld wannabe.' The park's animatronics-gone-wild premise does echo the 1973 Michael Crichton movie.",
+      "icon": "link",
+      "byline": "Bryan Senn",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The A.V. Club singled out Crow's riff 'Unlike most mummies, I'm juicy!' The MST3K episode also brings Grandpa Servo at intermission and an old-time baseball runner as a post-credits bonus.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/mst3k-rifftrax-experiments-recap-the-mummy-theme-park"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Author Clive Davies wrote in 2015 that the film has 'real laughable sets and FX' but also 'oddly effective moments' that suggest the filmmakers had their tongues firmly in cheek.",
+      "icon": "mic",
+      "byline": "Clive Davies",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Cinema of the Abyss-style review blog Cinema of the Abstract says the cat mummy's roars are lifted from the famous MGM lion roar.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemaoftheabstract.blogspot.com/2022/03/the-mummy-theme-park-2000.html?m=0"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Universal's The Mummy (1999) cost about $80 million, yet wasn't shot in Egypt. Marrakesh doubled for Cairo, and the Thames played the Nile. This film's Egypt is miniatures and projections.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://looper.com/1079301/wrap-yourself-in-these-facts-about-1999s-the-mummy"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Cinema of the Abstract blog likens the mummy rampage triggered by camera flashes to The Simpsons' 'Itchy and Scratchy Land' episode, itself a riff on Westworld.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemaoftheabstract.blogspot.com/2022/03/the-mummy-theme-park-2000.html?m=0"
+      }
+    },
+    {
+      "t": 2970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On Universal's The Mummy (1999), producer Jim Jacks reportedly took out kidnapping insurance on the stars, about $1 million each. Kevin J. O'Connor's policy was only $50,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://looper.com/1079301/wrap-yourself-in-these-facts-about-1999s-the-mummy"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The A.V. Club compared the MST3K riffing on this film to Deathsport, and said its blockbuster imitations are 'one-of-one.' It also noted the conspicuous English dubbing.",
+      "icon": "mic",
+      "byline": "Erik Adams — A.V. Club",
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/mst3k-rifftrax-experiments-recap-the-mummy-theme-park"
+      }
+    },
+    {
+      "t": 3270,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The review blog A Wasted Life (2008) called this 'a direct-to-dvd Z-film best left on the shelf.' It said the movie fails as so-bad-it's-good because it feels made to be bad by design.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bryininberlin.blogspot.com/2008/11/mummy-theme-park-italy-2000.html?m=0"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Germany this film aired on Nitro in September 2025 as part of 'SchleFaZ,' the 'worst films ever' series where two hosts dress as the characters and riff on it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spectrum Culture's Erik Reeds wrote in September 2026 that this 25-year-old movie 'feels tailor-made for this generation of streaming slop' and outperforms its contemporaries.",
+      "icon": "mic",
+      "byline": "Erik Reeds — Spectrum Culture",
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/tag/alvaro-passeri/"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Carter Lupton, a Milwaukee Public Museum curator, listed this film in 2014 among the 'amateurish efforts' of the mummy-movie subgenre.",
+      "icon": "mic",
+      "byline": "Carter Lupton",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Holly Laningham, who plays assistant Julie, also appeared in Fashionably L.A. and Bikiniland (both 1999), and in Damian Cromwell's Postcards from America (1997).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0486865"
+    },
+    {
+      "t": 4020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The British rating for this film is a 15 certificate, according to Cinema of the Abstract.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemaoftheabstract.blogspot.com/2022/03/the-mummy-theme-park-2000.html?m=0"
+      }
+    },
+    {
+      "t": 4170,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cyrus Elias, who plays Sheik El Sahid, also appeared in the Italian mafia TV series La piovra (1984), the Hammer-style fantasy She (1984), and Magdalene (1988).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0253463"
+    },
+    {
+      "t": 4320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Passeri also directed Creatures from the Abyss (1994) and Flight to Hell (2003). Bands About Movies' reviewer says his films have a style 'unlike any movies that I've seen anyone else make.'",
+      "icon": "reel",
+      "byline": "Alvaro Passeri — Director",
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/08/16/the-films-of-alvaro-passeri-creatures-from-the-abyss-plankton-1994"
+      }
+    },
+    {
+      "t": 4470,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peter Boom, who plays Professor Mason, also turned up in La Cage aux Folles (1978), The Inglorious Bastards (1978) and the sci-fi war film Zone Troopers (1985).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0093596"
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2022 horror film Creatures from the Abyss references this movie. It shares its title with director Alvaro Passeri's own 1994 film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4770,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tentacles (1977), which director Alvaro Passeri worked on, used a giant rubber octopus. One scene used a real dead fish-market octopus torn apart by killer whales named Summer and Winter.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/12/20/bastard-pups-of-jaws-tentacles-1977"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bands About Movies mentions a rumor that director Alvaro Passeri is really Massimiliano Cerchi. An older review blog also lists Cerchi, aka Al Passeri. The reviewer doubts it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/08/16/the-films-of-alvaro-passeri-the-mummy-theme-park-2000/"
+      }
+    },
+    {
+      "t": 5070,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewing this film for a Washington State University film course page, Logan Baudour compared the mummy's inconsistent guard-killing to a Star Trek joke.",
+      "icon": "sunglasses",
+      "byline": "Logan Baudour",
+      "source": {
+        "type": "web",
+        "url": "https://public.archive.wsu.edu/delahoyd/public_html/mummytp.html"
+      }
+    },
+    {
+      "t": 5220,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On the same Washington State University course page, Jordan Johansen jokes that the film is an art-school satire, then says it makes him fear humanity is 'already too late.'",
+      "icon": "mic",
+      "byline": "Jordan Johansen",
+      "source": {
+        "type": "web",
+        "url": "https://public.archive.wsu.edu/delahoyd/public_html/mummytp.html"
+      }
+    }
+  ]
+}
