@@ -1,0 +1,661 @@
+{
+  "schema": 1,
+  "imdbId": "tt0102690",
+  "title": "Popcorn",
+  "year": 1991,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-11-12T17:13:33.275Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jill Schoelen (Maggie) really fell asleep during the opening scene: she flew to Jamaica on a few hours' notice after wrapping Rich Girl (1991) and had barely slept.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0774337",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWRlZDg2MjItMjEyZi00YTEyLWIxZjQtZGEzYjNkZjI1YTliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 145,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Yvonne Murray, heard on the radio here, also co-wrote the lyrics to the film's songs, including 'Up Over You', with composer Paul Zaza.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dee Wallace (Suzanne) was the mom in E.T. the Extra-Terrestrial (1982) and a genre favorite from The Howling (1981) and Cujo (1983).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0908914",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzUxMzhiMmYtN2U3OC00YmM5LWJkMTAtZDRlZDlmNzgxMThjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 235,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jill Schoelen wasn't the first Maggie. Amy O'Neill played the lead for about three weeks before being replaced, and Schoelen had to slot into a half-shot movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0774337",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWRlZDg2MjItMjEyZi00YTEyLWIxZjQtZGEzYjNkZjI1YTliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author John Kenneth Muir says one-word titles like Popcorn, The Guardian and later Scream marked 1990s horror's shift from long titles like The Texas Chain Saw Massacre.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Dreamland Theatre is Kingston, Jamaica's real Ward Theatre. The production used it as its headquarters and built the Dreamland set inside it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 475,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Ray Walston plays Dr. Mnesyne, the memorabilia dealer. A reviewer on Triskaidekafiles called him the best performer in the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.triskaidekafiles.com/reviews/2009/10/13/popcorn-1991.html"
+      }
+    },
+    {
+      "t": 563,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The song 'Saturday Night at the Movies' was written by the Brill Building team Barry Mann and Cynthia Weil. Here it's performed by Ossie D and Stevie G.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Popcorn is set in Southern California, but cameras rolled October 15, 1989 in Kingston, Jamaica. It was a seven-week shoot planned to wrap December 12, 1989, per the AFI Catalog.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59008-POPCORN"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Bruce Glover plays cult filmmaker Lanyard Gates in the Possessor footage. He's the father of actor Crispin Glover (Back to the Future's George McFly).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/01/20/popcorn-1991/"
+      }
+    },
+    {
+      "t": 905,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lanyard Gates, the filmmaker behind Possessor, was loosely inspired by eccentric Brazilian horror director José Mojica Marins, creator of Coffin Joe.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Kenneth Muir sees Lanyard Gates as echoing cult leader Charles Manson. He calls Possessor a cross between a snuff film and a psychedelic experiment.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Actor Percy Rodrigues narrated the theatrical trailer for Popcorn.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Daily Variety put Popcorn's budget at $9.5 million. Shooting in Jamaica helped, since labor there cost about one-fifth of US rates.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The AFI Catalog says writer Alan Ormsby quit halfway through the seven-week shoot after a 'creative disagreement'. Producer Bob Clark took over until Mark Herrier was hired.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      },
+      "person": "nm0650276",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmVhNGEzYjMtZTdmNC00ZTQzLTg5YzUtMGY1MmJjYTllMTNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Executive producer Howard Hurst was a Toronto real-estate magnate, which helps explain the Canadian-Jamaican production setup.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Popcorn was also known as Phantom of the Cinema. It played the 1992 São Paulo Film Festival as O Fantasma do Cinema.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 1390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The title 'Popcorn' was tied to a story element that was cut before release. The producers and distributor liked the name so much that it stayed.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The lobby posters include The Tingler (1959) and The Incredible Melting Man (1977), plus the invented Love in the Time of Hysteria.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The singing snacks are from the 1957 intermission short 'Let's All Go to the Lobby', which really played in cinemas. Popcorn borrows it for the lobby scene.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1640,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mosquito's gimmick, a giant bug sliding down a rope over the audience, is a tribute to William Castle's Emergo from House on Haunted Hill (1959), which used a glowing skeleton.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Popcorn first screened at Marina Del Rey, CA, on June 30, 1990, between showings of Total Recall. It then waited until early 1991 for release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The fake film Mosquito is meant to be red-and-blue 3-D, but the footage on the screen looks like plain black-and-white. The 3-D lines were never added to the frames.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Popcorn was a Canadian-Jamaican deal: Toronto's Movie Partners and Jamaica's Century Films co-produced it, as the first of several co-productions they planned together.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59008-POPCORN"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cast and crew later speculated that Alan Ormsby was fired for being too detail-oriented on the fake marathon movies. He still directed all three, and Mark Herrier shot the main story.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0650276",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmVhNGEzYjMtZTdmNC00ZTQzLTg5YzUtMGY1MmJjYTllMTNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Mark Herrier had to shoot new close-ups of Jill Schoelen to cut into scenes already filmed with her predecessor, Amy O'Neill.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/popcorn"
+      },
+      "person": "nm0380628",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmIwYzQzMWMtZWViZi00MDdlLTk2MWEtMjAwZjlmMjNmNDI4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bob Clark, who directed Black Christmas, took no on-screen credit on Popcorn. The AFI Catalog still lists him as special makeup effects supervisor, and he later stepped in to direct.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59008-POPCORN"
+      }
+    },
+    {
+      "t": 2434,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Malcolm Danare (Bud) later played Dr. Mendel Craven in the 1998 Godzilla and was Caesar in Heaven Help Us (1985). He also plays a rubber-masked audience member here.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0199118",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTc2ZGIyMzEtYzRjMi00OTQwLWJjZGMtMzJlNzcxNWIwM2Q4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2490,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Shock-o-Scope seat buzzers are a riff on Percepto, the electric gimmick William Castle used for The Tingler (1959).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Kenneth Muir says Popcorn's self-aware take on horror foreshadowed Wes Craven's New Nightmare (1994) and In the Mouth of Madness (1995).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per Mondo Digital's rundown of the Blu-ray extras, much of Alan Ormsby's fake-movie footage was kept, and it held up better than the main story, which was largely reshot under director Mark Herrier.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/popcorn"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Tom Villard (Toby) told director Mark Herrier he had AIDS two weeks into the shoot. Villard died in November 1994, five days before his 41st birthday.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0898014",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGVhNzVhNmItY2IyMS00YmMzLWFhN2YtYWQ2OWIyNjZjODMzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2870,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Derek Rydall, who plays Mark, did his own stunts in the film.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0753041",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2RhMzJiOWEtYWZjZS00NDhhLWE1YTItNzc4YTkzYTMxMjAxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The original script was by Mitchell Smith. Bob Clark had Alan Ormsby rewrite it, and Ormsby took the screenplay credit as 'Tod Hackett'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tony Roberts plays film professor Mr. Davis in a brief supporting role. Mondo Digital calls it a cameo, and it sits alongside Dee Wallace and Ray Walston in the cast.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/popcorn"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Popcorn got a shout-out in Scream 2 (1997), and its film-fan slasher premise predates Scream (1996).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The reggae band isn't random: Popcorn was shot in Jamaica. 'Pocomania Days' is performed by Lloyd Lovindeer and the band Chalice.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Popcorn opened to $2.56 million on 1,055 screens and finished with about $4.66 million domestically. In many markets it skipped first-run cinemas for discount houses.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jill Schoelen was briefly engaged to Brad Pitt, whom she'd met making the slasher Cutting Class (1989). She broke it off in Budapest.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0774337",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWRlZDg2MjItMjEyZi00YTEyLWIxZjQtZGEzYjNkZjI1YTliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Popcorn flopped in cinemas but became a horror-fan favorite, largely as an homage to gimmick king William Castle (The Tingler, House on Haunted Hill).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Mark Herrier is best known as an actor: he played Billy in the Porky's trilogy before stepping behind the camera on Popcorn.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0380628",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmIwYzQzMWMtZWViZi00MDdlLTk2MWEtMjAwZjlmMjNmNDI4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3770,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The film's face-swapping masks were a big effects challenge. Mondo Digital says the makers discuss a Phibes-style mask in the second half. Makeup effects artist Mat Falls worked on the film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/popcorn"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Studio Three promoted Popcorn with at least $6 million in marketing, free popcorn with video rentals and screenings at about sixty North American college campuses.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Baltimore Sun's Stephen Hunter wrote that Popcorn 'isn't too clever by half, but only by seven-sixteenths.'",
+      "icon": "mic",
+      "byline": "Stephen Hunter",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Exit polls showed Popcorn appealed more than expected to young women. Studio Three credited the lack of on-screen gore and lightened its TV ads.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/MovieDetails/59008"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cast and crew call Popcorn a 'family project' that gave jobs to young filmmakers. Mondo Digital says its making-of notes that producer Bob Clark feared the shoot might never finish.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/popcorn"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Stench's Odorama is a spin on Smell-O-Vision from Scent of Mystery (1960). John Kenneth Muir says the film is styled after dubbed Japanese imports.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vincent Canby of The New York Times called Popcorn 'the best spoof of its kind since Alligator.'",
+      "icon": "mic",
+      "byline": "Vincent Canby",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Entertainment Weekly's Owen Gleiberman gave Popcorn a B, calling it 'a very nifty black-comic horror movie' with 'genuine wit and affection.'",
+      "icon": "mic",
+      "byline": "Owen Gleiberman",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4640,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the newspaper clippings on the wall, the headline spells the surname 'Gates' as 'Gaes'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Applying the burn makeup to Tom Villard (Toby) took four to five hours.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0898014",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGVhNzVhNmItY2IyMS00YmMzLWFhN2YtYWQ2OWIyNjZjODMzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Popcorn was the first domestic release from the new Studio Three company. It opened in Los Angeles and New York on February 1, 1991, after plans for 1,100 theaters on January 18.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59008-POPCORN"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Popcorn came out on VHS in June 1991. Variety reported in 1993 that home video sales had reached $2,043,179.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5184,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The end-credits song 'Scary Scary Movies' has lyrics co-written by original director Alan Ormsby, credited as 'Tod Hackett', with Paul Zaza and Yvonne Murray.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0650276",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmVhNGEzYjMtZTdmNC00ZTQzLTg5YzUtMGY1MmJjYTllMTNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The end credits thank Kingston's Ward Theatre, Pepsi, the Courtleigh Hotel and Jampro, and state 'Filmed on location in Jamaica', per the AFI Catalog.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Film/59008-POPCORN"
+      }
+    }
+  ]
+}
