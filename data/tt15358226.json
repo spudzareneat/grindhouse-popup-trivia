@@ -1,0 +1,431 @@
+{
+  "schema": 1,
+  "imdbId": "tt15358226",
+  "title": "New York Ninja",
+  "year": 2021,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-11-12T16:37:34.237Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This ninja flick was shot in 1984 in New York City and sat unfinished for 37 years. Vinegar Syndrome, a Blu-ray label, finally completed it in 2021.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Nobody at Vinegar Syndrome had seen a frame of this movie when they got the camera rolls, and all the sound was lost. Kurtis Spieler asked for a budget to finish it anyway.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviemaker.com/how-i-re-directed-new-york-ninja-an-80s-action-movie-almost-lost-forever"
+      }
+    },
+    {
+      "t": 216,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Linnea Quigley (reporter Randi Rydell) is the scream queen who stripped in The Return of the Living Dead (1985). Here she was dubbed in 2021 onto footage shot in 1984.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001643",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4MzI2NTc0NF5BMl5BanBnXkFtZTYwOTA0NzAz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 320,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Don Wilson voices John Liu. He's an 11-time kickboxing world champion with 47 knockouts, and he later did commentary on early UFC events.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0933310",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2ODk4NDA4Nl5BMl5BanBnXkFtZTcwNzAwNzMzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The raw footage ran six to eight hours and had no actor credits. Re-director Kurtis Spieler had no script or storyboards, so he cut the film first and wrote the story afterward.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To sort the chaos, Kurtis Spieler read the slate on every shot, grouped the shots by scene number and cut a rough version of each scene. Laid in order, it made no sense, so he built a new story.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviemaker.com/how-i-re-directed-new-york-ninja-an-80s-action-movie-almost-lost-forever"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Michael Berryman voices the Plutonium Killer. He was born with hypohidrotic ectodermal dysplasia and became a horror icon in One Flew Over the Cuckoo's Nest and The Hills Have Eyes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0077720",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTA0MTAwM15BMl5BanBnXkFtZTcwOTQ3MDQ4NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spieler treated the dubbing like a foreign film. He read lips where he could and matched syllable counts elsewhere. NYC dubbing house 3Beep recorded it and did the sound design.",
+      "icon": "mic",
+      "byline": "Kurtis Spieler — Re-director",
+      "source": {
+        "type": "web",
+        "url": "https://www.moviemaker.com/how-i-re-directed-new-york-ninja-an-80s-action-movie-almost-lost-forever"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original distributor, 21st Century Distribution, advertised the film in trade magazines in 1984. It then went bankrupt and the footage was shelved.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Special effects artist Carl Morano says the 1984 crew had zero resources. Different people showed up on different days, and they met each morning at the Howard Johnson's where John Liu was staying.",
+      "icon": "camera",
+      "byline": "Carl Morano — Special effects",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Leon Isaac Kennedy, voicing Detective Jimmy Williams, is best known as Too Sweet in the Penitentiary prison-boxing films. He also played an FBI agent in Lone Wolf McQuade with Chuck Norris.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0411531",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTE0MTA1YjUtZmZiNy00OTk0LTg1YjgtZWY3N2I3ZjEwYWMyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1115,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After shooting wrapped, star-director John Liu reportedly left the unedited reels, with no sound, in a vault and moved to Vietnam for good, according to Mondo Digital's review.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/nyninja"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spieler said he asked himself, 'If my job was to have been an editor in the 1980s, what would I have done?' Vinegar Syndrome considered shooting new scenes, but he stuck with the original footage.",
+      "icon": "mic",
+      "byline": "Kurtis Spieler — Re-director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The only known surviving script is Carl Morano's shooting script. It mentions a 'Detective Dolemite,' possibly meant for Rudy Ray Moore, star of the 1975 film Dolemite.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The budget was tiny. Per Screen Slate, the same six men keep turning up as different street hoods, in a film John Liu meant as his American debut and wrote, directed, choreographed and starred in.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenslate.com/articles/new-york-ninja"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vinegar Syndrome hired Detroit synth band Voyag3r for the score. They delivered about 1 hour 15 minutes of music and aimed to score it as if it were 1984, without winking at the audience.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://complexdistractions.blog/2021/11/19/truly-what-this-band-was-meant-to-do-voyag3r-talks-scoring-new-york-ninja/"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star-director John Liu is often cited as one of the best kickers in 1970s and '80s martial arts films. He broke out in the Taiwanese kung fu hit Secret Rivals (1976).",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Liu_(actor)"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Voyag3r guitarist Aaron Greene used just one guitar, a Fender Strat, and fewer effects than usual. He cited Enter the Dragon, Sho Kosugi films, Lethal Weapon and Rocky as influences.",
+      "icon": "boombox",
+      "byline": "Aaron Greene — Voyag3r",
+      "source": {
+        "type": "web",
+        "url": "https://complexdistractions.blog/2021/11/19/truly-what-this-band-was-meant-to-do-voyag3r-talks-scoring-new-york-ninja/"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A movie theater marquee in the film advertises Ninja III: The Domination, a 1984 release. That helps date the shoot to the Cannon ninja craze.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spieler said the humor seemed both intentional and unintentional, so he played it straight and respectful of the 1980s movies it echoes. He said so in an interview with Paste.",
+      "icon": "mic",
+      "byline": "Kurtis Spieler — Re-director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2375,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "According to Screen Slate, John Liu's real-life wife plays his character's wife in the film, a cost-saving move on a production with almost no money.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenslate.com/articles/new-york-ninja"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Adult film star Sharon Mitchell has a cameo on the subway train in this movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "John Liu later developed his own martial art, Zen Kwan Do, a blend of Lau Gar kung fu, taekwondo and karate. It still has a following in France.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Liu_(actor)"
+      }
+    },
+    {
+      "t": 2870,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Special effects artist Carl Morano had about $100 for effects on the whole film. Most of it reportedly went on the Plutonium Killer's melting face.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screen Anarchy's review of the film noted its glowing briefcase recalls the classic noir Kiss Me Deadly (1955), whose mysterious glowing case set off a long line of movie homages.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2021/10/beyond-fest-2021-review-new-york-ninja.html"
+      }
+    },
+    {
+      "t": 3219,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Cynthia Rothrock, who voices Detective Janet Flores, reportedly inspired Sonya Blade in Mortal Kombat. She made her acting debut in the 1985 Hong Kong film Yes, Madam!",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001686",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYwNzIyNGMtNTBjMy00Zjc2LWE5NzktZjgxYTcwZjdkYTdmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dubbed dialogue came from Don Wilson, Michael Berryman, Cynthia Rothrock, Linnea Quigley, Vince Murdocco, Matt Mitler, Leon Isaac Kennedy and Ginger Lynn. They were a cult-action dream team.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screen Slate reports re-director Kurtis Spieler cast action and adult-film veterans to dub the movie because he figured they could convey body language through voice, unlike regular dubbing artists.",
+      "icon": "mic",
+      "byline": "Kurtis Spieler — Re-director",
+      "source": {
+        "type": "web",
+        "url": "https://screenslate.com/articles/new-york-ninja"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes gives it 96% from 23 reviews. Film Threat's Josiah Teal called it 'perfect for a Samurai Cop or Bruceploitation double-feature.'",
+      "icon": "trophy",
+      "byline": "Josiah Teal — Film Threat",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Simon Abrams of TheWrap wrote: 'More consideration probably went into the restoration than the original production.' He found the lost-film backstory more interesting than the movie.",
+      "icon": "mic",
+      "byline": "Simon Abrams — TheWrap",
+      "source": {
+        "type": "web",
+        "url": "https://www.thewrap.com/new-york-ninja-film-review-vinegar-syndrome-restoration/"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screen Anarchy's J. Hurtado said John Liu wanted to bring the high-camp action of late-'70s Hong Kong to NYC streets. He called it 'the kind of gem that demands viewing with a crowd.'",
+      "icon": "mic",
+      "byline": "J. Hurtado — Screen Anarchy",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "TheWrap's Simon Abrams said the new Voyag3r synth score 'never lets us forget that we're watching an homage and not an authentically corny throwback.'",
+      "icon": "boombox",
+      "byline": "Simon Abrams — TheWrap",
+      "source": {
+        "type": "web",
+        "url": "https://www.thewrap.com/new-york-ninja-film-review-vinegar-syndrome-restoration/"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Re-director Kurtis Spieler suspects John Liu never finished shooting, saying 'the ending doesn't feel like it was ever finished.'",
+      "icon": "reel",
+      "byline": "Kurtis Spieler — Re-director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spieler says he put nearly two years of work into finishing the film. That's why he took the 'Re-Directed by' credit.",
+      "icon": "camera",
+      "byline": "Kurtis Spieler — Re-director",
+      "source": {
+        "type": "web",
+        "url": "https://www.moviemaker.com/how-i-re-directed-new-york-ninja-an-80s-action-movie-almost-lost-forever"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The reconstructed film premiered at Beyond Fest in California in October 2021. Vinegar Syndrome released it on Blu-ray that November.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5520,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The end credits explain that no records survive to credit the original 1984 cast and crew. The film thanks them all, and most of the on-screen cast is still unidentified.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
