@@ -1,0 +1,465 @@
+{
+  "schema": 1,
+  "imdbId": "tt0088157",
+  "title": "Special Effects",
+  "year": 1984,
+  "runtimeSec": 6360,
+  "generatedAt": "2026-11-12T16:51:14.686Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer-director Larry Cohen first wrote this story around 1967 as a script called The Cutting Room. It sat unmade for roughly 17 years.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0169540",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwZDFmMDMtYTQyMy00MTBjLWFlZDAtNDgwZjc2NDRhZmJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-director Larry Cohen once hoped to option his script Daddy's Gone A-Hunting to Alfred Hitchcock. Universal instead hired Mark Robson to direct it in 1969.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Larry Cohen called the film his \"revenge on big budget directors.\" His washed-up filmmaker Christopher Neville is a director with a couple of flops who can't get hired anymore.",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Eric Bogosian's first screen appearance was Born in Flames (1983), a zero-budget feminist sci-fi indie. He played a TV technician forced at gunpoint to air a tape. Kathryn Bigelow is also in it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Born_in_Flames"
+      },
+      "person": "nm0091899",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cohen's rule on set: \"I always have a fight the first day, with somebody.\" Once you establish who's in charge, he said, they never bother you again. That day it was star Eric Bogosian.",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0091899",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several scenes in Larry Cohen's film were shot guerrilla-style on New York streets without official permits, including sequences outside Radio City Music Hall.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Neville's wild loft, with its indoor pool and stained glass, was artist Lowell Nesbitt's real studio. The building had been covered by the New York Times, Vogue and Architectural Digest.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The loft used as Neville's home was a 12,500-square-foot 1858 building in Manhattan that had been a police stable. Artist Lowell Nesbitt's indoor pool was capped by city rules at four feet deep.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lowell_Blair_Nesbitt"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Larry Cohen recalled that his leads Zoë Lund, Eric Bogosian and Brad Rijn were \"all highly offbeat people who lived in strange basements, had no money, and were highly talented.\"",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zoë Lund's voice as Andrea was dubbed by another actress, which Lund resented. She said playing two roles was \"a little like Vertigo.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://adrianmartinfilmcritic.com/reviews/s/special_effects.html"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Zoë Lund's only major earlier role was the mute avenger in Abel Ferrara's Ms. 45 (1981). Cohen cast her in the double lead after seeing it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Bogosian wrote and starred in the 1988 film Talk Radio, a play of his that was a Pulitzer finalist. He won the Silver Bear for Best Actor at Berlin for it.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0091899",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lund's heroin use was known at the time. Cohen said it caused no trouble on this shoot: \"Nothing manifested itself during the picture.\"",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2016/11/03/special-effects-1984/"
+      },
+      "person": "nm0526259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTk5NTQyOV5BMl5BanBnXkFtZTYwOTUxMjgy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Larry Cohen says he shoots new scenes on the fly and that nobody supervises him: \"No one looks at my dailies or my script!\"",
+      "icon": "mic",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2016/11/03/special-effects-1984/"
+      }
+    },
+    {
+      "t": 2220,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cohen shot this and Perfect Strangers (1984) back to back in New York, sharing cast members like Brad Rijn and Kevin O'Connor. Cohen's Special Effects took about 20 days.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2370,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cohen's \"revenge on big budget directors\" had a personal angle: he was fired from the 1981 Armand Assante thriller I, the Jury for going over budget.",
+      "icon": "money",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://weminoredinfilm.com/2019/03/01/larry-cohens-special-effects-a-sleazy-vertigo/"
+      }
+    },
+    {
+      "t": 2520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Schlock Pit's review says the film takes aim at Star 80, the movie that cashed in on the real-life murder of Playmate Dorothy Stratten.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2016/11/03/special-effects-1984/"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Film critic Adrian Martin says the storyline of Detective Philip Delroy (Kevin O'Connor) was added late in shooting, and that it shows in the finished film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://adrianmartinfilmcritic.com/reviews/s/special_effects.html"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cohen said this was one of the lowest budgets of his career. He still believed it had some of his best production values.",
+      "icon": "money",
+      "byline": "Larry Cohen — Director",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2016/11/03/special-effects-1984/"
+      }
+    },
+    {
+      "t": 2970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cohen loved working fast: he once directed Hell Up in Harlem and It's Alive at the same time, shooting It's Alive on weekdays and Hell Up in Harlem on weekends.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Neville is reportedly modeled on Michael Cimino and Peter Bogdanovich. Both suffered very public career slides in the early 1980s after expensive flops.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3270,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On the Blu-ray commentary, Larry Cohen brings up Brian De Palma's Hitchcock homage Obsession (1976) as a point of comparison for his own film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2016/11/03/special-effects-1984/"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It was released in the same year as Brian De Palma's Body Double, another Hitchcock-flavored thriller about filmmaking and voyeurism. Special Effects is often seen as its scrappier, cheaper cousin.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3570,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film played theaters only in Minneapolis, via New Line Cinema, on November 30, 1984. Scholar Tony Williams says it \"never got proper theatrical distribution and went straight to video.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Adrian Martin compares Larry Cohen to Samuel Fuller: both make films packed with striking ideas, delivered in an uneven, hit-and-miss way.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://adrianmartinfilmcritic.com/reviews/s/special_effects.html"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film scholars Xavier Mendik and Steven Jay Schneider say the film uses self-reflexive techniques usually associated with underground cinema. They place it in Cohen's tradition of \"guerrilla cinema.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Bogosian later played Gil Eavis on HBO's Succession and Arno in the Safdie brothers' Uncut Gems (2019).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0091899",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brad Rijn (Keefe) was a Cohen regular in the 1980s. He appeared in this, Perfect Strangers, and The Stuff.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/71426"
+      },
+      "person": "nm0726901",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmY5NDNjNjYtNTkwZC00NDcyLTg4YjEtNmIxMGJjNDQ0MzY4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4470,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Opinions differ on Michael D. Minard's synth score: Filmhounds called it \"a fantastic and very overlooked synth score.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmhounds.co.uk/2026/03/29/special-effects-blu-ray-review/"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blu-ray.com's review says the film's synth score feels like an imitation of Jan Hammer's Miami Vice music. Zoë Lund herself appeared in Miami Vice in 1984.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Special-Effects-Blu-ray/161155"
+      }
+    },
+    {
+      "t": 4770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before the movies, Larry Cohen created TV series including Branded and The Invaders. He was removed from creative control of Branded after one year.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin O'Connor (Detective Delroy) is best known for playing Humphrey Bogart in the 1980 TV movie Bogie. He also starred in Let's Scare Jessica to Death (1971).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0640409"
+    },
+    {
+      "t": 5070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film has a cult afterlife: it is referenced in War on Everyone (2017), Director's Cut (2016) and Adjust Your Tracking (2013), and spoofed in Housewife Alien vs. Gay Zombie (2020).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5220,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UK video release lost about 30 seconds to the BBFC (the British film censors). The cuts hit two strangulations and much of a scene of a murder being watched on film.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5370,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin O'Connor (Detective Delroy) won two Drama Desk Awards and an Obie on stage. He died on June 22, 1991, at age 56.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0640409"
+    },
+    {
+      "t": 5520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Adrian Martin wrote that the film is \"ultimately, a film for Cohen aficionados,\" who can overlook the holes in it.",
+      "icon": "star",
+      "byline": "Adrian Martin — Critic",
+      "source": {
+        "type": "web",
+        "url": "https://adrianmartinfilmcritic.com/reviews/s/special_effects.html"
+      }
+    },
+    {
+      "t": 5820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Walter Goodman of The New York Times wrote that \"coherence is not the strong point here.\" AllMovie's Donald Guarisco called it Cohen at his \"most conceptually audacious.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cohen later wrote Phone Booth (2002) and Cellular (2004). Both are single-location gimmick thrillers sold as spec scripts, with Phone Booth going for a mid-six-figure sum.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0169540",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwZDFmMDMtYTQyMy00MTBjLWFlZDAtNDgwZjc2NDRhZmJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
