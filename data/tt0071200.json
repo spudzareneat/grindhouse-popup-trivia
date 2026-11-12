@@ -1,0 +1,512 @@
+{
+  "schema": 1,
+  "imdbId": "tt0071200",
+  "title": "The Beast Must Die",
+  "year": 1974,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-11-12T17:29:07.576Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The 'Werewolf Break' borrows from showman William Castle, who pioneered the 'Fright Break' pause in Homicidal (1961). Reviewer Richard Scheib of Moria points to the Castle link.",
+      "icon": "reel",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/beast-must-die-1974.htm"
+      }
+    },
+    {
+      "t": 115,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Land Rover in the opening is a 1973 Series III 109. Cheap Amicus movies still got fancy wheels: a mint one can fetch $40,000 or more today.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cameras rolled on The Beast Must Die on July 16, 1973 at Shepperton Studios outside London. Trade charts suggest the shoot wrapped by early September, a quick Amicus-style schedule.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/55246"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Calvin Lockhart's hunting rifle is a Griffin & Howe M1903 Sporter, a custom handmade gun that today costs $13,500 and up.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Vampire star Robert Quarry (Count Yorga) was first slated for the lead. Producers switched to Calvin Lockhart at the last minute to cash in on the blaxploitation craze.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 730,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Anton Diffring (Pavel) admitted he'd never watched Doctor Who. He took his 1988 guest role mainly to be in London for Wimbledon.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0226446",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2IzY2VlNTUtYWViMS00NDg3LTg3YTUtZjE5OGVjODQzZWVmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 800,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Producers considered Herbert Lom, Patrick Magee, Donald Pleasence and Charles Gray, among others, for Pavel before Anton Diffring got the job.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Charles Gray (Bennington) played a Bond ally in You Only Live Twice, then Bond's arch-villain Blofeld in Diamonds Are Forever. He's also the Criminologist in The Rocky Horror Picture Show.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0336509",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNDEzNjMwMDZeQTJeQWpwZ15BbWU3MDM2ODUzMzQ@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "According to director Paul Annett, the part of Caroline was meant for singer Dame Shirley Bassey. She was unavailable, so Marlene Clark was hired on Calvin Lockhart's suggestion.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0164262",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJmNTA4NjMtOGY5OC00YmJjLThiOWItOTgyMWVkNzkyYTEzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1040,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Marlene Clark's voice was dubbed by Annie Ross, the jazz singer of Lambert, Hendricks & Ross.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Calvin Lockhart was the first black actor to play leads with the Royal Shakespeare Company. He'd studied to be a civil engineer at Cooper Union first.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0516865",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAxNjUxMzg0MjReQTJeQWpwZ15BbWU3MDA4NzIyMTg@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1550,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Peter Cushing's boots for Star Wars (1977) hurt, so he wore slippers and George Lucas shot him from the waist up. Here he plays lycanthropy expert Dr. Lundgren.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001088",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ1NWViYTItY2Q1NC00MzU5LWJkMWYtYzBjMWQyOTQ4ODQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1615,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dr. Lundgren (Peter Cushing) blames werewolfism on the lymphatic glands. In James Blish's original story, its psychiatrist Lundgren blames a mutation of the pineal gland in the brain instead.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is based on James Blish's 1950 story 'There Shall Be No Darkness'. Blish himself called it 'a schoolboy pastiche of Dracula.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1790,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria says the whodunnit angle is weak. He writes the werewolf 'could have been chosen by randomly drawing straws.'",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/beast-must-die-1974.htm"
+      }
+    },
+    {
+      "t": 1925,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dr. Lundgren, played by Peter Cushing, says wolfsbane doesn't grow in Britain. It's actually native there and has been recorded since the first century AD.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Caroline is played by Marlene Clark, star of the cult vampire film Ganja & Hess (1973). She later played Lamont's girlfriend Janet on the sitcom Sanford and Son.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0164262",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJmNTA4NjMtOGY5OC00YmJjLThiOWItOTgyMWVkNzkyYTEzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hammer and Amicus each made only one werewolf film in 20 years of horror. Hammer's was The Curse of the Werewolf (1961), starring Oliver Reed. Amicus's was this one.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Casting dark-skinned Calvin Lockhart caused real trouble: the many day-for-night scenes, shot in daylight with filters, were hard to light. Director Paul Annett discusses this on his commentary.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0516865",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAxNjUxMzg0MjReQTJeQWpwZ15BbWU3MDA4NzIyMTg@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Around 1972, Robert Shaw wanted the lead. He was in a career lull with big bills to pay, and Don Sharp was then the intended director.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2375,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "British Horror Films notes that millionaire Tom Newcliffe's skin colour is never remarked on in the story, which was unusual for a 1974 film with a Black lead like Calvin Lockhart.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.britishhorrorfilms.co.uk/the-beast-must-die"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib notes werewolf whodunnits are rare. He cites Universal's The Undying Monster (1942) as the first, and guesses Amicus was inspired by Murder on the Orient Express (1974).",
+      "icon": "reel",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/beast-must-die-1974.htm"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peter Cushing was nicknamed 'Props' for using small objects to make his acting natural. He'd often hand directors a list of what his character carried in his pockets.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001088",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ1NWViYTItY2Q1NC00MzU5LWJkMWYtYzBjMWQyOTQ4ODQyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2796,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof spotted by IMDb users: with the alarm going off, Tom could simply check his spy cameras to see which guest is missing from their room. The thought never seems to occur to him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the only theatrical feature directed by Paul Annett, who mostly worked in TV. He later directed episodes of Secret Army and Tales of the Unexpected.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/08/25/the-beast-must-die-1974/"
+      },
+      "person": "nm0030365"
+    },
+    {
+      "t": 3015,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Pavel (Anton Diffring) grabs a stainless steel Walther PPK, James Bond's gun. The helicopter pilot later carries one too.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "On a small budget the werewolf is a German Shepherd in a fur costume. The Pop-up team's view: it's the first film where a dog fights a werewolf, and the dog survived long after filming.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital says the Werewolf Break gimmick echoes the 1960s Ten Little Indians adaptation, which also stopped to let viewers guess whodunit. Film is a mashup of that and The Most Dangerous Game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/beastmust.html"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The red car Tom disables is a 1966 Ford Galaxie 500, a rare Canadian-built model made for the UK market.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before Charles Gray got the role of Bennington, producers considered Patrick Troughton, Michael Gough, Richard Todd, Joss Ackland and Jeremy Kemp, among others.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The helicopter, an Alouette II (G-AWFY), also appears in Conflict (1973). It was sold to Italy and crashed into a cable in 1984, killing all four aboard.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Calvin Lockhart's submachine gun is a Swiss Rexim-Favor Mk5, of which only about 2,000 were made. Similar props were later used in Star Wars (1977) and Alien (1979).",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per Mondo Digital's review of the Blu-ray, producer Max J. Rosenberg said the script shifted from a dark fantasy into a whodunit. Rosenberg and Milton Subotsky were both lukewarm on the result.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/beastmust.html"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Britain's Monthly Film Bulletin found the Werewolf Break 'amusing enough', bringing 'old-time fairground entertainment', but said Amicus still needed a good scriptwriter.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Hollywood Reporter's Alan R. Howard reviewed the film on its April 24, 1974 Los Angeles opening. He thought the movie could stand on its own merits without the audience-guessing gimmick.",
+      "icon": "reel",
+      "byline": "Alan R. Howard — The Hollywood Reporter",
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/55246"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The music during the Werewolf Break is 'Think!', composed by Merv Griffin for the game show Jeopardy!",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4690,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Paul Annett hated the Werewolf Break: 'It stopped the film stone dead.' Producer Milton Subotsky added it over his objections.",
+      "icon": "mic",
+      "byline": "Paul Annett — Director",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0030365"
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film also circulated on home video as 'Black Werewolf', a cut without the Werewolf Break.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2021 horror comedy Werewolves Within spoofs this film, a whodunnit among suspects trapped together.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5054,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: Tom says he has one silver bullet left. But earlier he handed each guest a silver bullet for a test and never collected them, so he could have gone out with most of a full clip.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the last Amicus horror film made with co-founder Milton Subotsky, and one of the few not built as an anthology.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UK's BBFC gave it an X certificate. In the US, Cinerama Releasing opened it in April 1974 with a mild PG rating, despite the throat-ripping.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/55246"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Break is narrated by actor Valentine Dyall, per We Belong Dead. Ciaran Madden (Davina) later played Michael Gambon's wife in the TV series Maigret.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://webelongdead.co.uk/the-beast-must-die-1974/"
+      }
+    }
+  ]
+}
