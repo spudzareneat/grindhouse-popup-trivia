@@ -1,0 +1,438 @@
+{
+  "schema": 1,
+  "imdbId": "tt0084719",
+  "title": "The New York Ripper",
+  "year": 1982,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-12T16:44:09.718Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lucio Fulci described this film before release as a Hitchcock tribute: \"Hitchcock Revisited,\" with \"no zombies, but a human killer working in the dark.\"",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Luigi Kuveiller, who shot this Lucio Fulci film, also photographed Dario Argento's giallo classic Deep Red (1975).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/nyripper"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Filming took about eight weeks in late 1981 under the working title \"Lo squartatore\" (The Ripper). Streets were shot in New York; interiors were built at De Paolis Studios in Rome.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hysteria Lives! calls this film Lucio Fulci's answer to William Lustig's sleazy NYC slasher Maniac (1981), which hit screens a year earlier.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.hysteria-lives.co.uk/hysterialives/Hysteria/new_york_ripper.html"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Fabrizio De Angelis hated the first script, so Dardano Sacchetti rewrote it in five days, focusing on the death scenes. Sacchetti's earlier version featured a killer with progeria.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Howard Ross (Mickey Scellenda) was born Renato Rossini. He took an American stage name in the mid-1960s after starring in Italian sword-and-sandal peplum films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001886",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1NzVlZGMtMTdiMy00NTk0LTg4ZTYtYTZiMDk1ZGQ0ZmQwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original writers, Gianfranco Clerici and Vincenzo Mannino, recycled their rejected concept into a different film: Phantom of Death (1988).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Almanta Suska (Fay Majors) is often wrongly reported as a pseudonym of Antonella Interlenghi, thanks to an error in a Fulci book. They are two different actresses.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm4105662"
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jack Hedley (Lt. Fred Williams) was cast after shooting began. He spoke English, but the filmmakers disliked his accent and had Edward Mannix dub him with an American one.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0373324",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE4YzQyZWEtYmRiMS00ZTY0LWFmYjEtYmQ4MDI2NzI1ZWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1125,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Zora Kerova was hired from Prague for the small sex-show role, fresh from Cannibal Ferox and Anthropophagus. She has called the scene the most difficult she ever did.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/nyripper"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jack Hedley also voiced the parrot in the James Bond film For Your Eyes Only (1981) and played the doomed father of the Bond girl in it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0373324",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE4YzQyZWEtYmRiMS00ZTY0LWFmYjEtYmQ4MDI2NzI1ZWU4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1375,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The killer's quack isn't only in his voice. Mondo Digital notes the soundtrack adds a loud duck quack whenever a blade or bottle is used to kill.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/nyripper"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Catriona MacColl, star of Lucio Fulci's City of the Living Dead, The Beyond and The House by the Cemetery, was offered the lead female role but turned it down.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Three Lucio Fulci films made the UK's original 74 video nasties list. This one went further: censor James Ferman had the print deported from Britain.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Dardano Sacchetti said much of the film's sexual content came from director Lucio Fulci, who he claimed \"nurtures a profound sadism towards women.\"",
+      "icon": "mic",
+      "byline": "Dardano Sacchetti — Co-writer",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1875,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some of New York here is really Rome. Interiors were shot in Italian studios, where a character flicks a light switch down. In the US, down means off.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot in two-perf Techniscope, a budget widescreen process that gives each negative frame half the resolution of a four-perf CinemaScope frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/2009/10/the-new-york-ripper/"
+      }
+    },
+    {
+      "t": 2125,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A Cinema Treasures commenter identifies the grindhouse-style movie theater in the film as the Olympic Theatre on Prospect Avenue in the Bronx, matching its train-station steps.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinematreasures.org/members/willburg145/photos/favorites/67059"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lucio Fulci appears on screen himself, playing the Chief of Police who lectures Jack Hedley's Lt. Fred Williams.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/2009/10/the-new-york-ripper/"
+      },
+      "person": "nm0002086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4OTI4OTI4NTNeQTJeQWpwZ15BbWU4MDMwNjA3MzIx._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2375,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrea Occhipinti (Peter Bunch) became a film distributor. He founded Lucky Red in Rome and won a David di Donatello as producer of On My Skin (2018).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0643647",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWE2OGVjMzAtZDgyOS00NDA4LWJlNzgtYjQ2YTVlMDZkYzA5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actress Zora Kerova (Eva), who plays the sex-show performer, said Lucio Fulci was a \"humanity-hater\" rather than a woman-hater, and that she'd do it all again.",
+      "icon": "mic",
+      "byline": "Zora Kerova",
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/2009/10/the-new-york-ripper/"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bands About Movies says the film's radio DJ patter sounds very much like the DJ in The Warriors (1979), and calls it no accident.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/09/14/cannon-month-3-the-new-york-ripper-1982/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Slasher critic Chas. Balun wrote in GoreZone that no one could let Fulci off the hook for \"a psychopathic killer who quacks like a duck!\"",
+      "icon": "mic",
+      "byline": "Chas. Balun — GoreZone",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some reviewers read the killer's duck voice as a wink at Fulci's own 1972 giallo Don't Torture a Duckling, which he considered one of his best films.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://retroslashers.net/spaghetti-slashers-the-new-york-ripper/"
+      }
+    },
+    {
+      "t": 3325,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Alan Jones defended the film in his book Nekrofile: \"Nothing in Fulci's flagrant fantasy is real.\"",
+      "icon": "mic",
+      "byline": "Alan Jones",
+      "source": {
+        "type": "web",
+        "url": "https://www.hysteria-lives.co.uk/hysterialives/Hysteria/new_york_ripper.html"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Starburst's Alan Jones called it a \"psychotic, erotic masterpiece\" in 1983 and Fulci's strongest film. TV Guide gave it one star out of four.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3575,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital says the 1980s Vidmark VHS was a faded, brown, pan-and-scan transfer that gave the film a poor US reputation. The first widescreen US release was a Cult Epics laserdisc.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/nyripper"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It earned about 1.04 billion lire in Italy, roughly $760,000 at 1982 rates. It reached US theaters in 1984, and Vidmark released a slightly edited VHS in 1987.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3825,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film barely played US theaters in 1984. It was briefly shown in grindhouses by 21st Century Film Corp., then reached video in a censored 1987 edition.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2024/09/14/cannon-month-3-the-new-york-ripper-1982/"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The BBFC examiners split on it in December 1983: three wanted an 18 certificate with cuts, two wanted it refused outright. Director James Ferman favored refusal.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bbfc.co.uk/case-studies/the-new-york-ripper-1982"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The German DVD, retitled Manhattan Ripper, is cut by about 11 minutes. Entire murders and the porn-club scene are removed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "BBFC examiner Carol Topolski called it \"simply the most damaging film I have ever seen in my whole life.\" The film stayed unclassified in Britain for 17 years.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Resubmitted in 2001 after Ferman retired, it got an 18 with 22 seconds cut from the razor scene. In 2012 BBFC focus groups called the cut material dated and not especially shocking.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bbfc.co.uk/case-studies/the-new-york-ripper-1982"
+      }
+    },
+    {
+      "t": 4750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vipco's UK ads for the film showed a drill going through a man's head. They drew the attention of the Advertising Standards Agency.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://melonfarmers.co.uk/rejfilms_n.htm"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The US version trimmed some sex scenes to dodge an X rating but kept all the violence. Mondo Digital says the sex was later restored on a Cult Epics laserdisc.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.mondo-digital.com/nyripper"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is name-checked in Tenebrae (1982), Demons (1985), Cop (1988), Saw (2021) and Quentin Tarantino's Once Upon a Time in... Hollywood (2019), among others.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
