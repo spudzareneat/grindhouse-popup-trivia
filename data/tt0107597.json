@@ -1,0 +1,475 @@
+{
+  "schema": 1,
+  "imdbId": "tt0107597",
+  "title": "Monolith",
+  "year": 1993,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-11-12T17:45:46.114Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This film was originally titled Tucker and Flynn, after its two cop leads. Moria's review guesses it was renamed to dodge comparison to Turner & Hooch (1989).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Adrian Martin says Monolith kicks off a cycle of movies inspired by The X-Files, and gave it two stars out of five.",
+      "icon": "saucer",
+      "byline": "Adrian Martin",
+      "source": {
+        "type": "web",
+        "url": "https://www.adrianmartinfilmcritic.com/reviews/m/monolith.html"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director John Eyres and Geoff Griffiths of EGM Film International built the script around a pre-sale concept. Writer Stephen Lister turned it into the screenplay.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "No monoliths appear in Monolith. Moria's Richard Scheib jokes the title is inaccurate, and critic Christian Sauvé called it 'misleading' in his 1997 review.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Schlock Pit's Matty Budrewicz says this was director John Eyres' American debut and EGM's most expensive-looking production up to that point.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib found the name of John Hurt's character, Villano, laughably unsubtle. It's a hair away from 'villain.'",
+      "icon": "sunglasses",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director John Eyres made Project: Shadowchaser (1992) just before this. Moria's reviewer called Monolith 'marginally more credible' than that earlier sci-fi film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Monolith's prosthetic makeup artist Howard Berger later won the Best Makeup Oscar for The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005).",
+      "icon": "trophy",
+      "byline": "Howard Berger",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Howard_Berger"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eyres later directed two Project: Shadowchaser sequels, then Judge and Jury (1996), the giant-sea-monster flick Octopus (2000) and Ripper: Letter from Hell (2001).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Introvision front-projection system used on Monolith debuted on Outland (1981). It also helped make Darkman (1990), Army of Darkness (1992) and The Fugitive (1993).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Introvision_International"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Makeup effects came from Howard Berger, who later co-founded KNB EFX Group. Visual effects used Introvision, a front-projection process, supervised by John Mesa.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Introvision was invented by John Eppolito, a stage magician and hypnotist. The process faded around 1994 as digital compositing took over, so Monolith came near the end of its run.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Introvision_International"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "John Hurt played the lead in Alien (1979) and here plays Villano. Moria's review called him miscast as a villain: his small stature and delivery undercut the menace.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Musetta Vander (Dr. Katya Pavlova) went on to play Sindel in Mortal Kombat Annihilation (1997) and a Siren in the Coen brothers' O Brother, Where Art Thou? (2000).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Musetta_Vander"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's review called the secret-government-agency plot a clichéd bid to cash in on The X-Files. It says the agency gets more screen time than the alien.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Musetta Vander (Dr. Katya Pavlova) also played the She-Mantis in Buffy the Vampire Slayer's 'Teacher's Pet' and guest-starred on Star Trek: Voyager.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Musetta_Vander"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Alan M. Trow was a regular collaborator of director John Eyres. The Schlock Pit praised the film's polished photography.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 2160,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Schlock Pit's Matty Budrewicz calls the film's score, by composer Frank Becker, bizarrely heavy on xylophone.",
+      "icon": "boombox",
+      "byline": "Matty Budrewicz",
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 2280,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Bill Paxton had worked with John Hurt's Alien co-star Sigourney Weaver in Aliens (1986). Hurt and Paxton both appear here, one Alien franchise veteran apiece.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Louis Gossett Jr. (Capt. MacCandless) is also famous as Colonel Chappy Sinclair in the Iron Eagle movies, which ran from 1986 to 1995.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001283",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3OTE0MTgyN15BMl5BanBnXkFtZTcwOTI0Mjk1MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Schlock Pit's Matty Budrewicz compares the premise, an alien that hops from body to body, to The Hidden (1987) and The Borrower (1991).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Louis Gossett Jr. was cast in Brian's Song (1971) but tore his Achilles days before shooting. Producer David Wolper promised him the next great role: Fiddler in Roots (1977), which won him an Emmy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001283",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3OTE0MTgyN15BMl5BanBnXkFtZTcwOTI0Mjk1MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Louis Gossett Jr. won the Best Supporting Actor Oscar for An Officer and a Gentleman (1982). He was the first Black American to win in that category.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2880,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lindsay Frost (Terri Flynn) also appeared in the vampire-cop movie Dead Heat (1988) and later in The Ring (2002).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0296534",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzFhN2Q3N2EtYmRmOS00NTQwLTgwMmEtNjM5OWQ5OTg3ZDQ3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lindsay Frost's brothers are Mark Frost, co-creator of Twin Peaks, and writer Scott Frost. Her father was actor Warren Frost.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Paul Ganus (Connor) was also in Lethal Weapon 3 (1992) and later The Mask of Zorro (1998). He's a native of Midland, Michigan.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0304649",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JmOThhYzAtNTVkMy00MjRlLWE2ZWUtNzM0NzRlM2YwODA1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lindsay Frost's son Lucas Giolito became a first-round MLB draft pick in 2012. He later pitched for the Cleveland Guardians.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib calls The Hidden (1987) the template for alien-possession cop movies, later followed by Peacemaker (1990) and I Come in Peace (1990).",
+      "icon": "link",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/monolith-1994.htm"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bill Paxton directed his own horror film, Frailty (2001), and starred in it. It earned him Saturn Award nominations for Best Director and Best Horror Film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film-O-Spheric likens the bickering between Bill Paxton's Tucker and Lindsay Frost's Terri Flynn to Dirty Harry, Hunter and Dempsey and Makepeace. The site calls it more buddy-cop movie than sci-fi.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmospheric.com/?p=205"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Bill Paxton later starred in Nightcrawler (2014). The Nightcrawler of the X-Men comics is a different character entirely.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Adrian Martin groups Monolith with modest straight-to-video films modeled on TV hits like Miami Vice, Moonlighting and Twin Peaks, not on big-screen hits.",
+      "icon": "reel",
+      "byline": "Adrian Martin",
+      "source": {
+        "type": "web",
+        "url": "https://www.adrianmartinfilmcritic.com/reviews/m/monolith.html"
+      }
+    },
+    {
+      "t": 4140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the UK, First Independent released the film in 1994 after the BBFC required 19 seconds of cuts.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 4290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Musetta Vander, who plays Dr. Katya Pavlova, was born Musetta van der Merwe in Durban, South Africa. Her first notable role was in the TV series Super Force (1991-92).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Musetta_Vander"
+      }
+    },
+    {
+      "t": 4440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film reached US video on February 23, 1994, through MCA Universal, according to The Schlock Pit.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 4740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Hurt holds a Hollywood record for onscreen character deaths, 47 in all. He later played the War Doctor in Doctor Who.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4890,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewing Monolith after an April 1997 TV airing, critic Christian Sauvé called it a 'bad and stupid SF thriller' with a 'brain-damagingly stupid' ending. His verdict: 'Avoid.'",
+      "icon": "skull",
+      "byline": "Christian Sauvé",
+      "source": {
+        "type": "web",
+        "url": "https://www.christian-sauve.com/?p=170"
+      }
+    },
+    {
+      "t": 5040,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Schlock Pit's Matty Budrewicz called the film 'good, bad, boring, and brilliant' all at once, a tonal identity crisis.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2020/09/21/monolith-1993-who-do-you-want-to-be/"
+      }
+    },
+    {
+      "t": 5190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Adrian Martin calls the film's opening 'wonderfully catastrophic.' He says the finale swaps the X-Files formula for a colorful homage to the Alien movies.",
+      "icon": "alien",
+      "byline": "Adrian Martin",
+      "source": {
+        "type": "web",
+        "url": "https://www.adrianmartinfilmcritic.com/reviews/m/monolith.html"
+      }
+    }
+  ]
+}
