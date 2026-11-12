@@ -1,0 +1,323 @@
+{
+  "schema": 1,
+  "imdbId": "tt0340312",
+  "title": "Repo Jake",
+  "year": 1990,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-11-12T16:34:16.893Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Joseph Merhi co-founded PM Entertainment with Richard Pepin. The company name is just their surnames: Pepin-Merhi.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/PM_Entertainment"
+      },
+      "person": "nm0580726"
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before directing, Joseph Merhi owned several pizzerias around Las Vegas. He went from slinging pies to making car-crash action movies.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0580726"
+    },
+    {
+      "t": 240,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity watch: during Jake's fight with the purse thief, all three store windows end up broken, yet the thief is thrown through one that was already smashed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 285,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dana Bentley (Jenny) was busy in 1990: she also turned up in Sorority House Massacre II, Bad Girls from Mars and The Invisible Maniac that same year.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0072800"
+    },
+    {
+      "t": 360,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Dan Haggerty is best known as mountain man James 'Grizzly' Adams, in a 1974 film and the NBC series The Life and Times of Grizzly Adams (1977-78).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dan_Haggerty"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Paul Hayes, who plays repo boss Bulldog, served in the U.S. Marine Corps artillery from 1967 to 1972, long before landing roles in Black Dynamite and Buffy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0371180",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdkMGNkYjMtMjZjZi00ZjE1LWI1MzUtNTc2NzkwN2M3MTJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dan Haggerty's famous beard once caught fire in 1977 when a careless restaurant patron carried a flaming cocktail too close to him.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before Grizzly Adams, Dan Haggerty helped build the motorcycles used in Easy Rider, and he played a non-speaking bodybuilder in Muscle Beach Party (1964).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dan_Haggerty"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dan Haggerty worked as an animal trainer and stuntman, and was a Muscle Beach bodybuilder in the early 1960s, before he ever became Grizzly Adams.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Stinker Madness podcast notes Repo Jake has a surprising amount of expensive-looking stunts for a low-budget 1990 film, and claims they were staged without permits.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.stinkermadness.com/episodes/movie-reviews/entry/films/repo-jake?format=amp"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dan Haggerty is the only person to have a Hollywood Walk of Fame star removed. It was meant for actor Don Haggerty and misspelled. Dan later got a proper star near Grauman's Chinese Theatre.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Joseph Merhi was born in a small town in Syria and moved to Florida at 18 without speaking English. He went on to produce over 100 movies.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.lasvegasadvisor.com/blog/life-is-a-gamble-joseph-merhi-part-1-episode-12/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "PM Entertainment's first film was L.A. Heat (1989) with Jim Brown. A year later came Repo Jake, one of the company's early home-video action hits.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/PM_Entertainment"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dan Haggerty also sold his own barbecue sauce, made from his own recipe, and in 1991 opened Haggerty's Bistro in Studio City, California.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1880,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Slam Track scenes pay off for PM Entertainment's trademark: its films were known for car chases, gunfire and explosions over plot. Director Joseph Merhi often teamed with Richard Pepin.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/PM_Entertainment"
+      },
+      "person": "nm0580726"
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dan Haggerty was sentenced to 90 days in county jail and three years probation in 1984 for furnishing cocaine to two undercover police officers.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Repo Jake was written by Joe Hart and produced by PM Entertainment, the home-video action factory run by Joseph Merhi and Richard Pepin.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Repo_Jake"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Repo Jake shows up in Ready Player One (2018), Steven Spielberg's pop-culture-packed blockbuster, according to IMDb trivia.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Jedadiah Leland of Through the Shattered Lens wrote that Repo Jake would be unwatchable without Dan Haggerty's likability, but is still not a terrible way to spend 90 minutes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://unobtainium13.com/tag/dana-bentley"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In early 2000, Joseph Merhi and Richard Pepin sold PM Entertainment to The Harvey Entertainment Company for $6.5 million in cash plus $1.45 million in stock.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/PM_Entertainment"
+      },
+      "person": "nm0580726"
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On Rotten Tomatoes, Repo Jake has no professional critic reviews at all. The audience reviews there are mostly negative, but several single out Dan Haggerty as the highlight.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rottentomatoes.com/m/repo_jake"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "PM Entertainment's library of 150-plus films, Repo Jake included, passed to Echo Bridge, then FilmRise in 2021 and then Shout! Studios.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/PM_Entertainment"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Stinker Madness podcast calls Repo Jake 'so bad, it's absolutely fantastic,' praising its stilted, quotable dialogue and a mix of overacting, underacting and bizarre performances.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.stinkermadness.com/episodes/movie-reviews/entry/films/repo-jake?format=amp"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dan Haggerty returned as a modern Grizzly Adams in Grizzly Mountain (1997). He later appeared in Big Stan (2007) and died in January 2016, aged 73.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dan_Haggerty"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "PM Entertainment, Repo Jake's studio, also tried kids' films such as Magic Kid and Bigfoot: The Unforgettable Encounter, with limited success compared with its action and kickboxing titles.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/PM_Entertainment"
+      }
+    }
+  ]
+}
