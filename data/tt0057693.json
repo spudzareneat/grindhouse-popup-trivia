@@ -1,0 +1,644 @@
+{
+  "schema": 1,
+  "imdbId": "tt0057693",
+  "title": "X: The Man with the X-Ray Eyes",
+  "year": 1963,
+  "runtimeSec": 4740,
+  "generatedAt": "2026-11-12T17:25:33.442Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "American International Pictures released this in fall 1963 as a double feature with Dementia 13, an early horror film directed by a young Francis Ford Coppola.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 140,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Star Ray Milland (Dr. James Xavier) won the 1945 Best Actor Oscar for The Lost Weekend, and was the first Welsh-born actor to win an Academy Award.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001537",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk0YmE2N2ItMGJmMC00MTc3LTk5MWQtODE3MDk3YWRiM2Q2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Harold J. Stone (Dr. Sam Brant) was a longtime friend of Jerry Lewis, who cast him in three of his films, including The Big Mouth (1967).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0831905",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzODYyMTcxNl5BMl5BanBnXkFtZTYwNzczOTAz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Roger Corman shot this in about three weeks on a budget of roughly $300,000, and later called its success a miracle.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000339",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU3NjM1MjE0OF5BMl5BanBnXkFtZTcwOTY1Njk5Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 310,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Diana Van der Vlis (Dr. Diane Fairfax) kept a 20-inch pet alligator in her New York apartment for her two children.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0886469",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI4Mzk3MDA5MV5BMl5BanBnXkFtZTgwOTU3NTM2MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roger Corman's first draft made the hero a jazz musician on drugs. After four or five pages he threw it out and went back to his original idea: a scientist.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000339",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU3NjM1MjE0OF5BMl5BanBnXkFtZTcwOTY1Njk5Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Principal photography began March 4, 1963, at Republic Studios in Studio City, California, according to the AFI Catalog.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/20482"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Corman was famous for lean budgets, yet he hired Oscar-winning cinematographer Floyd Crosby, who shot many of his films.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the coffee: Ray Milland (Dr. Xavier) pulls a second cup from the machine without paying or waiting for it to fill.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A July 1963 Variety review credited the film's visual trick as \"Spectarama.\" The effects were done cheaply, with colored lighting and filmed construction sites.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/20482"
+      }
+    },
+    {
+      "t": 735,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: Dr. Brant is told to put one drop in each of Dr. Xavier's eyes, but two drops land in the first eye.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tim Burton developed a remake script with writer Bryan Goluboff, but it never got made.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gold Key Comics published a comic book adaptation of the film in September 1963.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1085,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "John Hoyt (Dr. Willard Benson) is one of the few actors to appear on both the original Star Trek and the original Battlestar Galactica.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0398466",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDEzNTM3MF5BMl5BanBnXkFtZTcwNTk1MjYxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1180,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Les Baxter scored many Corman and American International pictures of the era, and his motifs were often interchangeable between films.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Roger Corman said star Ray Milland once named this film and The Lost Weekend as the two movies he was proudest of, per Corman's commentary as reported by MovieFanFare.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefanfare.com/?p=52347"
+      },
+      "person": "nm0001537",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk0YmE2N2ItMGJmMC00MTc3LTk5MWQtODE3MDk3YWRiM2Q2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1345,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria called the party scene hilarious: the nudity is hidden below the waist or by turned backs.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/x-the-man-with-x-ray-eyes-1963.htm"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Corman dropped his jazz-musician draft partly because drug-using characters of the era had to be punished for their 'lack of intelligence' under Hays Code-style rules, MovieFanFare reports.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefanfare.com/?p=52347"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The dancers at the party are doing The Twist, which was popular from late 1959 to 1963.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1540,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look closely: when a woman facing away turns slightly, the edge of a cover-up on her chest shows.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Floyd Crosby, father of rock star David Crosby, used kaleidoscopic filters and colored gels in Pathécolor to suggest sight beyond the visible spectrum, says Inverse.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/culture/x-the-man-with-the-x-ray-eyes-60-year-anniversary"
+      }
+    },
+    {
+      "t": 1645,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This was the final film of veteran character actor Morris Ankrum.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1790,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The close-ups of Dr. Xavier's hands during the heart operation are footage of a real surgeon's hands.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1855,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: Dr. Xavier operates on the girl's heart but his hands never pick up any blood.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film won the \"Silver Spaceship\" award at the first International Festival of Science Fiction Film in Trieste, Italy, in 1963.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2035,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's trippy vision effects reflect Corman's interest in psychedelic culture, which he pushed further in his 1967 film The Trip, according to Inverse's retrospective.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/culture/x-the-man-with-the-x-ray-eyes-60-year-anniversary"
+      }
+    },
+    {
+      "t": 2080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes gives the film 88%. Its consensus calls it \"one of Roger Corman's most effective movies.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2175,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The two hecklers Crane picks on are Dick Miller and Jonathan Haze, who became Corman cult icons through A Bucket of Blood and The Little Shop of Horrors.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2255,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "On The Tonight Show in 1972, Ray Milland said this film was terrible but that Don Rickles (Crane) had been brilliant in it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0725543",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTk1NzY1M15BMl5BanBnXkFtZTcwNjk4NDMwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Paul Willemen wrote in 1970 that Xavier's growing personal isolation is paralleled by his geographic isolation, with the pursuing helicopter standing in for a vengeful god.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/blog/2017/06/like-a-splitting-of-the-world-roger-cormans-x/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria reads the film through the Icarus myth, calling Ray Russell's script \"remarkably tortured and personalised.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/x-the-man-with-x-ray-eyes-1963.htm"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The New York Times praised the originality of the screenplay and Ray Milland's performance as Dr. James Xavier, according to the AFI Catalog.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/20482"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In Britain in 1964 it played on a double bill with Corman's The Masque of the Red Death, and later aired on TV simply as \"X.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film originally had a five-minute prologue about the human senses. It was cut from later prints, bringing the runtime down to 79 minutes.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Several of the extras waiting in the clinic also played townspeople in Mayberry on The Andy Griffith Show.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Tim Lucas notes the film opened billed as shot in a new 'Spectarama' process, and argues it was more a marketing hook for audiences than a true photographic advance.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/blog/2017/06/like-a-splitting-of-the-world-roger-cormans-x/"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bauhaus (on 1981's Mask) and Blue Öyster Cult (on 1998's Heaven Forbid) each have a song that references this film.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When the film opened in Omaha in October 1963, horror star Peter Lorre visited the city to promote it, according to the AFI Catalog.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://catalog.afi.com/Catalog/moviedetails/20482"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's X-ray perspective shots used Spectarama, a photographic technique credited to its inventor, John C. Howard, according to a review at Realweegiemidget Reviews.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://maniacsandmonsters.com/2022/05/27/if-thy-eye-offends-thee/"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The closing montage with the credits appears to have influenced Martin Scorsese's treatment of the end of Taxi Driver.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The skeletal skyscraper was real: Corman filmed the Department of Water & Power building in downtown Los Angeles while it was still under construction.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Corman never stayed in one place: he often shot a second film at the same location to spread the costs.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000339",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU3NjM1MjE0OF5BMl5BanBnXkFtZTcwOTY1Njk5Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Corman has said Ray Milland was very enthusiastic after reading the script and was proud of the finished film, according to the Maniacs and Monsters review.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://maniacsandmonsters.com/2022/05/27/if-thy-eye-offends-thee/"
+      },
+      "person": "nm0001537",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk0YmE2N2ItMGJmMC00MTc3LTk5MWQtODE3MDk3YWRiM2Q2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3779,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: the dealer shows a king, flips a face card and announces \"eighteen.\" Two face cards make twenty.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Don Rickles (Crane) later voiced Mr. Potato Head in the first three Toy Story films.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0725543",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTk1NzY1M15BMl5BanBnXkFtZTcwNjk4NDMwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rumor says the film once ended with 'I can still see!' Corman said it wasn't scripted: he shot the line on a whim, disliked it and scrapped it, per a Million Monkey Theater review.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://millionmonkeytheater.com/XRayEyes.html"
+      }
+    },
+    {
+      "t": 4145,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof: a helicopter announces \"This is the California Highway Patrol,\" but the California line is about 50 miles from Las Vegas.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4210,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Corman saved a dollar: Dr. Xavier starts in a Lincoln Continental with whitewalls, but the wreck is a junker painted blue with blackwalls and no hubcaps.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4270,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The chase was filmed on Soledad Canyon Road in California, where almost all of Steven Spielberg's Duel (1971) was shot.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The unfinished highway was a stretch of what became Interstate 15, then U.S. 91. The distance sign was shot near today's Primm, Nevada.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4440,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria called the revival-tent climax \"wonderfully overwrought\" and praised the film's grand vision despite the thrift.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/x-the-man-with-x-ray-eyes-1963.htm"
+      }
+    },
+    {
+      "t": 4540,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Stephen King, in Danse Macabre, called this \"one of the most interesting and offbeat little horror movies ever made\" and ranked the ending among film's most shuddery gross-out scenes.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://faroutmagazine.co.uk/cult-horror-movie-turns-stephen-kings-stomach/"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "American International Pictures released the film September 18, 1963 at 79 minutes, according to Wikipedia. In France it drew 53,087 admissions.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/X_(1963_film)"
+      }
+    },
+    {
+      "t": 4690,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Stephen King wrote of a rumored longer ending where Xavier cries \"I can still see!\" Corman denied it was shot, but said King's version was better than his own.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
