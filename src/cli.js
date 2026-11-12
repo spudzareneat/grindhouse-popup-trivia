@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Usage:
-//   node src/cli.js run [--dry-run] [--force]
+//   node src/cli.js run [--dry-run] [--force] [--schedule feed.xml]   (--schedule: saved copy of the Reddit .rss feed, skips the fetch)
 //   node src/cli.js movie <tt1234567 | "Title"> [--year 1962] [--dry-run] [--force]
 //   node src/cli.js backfill-totals [--dry-run] [--force]   (add the Drive-In Totals card to published files)
 // Env: DATA_REPO_DIR (git checkout to write data/ into; default cwd), CLAUDE_MODEL (default "sonnet"),
@@ -10,7 +10,7 @@
 //      DISCORD_BOT_TOKEN + DISCORD_CHANNEL_ID (both required to post a run summary and match pickers to Discord).
 import path from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
-import { fetchWeekendMovies } from './schedule.js';
+import { fetchWeekendMovies, readWeekendMoviesFile } from './schedule.js';
 import { makeImdb } from './imdb.js';
 import { makeWiki } from './wiki.js';
 import { makeTmdb } from './tmdb.js';
@@ -79,7 +79,7 @@ async function main() {
             let res;
             try {
                 res = await runWeekend(deps, {
-                    fetchWeekend: async () => { const s = await fetchWeekendMovies(); postTitle = s.postTitle; return s; },
+                    fetchWeekend: async () => { const s = args.schedule ? readWeekendMoviesFile(path.resolve(args.schedule)) : await fetchWeekendMovies(undefined, { log }); postTitle = s.postTitle; return s; },
                     delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
                     sleep,
                 });

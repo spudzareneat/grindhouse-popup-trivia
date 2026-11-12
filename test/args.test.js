@@ -25,3 +25,8 @@ test('parseArgs: --replaces takes a tconst, defaults to null', () => {
     assert.match(parseArgs(['movie', 'X', '--replaces', 'nope']).error, /--replaces/);
     assert.match(parseArgs(['movie', 'X', '--replaces']).error, /--replaces/);
 });
+
+test('--schedule takes a file path', () => {
+    assert.equal(parseArgs(['run', '--schedule', 'feed.xml']).schedule, 'feed.xml');
+    assert.match(parseArgs(['run', '--schedule']).error, /--schedule/);
+});
