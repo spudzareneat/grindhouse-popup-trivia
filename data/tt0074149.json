@@ -1,0 +1,315 @@
+{
+  "schema": 1,
+  "imdbId": "tt0074149",
+  "title": "Apple Pie",
+  "year": 1975,
+  "runtimeSec": 4560,
+  "generatedAt": "2026-11-12T17:31:37.340Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Irene Cara made her film debut in this oddball indie. Five years later she starred in Fame (1980) and sang its title song.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      }
+    },
+    {
+      "t": 215,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Calvert DeForest, playing one of the mob boss's entourage, later became Larry \"Bud\" Melman, David Letterman's fumbling sidekick on Late Night. Letterman found him in a student film.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0214531",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE0ZjFlMDctY2YxOS00OWFkLWE4YjItNWQwYzA0YmZkN2I4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before TV fame, Calvert DeForest worked as a file clerk at a drug rehab center. His uncle Lee De Forest invented the three-element vacuum tube that helped launch radio and TV.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0214531",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE0ZjFlMDctY2YxOS00OWFkLWE4YjItNWQwYzA0YmZkN2I4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The movie nods to The Wizard of Oz, Dirty Mary Crazy Larry and The Black Godfather. Writer-director Howard Goldberg's credits even bill it as \"home-baked.\"",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 555,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Brad Fiedel was once signed as a songwriter to Paul Simon's publishing company, and spent six months in 1973 as keyboardist for Hall & Oates, before scoring Apple Pie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brad_Fiedel"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Tony Azito, who plays Jacques Blinbaum, was a Juilliard-trained dancer in nearly every scene. He later earned a Tony nomination for The Pirates of Penzance and reprised the role on film in 1983.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      },
+      "person": "nm0044283"
+    },
+    {
+      "t": 790,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jacques' father is played by Brother Theodore, a famously eccentric New York monologuist, according to Peter Hanson's review on Every 70s Movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      }
+    },
+    {
+      "t": 895,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One article says Apple Pie, made in New York's artistic underground, premiered at France's Deauville Film Festival and won early notice in Europe before drifting into late-night cult status.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theenterpriseworld.com/howard-goldbergs-forgotten-gem/"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter Hanson of Every 70s Movie compares this film's satire to John Waters and files it under 'Freaky: Demented.' He says it's strange enough to alienate most viewers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The score is by Brad Fiedel, who was about to be a keyboardist for Hall & Oates in 1973. In 1984 director James Cameron hired him to score The Terminator.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brad_Fiedel"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brother Theodore, Jacques' father here, also voiced Gollum in the 1977 animated The Hobbit and in 1980's The Return of the King. He voiced Rukh in The Last Unicorn too.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brother_Theodore"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tony Azito once had his Juilliard student ID photo taken in full drag. John Houseman, the school's founding drama director, ruefully recalled finding out in his 1983 memoir Final Dress.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0044283"
+    },
+    {
+      "t": 1990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brad Fiedel calls writer-director Howard Goldberg 'my old friend.' Apple Pie was Fiedel's first feature-film score, and Goldberg hired him again for the 1996 film Eden.",
+      "icon": "link",
+      "byline": "Brad Fiedel",
+      "source": {
+        "type": "web",
+        "url": "https://bradfiedel.net/eden-end-credits-from-an-unreleased-score/"
+      }
+    },
+    {
+      "t": 2175,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tony Azito sings 'How You Gonna Keep 'Em Down on the Farm,' a 1919 hit with music by Walter Donaldson. The film's other song, 'Nobody But Yourself To Blame,' was written by Brad Fiedel.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0044283"
+    },
+    {
+      "t": 2385,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brother Theodore's headstone reads 'As Long as There Is Death, There Is Hope.' David Letterman once introduced him as 'a noted philosopher, metaphysician, and podiatrist.'",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brother_Theodore"
+      },
+      "person": "nm0214531",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWE0ZjFlMDctY2YxOS00OWFkLWE4YjItNWQwYzA0YmZkN2I4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2595,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'Nobody But Yourself To Blame' was written by Brad Fiedel, later the composer of The Terminator. This movie was one of his earliest film credits.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brad_Fiedel"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After this film, Brad Fiedel scored The Terminator (1984), Fright Night (1985), Terminator 2 and True Lies, mostly with synthesizers. He later quit film scoring to write musicals.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Brad_Fiedel"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Azito's stage work included Joseph Papp's 1976 Threepenny Opera in New York. There he played a wordless choral figure who wasn't in the script, commenting visually on the action.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0044283"
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Veronica Hamel, billed as the Artist, was a Philadelphia secretary at an ironing-board-cover company before Eileen Ford discovered her as a model. She later starred in Hill Street Blues.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Veronica_Hamel"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Veronica Hamel, who plays an artist here, later became a TV star. Peter Hanson's review notes her role involves making her own face disappear.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Veronica Hamel modeled in the last cigarette commercial ever aired on U.S. TV, for Virginia Slims in January 1971. She earned five Emmy nominations as attorney Joyce Davenport on Hill Street Blues.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Veronica_Hamel"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tony Azito died in 1995 at just 46. He won a Drama Desk Award for The Pirates of Penzance, and his rubbery dance skills were legendary on the New York stage.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      },
+      "person": "nm0044283"
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Veronica Hamel was reportedly considered for Kelly Garrett on Charlie's Angels but declined, and Jaclyn Smith got the part. Hamel was already guest-starring on Kojak and The Rockford Files in 1975.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Veronica_Hamel"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Peter Hanson of Every 70s Movie calls the closing dance number one of the most joyous moments in 1970s cinema. Some viewers think it foreshadowed a similar scene in Fame.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://every70smovie.blogspot.com/2018/04/apple-pie-1976.html"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Irene Cara, here a small-role dancer, went on to co-write 'Flashdance... What a Feeling' with Giorgio Moroder. It won her the 1983 Oscar, and she was the first Black woman to win a non-acting Oscar.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Irene_Cara"
+      }
+    }
+  ]
+}
