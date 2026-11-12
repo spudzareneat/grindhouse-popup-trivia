@@ -1,0 +1,628 @@
+{
+  "schema": 1,
+  "imdbId": "tt0120199",
+  "title": "Space Truckers",
+  "year": 1996,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-11-12T16:47:52.398Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon had dreamed of truckers in space for years. Profits from his earlier hit Fortress funded this $25 million budget, his biggest ever.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 160,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Concept artist Ron Cobb contributed spacecraft designs to Space Truckers, and the crew's living spaces were reportedly based on his concepts.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.roncobb.net/film.html"
+      }
+    },
+    {
+      "t": 230,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer Ted Mann, a former National Lampoon editor, called this 'the first outer space road movie': no scientists or techies, just underpaid, poorly regarded workers.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The truck-stop diner's curved floor is said to echo the Discovery spacecraft interior from 2001: A Space Odyssey, which director Stuart Gordon's film spoofs.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinematiccatharsis.blogspot.com/2020/09/space-truckers.html"
+      }
+    },
+    {
+      "t": 370,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon always hated that in Star Wars characters move the same on planets as on spaceships. He wanted a space movie that obeyed the rules of actually being in space.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 440,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The cyborgs' guns were meant to fire beams that warped the background, Abyss-style. Two shots were finished and looked great, but the effect was too costly, so the beam was dropped.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 510,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dennis Hopper (John Canyon) was in the middle of a legal feud with actor Rip Torn. To settle it, Hopper's side offered Torn a role in this movie. Torn's side said no.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 580,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon, a theater man, likes weeks of rehearsal. Dennis Hopper (John Canyon) reportedly refused to rehearse, so many scenes use his first takes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.flickeringmyth.com/blu-ray-review-space-truckers-1996"
+      },
+      "person": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stephen Dorff's agent hated the title, so filming went on under 'Untitled Irish Space Movie.' When shooting wrapped, Dorff suggested 'Space Trucker' and the original title came back.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001151",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5MzY3NjcyN15BMl5BanBnXkFtZTcwNjEzMzEwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Universal reportedly offered the filmmakers more money, but one of the producers turned the studio down. The film still never got a US theatrical release.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinematiccatharsis.blogspot.com/2020/09/space-truckers.html"
+      }
+    },
+    {
+      "t": 790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The crew arrived in Ireland to find the local producer had raised £2 million of a promised £7 million. Producers Peter Newman and Greg Johnson rescued the film with other investors.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Barbara Crampton, star of director Stuart Gordon's Re-Animator, and Gordon's wife Carolyn Purdy-Gordon both have cameos in Space Truckers.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinematiccatharsis.blogspot.com/2020/09/space-truckers.html"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Irish tax law (Section 35 of the Finance Act of 1987) let the government help fund the film if Irish labor and resources were used. That's why a space epic was shot at Ardmore Studios in Wicklow.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon later said he wished all of Space Truckers' effects had been CGI. Some reviewers say the practical models aged better than the early digital work.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinematiccatharsis.blogspot.com/2020/09/space-truckers.html"
+      }
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ireland had no special effects facilities, so the production took over a disused builders' merchant in Sandyford, outside Dublin, and turned it into a huge effects shop.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Stephen Dorff (Mike Pucci) is credited with the 'ugh' heard on Lenny Kravitz's recording of 'American Woman'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001151",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5MzY3NjcyN15BMl5BanBnXkFtZTcwNjEzMzEwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To teach the cast to move convincingly in weightlessness, the production hired Koichi Sakamoto, a Japanese stunt performer, to train the actors.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "George Wendt's maternal grandfather, photographer Tom Howard, smuggled a camera strapped to his ankle into Ruth Snyder's 1928 execution and shot one of the most famous news photos ever.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001841",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIyODgzNDY1MF5BMl5BanBnXkFtZTYwMTYwMjE1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's killer cyborgs were designed by Japanese illustrator Hajime Sorayama, famous for glossy, erotic paintings of feminine robots.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Nathan Rabin argued that the film, rated PG-13, is 'exquisitely fucked up' and should have been rated R for its violence and sexual content.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nathanrabin.com/happy-place/2023/3/8/stuart-gordons-1996-science-fiction-comedy-space-truckers-is-way-more-exquisitely-fucked-up-than-either-its-abysmal-reputation-or-pg-13-rating-would-suggest"
+      }
+    },
+    {
+      "t": 1490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The cyborg warriors were played by stunt performers, all women except one man. Effects house Screaming Mad George is credited with the bio-mechanical warriors, per Moria.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/space-truckers-1996.htm"
+      }
+    },
+    {
+      "t": 1630,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "JoBlo's Jason Adams suggested the Demogorgon monster in Stranger Things may have been inspired by this film's killer robots. It's his opinion, not a confirmed fact.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/awfully-good-space-truckers-339-02/"
+      }
+    },
+    {
+      "t": 1770,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ron Houser was first cast as Captain Macanudo, but director Stuart Gordon felt he played it too over the top and went looking for a new actor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1910,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Charles Dance got the part by chance. Director Stuart Gordon happened to be at Dance's London hotel and mentioned the film in the lobby. A week later Dance called to say he wanted in.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Charles Dance said he took the role of Captain Macanudo 'for the sheer fun of it.' He enjoyed playing silly material completely straight.",
+      "icon": "mic",
+      "byline": "Charles Dance",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dennis Hopper took the lead as John Canyon because he wanted a sympathetic role after a run of villains, and he helped get Stephen Dorff cast, director Stuart Gordon said.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Debi Mazar was pushed for Cindy by writer Ted Mann, who had worked with her on the TV series Civil Wars. The writers wanted to keep the character from being bland.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000529",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgyNTQxMjM5NV5BMl5BanBnXkFtZTcwOTExOTAyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Ted Mann and director Stuart Gordon deliberately made the film colorful and commercialized, as a reaction to the sterile, minimalist look of 2001: A Space Odyssey.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2610,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film has a hospitality sub-plot nobody expected: it was released with no US theater run. After festival play it premiered on HBO.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It earned about $1.6 million against a $25 million budget. Director Stuart Gordon himself put the cost at almost $30 million, his biggest ever.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/cinema-cpr-the-films-of-stuart-gordon-part-ii-2/"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dennis Hopper (John Canyon) was reportedly the first person to buy one of Andy Warhol's Campbell's soup can paintings, before anyone else took them seriously.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2890,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film composer Colin Towns once played in the band Gillan, fronted by Ian Gillan of Deep Purple, who sang 'Space Truckin'.' Fitting, for a film called Space Truckers.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The soundtrack includes 'Cotton Eye Joe' by Rednex, a Swedish Eurodance band built on American-South stereotypes.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3170,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vernon Wells, who plays Mister Cutt, was also the villain Wez in Mad Max 2 and Bennett in Commando. He calls Bennett 'Freddie Mercury on steroids.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0920460",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZkNDI0ZTctN2E1Ny00NWVjLWI4NzgtODg3OWYxOTg0NTJlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3310,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vernon Wells also appeared in director Stuart Gordon's earlier sci-fi film Fortress (1992), the movie whose profits helped pay for Space Truckers.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0920460",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZkNDI0ZTctN2E1Ny00NWVjLWI4NzgtODg3OWYxOTg0NTJlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "George Wendt (Keller) was one of only three actors to appear in all 273 episodes of Cheers, as barfly Norm Peterson.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001841",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIyODgzNDY1MF5BMl5BanBnXkFtZTYwMTYwMjE1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Debi Mazar once worked as a makeup artist for her close friend Madonna, and later played press agent Shauna Roberts on HBO's Entourage.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000529",
+      "image": "https://m.media-amazon.com/images/M/MV5BODgyNTQxMjM5NV5BMl5BanBnXkFtZTcwOTExOTAyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stephen Dorff was considered for Jack in Titanic. He said he was glad he missed it because he'd always be remembered as 'that guy on the boat.' He played vampire Deacon Frost in Blade instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001151",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5MzY3NjcyN15BMl5BanBnXkFtZTcwNjEzMzEwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3870,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dennis Hopper had just played a villain in Waterworld (1995) when he took this role. Reviewer J.R. Southall noted his career was in a rough patch around then.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://scifihistory.net/mainpage/stardate-06202024b-1996s-space-truckers-cruises-into-mediocrity-at-warp-speed"
+      },
+      "person": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4010,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Charles Dance (Captain Macanudo) is nearly a foot taller than Debi Mazar (Cindy), a height gap the film plays for laughs.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://scifihistory.net/mainpage/stardate-06202024b-1996s-space-truckers-cruises-into-mediocrity-at-warp-speed"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it three stars, was surprised how enjoyable it is, and called it a trucker movie like Convoy set in space. He praised its respect for zero-gravity science.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/space-truckers-1996.htm"
+      }
+    },
+    {
+      "t": 4290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes lists the film at 17% from 12 reviews, but it has since built a cult following as a so-bad-it's-fun late-night sci-fi comedy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Loaded magazine summed the film up as Star Wars meets Predator meets Hook. The film's own tagline was 'Earth's Only Hope.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Stuart Gordon, known for the nudity and gore of Re-Animator and From Beyond, made this one of his few films with no nudity.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4710,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was featured in German TV's SchleFaZ series, in which two hosts dress up and roast bad movies. It aired on Tele5 in December 2023.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dennis Hopper was the first choice for Bud in Repo Man, but the studio feared his erratic reputation. Harry Dean Stanton got the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Goldcrest Films, the British company behind Chariots of Fire and Gandhi era hits, put in extra money on condition that post-production happened in London.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A late scene was meant to be set in a desert. Ireland has none, so the production shot it on a beach instead.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5130,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stuart Gordon also made Masters of Horror episodes based on Lovecraft and Poe, long after leaving Chicago's experimental Organic Theater Company behind.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Space Truckers references Battleship Potemkin and spoofs 2001: A Space Odyssey, according to IMDb's connections list.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stuart Gordon's film career, begun with Re-Animator in 1985, grew out of experimental theater. He died in March 2020, leaving cult classics like this one.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002340",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTU4ODExOV5BMl5BanBnXkFtZTYwMjkwMTE0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
