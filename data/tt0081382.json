@@ -1,0 +1,401 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081382",
+  "title": "Project: Kill",
+  "year": 1976,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-11-12T16:28:00.459Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's first distributor, Sterling Gold, lost its owner when he was found murdered. Producer David Sheldon said it was an apparent organized-crime-style killing, and the film was left in limbo.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2026/06/17/weird-wednesday-project-kill-1976/"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Girdler called Project: Kill 'the only picture I'm really proud of' and 'the beginning of what I can do if I'm given the opportunity.'",
+      "icon": "mic",
+      "byline": "William Girdler — Director",
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/19/project-kill-1976/"
+      },
+      "person": "nm0320852",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlNWI4ZDQtMGJiMy00ZDJkLWJiNTEtMjJmYjJlYjk1NzM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 310,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Leslie Nielsen (John Trevor) plays this straight. Four years later, Airplane! turned him into a deadpan comedy star, and critic Roger Ebert dubbed him 'the Olivier of spoofs.'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Trevor's speech about vitamins, injections and 'control' fits the film's setup: writer-reviewers describe it as an MK-ULTRA-style program that drugs and hypnotizes soldiers into better killers.",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2026/06/17/weird-wednesday-project-kill-1976/"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leslie Nielsen said the film's original title was Project Kill: F-134. It was also called The Guardian before release and Total Control on video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Troma Entertainment, the studio behind The Toxic Avenger (1984), later distributed this film on home video, alongside Digiview Productions.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 830,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is in the public domain. The Digiview DVD box says 'Not Rated,' but an R rating appears at the end of the credits.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 910,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Carl Wagner is played by Galen Thompson, who also wrote the screenplay. He later wrote Superstition, The Evil, and several Chuck Norris projects.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/19/project-kill-1976/"
+      }
+    },
+    {
+      "t": 1030,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Robert O. Ragland, who wrote this film's music, began as an arranger for the Dorsey Brothers Orchestra and married Martha Montgomery Newman, the widow of film composer Alfred Newman.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_O._Ragland"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Vic Diaz plays crime boss Alok Lee. Quentin Tarantino called the Filipino exploitation regular 'the Filipino Peter Lorre.' His son Teddy Diaz was a founding guitarist of the rock band The Dawn.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0225055",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzZjdlNjYtMTliYS00M2IxLWIyYmEtMGY3NzgwNDllMmRhXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pamela Parsons plays US embassy officer Lynn Walker. F This Movie notes she had only one other film credit, and its reviewer judged her performance much weaker than the leads'.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fthismovie.com/2018/07/back-to-1976-project-kill.html"
+      }
+    },
+    {
+      "t": 1460,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Gary Lockwood (Frank Lassiter) was astronaut Frank Poole in 2001: A Space Odyssey (1968). His real surname is Yurosek, and he took 'Lockwood' from director Joshua Logan's middle name.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0516972",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdmYzY4MDItNjM5OS00NTJlLWJkMjktZTYwYzBhMTU0ZWFmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Vic Silayan, who plays Chief Inspector Cruz, appeared in over 300 Filipino films, including Badjao (1957) and Kisapmata (1981). His daughter Chat Silayan became an actress too.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gary Lockwood (Frank Lassiter) has an odd off-screen claim to fame: according to IMDb trivia, actress Tuesday Weld once tried to run him over with a car.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0516972",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdmYzY4MDItNjM5OS00NTJlLWJkMjktZTYwYzBhMTU0ZWFmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gary Lockwood wore heavy silver contact lenses with a single tiny hole to see through in Star Trek's second pilot. He later blamed them for his vision problems.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0516972",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdmYzY4MDItNjM5OS00NTJlLWJkMjktZTYwYzBhMTU0ZWFmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer David Sheldon also worked on Grizzly, Lovely but Deadly and Foxy Brown. Girdler and Sheldon had sued the Grizzly distributor over profits, and Girdler later turned to this film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/19/project-kill-1976/"
+      }
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The ballad 'The Lonely World' has lyrics by Sid Wayne and music by Robert O. Ragland, who often scored for director William Girdler. It is sung by Pilita Corrales.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The singer of this ballad, Pilita Corrales, opened for The Beatles at Manila's Rizal Memorial Stadium in 1966. Sammy Davis Jr. later invited her to be the first Filipino to sing at Caesars Palace.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Pilita_Corrales"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming took place around Luzon and at Manila's El Grande Hotel. Review site F This Movie says the Philippine locations add considerable production value.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fthismovie.com/2018/07/back-to-1976-project-kill.html?m=1"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer David Sheldon pulled the film from Arnold Kopelson's Inter-Ocean Films for being slow overseas. A later distributor, Picturmedia, got it into theaters, but Sheldon said it did a poor job.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/19/project-kill-1976/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot full-frame at 1.33:1 on 35mm, meant to be matted to 1.85:1 in theaters. That's why many public-domain copies look so boxy.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fthismovie.com/2018/07/back-to-1976-project-kill.html?m=1"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Nielsen was about fifty when this was shot. F This Movie's reviewer calls his non-comic turn 'serviceable' and notes his nearly silver hair and surprisingly fit physique.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fthismovie.com/2018/07/back-to-1976-project-kill.html"
+      },
+      "person": "nm0000558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Its distribution was a mess. Producer David Sheldon says the film had a limited theatrical run, but Girdler's insurance man Joe Schulten believed it mostly reached cable TV in the 1980s.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2026/06/17/weird-wednesday-project-kill-1976/"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film got a Canadian theatrical release in 1985, nine years after it was made, through Cinema International Canada. It was one of several stray releases in a messy distribution history.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Project_Kill"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Girdler sued Film Ventures International head Edward L. Montoro over profits from his hit Grizzly (1976).",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0320852",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlNWI4ZDQtMGJiMy00ZDJkLWJiNTEtMjJmYjJlYjk1NzM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "F This Movie's reviewer says the violence includes shotgun blasts to the stomach, slit throats and broken beer bottles to the face. He still calls the film cheap-looking, because 'it is cheap.'",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fthismovie.com/2018/07/back-to-1976-project-kill.html"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Leslie Nielsen was a dramatic actor in Forbidden Planet (1956) and The Poseidon Adventure (1972) long before comedy. Project: Kill came in that serious phase.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjM4N15BMl5BanBnXkFtZTYwNzI3MTI0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Bourne Identity (2002) references this film. Its plot of a fugitive operative on the run from a programming project also echoes Project: Kill, which came 26 years earlier.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Project: Kill came out 36 years before The Bourne Legacy (2012), another film about a drug-enhanced agent that was also shot in the Philippines.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Surf Ninjas: Surfing Karate Kids and Rob Schneider (2018) also references this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sam Panico of B&S About Movies compares this film's closing exchange to the ending of Scorpio (1973), another spy thriller where an older killer warns a younger one.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/19/project-kill-1976/"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director William Girdler died in a helicopter crash near Manila on January 21, 1978, aged 30. He was scouting locations for a drug-smuggling film, and The Manitou came out weeks later.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/William_Girdler"
+      },
+      "person": "nm0320852",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlNWI4ZDQtMGJiMy00ZDJkLWJiNTEtMjJmYjJlYjk1NzM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
