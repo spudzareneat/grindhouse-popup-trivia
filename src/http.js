@@ -27,7 +27,7 @@ export function minimalFetch(url, { headers = {}, signal, maxRedirects = 3 } = {
                 res.on('error', reject);
                 body.on('end', () => {
                     const text = Buffer.concat(chunks).toString('utf8');
-                    resolve({ ok: res.statusCode >= 200 && res.statusCode < 300, status: res.statusCode, text: async () => text, json: async () => JSON.parse(text) });
+                    resolve({ ok: res.statusCode >= 200 && res.statusCode < 300, status: res.statusCode, headers: res.headers, text: async () => text, json: async () => JSON.parse(text) });
                 });
             });
             req.on('error', reject);

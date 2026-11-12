@@ -4,6 +4,7 @@
 // pinned-order != recency, "==Friday==" decorated headers, "(1998))" typo parens,
 // themed "==Halloween Eve Friday==" day headers, tags nested inside <strong> headers).
 
+import { readFileSync } from 'node:fs';
 import { minimalFetch } from './http.js';
 
 export const FEED_URL = 'https://www.reddit.com/r/420Grindhouse/.rss';
@@ -159,13 +160,54 @@ export function flattenMovies(days) {
     return out;
 }
 
-// minimalFetch, not the global fetch: Reddit 403s Node's fetch from this server but serves a bare request.
-export async function fetchWeekendMovies(fetchImpl = minimalFetch) {
-    const res = await fetchImpl(FEED_URL, { headers: { 'User-Agent': BROWSER_UA }, signal: AbortSignal.timeout(20000) });
-    if (!res.ok) throw new Error('Reddit feed HTTP ' + res.status);
-    const entry = selectCurrentEntry(parseEntries(await res.text()));
+function scheduleFromFeed(feedXml) {
+    const entry = selectCurrentEntry(parseEntries(feedXml));
     if (!entry) throw new Error('no schedule post found in feed');
     const days = parseSchedule(entry.contentHtml);
     if (!days.length) throw new Error('no days parsed from schedule post: ' + entry.title);
     return { postTitle: entry.title, weekendFri: parseDateRange(entry.title, entry.publishedAt).fri, movies: flattenMovies(days) };
+}
+
+// Manual override for when Reddit blocks the server: the feed XML saved from a browser
+// (open the FEED_URL, Save As). Same parsing as the live feed.
+export function readWeekendMoviesFile(file) {
+    return scheduleFromFeed(readFileSync(file, 'utf8'));
+}
+
+// Only a 429 (rate limited) is retried, and politely: wait what Reddit asks (capped), a few times.
+// A 403 is a block, not a rate limit, so it fails straight away instead of hammering the server.
+// REDDIT_FEED_URL: the personal feed URL from reddit.com/prefs/feeds (any listing, e.g. .../.rss?feed=GUID&user=NAME).
+// Its feed/user params are applied to the subreddit feed so the request is authenticated like a feed reader's.
+// Unset -> the public URL. Never logged: the token is a credential.
+export function feedUrl(env = process.env) {
+    const raw = env.REDDIT_FEED_URL;
+    if (!raw) return FEED_URL;
+    const u = new URL(FEED_URL);
+    const src = new URL(raw);
+    for (const k of ['feed', 'user']) if (src.searchParams.has(k)) u.searchParams.set(k, src.searchParams.get(k));
+    return u.href;
+}
+
+// First readable words of an error page (Reddit's 403 is a full HTML page that says why).
+function bodyHint(html) {
+    return html.replace(/<(style|script)[\s\S]*?<\/\1>/gi, ' ').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 200);
+}
+
+const MAX_429_RETRIES = 3;
+const MAX_WAIT_MS = 90000;
+export async function fetchWeekendMovies(fetchImpl = minimalFetch, { sleep = ms => new Promise(r => setTimeout(r, ms)), log = () => {} } = {}) {
+    // minimalFetch, not the global fetch: Reddit 403s Node's fetch from this server but serves a bare request.
+    const url = feedUrl();
+    for (let attempt = 0; ; attempt++) {
+        const res = await fetchImpl(url, { headers: { 'User-Agent': BROWSER_UA }, signal: AbortSignal.timeout(20000) });
+        if (res.ok) return scheduleFromFeed(await res.text());
+        if (res.status !== 429 || attempt >= MAX_429_RETRIES) {
+            const hint = bodyHint(await res.text().catch(() => ''));
+            throw new Error('Reddit feed HTTP ' + res.status + (hint ? ` — ${hint}` : '') + (url === FEED_URL ? ' (public feed; set REDDIT_FEED_URL)' : ''));
+        }
+        const hinted = Number(res.headers?.['retry-after'] ?? res.headers?.['x-ratelimit-reset']);
+        const waitMs = Math.min(MAX_WAIT_MS, (Number.isFinite(hinted) && hinted > 0 ? hinted : 15 * 2 ** attempt) * 1000);
+        log(`Reddit feed HTTP 429 — retrying in ${Math.round(waitMs / 1000)}s (${attempt + 1}/${MAX_429_RETRIES})`);
+        await sleep(waitMs);
+    }
 }

@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, parseDateRange } from '../src/schedule.js';
+import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, readWeekendMoviesFile, feedUrl, FEED_URL, parseDateRange } from '../src/schedule.js';
 
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entry = (id, title, pub, html) =>
@@ -112,4 +112,40 @@ test('selectCurrentEntry looks past the first five feed entries', () => {
     const filler = Array.from({ length: 6 }, (_, i) => entry(`t3_f${i}`, `Chat ${i}`, '2026-10-01T00:00:00+00:00', '<p>x</p>')).join('');
     const feed = `<feed>${filler}${entry('t3_s', 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5', '2026-09-30T12:00:00+00:00', BODY)}</feed>`;
     assert.equal(selectCurrentEntry(parseEntries(feed)).postId, 't3_s');
+});
+
+test('fetchWeekendMovies retries a 429 (honouring the hint) but never a 403', async () => {
+    const waits = [];
+    let calls = 0;
+    const flaky = async () => ++calls < 3
+        ? { ok: false, status: 429, headers: { 'x-ratelimit-reset': '8' }, text: async () => '' }
+        : { ok: true, status: 200, text: async () => FEED };
+    const r = await fetchWeekendMovies(flaky, { sleep: async ms => waits.push(ms) });
+    assert.equal(r.movies.length, 5);
+    assert.deepEqual(waits, [8000, 8000]);
+    let blocked = 0;
+    await assert.rejects(fetchWeekendMovies(async () => { blocked++; return { ok: false, status: 403, text: async () => '' }; }, { sleep: async () => {} }), /HTTP 403/);
+    assert.equal(blocked, 1);
+    let limited = 0;
+    await assert.rejects(fetchWeekendMovies(async () => { limited++; return { ok: false, status: 429, text: async () => '' }; }, { sleep: async () => {} }), /HTTP 429/);
+    assert.equal(limited, 4);
+});
+test('readWeekendMoviesFile parses a saved feed', async () => {
+    const { writeFileSync, mkdtempSync } = await import('node:fs');
+    const { tmpdir } = await import('node:os');
+    const { join } = await import('node:path');
+    const f = join(mkdtempSync(join(tmpdir(), 'sched-')), 'feed.xml');
+    writeFileSync(f, FEED);
+    const r = readWeekendMoviesFile(f);
+    assert.equal(r.postTitle, 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5');
+    assert.equal(r.movies.length, 5);
+});
+
+test('feedUrl applies a personal feed token to the subreddit feed, and defaults to the public one', () => {
+    assert.equal(feedUrl({}), FEED_URL);
+    assert.equal(feedUrl({ REDDIT_FEED_URL: 'https://www.reddit.com/.rss?feed=abc123&user=someone' }), FEED_URL + '?feed=abc123&user=someone');
+});
+test('a non-429 failure reports the readable part of the error page, never the URL', async () => {
+    const page = '<style>.x{color:red}</style><body><h1>blocked by network security</h1></body>';
+    await assert.rejects(fetchWeekendMovies(async () => ({ ok: false, status: 403, text: async () => page })), err => /HTTP 403 — blocked by network security/.test(err.message) && !/feed=/.test(err.message));
 });
