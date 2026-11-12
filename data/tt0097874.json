@@ -1,0 +1,466 @@
+{
+  "schema": 1,
+  "imdbId": "tt0097874",
+  "title": "Metamorphosis",
+  "year": 1990,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-11-12T17:52:24.224Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Italian actor Luigi Montefiori, famous as George Eastman, directed this under the name \"G. L. Eastman.\" It's the only film he ever directed alone.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0247642",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg0MGIyZWYtZjkyOC00YzVkLWI5NzItNmI1ODdkODY5ZTgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 175,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Early on, the Chancellor says head office sent Sally Donnelly (Catherine Baranov) down from New York to audit Dr. Houseman. Later scenes show her living locally with her son, a continuity slip.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In Spain this was sold as \"Re-Animator 2,\" pretending to be a sequel to Stuart Gordon's 1985 Re-Animator. It isn't.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 345,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs showed this movie on Joe Bob's Drive-In Theater, in an episode that first aired January 25, 1992.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://thetvdb.com/series/joe-bobs-drive-in-theater/episodes/8574045"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Although it's an Italian production, it was shot around Norfolk, Virginia with mostly unknown American actors, so it would pass as a US movie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/metamorphosis-1990.htm"
+      }
+    },
+    {
+      "t": 515,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewing the 2015 Blu-ray, Patrick Bromley gave the film 2 out of 5 and called it \"a humorless slog\" where the gore and rubber monster arrive too late to help.",
+      "icon": "reel",
+      "byline": "Patrick Bromley",
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=111793"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Actress Catherine Baranov (Sally Donnelly) was a waitress at the hotel where the cast and crew were staying.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 685,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk's review spotted borrowings beyond The Fly: Re-Animator's young-vs-old faculty rivalry, Jekyll and Hyde blackouts, and The Shining's stalking of a mother and son.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/69461"
+      }
+    },
+    {
+      "t": 770,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Laura Gemser, the Emanuelle star who plays the ill-fated prostitute here, also designed the costumes, as she did on Troll 2.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called it \"essentially a copy of US-made films of the era,\" and gave it one star.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/metamorphosis-1990.htm"
+      }
+    },
+    {
+      "t": 1025,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Gene LeBrock (Dr. Peter Houseman) had just finished Fortress of Amerikkka before this. He later became a filmmaker and composer, according to Mondo Digital.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      },
+      "person": "nm0495936",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTBiMDk1ZTYtNTk0OS00MWZlLWI4YmUtNzM3OTJmMGFkYzNjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1110,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director George Eastman's best-known acting role: cannibal killer Klaus Wortmann in Joe D'Amato's 1980 gore classic Antropophagus (aka The Grim Reaper), which he also wrote.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0247642",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg0MGIyZWYtZjkyOC00YzVkLWI5NzItNmI1ODdkODY5ZTgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1195,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Severin's 4K Blu-ray, announced after director George Eastman died in May 2026, rescanned the original camera negative and adds interviews with Eastman, D'Amato and effects artist Maurizio Trani.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/news/newsitem.php?id=38519"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eastman took his Americanized stage name when he was cast as a heavy in late-1960s and 1970s Spaghetti Westerns.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0247642",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg0MGIyZWYtZjkyOC00YzVkLWI5NzItNmI1ODdkODY5ZTgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Eastman was a 6'9\" former graphic designer before becoming an Italian genre-film heavy, working in westerns, horror, giallo, post-apocalyptic action and porn.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/metamorphosis-beyond-darkness-double-feature-blu-ray-review-originally-published-2015"
+      },
+      "person": "nm0247642",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg0MGIyZWYtZjkyOC00YzVkLWI5NzItNmI1ODdkODY5ZTgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1535,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Clive Davis's book Spinegrinder: The Movies Most Critics Won't Write About dismisses the film as a \"boring FLY remake rip-off.\"",
+      "icon": "skull",
+      "byline": "Clive Davis",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scott Aaron Stine's Gorehound's Guide to Splatter Films of the 1980s called it \"entirely derivative of Cronenberg's The Fly\" and said Eastman \"should've stuck to acting.\"",
+      "icon": "mic",
+      "byline": "Scott Aaron Stine",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1705,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Another 1990 horror film about scientists mutated by their own research is also titled Metamorphosis. Reviewer Esme Grey of Triskaidekafiles noted the mix-up when covering this one.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.triskaidekafiles.com/reviews/2014/7/13/metamorphosis-1990.html"
+      }
+    },
+    {
+      "t": 1790,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Genre Grinder noted the university setting is borrowed from Re-Animator, and that the third act turns to slasher tropes lifted from Joe D'Amato's own Absurd.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/metamorphosis-beyond-darkness-double-feature-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 1875,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "IMDb's connections list this Italian creature feature as referencing three famous films: The Shining, E.T. the Extra-Terrestrial and Cronenberg's The Fly.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The production company was Filmirage, Joe D'Amato's label, which also gave directors like Michele Soavi and Umberto Lenzi work in the late '80s and early '90s.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 2045,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline, as listed on TMDB, was \"Witness the Change!\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Gianlorenzo Battaglia gave the film a soft, smeary look similar to his work on Witchery and Delirium.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 2215,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "DVD Talk's reviewer said the largely American cast \"had rarely stood in front of a camera before or since,\" while calling leading man Gene LeBrock a movie-star look without the acting to match.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/69461"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Special effects were by Maurizio Trani, and the keyboard score was composed by Luigi Ceccarelli.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/metamorphosis-beyond-darkness-double-feature-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 2470,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Gene LeBrock also headlined Claudio Fragasso's Beyond Darkness (1990), released in Italy as \"La Casa 5\" to pose as an Evil Dead sequel.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/metamorphosis-beyond-darkness-double-feature-blu-ray-review-originally-published-2015"
+      },
+      "person": "nm0495936",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTBiMDk1ZTYtNTk0OS00MWZlLWI4YmUtNzM3OTJmMGFkYzNjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Germany the film was released as \"Lizard – Die totale Mutation.\" The Lexikon des internationalen Films said it lacked the tension of The Fly.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Britain the film was released as \"Regenerator.\" Italian audiences knew it as \"DNA formula letale.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/metamorphosis-beyond-darkness-double-feature-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 2980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The hospital dolly shots were achieved by pushing the camera on a wheelchair.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The needle-in-the-eye shot used a real pig's eye.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Imperial Entertainment's US VHS used gimmicky embossed packaging with LED lights and sound effects, which is why the tape stuck in memory.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 3490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot with live English sound, a rarity for Italian genre films of the era, which were usually dubbed afterward.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 3660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital notes the plot resembles The Lawnmower Man, which came out two years after this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cut versions exist. A Japanese VHS reportedly runs the full 96 minutes, while the widely available cut is about 91-92 minutes.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scream Factory's 2015 US Blu-ray paired this with Beyond Darkness. It was censored for an R rating in North America, though that disc appears to be unrated.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://genregrinder.com/post/metamorphosis-beyond-darkness-double-feature-blu-ray-review-originally-published-2015"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film has circulated in cheap public-domain-style multi-packs like Mill Creek's Chilling Classics, often with poor transfers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/11/04/metamorphosis-1990"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eastman quit acting after directing this film to focus on screenwriting. He didn't return to acting until Pupi Avati's Christmas Rematch in 2003.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0247642",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg0MGIyZWYtZjkyOC00YzVkLWI5NzItNmI1ODdkODY5ZTgyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A 2023 German mediabook titled Lizard - Die Totale Mutation has an LED push button on the cover and claims 96 minutes, but Mondo Digital found the disc holds the 91-minute cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/metamorphosis.html"
+      }
+    }
+  ]
+}
