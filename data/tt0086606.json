@@ -1,0 +1,489 @@
+{
+  "schema": 1,
+  "imdbId": "tt0086606",
+  "title": "The Eight Diagram Pole Fighter",
+  "year": 1984,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-11-12T16:58:05.806Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lily Li, who plays Mother Yang, made her film debut at 14 in 1964 and signed with Shaw Brothers in 1966. She was a studio star by the 1970s.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0497763",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWFjNTFjYzgtODNmNi00ZjRhLWFjNzctOGI2NGE3NTY2ZmE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This film went by different titles: The Eight Diagram Pole Fighter in Hong Kong, The Invincible Pole Fighters internationally, and Invincible Pole Fighter in North America.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung co-wrote this film's screenplay with Ni Kuang, a famously prolific Hong Kong novelist and screenwriter who also wrote many Shaw Brothers scripts.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-eight-diagram-pole-fighter-blu-ray-review"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung wrote only four screenplays in his career, and directed every one of them. This film was the last of the four.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Tartars' staffs have a flexible section at the end that can wrap around and trap weapons and limbs, a detail pointed out in Heroic Cinema's review of the film.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://heroic-cinema.com/reviews/the-eight-diagram-pole-fighter-1983"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity slip: in the Jinsha battle, a Tartar soldier hacks the golden blade off the Yang patriarch's staff. In the very next shot, the blade is back on.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer An-Sung Tsao gave this film a moodier look than the brightly lit kung fu comedies director Lau Kar-leung was known for, according to Genre Grinder's Blu-ray review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-eight-diagram-pole-fighter-blu-ray-review"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Alexander Fu Sheng, who plays the sixth brother, died in a car crash at 28 while on his way to film this movie. It was his final film, and the script had to be rewritten.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0297143",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYyMmFkZWMtOWFjZC00ZTA0LTlkNjQtMTE3MWUwMGMzMzUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Yang family are real Song Dynasty figures. Legend says Yang Ye and his sons were betrayed by General Pan Mei, and Yang Ye killed himself so his surviving sons could escape.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gordon Liu began as a stuntman and martial arts instructor. He took the surname Liu, Lau in Cantonese, out of respect for his Hung Gar teacher, Lau Cham.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1153,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The patriotic hunter who meets the fifth brother is played by director Lau Kar-leung himself, in a cameo, according to Heroic Cinema's review.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://heroic-cinema.com/reviews/the-eight-diagram-pole-fighter-1983"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Alexander Fu Sheng's funeral drew an estimated 30,000 people. His hearse was a Rolls-Royce donated by Shaw Brothers boss Run Run Shaw, and it was said to rival Bruce Lee's funeral.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0297143",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYyMmFkZWMtOWFjZC00ZTA0LTlkNjQtMTE3MWUwMGMzMzUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before this film, Alexander Fu Sheng survived two serious on-set accidents, in September 1978 and September 1979. After that he reportedly never filmed in September again.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0297143",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYyMmFkZWMtOWFjZC00ZTA0LTlkNjQtMTE3MWUwMGMzMzUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Historians think the real Yang Yanzhao was Yang Ye's second son. Storytellers called him the sixth son for so long that the legend stuck, and this film follows the legend.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-eight-diagram-pole-fighter-blu-ray-review"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung was part of the Hung Ga kung fu lineage that traces back to folk hero Wong Fei-hung. Gordon Liu trained at the school founded by Lau's father, Lau Cham.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Britain's BBFC cut about a minute from this film for its 18-rated 1984 cinema release and on video. Those cuts were waived for 88 Films' 2020 Blu-ray.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Scholar Tony Rayns notes that this film has little of the comedy director Lau Kar-leung is known for. Its tone is ominous and its violence heavier than in his other kung fu films.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-eight-diagram-pole-fighter-blu-ray-review"
+      }
+    },
+    {
+      "t": 2065,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film was meant to build to the sixth son's heroics. After Alexander Fu Sheng died, the script was rewritten to make the fifth brother, played by Gordon Liu, the hero.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Alexander Fu Sheng was originally supposed to be the one who goes to the temple. After his death, the script was rewritten to give that part to Gordon Liu's fifth brother.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2345,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Anachronism alert: this is the Song Dynasty (960-1279), yet the monks shave the fifth brother's head with a straight razor. IMDb's goofs list says those weren't invented until the 1700s.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2475,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After star Alexander Fu Sheng died, Shaw Brothers made a short film, A Tribute to Fu Sheng, and played it before screenings in 1984. Critic Tony Rayns says the film itself became a tribute to him.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-eight-diagram-pole-fighter-blu-ray-review"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gordon Liu played the lead, San Te, in Lau Kar-leung's The 36th Chamber of Shaolin (1978). It made him famous as the kung fu monk, and he plays a bald monk again here.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The hkfilm.net review credits Lau Kar-leung, Hsiao Ho and King Lee as action directors. It adds that Lau and King Lee also appear on screen.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hkfilm.net/movrevs4/8diagram.htm"
+      }
+    },
+    {
+      "t": 2875,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Critic Tony Rayns credits hip-hop group Wu-Tang Clan with the film's modern rediscovery. Their 2007 album was titled 8 Diagrams.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/the-eight-diagram-pole-fighter-blu-ray-review"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the Yang legends the hero is the sixth son, Yang Yanzhao, who fights the final stand. Alexander Fu Sheng's death forced the film to hand that role to the fifth brother.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3216,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "After Alexander Fu Sheng's death, the director rewrote his remaining material for the eighth child, played by Kara Wai (also known as Kara Hui).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0401192",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFlOTAzYjctYzdhZi00MmQwLWEzYjYtNjNiNTNhNjYxNjMxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3310,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrew Saroch of Far East Films gave this film 4.5 out of 5 and called it one of the greatest martial arts movies of all time. He singled out the one-on-one pole duel with actor Kao Fei.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fareastfilms.com/review/the-8-diagram-pole-fighter/"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kara Wai (Yang Ba-mei) became the first winner of the Hong Kong Film Award for Best Actress. She later won it two more times, including for 2009's At the End of Daybreak.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0401192",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFlOTAzYjctYzdhZi00MmQwLWEzYjYtNjNiNTNhNjYxNjMxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A review at hkfilm.net says the Shaws' tight budgets and weak box office may have helped make this a lean film with no superfluous scenes.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hkfilm.net/movrevs4/8diagram.htm"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Legend has it that Alexander Fu Sheng's ghost walked the Shaw Brothers backlot. Staff reportedly set up a shrine at his makeup booth to appease him.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0297143",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYyMmFkZWMtOWFjZC00ZTA0LTlkNjQtMTE3MWUwMGMzMzUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Alexander Fu Sheng was once meant to star in Snake in the Eagle's Shadow (1978), but Shaw Brothers boss Run Run Shaw refused to release him. The part went to Jackie Chan.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0297143",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYyMmFkZWMtOWFjZC00ZTA0LTlkNjQtMTE3MWUwMGMzMzUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lau Kar-leung was nominated for Best Action Choreography for this film at the 4th Hong Kong Film Awards, held in 1985.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lau Kar-leung later worked on Hollywood's Teenage Mutant Ninja Turtles III (1993). He also asked Korean action star Won Jin to join him, but Won Jin couldn't get a US visa in time.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shaw Brothers' Movietown was once the largest privately owned film studio in the world. The company made around 1,000 films, including this one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Lau Kar-leung and star Gordon Liu were adopted brothers. Gordon Liu is almost always cast as a bald monk.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjVjYzE2ZDMtNTdiZS00MWFjLTk3NGMtMzA0NmM5ODc5NWU1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gordon Liu played two roles in Quentin Tarantino's Kill Bill films: Johnny Mo in Vol. 1 and kung fu master Pai Mei in Vol. 2. Kill Bill: Vol. 2 also references this film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0514904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM0NzY3MDg5MF5BMl5BanBnXkFtZTcwNjkxNzAyMg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This film was not a box-office success on release, but it later became one of the best-loved Shaw Brothers titles, according to the Theater Byte Blu-ray review.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.theaterbyte.com/the-8-diagram-pole-fighter-special-edition-blu-ray-review/"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Shaw Brothers suspended film production in 1987 to focus on television through its TVB subsidiary. That was only a few years after this film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Alexander Fu Sheng's wife, singer Jenny Tseng, sang the theme songs for the 1982 TV series Legend of the Condor Heroes. He starred as Kwok Jing in the four Brave Archer films.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0297143",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYyMmFkZWMtOWFjZC00ZTA0LTlkNjQtMTE3MWUwMGMzMzUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
