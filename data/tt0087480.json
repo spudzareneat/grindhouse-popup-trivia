@@ -1,0 +1,403 @@
+{
+  "schema": 1,
+  "imdbId": "tt0087480",
+  "title": "Invitation to Hell",
+  "year": 1984,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-11-12T17:49:20.690Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This ABC movie was written for soap star Susan Lucci: her 1983 contract renewal for All My Children guaranteed her a primetime TV movie, and ABC commissioned writer Richard Rothstein's script for her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/10/04/grandson-of-made-for-tv-movie-week-invitation-to-hell-1984"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Michael Berryman and Nicholas Worth were Wes Craven regulars: Berryman in The Hills Have Eyes (and its 1984 sequel), Worth as a henchman-turned-monster in Craven's Swamp Thing.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It first aired on ABC on May 24, 1984, the same year director Wes Craven's A Nightmare on Elm Street hit theaters.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/10/04/grandson-of-made-for-tv-movie-week-invitation-to-hell-1984"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Richard Rothstein later wrote the sci-fi hit Universal Soldier (1992) and created HBO's anthology series The Hitchhiker.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Richard_Rothstein_(screenwriter)"
+      }
+    },
+    {
+      "t": 465,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Soleil Moon Frye (Chrissy Winslow) was 8 when Punky Brewster premiered on NBC in September 1984. Producers reportedly weighed about 3,000 girls, including Melissa Joan Hart, for the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.looper.com/304256/the-untold-truth-of-punky-brewster"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film earned a 1984 Primetime Emmy nomination for Art Direction. Meanwhile Susan Lucci herself famously lost 18 straight Daytime Emmy nominations before finally winning in 1999.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Barret Oliver, who plays the Winslows' son Robbie, was also the hero of the fantasy hit The NeverEnding Story, released the same year.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/10/04/grandson-of-made-for-tv-movie-week-invitation-to-hell-1984"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The astronaut suit worn by star Robert Urich came from MGM's wardrobe, the only Hollywood collection of real NASA-style suits. It had no backpack, so the crew built one with a cooling fan.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Patty McCormack (Mary Peterson) was Oscar-nominated for Best Supporting Actress at age 11 for playing the killer child Rhoda in The Bad Seed (1956).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Patty_McCormack"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Wes Craven's 1978 TV horror Stranger in Our House (Summer of Fear) changed a pet dog to a horse at star Linda Blair's suggestion, since she was an equestrian.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Stranger_in_Our_House"
+      },
+      "person": "nm0000127",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyNzIwNDcwNl5BMl5BanBnXkFtZTcwNTQ1NTI5NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bill Erwin is also in the cast. He later played Sid Fields, the cranky senior Jerry 'adopts' on Seinfeld.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/10/04/grandson-of-made-for-tv-movie-week-invitation-to-hell-1984"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the effects shots of the space suit falling into the inferno, the 'actor' is a G.I. Joe doll. Production designer Hub Braden's mother sewed its tiny suit; the doll was spun on a rod in blue screen.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Regalbuto (Tom Peterson) went on to play reporter Frank Fontana on Murphy Brown, then voiced the same character on Ink and Family Guy.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005344",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5NzczOTcxNV5BMl5BanBnXkFtZTYwMjY1NTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "While this aired, Joanna Cassidy (Pat Winslow) was starring in NBC's Buffalo Bill with Dabney Coleman, which won her a Golden Globe and an Emmy nomination.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001026",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2JmNDU3OTEtZmM1My00ZDQ2LWJjZGItZTJiYjY0NTIxM2YyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Robert Urich did all his own work in the space suit. No stunt double or other actor stood in for him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001810",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIyODM3MDMtNjhlMi00YzI2LWI4MjEtYTdjYTMyYzkzM2IxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Storyboarding a TV movie is rare. Producers hired illustrator Petko Kadiev to draw the whole script, a visual bible for director Wes Craven, the cinematographer and the effects crew.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The optical effects house, Hollywood Effects, had previously handled effects for the James Bond films through its London unit.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The year this aired, director Wes Craven also made A Nightmare on Elm Street, which he based on news reports of young men who died in their sleep during nightmares.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000127",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyNzIwNDcwNl5BMl5BanBnXkFtZTcwNTQ1NTI5NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot partly on a sound stage at Culver Studios, the old Selznick lot where Gone with the Wind was made. Other locations included Simi Valley, Woodland Hills and Westlake Village.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pat Padua of Spectrum Culture reads the film as a critique of the 'banal evil' of 80s corporate culture. He finds its casting more interesting than the film itself.",
+      "icon": "mic",
+      "byline": "Pat Padua — Spectrum Culture",
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/2015/10/22/oeuvre-craven-invitation-to-hell-and-other-made-for-tv-movies/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The fire-aisle set heat melted the plastic wall panels and scorched Susan Lucci's costume and hair during retakes. The panels visibly sag on camera.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Lisa Marie Bowman called it 'totally ludicrous but also a lot of fun,' saying Robert Urich is 'properly stolid' while Susan Lucci steals the movie with an over-the-top performance.",
+      "icon": "mic",
+      "byline": "Lisa Marie Bowman",
+      "source": {
+        "type": "web",
+        "url": "https://unobtainium13.com/tag/invitation-to-hell"
+      }
+    },
+    {
+      "t": 3650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Encyclopedia.com's entry sums the film up as Faust meets All My Children in suburbia.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/invitation-hell-1984"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Dean Cundey shot this film. He is best known for John Carpenter's Halloween and later shot Jurassic Park.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2018/10/04/grandson-of-made-for-tv-movie-week-invitation-to-hell-1984"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Lightning Bug Movies blog compares the film's mix of tones to The Stepford Wives, The Omen and the final half hour of Star Trek: The Motion Picture.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://lightningbugmovies.blogspot.com/2022/10/whatcha-craven-invitation-to-hell-1994.html"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "VideoHound's Golden Movie Retriever warns that fans of Wes Craven's gritty The Last House on the Left, or his polished Nightmare on Elm Street, will be disappointed by this one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.encyclopedia.com/arts/culture-magazines/invitation-hell-1984"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joanna Cassidy (Pat Winslow) played the replicant Zhora in Blade Runner two years earlier. She also lost the title role of Wonder Woman to Lynda Carter.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Robert Urich starred in a record 15 TV series over his career, per Wikipedia, from S.W.A.T. and Vega$ to Spenser: For Hire, which started the year after this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001810",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIyODM3MDMtNjhlMi00YzI2LWI4MjEtYTdjYTMyYzkzM2IxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Richard Rothstein practiced law in New York for two years before moving to Los Angeles to write screenplays.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Richard_Rothstein_(screenwriter)"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "DVD Verdict's Patrick Naugle called the film 'utter tripe' but said he got 'sucked into' it, calling it 'a goofy, hysterically fun mess' best watched with friends.",
+      "icon": "sunglasses",
+      "byline": "Patrick Naugle — DVD Verdict",
+      "source": {
+        "type": "web",
+        "url": "https://dvdverdict.com/reviews/invitationtohell.php"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Production designer Hub Braden suggested a 'Hitchcock twist' ending to set up a Susan Lucci sequel. The producers loved it but feared ABC executives would balk at changing the approved script.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin McCarthy, who plays Mr. Thompson, was the hero of the 1956 Invasion of the Body Snatchers and later turned up in The Howling and Innerspace.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kevin McCarthy (Mr. Thompson) earned an Oscar nomination for his screen debut as Biff in Death of a Salesman (1951) and later toured for decades in a one-man show as President Truman.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002994",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzMTA2Mzc0NF5BMl5BanBnXkFtZTYwOTk1OTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
