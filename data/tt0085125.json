@@ -1,0 +1,433 @@
+{
+  "schema": 1,
+  "imdbId": "tt0085125",
+  "title": "2019: After the Fall of New York",
+  "year": 1983,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-11-12T16:41:15.809Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Sergio Martino and screenwriter Ernesto Gastaldi are credited under fake American names: \"Martin Dolman\" and \"Julian Barry\". Italian exploitation films loved a Hollywood-sounding alias.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Sergio Martino is best known for giallo thrillers. A post-apocalyptic action movie was a big swerve for him.",
+      "icon": "camera",
+      "byline": "Sergio Martino — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Released in the U.S. in 1984, this film was first rated X for extreme violence. It was trimmed to earn an R rating.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Most of the film was shot at De Paolis Studios in Rome. The desert scenes were filmed in Arizona, with some exteriors shot in New York City.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called this \"one of the more enjoyable Italian Mad Max ripoffs\" but gave it only two stars out of five.",
+      "icon": "reel",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/2019-after-the-fall-of-new-york-1983.htm"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The guns carried by the white-suited government guards look just like the weapon Jane Fonda used in Barbarella (1968), which even appeared on that film's posters.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Edmund Purdom, who plays the Confederacy's President, didn't provide his own voice here: he was dubbed by another actor.",
+      "icon": "star",
+      "byline": "Edmund Purdom",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1215,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Romano Puppo (Ratchet) was primarily a stuntman before acting. He later turned up in Orca (1977) and Escape from the Bronx (1983).",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0057269",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzIwMjY1MmMtNGI5ZS00ZGViLThkNmUtZDczOGNiNGJmZmNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1275,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "An IMDb goof: in a wide shot of the heroes riding motorcycles toward New York, Ratchet is obviously a stunt double, though actor Romano Puppo was a veteran stuntman himself.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1335,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The skyline of ruined Manhattan relied on art tricks. Anna Kanakis (Ania) recalls a matte painting of the Twin Towers, per Mondo Digital's review of the Blu-ray interviews.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The synth score is by Guido and Maurizio De Angelis, billed as \"Oliver Onions\". It has reportedly never had an official soundtrack release.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paolo Maria Scalondro, who plays Bronx, got a Blu-ray featurette called \"Hook Man\". He talks about acting with a hook hand, convincingly gouging eyes, and using his motorcycle skills on set.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 1790,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Look closely at the \"sewer rats\" devouring a victim: in a close-up, the rat chewing on flesh is clearly a guinea pig.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Valentine Monnier (Giara) was a model first. She appeared on the September 1977 cover of Cosmopolitan before later leaving acting to become a photographer.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0598367",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmNiZTVjZDQtN2NlZC00OGI3LTgyODctMGQ5NzI5ZDUxOWNjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2224,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Production designer Antonello Geleng says he aimed for a \"metaphysic abstraction\" for the sets, blending futuristic elements with the medieval past, per Mondo Digital's Blu-ray review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Picasso's Guernica hangs in the background here. Alfonso Cuarón's Children of Men (2006) also stages a scene before Guernica, and also has a world without fertile women.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2469,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Anna Kanakis (Ania) was crowned Miss Italia 1977, then disqualified from Miss World that year when it emerged she was only 15.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0437060",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVlN2Q0NDctMjlmYi00MjAxLTkwNGUtZWRkZDNkMDI1MWViXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2585,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cinematographer Giancarlo Ferrando also shot director Sergio Martino's giallo Torso. The No-Budget Nightmares podcast credits Martino's giallo background for this film's colorful look.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nobudgetpodcast.com/writing/2019-fall-york-1983/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wikipedia says the film was heavily influenced by John Carpenter's Escape from New York and George Miller's Mad Max 2, and belongs to the same Italian wave as 1990: The Bronx Warriors.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2825,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This Italian knock-off has a long afterlife: IMDb's connections list shows it referenced in Man of Steel (2013) and Ready Player One (2018), as well as Children of Men (2006).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Michael Sopkiw was cast after modeling work. Lamberto Bava (son of Mario Bava) then directed him in Blastfighter (1984), and he made just four films before retiring.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0814679",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU1YjVkYzktYzk5MC00OTFkLTlmM2MtZDc1YjJiYWI2YzU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3125,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was director Sergio Martino's first post-nuke film. He returned to the wasteland three years later with Hands of Steel (1986), per Mondo Digital.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Anna Kanakis says she memorized all her English dialogue phonetically on a chaotic, multilingual set, according to a Blu-ray interview described by Mondo Digital.",
+      "icon": "mic",
+      "byline": "Anna Kanakis",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "IMDb's connections list shows this film referencing Planet of the Apes (1968), Butch Cassidy and the Sundance Kid (1969), Escape from New York (1981), Yor (1983) and 2020 Texas Gladiators (1983).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "George Eastman, who plays Big Ape, has spoken fondly of the film. In a Blu-ray interview he calls director Sergio Martino \"distant\" on set, according to Mondo Digital.",
+      "icon": "mic",
+      "byline": "George Eastman",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the early 1990s, retired star Michael Sopkiw walked into a California video store. The clerk, a huge fan of this film, was Quentin Tarantino.",
+      "icon": "sunglasses",
+      "byline": "Michael Sopkiw",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0814679",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU1YjVkYzktYzk5MC00OTFkLTlmM2MtZDc1YjJiYWI2YzU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2003 Media Blasters DVD was recalled and reissued without its audio commentary, reportedly because of verbal barbs in the track, says Mondo Digital.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    },
+    {
+      "t": 4480,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In this shot of the heroes panning to Shorty, a crew member can be seen moving behind part of the car at the edge of the frame.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Sopkiw says he didn't expect to be dubbed, and that a dispute with the Screen Actors Guild cost him his membership, per Mondo Digital's review of the Blu-ray commentary.",
+      "icon": "mic",
+      "byline": "Michael Sopkiw",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      },
+      "person": "nm0814679",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU1YjVkYzktYzk5MC00OTFkLTlmM2MtZDc1YjJiYWI2YzU2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In a Blu-ray interview, director Sergio Martino says Italian studios failed to adopt new visual effects in the late 1980s and early 90s. He says that hurt Italian sci-fi and fantasy, per DVD Talk.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/7138"
+      }
+    },
+    {
+      "t": 4920,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "An IMDb continuity goof: when George Eastman's Big Ape hurls his scimitar at the Eurac soldiers, the blade spins clockwise, then counter-clockwise by the time it decapitates them.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The quest for the last fertile human later resurfaced in Hell Comes to Frogtown, American Cyborg: Steel Warrior and Children of Men, notes Richard Scheib of Moria.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/2019-after-the-fall-of-new-york-1983.htm"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Germany cut the film to win an FSK-18 rating, yet it was still BPjM-indexed until 2009. The uncut version only got an FSK-16 rating in 2016.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the US, Almi Pictures gave it a theatrical release on December 7, 1984, per Reel Reviews. Vestron later put it out on VHS, per Mondo Digital.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelreviews.com/home-video/badsass-sinema-unearthed/after-the-fall-of-new-york-blu-ray-review"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "TV Guide gave it one star out of five, calling it \"silly at best\" with \"bad acting, and laughable special effects.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Code Red's 2017 Blu-ray used a new HD scan of the English version, because the cast spoke English on set. The film was shot MOS-style multilingual, then dubbed.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/afterfall"
+      }
+    }
+  ]
+}
