@@ -1,0 +1,379 @@
+{
+  "schema": 1,
+  "imdbId": "tt5252624",
+  "title": "Stalked by My Doctor",
+  "year": 2015,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-11-12T17:39:13.677Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lifetime first aired Stalked by My Doctor on December 26, 2015, the day after Christmas, as counter-programming to its holiday movies.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bustle.com/articles/130965-is-stalked-by-my-doctor-a-true-story-lifetimes-new-movie-has-something-in-common-with"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is not based on a true story, per Bustle. Real doctor-stalker cases exist, like UK patient Raymond Knight, jailed for harassing his GP, but their details don't match.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bustle.com/articles/130965-is-stalked-by-my-doctor-a-true-story-lifetimes-new-movie-has-something-in-common-with"
+      }
+    },
+    {
+      "t": 275,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Eric Roberts (Dr. Beck) earned an Oscar nomination for Runaway Train (1985) and was in The Dark Knight (2008). Here he plays a TV doctor who is also, apparently, a stalker.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts is the older brother of Julia Roberts. They made just one movie together, Blood Red (1989).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts acted in 74 films in 2017 alone and has over 700 credits, making him one of the most prolific English-speaking screen actors.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts is the only non-British actor to play the Master in Doctor Who (the 1996 TV movie), and the only actor to be a villain in both the Batman and Doctor Who franchises.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dr. Albert Beck, played by Eric Roberts, was named among TV Guide's 50 most memorable villains in its July 15, 2016 issue.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TMDB lists the film's budget at $4 million, which would be hefty for a Lifetime thriller.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dr. Beck's 'I am un-friending you!' rant at his online date is a modern twist: the film opens with him being dumped after meeting her through a dating website.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tara Malenfant made her screen debut in this film, according to IMDb.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lisa Marie Bowman of Unobtainium13 called Eric Roberts' Dr. Beck 'creepy in a good way', citing his too-quick smiles, leaning in too close and childlike outbursts.",
+      "icon": "mic",
+      "byline": "Lisa Marie Bowman",
+      "source": {
+        "type": "web",
+        "url": "https://unobtainium13.com/2015/12/27/what-lisa-watched-last-night-147-stalked-by-my-doctor-dir-by-doug-campbell"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof spotted by viewers: Dr. Beck is a cardiologist, but cardiologists generally don't do open-heart surgery. Cardiac surgeons do that, and cardiologists only implant devices like pacemakers.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Viewers noticed Dr. Beck rubs ointment on Sophie's chest and preps for surgery without ever wearing medical gloves.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jon Briddell (Sophie's dad, Jim Green) also supplied the voice of K.I.T.T., the talking car, on NBC's Knight Rider series.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0108637",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDYwY2I1OTctZDNmMi00NzQ1LWI0ZTItNzY4ZjUzYjVmMWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before the premiere, Bustle's preview misnamed Eric Roberts' villain as 'Doctor Grey.' In the film he is cardiologist Dr. Albert Beck.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bustle.com/articles/130965-is-stalked-by-my-doctor-a-true-story-lifetimes-new-movie-has-something-in-common-with"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jon Briddell met his wife Michelle while working on a dinner-theater show that toured for the USO. They hooked up at a NATO base in Sarajevo.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0108637",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDYwY2I1OTctZDNmMi00NzQ1LWI0ZTItNzY4ZjUzYjVmMWM5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer-director Doug Campbell's earlier Lifetime thrillers include Sugar Daddies, Stalked By My Neighbor, Betrayed at 17 and The Cheating Pact, per blogger Lisa Marie Bowman.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://unobtainium13.com/2015/12/27/what-lisa-watched-last-night-147-stalked-by-my-doctor-dir-by-doug-campbell"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ryan's text from Dr. Beck reads 'Bride of Frankenstein', a nod to the 1935 James Whale classic that the film references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In a 2020 UPI interview, Eric Roberts said he plays 'a very bad doctor' in the series, loves the project, and called it 'so much fun to do.'",
+      "icon": "mic",
+      "byline": "Eric Roberts",
+      "source": {
+        "type": "interview",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2020/03/28/Eric-Roberts-plays-lovable-role-in-Inside-the-Rain/2421585329749/"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts has said he quit drinking in 1995. A 1981 car crash in Connecticut, in which he crashed his jeep into a tree, left him in a coma for 72 hours.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts said he turned to B movies when 'the big starring roles stopped coming.' For Sharktopus, Roger Corman let him bring any guests he wanted to a month-long shoot at a Mexican resort.",
+      "icon": "money",
+      "byline": "Eric Roberts",
+      "source": {
+        "type": "web",
+        "url": "https://www.nickiswift.com/109271/truth-julia-roberts-brother/"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts' daughter, Emma Roberts, was born February 10, 1991. His ring finger is also permanently disfigured from a 1980s car accident.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2015 film's popularity with fans led to a series. After the third film, a fan started a Change.org petition and a Twitter account asking for a fourth Stalked by My Doctor movie, per Bustle.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bustle.com/p/is-stalked-by-my-doctor-patients-revenge-a-true-story-lifetime-has-made-this-creepy-series-a-trilogy-9326728"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lifetime's takeaway, per reviewers: a spectrum review calls this first film the strongest of the series, mainly for a memorable freak-out scene by Eric Roberts' Dr. Beck.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/2020/09/09/from-the-vaults-of-streaming-hell-stalked-by-my-doctor-the-return/"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spectrum Culture says the 2018 sequel Patient's Revenge gives Eric Roberts a dual role: Dr. Beck and his own conscience. Part four, A Sleepwalker's Nightmare, was written and directed by Jeff Hare.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/2020/09/09/from-the-vaults-of-streaming-hell-stalked-by-my-doctor-the-return/"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dr. Beck survived to return in Stalked by My Doctor: The Return (2016), Patient's Revenge (2018), A Sleepwalker's Nightmare (2019), and Just What the Doctor Ordered (2021).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikidata"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bustle's preview said the trailer showed syringes used both inside and outside the operating room, and sold the film as a gritty thriller, not a true story.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bustle.com/articles/130965-is-stalked-by-my-doctor-a-true-story-lifetimes-new-movie-has-something-in-common-with"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-director Doug Campbell also made the sequel The Return. The Spectrum Culture review notes he made about 15 TV features in five years.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/2020/09/09/from-the-vaults-of-streaming-hell-stalked-by-my-doctor-the-return/"
+      },
+      "person": "nm0132414",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM5YWEzNWItMGRlMy00ZmRjLWEzZGYtNjA5NWE3NTcxNzVjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trivia: Brianna Joy Chomer (Sophie Green) knocks out Eric Roberts with four golf-club strokes in this film. In A Dangerous Date (2018) she is slapped three times by Jillian Murray.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm3618560",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWRjNjIwZjktMWU4NS00Nzk4LWIxY2QtNzdlZjJhOTViOGE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spectrum Culture praised the series' star: Eric Roberts 'smokes, glazes and carves' his material 'with voracious gusto' as Dr. Albert Beck, the role he plays in every film of the franchise.",
+      "icon": "star",
+      "byline": "Eric Roberts",
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/2020/09/09/from-the-vaults-of-streaming-hell-stalked-by-my-doctor-the-return/"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
