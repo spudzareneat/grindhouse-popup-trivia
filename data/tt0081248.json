@@ -1,0 +1,446 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081248",
+  "title": "Burial Ground",
+  "year": 1981,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-12T17:09:35.018Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In Greece, the VHS release of Burial Ground skipped this opening scene entirely and jumped straight to the credits.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Andrea Bianchi (1925-2013) also made the 1975 giallo Strip Nude for Your Killer, one of his better-known titles alongside Burial Ground.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0080580"
+    },
+    {
+      "t": 250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Burial Ground (Le notti del terrore) is one of several unrelated Italian films sold under the title Zombie 3. It also circulated as Nights of Terror, Zombi Horror and The Zombie Dead.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The cars in the opening credits drive on the left side of a road in Italy, where traffic keeps right, even though the steering wheel is on the left. An Italian plate is visible on the white Mercedes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 395,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The creepy mansion is a real place: Villa Parisi in Frascati, about 12 miles from Rome. The whole movie was shot there in just four weeks.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Villa Parisi was a repeat horror location. Mario Bava shot Hatchet for the Honeymoon (1970) and A Bay of Blood (1971) there, and Mondo Digital also lists Blood for Dracula and Beyond the Darkness.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/burialground.html"
+      }
+    },
+    {
+      "t": 550,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Simone Mattioli (James) says on a Blu-ray featurette that he was embarrassed by his sex scenes. He also recalls dealing with offal and worms on set, according to Mondo Digital.",
+      "icon": "mic",
+      "byline": "Simone Mattioli — James",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/burialground.html"
+      },
+      "person": "nm0560348"
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Michael is a boy in the story, but he's played by Peter Bark, who was 25. He was cast partly to dodge Italian laws restricting children in sexual and violent scenes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A large share of the budget went to the gore effects by Gino De Rossi and Rosario Prestopino. De Rossi supervised the effects; Prestopino made the zombie makeup and masks.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "One of the zombies is wearing a Boris Karloff Frankenstein mask. The filmmakers added gore and a wig to disguise it.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The screenplay is by Piero Regnoli, a veteran Italian writer who also scripted the 1957 vampire film I Vampiri and Umberto Lenzi's zombie-ish Nightmare City (1980).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://abucketofcorn.blogspot.com/2016/10/severin-films-blu-ray-burial-ground-1981.html"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it two stars and said it exists only to serve up gory set-pieces. He still called the zombies some of the most convincing ever put on screen.",
+      "icon": "skull",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/burialground.htm"
+      }
+    },
+    {
+      "t": 1260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital's review says casting Peter Bark as Michael lifts the film from fun trash to sheer genius. Bark remembers director Andrea Bianchi as reserved but helpful.",
+      "icon": "star",
+      "byline": "Mondo Digital",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/burialground.html"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Eat My Brains says director Andrea Bianchi borrowed Lucio Fulci's usual makeup man, Gino De Rossi, and that a zombie eyeball-poking scene directly quotes Fulci's Zombie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://eatmybrains.com/showreview.php?id=317"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Roberto Caporali (George, holding the gun here) and Gianluigi Chirizzi (Mark) also appeared together in the Italian crime thriller Terror Express (1980).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0135328"
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital describes the score as creepy electronic music mixed with disorienting jazz. It credits composer Berto Pisano, who has ties to jazz and pop arranger Armando Trovajoli.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/burialground.html"
+      }
+    },
+    {
+      "t": 1660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Like most Italian films of the era, Burial Ground was shot without live sound and dubbed afterward. That's why lips and voices often drift apart, even in the English version.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cinemasentries.com/burial-ground-1981-blu-ray-review-still-smelling-of-death-after-all-these-years/"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity slip: as Mark struggles with the bear trap, he kneels, then stands, then kneels again between shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film got only a belated US release in 1985, from Film Concept Group. It grossed $542,501, then found a bigger audience on Vestron Video VHS.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Severin's 2024 4K release was scanned from a film element reportedly found beneath the floorboards of a church rectory in Rome's Trastevere district.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelreviews.com/home-video/badsass-sinema-unearthed/burial-ground-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 2480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital's review singled out the film's \"world's slowest scythe beheading\" among its highlights, alongside maggots, worms and crafty zombies.",
+      "icon": "skull",
+      "byline": "Mondo Digital",
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/burialground.html"
+      }
+    },
+    {
+      "t": 2660,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Plot hole fans love: James announces that only head shots kill the zombies, but nobody explains how he knows. Once the zombies break in, the shotgun tactic is dropped.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "These zombies throw spikes, swing scythes and use battering rams. Frank's Movie Log notes the contrast with George Romero's Dawn of the Dead: Romero's ghouls never did that.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.franksmovielog.com/reviews/burial-ground-1981/"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Burial Ground is referenced in Danny Boyle's 28 Days Later (2002) and Kevin Smith's Jersey Girl (2004), and in Stuart Gordon's Castle Freak (1995).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Burial Ground is director Andrea Bianchi's only zombie film. He was better known for sleazy fare like Malabimba and Strip Nude for Your Killer.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.reelreviews.com/home-video/badsass-sinema-unearthed/burial-ground-4k-uhd-blu-ray-review"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1980s Vestron VHS was notoriously murky. Mondo Digital says horror fanzines still built its cult reputation, and it still gets surprisingly frequent repertory screenings.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/burialground.html"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Viewers have noticed that Karin Well's hairstyle as Janet keeps changing from shot to shot, even within single scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's effects ate most of the money. A Bucket of Corn's reviewer wrote that the gore effects by Gino De Rossi and Rosario Prestopino were 'basically the whole budget.'",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://abucketofcorn.blogspot.com/2016/10/severin-films-blu-ray-burial-ground-1981.html"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Italian-horror author Peter Normanton gave it five stars and called its pace \"breathtaking\". He added that the low budget can make the effects look a tad farcical.",
+      "icon": "star",
+      "byline": "Peter Normanton",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Look closely at the skull-faced zombies: the actors' faces, covered in black paint, are visible through the eye and mouth holes of their masks.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A Bucket of Corn compared 25-year-old Peter Bark's look as the 'child' Michael to John Franklin's creepy Isaac in Children of the Corn (1984).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://abucketofcorn.blogspot.com/2016/10/severin-films-blu-ray-burial-ground-1981.html"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sara Castillo of Fearnet called the film notable for its near total lack of plot and its bloody zombie breast-feeding scene.",
+      "icon": "skull",
+      "byline": "Sara Castillo — Fearnet",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: these monk zombies kneel and pray before attacking, unlike every other zombie in the film, which attack at once.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4598,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This workshop set is a recycled Rome studio set. It also appears in Dario Argento's Inferno, Luigi Cozzi's Contamination and Antonio Margheriti's Cannibal Apocalypse, all from 1980.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4810,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity slip: Michael had an arm torn off earlier, but when he returns as a zombie both arms are back.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4870,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Actress Mariangela Giordano said of this scene: \"I could hardly keep a straight face. I had a rubber breast fitted over my own which looked so fake I can't believe anyone took it seriously!\"",
+      "icon": "mic",
+      "byline": "Mariangela Giordano — Evelyn",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The title prophecy is fake. A 14th-century monk nicknamed Ragno Nero (Black Spider) reportedly made predictions, but there's no record of him writing that prophecy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5040,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The closing prophecy contains two typos: \"nigths\" for nights and \"profecy\" for prophecy.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
