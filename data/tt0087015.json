@@ -1,0 +1,495 @@
+{
+  "schema": 1,
+  "imdbId": "tt0087015",
+  "title": "C.H.U.D.",
+  "year": 1984,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-11-12T17:42:23.033Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "C.H.U.D. cost just $1.25 million to make and grossed about $4.65 million, a healthy profit for a sewer-monster movie.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikidata"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Laure Mattos, who plays the first victim, Flora Bosch, is the real-life wife of co-star Daniel Stern, who plays the Reverend.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0560419"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. officially means \"Cannibalistic Humanoid Underground Dweller\", but the toxic-waste crates in the film also read \"Contamination Hazard Urban Disposal\", if you can make out the print.",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs opened The Last Drive-In's first-ever episode with C.H.U.D. After it, he cracked: \"It's five seconds of monsters, two hours of smug theater actors.\"",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://joebobbriggs.com/the-last-drive-in-season-1-week-1-c-h-u-d/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jordan Peele's 2019 horror film Us opens on a shot that includes a VHS copy of C.H.U.D. The film was part of his inspiration.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jordan Peele has said his first girlfriend was the daughter of C.H.U.D. director Douglas Cheek. He first saw the film around age 11 or 12.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://inverse.com/entertainment/chud-anniversary-40-years-jordan-peele-us"
+      }
+    },
+    {
+      "t": 760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stars Christopher Curry (Captain Bosch) and Daniel Stern (the Reverend) have claimed they rewrote more than half of Parnell Hall's script. Nerdist also describes the production as full of turmoil.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://archive.nerdist.com/schlock-awe-c-h-u-d"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. was the only feature directed by Douglas Cheek, who was primarily a film editor.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1040,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "C.H.U.D. was announced in 1980 with Douglas Netter producing and Richard Compton attached to direct a script by Stephen Abbott. It reached the screen four years later under different hands.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Creature effects artist John Caglione Jr. designed the C.H.U.D.s. His early concept art gave them much more animal-like faces than the final monsters.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Some posters opened with a fake preamble: a New York paper had reported colonies of people living under the city, but \"the paper was incorrect. What is living under the city is not human.\"",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1985 an urban legend claimed C.H.U.D. was based on a true story from 1970s Cincinnati. It was proven false.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. was Kim Greist's first movie. She went on to play the angel in Terry Gilliam's Brazil and William Petersen's wife in Manhunter.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/04/17/c-h-u-d-1984"
+      },
+      "person": "nm0002114",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxMjY3NzQ5M15BMl5BanBnXkFtZTYwODMyODk2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. was the film debut of Christopher Curry (Captain Bosch). He later played Rico's father in Starship Troopers.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0193061",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJkMmJmMDYtMjcwNS00YTRlLWFlN2EtZTJiOTdlNzEwMWQ1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital's review sees C.H.U.D. as building on Gary Sherman's British cult film Raw Meat (1972), which also had cannibals living in subway tunnels, with a toxic-spill twist.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/chud.html"
+      }
+    },
+    {
+      "t": 2020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The black beeper box used in the film to retrieve answering-machine messages was cutting-edge 1980s tech. Callers dialed their own number and the tone unlocked playback.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's opening street scene was shot on Crosby Street in SoHo, just south of Broome Street. Several of the \"skid row\" scenes were filmed a few doors away on the same block.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nycinfilm.com/2019/10/27/c-h-u-d-1984"
+      }
+    },
+    {
+      "t": 2160,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. opened August 1984 at #13 at the box office, with $1.76 million from 310 theaters. It fell to #14 in week two.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times' Lawrence Van Gelder called C.H.U.D. \"light commercial entertainment\" and \"a praiseworthy effort\" among horror films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Keith Phipps of The A.V. Club wrote that C.H.U.D. is \"perfect for bleary-eyed late-night viewing and pretty much unwatchable at any other hour.\"",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2510,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Manhattan's soup kitchen is actually in New Jersey: it was filmed at North Baptist Church in Jersey City, a building gutted by fire in 1978 that reopened in 1985 under a new name.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nycinfilm.com/2019/10/27/c-h-u-d-1984"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Time Out New York's Joshua Rothkopf put C.H.U.D. on its list of best New York-set films, calling it \"more funny than scary.\"",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Martin Cooper's score for C.H.U.D. was later ranked number 33 on Rolling Stone's list of the 35 Greatest Horror Soundtracks.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2860,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "On April Fools' Day 2011, the Criterion Collection announced a C.H.U.D. edition as spine #573. It was a joke, but Arrow Video issued a real special-edition Blu-ray in 2016.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2930,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The diner used in the film was the real Cleveland Diner at 114 Kenmare Street in Manhattan. It is now a restaurant called La Esquina.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nycinfilm.com/2019/10/27/c-h-u-d-1984"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Since late 2019 the word \"chud\" has become internet slang used to mock far-right users, taken from this film's monsters.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3070,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cordis Heard, who has a supporting role in C.H.U.D., is the sister of the film's star John Heard (photographer George Cooper).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thestopbutton.com/2019/12/18/chud-1984/"
+      }
+    },
+    {
+      "t": 3140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. has been referenced in The Simpsons, Clerks II, Futurama, Archer, Rick and Morty and Donnie Darko, among others.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 2003 video game Tony Hawk's Underground includes a nod to the film under the name T.H.U.D.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The movie's police station exterior is the real 9th Precinct on East 5th Street in the East Village. The reverse shot was filmed at Spring and Mercer in SoHo.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nycinfilm.com/2019/10/27/c-h-u-d-1984"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1989 sequel, C.H.U.D. II: Bud the C.H.U.D., swapped the sewer monsters for a comedic zombie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://archive.nerdist.com/schlock-awe-c-h-u-d"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Home video offers a 96-minute \"Integral Cut\", previously seen only on network TV, with the gore restored. It adds scenes such as Lauren discussing her pregnancy with her boyfriend.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blumhouse's Ryan Turek compared C.H.U.D. to a Larry Cohen movie (the It's Alive director) on the Shock Waves podcast. Mondo Digital agrees but says it lacks Cohen's sly humor.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/blu-ray-review-c-h-u-d-special-edition/"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "C.H.U.D. was shot entirely in New York City, reportedly in fall 1983, with locations including SoHo, Central Park, San Remo Towers and the Chambers Street subway station.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "John Heard (George Cooper) earned a 1999 Emmy nomination for playing corrupt detective Vin Makazian on The Sopranos.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001334",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzczODkyNzY4OV5BMl5BanBnXkFtZTcwNTU0NjQzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3980,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Producer Andrew Bonime told Fangoria (issue 32) that C.H.U.D. was \"an expensive looking film and an expensive concept\" and \"a high quality kind of picture.\"",
+      "icon": "mic",
+      "byline": "Andrew Bonime — Producer",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dread Central has called the film Bunker Heights a spiritual successor to C.H.U.D.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "C.H.U.D. was a theatrical disappointment but turned into a success on video and cable. Media Home Entertainment released it on VHS and Betamax in 1984.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/04/17/c-h-u-d-1984"
+      }
+    },
+    {
+      "t": 4330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs, hosting The Last Drive-In, said Daniel Stern's soup-kitchen Reverend looks creepier than the mutants. He also joked that Ernie from Sesame Street would make a better C.H.U.D.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://joebobbriggs.com/the-last-drive-in-season-1-week-1-c-h-u-d/"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "C.H.U.D. is one of John Goodman's first movie appearances. He plays a cop, in a role Jay Thomas, a Mork & Mindy regular, shares with him.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs gave C.H.U.D. two stars on The Last Drive-In. He called Kim Greist's shower scene, built around a clogged drain, the least sexy in film history.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://joebobbriggs.com/the-last-drive-in-season-1-week-1-c-h-u-d/"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Not everyone's a fan: a review on The Stop Button gave C.H.U.D. zero out of four stars, calling the cast stronger than the material and saying the script lacks suspense.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thestopbutton.com/2019/12/18/chud-1984/"
+      }
+    }
+  ]
+}
