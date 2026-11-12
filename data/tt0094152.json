@@ -1,0 +1,415 @@
+{
+  "schema": 1,
+  "imdbId": "tt0094152",
+  "title": "The Time Guardian",
+  "year": 1987,
+  "runtimeSec": 5220,
+  "generatedAt": "2026-11-12T17:06:16.395Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening crawl spells it \"Hoards of armored robots\" when it should be \"hordes\". The typo is famous enough that it's pointed out in write-ups of the film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer Brian Hannant got the idea while working on Mad Max 2 (The Road Warrior), when he fell for the Wilpena Pound rock formation in South Australia. He built the script around it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's budget was about A$8 million. Director Brian Hannant said it was raised in two days, with roughly $1 million of it lost to brokers.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dean Stockwell, who plays the city's leader Boss, was Oscar-nominated for Best Supporting Actor for Married to the Mob (1988), the year after this Australian sci-fi flop opened.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original script, called Time Rider, had just ONE Jen-Diki monster, with $150,000 set aside to make it work. A producer demanded hordes of robots, but the budget didn't grow.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannant-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 490,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The effects shots were filmed using a blue-screen rear-projection rig designed by Douglas Trumbull (2001, Blade Runner), installed in an old Adelaide cinema. The crew learned rotoscoping for the film.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 645,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Wilpena Pound, the rock formation that inspired the script (its Aboriginal name Ikara means \"meeting place\"), survives in the final cut only as one aerial establishing shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 702,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Look at the scrolling sign board around now. Fans spot C-3PO on it, possibly a nod to star Carrie Fisher, who played Princess Leia opposite Anthony Daniels' C-3PO in Star Wars.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 810,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Carrie Fisher was Princess Leia in Star Wars. The villains here are the Jen-Diki, a name that looks suspiciously like \"Jedi\" with extra letters added.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Carrie Fisher and Dean Stockwell were the only American actors in this Australian production. They were brought in to add international marquee value.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script's prospectus asked for \"Scott Glenn or equivalent\", a mature sci-fi action actor. Hemdale cast boyish Tom Burlinson as Ballard instead, which co-writer John Baxter lamented.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001979",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MTIzNzg4MV5BMl5BanBnXkFtZTcwNzIzMDkwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Brian Hannant said that Hemdale, the film's financier, handed him a rewrite by an American writer eight weeks before shooting. Hannant called the replacement script \"laughable\".",
+      "icon": "mic",
+      "byline": "Brian Hannant — Director",
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannant-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The shoot was cut from a planned 13 weeks to 9. Director Brian Hannant later described the production as \"like watching the Titanic going down\".",
+      "icon": "camera",
+      "byline": "Brian Hannant — Director",
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Author Tony Ayres called this \"Australia's first attempt at high-technology science fiction\" in his book Australian Film 1978-1994.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Geoff Burton said the crew knew the limits: \"we couldn't make anything really stylish.\" The anamorphic widescreen format helped hide the low budget.",
+      "icon": "mic",
+      "byline": "Geoff Burton — Cinematographer",
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 1930,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Special effects supervisor Andrew Mason on this film later became an executive producer of The Matrix trilogy, according to the Australian Screen Online archive.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://aso.gov.au/titles/features/time-guardian/notes/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hero Ballard may be named after sci-fi author J.G. Ballard. Fans also compare the Jen-Diki leader, Zuryk, to Davros from Doctor Who.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Allan Zavod's score is keyboard-based rather than orchestral, and the end-credit song \"This Time I Know\" is sung by Angry Anderson, who is on the soundtrack.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ballard being a feral child raised by nomads nods to The Road Warrior's Feral Kid. Director Brian Hannant co-wrote that film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Antony I. Ginnane was known for cutting script pages to control budgets, and kept pulling pages during the shoot. Director Brian Hannant said Hemdale wanted a Terminator-style hit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-writer John Baxter said his Time Rider script was meant to open and close with a firefight at Hemdale's request. He joked that it explained the awkward opening of The Terminator.",
+      "icon": "link",
+      "byline": "John Baxter — Co-writer",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filming used the South Australian Film Corporation's soundstages at Hendon in Adelaide plus a deserted quarry outside the city. Mirage Effects handled the special effects.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Antony I. Ginnane meant this to be the first of a ten-picture deal with Hemdale. When Hemdale pulled out, the other nine films were shelved.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Critic David Stratton said \"an entire book could probably be written about The Time Guardian.\" Curator Richard Kuipers called it \"one of the great missed opportunities of Australian cinema.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://aso.gov.au/titles/features/time-guardian/notes/"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it two stars. He called it \"an efficient film but an unremarkable one\", and noted the visible budget limits.",
+      "icon": "star",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/timeguardian.htm"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filmink wrote that Tom Burlinson's performance as Ballard \"killed his career as a leading man.\" He had starred in The Man from Snowy River (1982) and Phar Lap (1983).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001979",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MTIzNzg4MV5BMl5BanBnXkFtZTcwNzIzMDkwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film came from Australia's 10BA tax-incentive boom. Critic David Stratton said it showed how deal-driven 10BA films could be undone: \"the wrong producers, the wrong deals, the wrong budget\".",
+      "icon": "money",
+      "byline": "David Stratton",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script was first sold to Chateau Productions, whom writer-director Brian Hannant described as \"song pluggers who'd made commercials and documentaries\" and decided to make a feature.",
+      "icon": "mic",
+      "byline": "Brian Hannant — Director",
+      "source": {
+        "type": "web",
+        "url": "https://cultfilmalley.com.au/2020/12/14/the-cult-of-director-brian-hannants-the-time-guardian-1987"
+      }
+    },
+    {
+      "t": 4025,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The TV playing as the mechanic calls the sheriff shows a clip from The Terminator. On some copies of this film the TV is blurred or cut out, likely over clip rights.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A full-size Jen-Diki armor suit from this film was reportedly for sale in a pop-culture shop in Tyabb, south of Melbourne, in the mid-2000s.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Brian Hannant quit during post-production after producer Antony I. Ginnane showed the unfinished cut to head office. Co-writer John Baxter said he left one step ahead of being fired.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hannant left, so the film's editor shot some extra scenes. Author Tony Ayres wrote that the film was recut and partly reshot, and that Hannant disowns much of it.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It flopped. It failed to recoup its marketing costs, and Hemdale couldn't pay its A$4.8 million pre-sale. It agreed to pay a reduced A$2 million instead.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the Philippines it was released as Spacetrap. Six Nintendo Family Computer consoles were raffled off during the first three days of release.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Filmink wrote that a film this wasteful makes Australian sci-fi harder, but \"should have a bigger cult\". It said Nikki Coghill is \"genuinely charming amidst the carnage\".",
+      "icon": "star",
+      "byline": "Filmink",
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
