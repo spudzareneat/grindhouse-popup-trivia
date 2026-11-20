@@ -1,0 +1,386 @@
+{
+  "schema": 1,
+  "imdbId": "tt0202314",
+  "title": "Deep Core",
+  "year": 2000,
+  "runtimeSec": 4800,
+  "generatedAt": "2026-11-20T06:24:50.813Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Wil Wheaton (Rodney) calls Deep Core 'charming and silly and extremely fun' and says it was the first of two low-budget 'Roger Corman model' knockoffs of big hits he made.",
+      "icon": "mic",
+      "byline": "Wil Wheaton",
+      "source": {
+        "type": "interview",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star Craig Sheffer (Brian Goodman) played Aaron Boone, aka Cabal, in Clive Barker's Nightbreed (1990). He says its monster effects were all practical makeup.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.overstreetaccess.com/?p=79765"
+      },
+      "person": "nm0001729",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzE3NzkzNV5BMl5BanBnXkFtZTYwNjk5MDcy._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Wil Wheaton says the drilling machine set came apart lengthwise and sat on a homemade gimbal of boards. The cast filmed inside it for about a week.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Wil Wheaton (Rodney Bedecker) says the cramped drilling-vehicle set \"looked suspiciously like a shuttlecraft\" from a 1990s sci-fi show. He'd know: he was on Star Trek: The Next Generation.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Jim Christopher is credited under the name 'Martin Lazarus.' The story is by Phillip J. Roth, who also produced.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "James Russo (government liaison Darryl Simmons) had already worked with director Rodney McDonald on the 1999 action movie Sonic Impact.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce McGill's character is Sam Dalton. McGill earlier played Jack Dalton on the TV series MacGyver, so the name may be a nod to that role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0569226",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1NzEwNF5BMl5BanBnXkFtZTYwNzkwMTM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce McGill (Sam Dalton) is best known as Daniel Simpson \"D-Day\" Day in John Landis's National Lampoon's Animal House (1978), and as Sheriff Dean Farley in My Cousin Vinny.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0569226",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1NzEwNF5BMl5BanBnXkFtZTYwNzkwMTM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "To fake the rumbling, director Rodney McDonald said the ride was 'like a tank over a dirt road.' Star Trek vets Terry Farrell and Wil Wheaton asked if that was a 3 on the 'Star Trek shake scale.'",
+      "icon": "mic",
+      "byline": "Wil Wheaton",
+      "source": {
+        "type": "interview",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Script Easter eggs: bomb serials \"TK421\" and \"1138\" nod to Star Wars (a stormtrooper number Han Solo used) and to George Lucas's first feature, THX 1138 (1971).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before directing, Rodney McDonald was a first assistant director for Jag Mundhra on The Jigsaw Murders (1989), Night Eyes (1990) and Last Call (1991).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The rock-analysis computer display seen inside the drilling machine was recycled: the same screen shows up in the 2003 sci-fi movie Epoch: Evolution.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Deep Core reached UK viewers first, on Sky MovieMax on December 13, 2000. Paramount released it in the US on video June 26, 2001.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Terry Farrell (Allison Saunders) married Adam Nimoy in 2018, which made her the daughter-in-law of Star Trek's Leonard Nimoy, who'd died in 2015.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000395",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGYxMjU1NzctYTE2MC00ZDhlLWJmNDAtMTZlYTVlN2I4Y2M5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wil Wheaton says someone on set asked for a level 10 shake. Everyone silently declined, because he jokes that only happens when they crash the Enterprise.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Deep Core is linked to earlier earth-cracking B-movies Crack in the World (1965) and Battle Beneath the Earth (1967), and to Armageddon (1998), the hit it was chasing.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Terry Farrell (Allison Saunders) played Jadzia Dax on Star Trek: Deep Space Nine. An asteroid, 26734 Terryfarrell, is named after her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000395",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGYxMjU1NzctYTE2MC00ZDhlLWJmNDAtMTZlYTVlN2I4Y2M5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Harry Van Gorkum (CEO Alan Morrisey) played Nigel Sheffield, Maxwell's dashing brother, on the sitcom The Nanny, where he proposes to Fran Drescher's character.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002246",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxMTA0MzE4OF5BMl5BanBnXkFtZTcwMTI3NzAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wil Wheaton says Deep Core was his take on big disaster movies like Armageddon and The Core. His character Rodney ends up a flaming skeleton after magma hits him.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Story writer and producer Phillip J. Roth also produced Python (2000), the giant-snake movie Wil Wheaton made for the same company, and later Lake Placid 2 (2007).",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paramount picked up Deep Core as its second Armageddon-style acquisition, after Tycus (1999). Matty Budrewicz of The Schlock Pit calls it Armageddon played underground.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wil Wheaton (Rodney) was Gordie in Stand by Me, then Wesley Crusher on Star Trek: The Next Generation. In Deep Core he's a drilling engineer.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Matty Budrewicz of The Schlock Pit found the effects unusually weak for this type of film. He said the CGI is passable but falls short of Darkdrive (1997).",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paramount put out Deep Core on US video in 2001, then released the big-budget The Core (2003) with a very similar plot. The Schlock Pit notes the overlap.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://theschlockpit.com/2025/10/13/deep-core-2000"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Deep Core came out three years before The Core (2003), which has a very similar plot: a drilling vehicle sent into Earth's core to set off nukes.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bruce McGill (Sam Dalton) has played the boss of a time-travel project three times: Quantum Leap, the Bruce Willis-free Timecop (1994) and a Star Trek: Voyager episode.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0569226",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1NzEwNF5BMl5BanBnXkFtZTYwNzkwMTM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Harry Van Gorkum (CEO Alan Morrisey) was once cast as the Doctor in the 1996 Doctor Who TV movie. The BBC was unhappy and replaced him with Paul McGann.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002246",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxMTA0MzE4OF5BMl5BanBnXkFtZTcwMTI3NzAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Deep Core is set in places like China, Ecuador and the Philippines, but it was filmed around Santa Clarita, California.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's reception was poor. IMDb users rated it 2.6/10, AllMovie gave it 1.5 out of 5, and TV Guide gave it 2 out of 5.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After reading the film's dismal ratings, Wil Wheaton (Rodney Bedecker) wrote on his blog that they're \"entirely fair, generous, even.\"",
+      "icon": "mic",
+      "byline": "Wil Wheaton",
+      "source": {
+        "type": "interview",
+        "url": "https://wilwheaton.net/2026/07/can-i-tell-you-a-story/"
+      },
+      "person": "nm0000696",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjc5OTc3MF5BMl5BanBnXkFtZTcwODM1MTA4Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
