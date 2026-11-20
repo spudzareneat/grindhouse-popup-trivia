@@ -1,0 +1,394 @@
+{
+  "schema": 1,
+  "imdbId": "tt4257950",
+  "title": "Russell Madness",
+  "year": 2015,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-11-20T05:03:05.917Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sean Giambrone, the voice of Russell the terrier, is best known as young Adam Goldberg on the long-running sitcom The Goldbergs.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm4677867",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk0MzMzYTEtZGQyNS00MzYwLWJlOWEtMWNjNWYwNDJkZjgzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sports site Extra Mustard (SI) greeted the film in 2014 as the Air Bud creators' leap from dogs playing sports to dogs doing pro wrestling.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.si.com/extra-mustard/2014/12/05/russell-madness-pro-wrestling-dog-movie"
+      }
+    },
+    {
+      "t": 175,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Star David Milchard (Nate) said the crew did an incredible job building this vintage wrestling arena for the film.",
+      "icon": "camera",
+      "byline": "David Milchard",
+      "source": {
+        "type": "web",
+        "url": "https://www.homemediamagazine.com/fox/russell-madness-actor-impressed-animal-co-stars-35294"
+      },
+      "person": "nm1660138"
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Robert Vince has had a hand in producing every film in the Air Bud family, from the original golden retriever hit to the Buddies sequels and the primate movies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0898547",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUwNTA3OTIyNl5BMl5BanBnXkFtZTcwMzA4ODMzNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Fred Willard, voicing wrestling announcer TJ, was cast in a clueless sports-announcer role; Swampflix noted he's basically reprising his Best in Show commentator.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-star David Milchard said it was cool working with the same monkey as Ben Stiller, Zach Galifianakis and Bradley Cooper.",
+      "icon": "mic",
+      "byline": "David Milchard",
+      "source": {
+        "type": "web",
+        "url": "https://www.homemediamagazine.com/fox/russell-madness-actor-impressed-animal-co-stars-35294"
+      },
+      "person": "nm1660138"
+    },
+    {
+      "t": 960,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Hunk is played by Crystal the Monkey, who also appeared in the Night at the Museum films and The Hangover Part II. Will Sasso supplies the voice.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.homemediamagazine.com/fox/russell-madness-actor-impressed-animal-co-stars-35294"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star David Milchard (Nate) said the animal trainers left everyone on set in awe, joking you'll never be more charming than any of these animals.",
+      "icon": "mic",
+      "byline": "David Milchard — Nate",
+      "source": {
+        "type": "web",
+        "url": "https://www.homemediamagazine.com/fox/russell-madness-actor-impressed-animal-co-stars-35294"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Swampflix noted this is the first Air Bud Entertainment film without Air Bud's puppies; their earlier Air Buddies movies went straight to DVD.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spectrum Culture's Pat Padua wrote the film's 1980s-style wrestling world is every bit as ridiculous as the Iron Sheik vs. Sgt. Slaughter rivalry, and he liked the dry-ice entrances.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/?p=40828"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fandango premiered the trailer exclusively on December 5, 2014, and booked the film into theaters on February 21, 2015 as part of its Family Screening Series.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fandango.com/movie-news/exclusive-russell-madness-trailer-748665"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Only about 4-6 different shots of Hunk the monkey are used in the whole film. They were slowed, sped up and recut to make him seem to do more, saving money.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Swampflix's Brandon Ledet noted the title Russell Madness is never spoken; he's called Russell Mania, and Ledet guessed the change dodges WWE's WrestleMania brand.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Swampflix's Brandon Ledet counted Russell's foes: a mummy, a caveman, a pirate, a clown, an escaped convict and a California surfer. Basically a wrestling-gimmick parade.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Wrestling boss Mick Vaughn is played by John Ratzenberger (Cliff on Cheers). Swampflix's Brandon Ledet calls the character a Vince McMahon-style villain.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Swampflix's Brandon Ledet read Mick Vaughn's Wrestlers United Federation as a WWF/WWE stand-in swallowing local promotions, and lined the film up with Body Slam and No Holds Barred.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 3039,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The theme song 'Maniac' was written by Gregory Prechel and Brahm Wenger, who also wrote the closing 'You Can Make It'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3084,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Director Robert Vince began directing in 2000 with MVP: Most Valuable Primate, a sports comedy starring a hockey-playing chimp.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0898547",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUwNTA3OTIyNl5BMl5BanBnXkFtZTcwMzA4ODMzNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3330,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The Hammer is played by John Hennigan, better known as WWE's John Morrison. Wrestling Inc. covered the trailer in 2015 as him wrestling a dog.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.wrestlinginc.com/news/2015/01/john-morrison-wrestles-dog-in-movie-trailer-video-588144"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film gets a shout-out in the 2022 movie Diary of a Wimpy Kid.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3590,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Spectrum Culture's Pat Padua singled out the dry-ice fog entrances as a detail where the movie gets real wrestling spectacle right.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/?p=40828"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Milchard (Nate) watched wrestling as a kid, so working on the arena set was a dream. He said it was a shame when the set was torn down after filming.",
+      "icon": "camera",
+      "byline": "David Milchard — Nate",
+      "source": {
+        "type": "web",
+        "url": "https://www.homemediamagazine.com/fox/russell-madness-actor-impressed-animal-co-stars-35294"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filming took place in New Westminster, British Columbia, even though the story is set in Portland.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3990,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "John Hennigan (The Hammer, ex-WWE's John Morrison) said wrestling and movies are the two things he finds most fulfilling creatively.",
+      "icon": "mic",
+      "byline": "John Hennigan — The Hammer",
+      "source": {
+        "type": "web",
+        "url": "https://www.wrestlinginc.com/news/2015/01/john-morrison-wrestles-dog-in-movie-trailer-video-588144"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Swampflix's Brandon Ledet wrote in May 2015 that Russell Madness might become his favorite bad movie of the year.",
+      "icon": "star",
+      "byline": "Brandon Ledet — Swampflix",
+      "source": {
+        "type": "web",
+        "url": "https://swampflix.com/2015/05/19/russell-madness-2015/"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Theatrically it barely registered: Box Office Mojo lists just $43,288 worldwide, all from Peru, with a widest release of 10 theaters.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.boxofficemojo.com/title/tt4257950"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Common Sense Media's Renee Longstreet wrote it can't live up to the original Air Bud and is unlikely to become a family classic, though it can make kids laugh.",
+      "icon": "reel",
+      "byline": "Renee Longstreet — Common Sense Media",
+      "source": {
+        "type": "web",
+        "url": "https://www.commonsensemedia.org/movie-reviews/russell-madness"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After a limited run, 20th Century Fox put it out on Blu-ray and DVD on March 10, 2015. The Numbers estimates about $1.12 million in domestic video sales.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.the-numbers.com/movie/Russell-Madness"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Spectrum Culture's Pat Padua noted director Robert Vince has directed nine of the 14 Air Bud franchise titles, most of them direct to video.",
+      "icon": "link",
+      "byline": "Robert Vince — Director",
+      "source": {
+        "type": "web",
+        "url": "https://spectrumculture.com/?p=40828"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk's Randy Miller III called it a total misfire, said the acting is Z-grade Disney Channel bad, and gave it a Skip It.",
+      "icon": "reel",
+      "byline": "Randy Miller III — DVD Talk",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/67839"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pat Padua of Spectrum Culture gave the film 3 out of 5. Common Sense Media gave it 2 stars.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The faith-and-family site Dove.org gave it its Family-Approved Seal for all ages; reviewer Donna Rolfe praised the family-first message.",
+      "icon": "trophy",
+      "byline": "Donna Rolfe — Dove.org",
+      "source": {
+        "type": "web",
+        "url": "https://dove.org/?p=26286"
+      }
+    }
+  ]
+}
