@@ -181,7 +181,14 @@ export function scheduleFromEntries(entries) {
     if (!entry) throw new Error('no schedule post found in feed');
     const days = parseSchedule(entry.contentHtml);
     if (!days.length) throw new Error('no days parsed from schedule post: ' + entry.title);
-    return { postTitle: entry.title, weekendFri: parseDateRange(entry.title, entry.publishedAt).fri, movies: flattenMovies(days) };
+    const weekend = parseDateRange(entry.title, entry.publishedAt);
+    const dateByDay = { Friday: weekend.fri, Saturday: weekend.sat, Sunday: weekend.sun };
+    // post: the parsed post as published to schedule/current.json (items keep the parser's string year).
+    const post = {
+        postId: entry.postId, title: entry.title, publishedAt: entry.publishedAt, weekend,
+        days: days.map(d => ({ ...d, date: dateByDay[d.day] || null })),
+    };
+    return { postTitle: entry.title, weekendFri: weekend.fri, movies: flattenMovies(days), post };
 }
 
 // Manual override for when Reddit blocks the server: the feed XML saved from a browser

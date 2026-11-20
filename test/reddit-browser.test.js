@@ -51,6 +51,8 @@ test('fetches the newest schedule post and parses it with the existing parser', 
     const urls = [], added = [];
     const r = await fetchWeekendMoviesViaBrowser({ cookiesFile: cookieFile(COOKIES), launch: fakeLaunch({ urls, added }) });
     assert.equal(r.postTitle, 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5');
+    assert.equal(r.post.title, 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5');
+    assert.equal(r.post.postId, 't3_new');
     assert.deepEqual(r.movies.map(m => m.title), ['Carnival of Souls', 'Alligator', "Don't Look in the Basement"]);
     assert.equal(urls[0], 'https://old.reddit.com/r/420Grindhouse/new');
     assert.equal(urls[1], 'https://old.reddit.com/r/420Grindhouse/comments/new/x/');

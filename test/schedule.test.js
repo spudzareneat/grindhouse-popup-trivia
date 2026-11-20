@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, readWeekendMoviesFile, feedUrl, FEED_URL, parseDateRange, parseMoviesList } from '../src/schedule.js';
+import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, readWeekendMoviesFile, feedUrl, FEED_URL, parseDateRange, parseMoviesList, scheduleFromEntries } from '../src/schedule.js';
 
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entry = (id, title, pub, html) =>
@@ -162,4 +162,16 @@ test('parseMoviesList turns a pasted "Title (Year); Title (Year)" list into a sc
     assert.deepEqual(r.movies.map(m => [m.title, m.year]), [['Carnival of Souls', 1962], ['Alligator', 1980], ['Judge & Jury', 1996], ['Mystery Film', null]]);
     assert.deepEqual(r.movies[1].akas, ['Alligator: The Bite']);
     assert.throws(() => parseMoviesList(' ; \n '), /no movies/);
+});
+
+test('scheduleFromEntries exposes the parsed post', () => {
+    const { post } = scheduleFromEntries(parseEntries(FEED));
+    assert.equal(post.postId, 't3_new');
+    assert.equal(post.title, 'Weekend Grindhouse Schedule - Fri 10/3 - Sun 10/5');
+    assert.equal(post.publishedAt, '2026-09-30T12:00:00+00:00');
+    assert.deepEqual(post.weekend, { fri: '2026-10-03', sat: '2026-10-04', sun: '2026-10-05' });
+    assert.deepEqual(post.days.map(d => [d.day, d.date]), [['Friday', '2026-10-03'], ['Saturday', '2026-10-04']]);
+    assert.deepEqual(post.days[0].sections[0].items[0], { title: 'Carnival of Souls', year: '1962', display: 'Carnival of Souls (1962)', akas: [] });
+    assert.equal(typeof post.days[0].sections[0].items[0].year, 'string');
+    assert.equal(post.days[1].sections[0].items.find(i => i.title === 'Mystery Film').year, null);
 });
