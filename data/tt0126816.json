@@ -1,0 +1,450 @@
+{
+  "schema": 1,
+  "imdbId": "tt0126816",
+  "title": "Blackjack",
+  "year": 1998,
+  "runtimeSec": 6720,
+  "generatedAt": "2026-11-20T06:21:58.097Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blackjack was a backdoor pilot: USA Network and producers hoped star Dolph Lundgren's bodyguard Jack Devlin would become a weekly series. The show was never picked up.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Woo wasn't just directing: he was also an executive producer on Blackjack, alongside Terence Chang, Christopher Godsick and screenwriter Peter Lance.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://www.cityonfire.com/hkrelated/blackjack.html"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director John Woo made this between Hollywood films, in a roughly three-year gap after Hard Target (1993). His next big one was Face/Off (1997).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/867542/john-woo-directed-a-bizarre-made-for-tv-movie-in-between-blockbusters"
+      },
+      "person": "nm0000247",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDMwODQ5MV5BMl5BanBnXkFtZTYwMzEyNzU1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Blackjack, John Woo made Face/Off (1997). He rejected its script several times until the studio rewrote it to suit him, dropping the futuristic setting. It grossed over $100 million in the US.",
+      "icon": "explosion",
+      "byline": "John Woo — Director",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Woo"
+      },
+      "person": "nm0000247",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDMwODQ5MV5BMl5BanBnXkFtZTYwMzEyNzU1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Saul Rubinek (Jack's roommate Thomas) played the pulp writer W.W. Beauchamp in Clint Eastwood's Unforgiven (1992) and later Donny Douglas, Daphne's fiancé, on Frasier.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Saul_Rubinek"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Though released first, Blackjack was shot after Dolph Lundgren's The Minion and Sweepers, which he made back to back before it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000185",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1350,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blackjack was Kam Heskin's first screen role: John Woo cast her as supermodel Cinder James. Later in 1998 she joined the NBC soap Sunset Beach as Caitlin Deschanel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kam_Heskin"
+      },
+      "person": "nm0004349",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5ODg1MDc4Ml5BMl5BanBnXkFtZTYwMjY1Njky._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrew Jackson plays rival bodyguard Don Tragle here. He also played Sgt. Andrew Scott's namesake... in Universal Soldier, the same Sgt. Andrew Scott role Lundgren played in that series.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Padraigin Murphy, who plays Casey, had a very short film career. According to a reviewer on the City on Fire site, it amounted to Blackjack plus a few Goosebumps appearances.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://www.cityonfire.com/hkrelated/blackjack.html"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Devlin's fear of white is leukophobia, a real term. Slashfilm notes how odd it is for a movie hero to be built around fear of a color. Lundgren wears sunglasses to cope.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/867542/john-woo-directed-a-bizarre-made-for-tv-movie-in-between-blockbusters"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Before Super Bowl I, Fred Williamson (Tim Hastings) predicted he'd flatten Packers receivers: 'Two hammers to Dowler, one to Dale should be enough.' He was knocked out in the fourth quarter.",
+      "icon": "knuckles",
+      "byline": "Fred Williamson",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Williamson"
+      },
+      "person": "nm0004365",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1MzIzNjk4N15BMl5BanBnXkFtZTYwMjk4NDYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After spinal surgery at age three, John Woo couldn't walk properly until he was eight. As a boy in a Protestant family, he wanted to become a Christian minister.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/John_Woo"
+      },
+      "person": "nm0000247",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDMwODQ5MV5BMl5BanBnXkFtZTYwMzEyNzU1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lundgren holds a master's degree in chemical engineering and was offered a Fulbright scholarship to study at MIT before Rocky IV made him an action star.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000185",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before the psychiatrist role here, Kate Vernon (Dr. Rachel Stein) played Lorraine Prescott on the CBS soap Falcon Crest in 1984-85 and appeared in Spike Lee's Malcolm X (1992).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0894690",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NzMxMTk5MV5BMl5BanBnXkFtZTgwMDgwMjg2MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Williamson (Tim Hastings) played in Super Bowl I for the Kansas City Chiefs and earned the nickname 'The Hammer' for his hard hits.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0004365",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1MzIzNjk4N15BMl5BanBnXkFtZTYwMjk4NDYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fred Williamson (Tim Hastings) played Dr. Oliver 'Spearchucker' Jones in Robert Altman's M*A*S*H (1970), then became a blaxploitation lead in Black Caesar (1973).",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fred_Williamson"
+      },
+      "person": "nm0004365",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1MzIzNjk4N15BMl5BanBnXkFtZTYwMjk4NDYz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "AllMovie's reviewer called this a weak John Woo film, but said it contains one carefully choreographed slow-motion shootout that bears his signature.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.allmovie.com/movie/blackjack-vm458864/review"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Phillip MacKenzie, who plays obsessed killer Rory Gaines, later turned up in Zack Snyder's Dawn of the Dead remake (2004) and in Hollywoodland (2006).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0533384"
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kate Vernon (Dr. Rachel Stein) was Benny Hanson in Pretty in Pink (1986) and later played Ellen Tigh in the Battlestar Galactica reboot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0894690",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NzMxMTk5MV5BMl5BanBnXkFtZTgwMDgwMjg2MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kam Heskin (Cinder James) later replaced Julia Stiles as Paige Morgan in The Prince & Me 2: The Royal Wedding (2006), then returned for the direct-to-video third and fourth films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kam_Heskin"
+      },
+      "person": "nm0004349",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5ODg1MDc4Ml5BMl5BanBnXkFtZTYwMjY1Njky._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Goof hunters spotted a typo in Jack Devlin's computer research on Cinder's wedding: the web page header reads 'Annoucements' instead of 'Announcements'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TV Guide gave Blackjack 2 of 4 stars: 'Though it boasts several rousing action sequences, the film is sabotaged by lackluster acting, thin characterization, and a derivative storyline.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews on the City on Fire site split wildly: 'James H.' called Blackjack 'the lowest point in John Woo's career', while 'American Ninja' gave it 7.5/10 and said it 'delivers the goods'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://www.cityonfire.com/hkrelated/blackjack.html"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reported to have aired again on USA Network on September 15, 1998, the film drew a 2.7 national rating.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kate Vernon (Dr. Rachel Stein) is the daughter of actor John Vernon. Her sister is singer Nan Vernon.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0894690",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NzMxMTk5MV5BMl5BanBnXkFtZTgwMDgwMjg2MjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blackjack was shot in Toronto, Ontario, and made by Alliance Communications and others for USA Network. Its TMDB-listed budget is $8 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blackjack was shot on 35mm film with Panavision anamorphic cameras by cinematographer Bill Wong, so it was filmed like a feature even though it aired on USA Network.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shotonwhat.com/blackjack-1998"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kam Heskin (Cinder James) is, per IMDb, a descendant of John Hancock, signer of the Declaration of Independence, through her maternal grandmother.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0004349",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5ODg1MDc4Ml5BMl5BanBnXkFtZTYwMjY1Njky._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dolph Lundgren was nearly rejected for Rocky IV as too tall. During filming, a punch he landed on Sylvester Stallone reportedly put Stallone in intensive care for nine days.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dolph_Lundgren"
+      },
+      "person": "nm0000185",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Woo's usual dove imagery is a trademark of his films, symbolizing a character's soul being saved. Watch for his signature slow-motion gunplay instead in this TV outing.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000247",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDMwODQ5MV5BMl5BanBnXkFtZTYwMzEyNzU1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Saul Rubinek (Thomas) won a Genie Award for Best Supporting Actor for Ticket to Heaven (1981), and later won the Alan J. Pakula Award for The Contender (2001).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Saul_Rubinek"
+      }
+    },
+    {
+      "t": 6000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blackjack is name-checked in Kevin Smith's Jersey Girl (2004), and a different film called Blackjack (2018) also references it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 6200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Grantland's Q&A with Dolph Lundgren called Blackjack 'John Woo's amazing failed TV pilot' about a Marshal-turned-bodyguard with a color phobia, whose climax is in a milk factory.",
+      "icon": "mic",
+      "byline": "Grantland",
+      "source": {
+        "type": "interview",
+        "url": "https://grantland.com/hollywood-prospectus/dolph-lundgren-skin-trade-q-and-a/"
+      },
+      "person": "nm0000185",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 6400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sharp-eyed viewers spotted Dolph Lundgren's hearing-protection earplugs visible during the climactic gunfight.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000185",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 6550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer 'Mairosu' on the City on Fire site gave Blackjack 1.5 out of 10 and called it 'a proper pile of junk', though he praised Lundgren's neutral accent.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://www.cityonfire.com/hkrelated/blackjack.html"
+      }
+    }
+  ]
+}
