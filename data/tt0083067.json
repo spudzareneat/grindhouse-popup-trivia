@@ -1,0 +1,692 @@
+{
+  "schema": 1,
+  "imdbId": "tt0083067",
+  "title": "Shock Treatment",
+  "year": 1981,
+  "runtimeSec": 5640,
+  "generatedAt": "2026-11-20T05:31:21.812Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The guy on the pay phone in this opening is Sal Piro, long-time president of the Rocky Horror Picture Show fan club, in an uncredited silent cameo.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In this long opening shot, Cliff De Young had to play Farley Flavors up in the booth, then dash downstairs in a quick change to hit his mark as Brad Majors.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "To get a big American sound for songs like this one, about 50 American soldiers were brought in to record the choruses. Composer Richard Hartley says they weren't sure what the lyrics were for.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This was meant to be shot in the real Denton, Texas. The 1980 Screen Actors Guild strike pushed filming to England, where the whole town became one TV studio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Charles Gray, playing Judge Oliver Wright, was the Criminologist in Rocky Horror. He was also Bond's ally Henderson in You Only Live Twice, then villain Blofeld in Diamonds Are Forever.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0336509",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNDEzNjMwMDZeQTJeQWpwZ15BbWU3MDM2ODUzMzQ@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 485,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The kids in Farley Flavors' fast-food commercial include the real children of Patricia Quinn (Dr. Nation McKinley) and Richard O'Brien (Dr. Cosmo McKinley).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Barry Humphries played blind game-show host Bert Schnick like Dr. Caligari from the 1920 silent German Expressionist classic. He called him 'a highly expressionist character'.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bert Schnick exists because Jonathan Adams, Rocky Horror's Dr. Scott, was stuck in a London run of Tom Lehrer's revue Tomfoolery. The script folded Dr. Scott into the game-show host.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Susan Sarandon wanted more money than the budget allowed, so Janet was recast at auditions held at The Roxy. Jessica Harper won it on her singing, after Phantom of the Paradise.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0363888",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzk1MDI2NzkxN15BMl5BanBnXkFtZTcwNTk1MzMyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cliff De Young modeled his Brad Majors on David Eisenhower and his villain Farley Flavors on Jack Nicholson.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tim Curry was offered the roles of Brad and Farley Flavors but passed, reportedly because he didn't think he could handle the American accent.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 890,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Cliff De Young and Jessica Harper were reunited here after co-starring together in a stage production of Hair.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 955,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "20th Century Fox hired Rocky Horror fan club president Sal Piro to promote Shock Treatment. He later wrote that getting devoted fans on board was a struggle.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://store.oscilloscope.net/blogs/musings-oscilloscope-labs/long-after-midnight-the-curious-story-of-shock-treatment-the-rocky-horror-picture-show-sequel-designed-to-attract-a-cult-following-that-never-arrivedby-keith-phipps"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'Rest Home' Ricky is played by Rik Mayall, shortly before he became famous in The Young Ones, according to MovieFanFare's Gary Cahall.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefanfare.com/?p=58600"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard O'Brien, who wrote Rocky Horror and plays Dr. Cosmo McKinley, later hosted the British game show The Crystal Maze from 1990 to 1993.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0639782",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MDQxMjgwMV5BMl5BanBnXkFtZTcwNjg3MTI3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Patricia Quinn said she never grasped the plot until she saw The Truman Show. Richard O'Brien then phoned to complain about the similarities, and it finally clicked.",
+      "icon": "mic",
+      "byline": "Patricia Quinn",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0703946",
+      "image": "https://m.media-amazon.com/images/M/MV5BODYzZDczMzktOTMwMC00ZTIwLTk5OTItMWVmYmJiNTNiMDlkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1210,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "As is usual for musicals, the songs were recorded before filming, at London's Abbey Road Studios.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Keith Phipps notes that some songs here predate the film: Richard O'Brien wrote them for a more direct Rocky Horror sequel, then fitted them to the new story.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://store.oscilloscope.net/blogs/musings-oscilloscope-labs/long-after-midnight-the-curious-story-of-shock-treatment-the-rocky-horror-picture-show-sequel-designed-to-attract-a-cult-following-that-never-arrivedby-keith-phipps"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jessica Harper, who plays Janet, also starred in Brian De Palma's Phantom of the Paradise and as the ballerina in Dario Argento's Suspiria. She returned in the 2018 remake.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0363888",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzk1MDI2NzkxN15BMl5BanBnXkFtZTcwNTk1MzMyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Costume designer Sue Blane bought the audience's clothes at thrift stores in Texas to give the crowd a cartoonish look.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Production designer Brian Thomson suggested turning the story into a giant TV studio set in England. It shaved about $1 million off the budget and gave the crew a controlled setting.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Jim Sharman floated filming a London stage version in a theater. That led Richard O'Brien to rework the locations as one giant TV studio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0788940"
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Among the soldiers in this number are Rayner Bourton, the original stage Rocky, and Robert Longden, who took over Riff Raff from Richard O'Brien in the 1973 stage show.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1710,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At a Houston advance screening on August 22, 1981, writer Richard O'Brien arrived in a white 1966 T-Bird convertible with red interior, like the car in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://houstonrocky.blogspot.com/2014/05/shock-treatment-premiere-in-houston.html"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fans long believed John Candy was the mustached man in the audience. The Rocky Horror fan club presidents Bill Brennan and Mad Man Mike had to say on the DVD commentary that it wasn't him.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1925,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "On the original Key Video VHS release, the sound drifted out of sync during this song, 'Farley's Song'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard O'Brien's first sequel script, Rocky Horror Shows His Heels, revived Frank-N-Furter and made Brad and Dr. Scott lovers. When Tim Curry declined, the songs were kept and the story rewritten.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Charles Gray always claimed he never saw Rocky Horror, since his scenes as the Criminologist were filmed separately from the rest of the cast.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0336509",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNDEzNjMwMDZeQTJeQWpwZ15BbWU3MDM2ODUzMzQ@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tagline 'It's not a sequel... it's not a prequel... it's an equal' irritated fans, who wanted Tim Curry, Susan Sarandon and Barry Bostwick back. Richard O'Brien later regretted it.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2295,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jim Sharman calls his film 'a cartoonish musical satire, or a morality tale about a world gone mad' and says it was 'prescient' about celebrity and media culture.",
+      "icon": "mic",
+      "byline": "Jim Sharman — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://rockyhorror.com/history/interviews_jimsharman.php"
+      },
+      "person": "nm0788940"
+    },
+    {
+      "t": 2390,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Lullaby sequence was reportedly filmed in a single take.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2560,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A wink to Rocky Horror: the same American Gothic painting seen in its 'Time Warp' and 'Dammit Janet' hangs in this wardrobe room.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "During 'Little Black Dress', the sound slipped out of sync on the Fox VHS release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called Jessica Harper's Janet her finest screen work and said the songs are arguably better than the original's, though he gave the film only 2.5 stars.",
+      "icon": "mic",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://www.moriareviews.com/fantasy/shock-treatment-1981-rocky-horror-sequel.htm"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film premiered in Denton, Texas, with a 'Denton: The Home of Happiness' billboard on I-35, Richard O'Brien present, and give-away cardboard masks of O'Brien's face.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rocky Horror spoofed horror movies. Shock Treatment spoofs television.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard O'Brien's solo version of this title song, heard over the end credits, was left off the soundtrack album. It came out as a single, on red vinyl.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0639782",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MDQxMjgwMV5BMl5BanBnXkFtZTcwNjg3MTI3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Richard O'Brien later called the film 'an abortion', though he praises its music and the fact it foretold reality TV about two decades early.",
+      "icon": "mic",
+      "byline": "Richard O'Brien",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0639782",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MDQxMjgwMV5BMl5BanBnXkFtZTcwNjg3MTI3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3390,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Peter Fuller of What to Watch called the film 'more than the equal of its predecessor' when Arrow gave it its first-ever Blu-ray release in 2017.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://whattowatch.com/movie-talk/shock-treatment-1981-film-review-489396"
+      }
+    },
+    {
+      "t": 3480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "MovieFanFare's Gary Cahall credits Richard O'Brien with anticipating Big Brother and American Idol, though he finds the satire heavy-handed and uneven.",
+      "icon": "mic",
+      "byline": "Gary Cahall",
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefanfare.com/?p=58600"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gene Siskel said Jessica Harper was a poor choice for a musical, and that a cult film can't be manufactured. Roger Ebert predicted fans would stick with Rocky Horror instead.",
+      "icon": "mic",
+      "byline": "Siskel & Ebert",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Shock Treatment, released only as a midnight movie, lost even more than Rocky Horror did in its 1975 general release. It never got a full theatrical run.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3770,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer Kris Longo at Daily Dead says the ads promised 'From the creators of The Rocky Horror Picture Show'. He argues that set fans up for another midnight party the film didn't deliver.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dailydead.com/?p=316037"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Betsy Brantley, who sings in the Denton number, was the body model for Jessica Rabbit, according to the Bands About Movies site.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/05/31/shock-treatment-1981/"
+      }
+    },
+    {
+      "t": 3920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "On Metacritic, Shock Treatment scores 36 out of 100 from 7 critics, 'generally unfavorable'. On Rotten Tomatoes, 3 of 7 reviews are positive.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4020,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gary Cahall of MovieFanFare calls Barry Humphries' Bert Schnick 'a hoot' and praises the soundtrack as mostly on a par with Rocky Horror's.",
+      "icon": "mic",
+      "byline": "Gary Cahall",
+      "source": {
+        "type": "web",
+        "url": "https://www.moviefanfare.com/?p=58600"
+      }
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Cliff De Young and Susan Sarandon, Brad and Janet in the two films, later played a couple in the 1983 vampire movie The Hunger.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4290,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Sinitta, who plays Frankie in the band Oscar Drill and the Bits, made her screen debut here, as did Betsy Brantley and Robyn Mandell.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fan Benji Sperring spent nearly a decade persuading Richard O'Brien to allow a stage version. It opened at London's King's Head Theatre in 2015, on O'Brien's condition that it stay in a tiny venue.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4540,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Jim Sharman said the two films' intentions are 'quite disparate' and that the only real links are Brad and Janet, who act as catalysts for the plot.",
+      "icon": "mic",
+      "byline": "Jim Sharman",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0788940"
+    },
+    {
+      "t": 4660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard O'Brien also wrote a rough script for another Rocky Horror sequel, Revenge of the Old Queen. In it Brad becomes a Las Vegas go-go dancer, and Janet and Frank have a son named Sonny.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0639782",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MDQxMjgwMV5BMl5BanBnXkFtZTcwNjg3MTI3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Deseret News critic Christopher Hicks wrote that a cult film is one a small audience grows to love, and that it would be ironic if a major studio managed to manufacture one.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://store.oscilloscope.net/blogs/musings-oscilloscope-labs/long-after-midnight-the-curious-story-of-shock-treatment-the-rocky-horror-picture-show-sequel-designed-to-attract-a-cult-following-that-never-arrivedby-keith-phipps"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "'Duel Duet' was shot in one day. Cliff De Young filmed the morning as one brother, then changed costume for the afternoon as the other. He began restrained before being pushed to go broader.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0002037",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "James Benefield of Eye for Film gave it 3 of 5 stars, calling it 'an unusual, but not wholly successful, curiosity' that 'takes surprising risks and is full of ideas.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.eyeforfilm.co.uk/review/shock-treatment-film-review-by-james-benefield"
+      }
+    },
+    {
+      "t": 5060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shock Treatment opened at New York's Waverly while Rocky Horror played a few blocks away. The Village Voice criticized its audience-participation troupe as forced.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://store.oscilloscope.net/blogs/musings-oscilloscope-labs/long-after-midnight-the-curious-story-of-shock-treatment-the-rocky-horror-picture-show-sequel-designed-to-attract-a-cult-following-that-never-arrivedby-keith-phipps"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the finale: as the four singers rise from the bleachers, Ruby Wax (Betty Hapschatt) trips and steadies herself against Charles Gray's back.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5420,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the getaway, Frankie (Sinitta) can be seen running alongside the car instead of climbing into it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Los Angeles Times critic Kevin Thomas dismissed the film in 1981, writing that spoofing television was already 'a pretty stale tactic by now.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://store.oscilloscope.net/blogs/musings-oscilloscope-labs/long-after-midnight-the-curious-story-of-shock-treatment-the-rocky-horror-picture-show-sequel-designed-to-attract-a-cult-following-that-never-arrivedby-keith-phipps"
+      }
+    }
+  ]
+}
