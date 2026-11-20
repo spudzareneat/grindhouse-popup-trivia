@@ -1,0 +1,423 @@
+{
+  "schema": 1,
+  "imdbId": "tt0081539",
+  "title": "Soul Brothers of Kung Fu",
+  "year": 1977,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-11-20T05:34:36.089Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Quentin Tarantino ranked Soul Brothers of Kung Fu number 14 on his list of his 82 favorite kung-fu movies of all time.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "That triumphant theme over the opening credits is Bill Conti's \"Gonna Fly Now\" cousin from Rocky: the film borrows Rocky's music, per Quentin Tarantino's New Beverly review.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Star Bruce Li is billed in the opening titles under his real name, Ho Chung Tao. Producer Jimmy Shaw had given him the 'Bruce Li' name to cash in on Bruce Lee.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Li"
+      }
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Shan Hua is credited under the pseudonym Hua Yi-Hung. He used the same credit on Bruce Li's Dynamo, Jade Claw and Kung Fu Zombie, wanting a style different from his hit Infra-Man.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/blog/2019/03/soul-brothers-of-kung-fu-the-image-of-bruce-lee/"
+      },
+      "person": "nm0398739",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2RmM2QzOWUtZWE5OC00ZThlLTk4NzQtZTU1YjcxOWUzNjQxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The title 'Soul Brothers' was a US marketing move: distributor Cinema Shares International used it to court Black kung fu fans, though the film centers on its two Chinese leads.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 530,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Carl Scott (Tom) was a 15-year-old extra on a Bruce Lee biopic when producer Pao Ming spotted him and flew him to Hong Kong during summer break to train and film this.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "By 1977 the kung fu craze had faded from mainstream US theaters. Quentin Tarantino writes that chopsocky survived in Black neighborhood theaters, all-night grindhouses and drive-in triple features.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 820,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ku Feng, who plays crime boss Chin Shi Po, started acting in Beijing and joined Shaw Brothers Studio in 1965. He died March 27, 2025.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 870,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The US opening titles bill Lo Meng as Kuan Lun and Dora's actress as Shao Yin Yin. She also appeared in Bruce Li's The Image of Bruce Lee.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 1050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The export trailer used a cue from Ennio Morricone's score for The Big Gundown, 'La Resa Dei Conti - Seconda Caccia', but the finished film doesn't use it.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Carl Scott (Tom) made only four martial arts films. When RZA promoted his directing debut The Man with the Iron Fists, he named Scott the best African-American fighter of the era, over Jim Kelly.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/blog/2019/03/soul-brothers-of-kung-fu-the-image-of-bruce-lee/"
+      }
+    },
+    {
+      "t": 1270,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Bruce Li was the most famous Bruce Lee imitator. After Lee's death he was offered the chance to finish Game of Death in Lee's role, and turned it down.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Li"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Shan Hua also made the sci-fi monster romp Infra-Man and shot The Chinese Boxer as cinematographer. He later reteamed with Bruce Li on Dynamo.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lo Meng (Shao-san) became a Venom Mob star, playing the Toad in Five Deadly Venoms (1978). He's famous for playing the strongest guy in the movie and getting killed first.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2022 the South China Morning Post explained US distributors retitled kung fu films like this one to appeal to urban, mainly African-American, audiences.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actor Adolph Caesar narrated the American TV spots for the film.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Quentin Tarantino praised director Shan Hua's visuals, citing a shot of Lo Meng eating lunch at a logging camp with forty giant trees floating behind him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 2352,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The big-arena tournament crowd shots include stock footage of Madison Square Garden, per Quentin Tarantino's New Beverly review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vern of Ain't It Cool fame loved the 1970s fashion here, especially the Adidas-style track suits and the English-language T-shirts. He calls the first half goofy fun.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Quentin Tarantino says he saw this at the Carson Twin Cinema the week it opened, and calls it one of the best Hong Kong imports to get a US theatrical run in the late 70s.",
+      "icon": "mic",
+      "byline": "Quentin Tarantino",
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Quentin Tarantino argues the film rests not on the brutal fights but on how we feel about Bruce Li's Wong and Lo Meng's San, the two friends.",
+      "icon": "mic",
+      "byline": "Quentin Tarantino",
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tarantino wrote that this was Bruce Li's finest hour and a half, adding that he found Li a better actor than Bruce Lee and his favorite kung fu star growing up.",
+      "icon": "mic",
+      "byline": "Quentin Tarantino",
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Critic Vern named Bruce Li's Iron Finger training, punching through rings lined with blades, his favorite part of the film.",
+      "icon": "knuckles",
+      "byline": "Vern",
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 3230,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Quentin Tarantino's review notes Wong's electric training dummy has two red testicles that pop out when goosed.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 3290,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The disco tune in the bar is 'Always Another Girl' by Silver Convention. The soundtrack also borrows from Carrie, Live and Let Die and Rocky, per Vern's review.",
+      "icon": "disco",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In the French release, Shaw Yam-Yam's nude scenes were replaced: in this shower seduction scene she keeps her towel on in an alternate take.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film has many titles, including Last Strike, Kung Fu Avengers, Incredible Dragon and The Tiger Strikes Again. The Chinese title, Bei po, roughly means 'compelled'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Action directors were Hsu Hsia and Yuen Cheung-Yan, and future stars Yuen Biao and Corey Yuen are among the fighters and stunt performers.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Susanna Au-yeung (Chai-yun) retired from acting in 1993 and retrained as an acupuncturist in Hong Kong. She died in 2017.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce Li retired from films in 1990. On playing the Bruce Lee imitator he said, 'I could act like him but I could never be him.'",
+      "icon": "mic",
+      "byline": "Bruce Li",
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/blog/2019/03/soul-brothers-of-kung-fu-the-image-of-bruce-lee/"
+      },
+      "person": "nm0508362",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTRlYWNkNzAtNWIzZC00MjNlLWE0MzctZjk5ZDczZDQ5MmM2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bruce Li's later Dynamo cast him as a taxi driver who becomes a star because he looks like Bruce Lee, a wink at his own career.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2020/06/04/soul-brothers-of-kung-fu/"
+      }
+    },
+    {
+      "t": 4780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Quentin Tarantino compared this film's poignant final showdown to the climax of Jack Hill's Switchblade Sisters.",
+      "icon": "mic",
+      "byline": "Quentin Tarantino",
+      "source": {
+        "type": "web",
+        "url": "https://thenewbev.com/tarantinos-reviews/soul-brothers-of-kung-fu"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Then-unknown stuntman Yuen Biao, later a Hong Kong action star, did the acrobatic doubling for Ku Feng in this final fight.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film has two endings: Tom dies in the Hong Kong, German and Spanish releases, while the UK, French and US releases have Tom survive and share a freeze-frame with Bruce Li's character.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Xenon video cut is a hybrid: a German widescreen PAL transfer with English audio from the UK tape The Tiger Strikes Again, missing some deaths from the German print.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
