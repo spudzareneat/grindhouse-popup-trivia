@@ -1,0 +1,422 @@
+{
+  "schema": 1,
+  "imdbId": "tt0070547",
+  "title": "The Devil's Wedding Night",
+  "year": 1973,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-11-20T05:50:14.159Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Mark Damon not only played twin brothers Franz and Karl Schiller, he also co-wrote the script as 'Alan M. Harris' — his real birth name was Alan Harris.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0198941",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY2ZmI3MTEtMGY5MS00NTg5LWI2NWItZTc4MTA3NjUwZTJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe D'Amato, the future Emanuelle director, is billed as cinematographer under the English alias 'Michael Holloway'. His real name was Aristide Massaccesi.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemedioevo.net/Vampiria/Film/Vampiri/Plenilunio_vergini.htm"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Franco Gaudenzi said this was Mark Damon's own project: 'a script he had, it was his creature.' Damon planned to sell it to an American distributor.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score is by Vasili Kojucharov. Kim Newman, reviewing the film in 2020, called it a 'euro-lounge score.'",
+      "icon": "boombox",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "web",
+        "url": "https://johnnyalucard.com/2020/09/27/film-review-il-plenilunio-delle-vergini-the-devils-wedding-night-1973/"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Only Luigi Batzella got the director credit, but producer Franco Gaudenzi said Joe D'Amato (later of Emanuelle fame) also directed, reshooting some scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kim Newman's review says the plot borrows from Hammer's Scars of Dracula, the Countess Dracula and Karnstein films, and even the American Count Yorga vampire movies.",
+      "icon": "link",
+      "byline": "Kim Newman",
+      "source": {
+        "type": "web",
+        "url": "https://johnnyalucard.com/2020/09/27/film-review-il-plenilunio-delle-vergini-the-devils-wedding-night-1973/"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mark Damon was so impressed by Joe D'Amato that he recommended him to Roger Corman for the American production The Arena (1974).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "TV Guide's review called it 'ineptly made, fairly gory, and with lots of nudity' — most of it from Rosalba Neri (credited as Sara Bay) — and said Countess Bathory's real story is more interesting.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemedioevo.net/Vampiria/Film/Vampiri/Plenilunio_vergini.htm"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rosalba Neri said of director Luigi Batzella: 'It was like there were two of them, going different directions... A bit schizophrenic, indeed.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0626219",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MzNGRlMjctOGZjNC00YWYxLWIwZmItMzRmZGQxYjY0NTBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib places the film in the 'Continental Gothic' cycle that grew out of Hammer, Roger Corman's Poe films and Mario Bava's Black Sunday. He gave it two stars.",
+      "icon": "reel",
+      "byline": "Richard Scheib",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shooting began July 31, 1972 at Castello Piccolomini in Balsorano, Italy — a castle that also appeared in Lady Frankenstein, Bloody Pit of Horror and Crypt of the Vampire.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/12/12/joe-damato-week-the-devils-wedding-night-1973"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria notes that star Mark Damon wrote the English script as 'Alan M. Harris' — the only time he used that name — with producer Ralph Zucker adapting the dialogue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      },
+      "person": "nm0198941",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY2ZmI3MTEtMGY5MS00NTg5LWI2NWItZTc4MTA3NjUwZTJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Italian censors gave it an under-18 rating and demanded cuts: a shortened first love scene and no scenes where 'the man kisses the lower part of the woman's body.'",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1120,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Dave Sindelar says the film mashes up the Nibelungen legend, Dracula, Countess Bathory and Edgar Allan Poe, plus abstract footage that seems to echo 2001: A Space Odyssey.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fantasticmoviemusings.com/2021/01/31/the-devils-wedding-night-1973"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1974 French release, titled Les vierges de la pleine lune, restored the footage Italian censors had cut from the lesbian scene between Rosalba Neri and Esmeralda Barros.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the US the film was handled by Dimension Pictures in theaters, and later on home video by Wizard Video and VCI. In Italy it opened through the distributor Regionale.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemedioevo.net/Vampiria/Film/Vampiri/Plenilunio_vergini.htm"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italian title, Il plenilunio delle vergini, means 'Full Moon of the Virgins.' The English title sells it as a Devil-worship film, riding the early-70s occult craze.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film got the Elvira's Movie Macabre treatment: Shout! Factory released it in 2006 in that line, but with the nudity removed. Code Red's 2021 Blu-ray restored it from the US version.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/74665"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib noted the amusing touch that the amulet is tied to Pazuzu, an obscure Mesopotamian demon popularised by The Exorcist (1973).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk's Ian Jane called it 'enjoyable enough' and said of star Rosalba Neri's Countess: 'She is the show,' with director Luigi Batzella wisely capitalizing on her screen presence.",
+      "icon": "mic",
+      "byline": "Ian Jane",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/74665"
+      },
+      "person": "nm0626219",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MzNGRlMjctOGZjNC00YWYxLWIwZmItMzRmZGQxYjY0NTBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film grossed 117,115,000 lire in Italy. Its theatrical premiere was April 10, 1973 at the Politeama in Torre Annunziata.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1760,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk says the film was made 'fast and cheap' to cash in on Italy's gothic horror craze of the early 1970s.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/74665"
+      }
+    },
+    {
+      "t": 1840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film historian Gary A. Smith, in Vampire Films of the 1970s, called it 'a throwback to gothic horror' that seems influenced by Hammer's Twins of Evil (1971).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film has also circulated under the titles Full Moon of the Virgins and, in French, Les Vierges Maudites de Dracula ('Dracula's Cursed Virgins').",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemedioevo.net/Vampiria/Film/Vampiri/Plenilunio_vergini.htm"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rosalba Neri is credited as 'Sara Bay.' She also played the title role in Lady Frankenstein (1971), another gothic horror shot at the same castle.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      },
+      "person": "nm0626219",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MzNGRlMjctOGZjNC00YWYxLWIwZmItMzRmZGQxYjY0NTBkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Luigi Batzella's director credit varies by print: 'Paul Solvay' in English credits, with the Italian script credited to Walter Bigari and Paolo Solvay, both names tied to Batzella.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cinemedioevo.net/Vampiria/Film/Vampiri/Plenilunio_vergini.htm"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mark Damon starred in Roger Corman's House of Usher (1960), winning a Golden Globe for New Star of the Year, then moved to Italy for spaghetti westerns.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0198941",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY2ZmI3MTEtMGY5MS00NTg5LWI2NWItZTc4MTA3NjUwZTJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mark Damon later became a major producer: The Lost Boys, Short Circuit, 9½ Weeks and Das Boot all came from his companies. Star Damon is also cousin to composer Danny Elfman.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      },
+      "person": "nm0198941",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY2ZmI3MTEtMGY5MS00NTg5LWI2NWItZTc4MTA3NjUwZTJjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Italian script was reportedly adapted from 'The Brides of Countess Dracula' by Ian Danby and Ralph Zucker; the film credits director 'Paul Solvay' for Luigi Batzella.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "An early draft script opened with a prologue not in the film: the Countess summons evil while nude women are tied to a column and have their throats slashed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Luigi Batzella also made Nude for Satan (1974) and the Nazisploitation film SS Hell Camp (1977), working under many pseudonyms.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/devils-wedding-night-1973.htm"
+      },
+      "person": "nm0061608"
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sergio Pislar is credited as Karl, but Mark Damon played both twins; Pislar reportedly doubled in two-shots, with split-screen covering other shared scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Xiro Papas, who plays the vampire monster, also played the monster in the Italian cult film Frankenstein '80 (1972).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2021/12/12/joe-damato-week-the-devils-wedding-night-1973"
+      },
+      "person": "nm0660333",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGYzMDQ1YjUtZTg4YS00MjMwLTlhMDgtOTVlZmMyNjgyMzUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Film appears in Piecing Together Lady Frankenstein (2018), a documentary about Rosalba Neri's Lady Frankenstein.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
