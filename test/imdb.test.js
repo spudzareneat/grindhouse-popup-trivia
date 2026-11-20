@@ -106,3 +106,19 @@ test('searchCandidates: movies and videos only, most votes first, no similarity 
         { tconst: 'tt1', title: 'Totally Different', year: 1980, votes: 10, source: 'imdb' },
     ]);
 });
+
+test('fetchRating returns rating and votes', async () => {
+    const calls = [];
+    const imdb = makeImdb(imdbStub(() => ({ title: { ratingsSummary: { aggregateRating: 6.4, voteCount: 3100 } } }), calls));
+    assert.deepEqual(await imdb.fetchRating('tt0103327'), { rating: 6.4, votes: 3100 });
+    assert.deepEqual(calls, [{ op: 'GHRating', vars: { id: 'tt0103327' } }]);
+});
+test('fetchRating returns null when there is no rating', async () => {
+    assert.equal(await makeImdb(imdbStub(() => ({ title: { ratingsSummary: null } }))).fetchRating('tt1'), null);
+    assert.equal(await makeImdb(imdbStub(() => ({ title: { ratingsSummary: { aggregateRating: null, voteCount: 0 } } }))).fetchRating('tt1'), null);
+    assert.equal(await makeImdb(imdbStub(() => ({ title: null }))).fetchRating('tt1'), null);
+});
+test('fetchRating propagates a query failure', async () => {
+    const imdb = makeImdb(imdbStub(() => new Error('boom')));
+    await assert.rejects(imdb.fetchRating('tt1'), /boom/);
+});

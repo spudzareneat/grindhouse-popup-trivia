@@ -154,5 +154,13 @@ export function makeImdb(fetchImpl = fetch) {
         };
     }
 
-    return { query, searchTitle, searchCandidates, fetchBundle };
+    // IMDb's aggregate rating and vote count; null when the title has none (unreleased, too few votes) or is unknown.
+    async function fetchRating(tconst) {
+        const data = await query('GHRating', 'query GHRating($id: ID!){ title(id:$id){ ratingsSummary{ aggregateRating voteCount } } }', { id: tconst });
+        const r = data.title?.ratingsSummary;
+        if (r?.aggregateRating == null) return null;
+        return { rating: r.aggregateRating, votes: r.voteCount ?? 0 };
+    }
+
+    return { query, searchTitle, searchCandidates, fetchBundle, fetchRating };
 }
