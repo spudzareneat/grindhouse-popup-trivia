@@ -1,0 +1,398 @@
+{
+  "schema": 1,
+  "imdbId": "tt5445074",
+  "title": "Pass Thru",
+  "year": 2016,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-11-20T05:38:08.316Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "To relieve tension on set, writer-director-star Neil Breen reportedly played a pair of bongos while wearing a Bigfoot suit.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The desert scenery was shot at Nelson Ghost Town in Clark County, Nevada, an abandoned gold-mining site that's a favorite spot for photographers.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Pass Thru's first public showing was a one-night-only screening on April 19, 2016 at the Capitol Theatre in Cleveland, Ohio, according to Cleveland Scene and Letterboxd.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://letterboxd.com/film/pass-thru/"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Pass Thru was Neil Breen's fourth film and his first to use crowdfunding. Breen said he already had enough money and used it just to improve the final product.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pass Thru hit DVD in the USA on October 20, 2016, unrated, about six months after its Cleveland theatrical showing.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://letterboxd.com/film/pass-thru/"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Neil Breen pays for his films from his earnings as a professional architect, using amateur casts and crews. His website calls him 'the most independent filmmaker in the world.'",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cleveland Scene's listing called Pass Thru 'an inept metaphysical dram-com' for fans of The Room, yet said writer-director-star Neil Breen is 'by all accounts sincere in his efforts.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.clevescene.com/?p=260698"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Neil Breen's films have a cult following as 'so bad it's good' cinema, and he is often compared to Tommy Wiseau, the director and star of The Room.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cleveland Scene reported that Neil Breen, a Las Vegas architect, rejects labels like 'cult' and 'late-night' for his movies. He means them sincerely.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.clevescene.com/?p=260698"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Neil Breen has never gone to film school. He told CineDump: 'Making Double Down WAS my film school.' That was his 2005 debut, eleven years before Pass Thru.",
+      "icon": "mic",
+      "byline": "Neil Breen — Writer/Director/Star",
+      "source": {
+        "type": "interview",
+        "url": "https://www.cinedump.com/interviews/2015/4/27/neil-breen"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Goof spotters note the heroin-injection moment shows liquid simply being sprayed onto the arm, with brown spots of makeup standing in for old needle marks.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite the home-made vibe, filmmaker Neil Breen told CineDump that everyone, cast and crew, on all of his films has been paid. He rejects the idea that they're friends doing favors.",
+      "icon": "money",
+      "byline": "Neil Breen — Writer/Director/Star",
+      "source": {
+        "type": "interview",
+        "url": "https://www.cinedump.com/interviews/2015/4/27/neil-breen"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Neil Breen's credits list him as writer, director, producer, editor, star, musical director, cinematographer, production designer and more. Basically, he is the crew.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Neil Breen told Whopperjaw he cast locally, with all cast and crew from Nevada. For older roles he looked for faces 'full of wrinkles' and 'scratchy voices.'",
+      "icon": "star",
+      "byline": "Neil Breen — Writer/Director/Star",
+      "source": {
+        "type": "interview",
+        "url": "https://whopperjaw.net/fateful-findings/"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Breen's debut, Double Down (2005), was later featured on RedLetterMedia's Best of the Worst series. RedLetterMedia also covered his later film Fateful Findings on YouTube.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wikipedia's Neil Breen entry says the architect-turned-director has said he recruited cast members through Craigslist ads, so many of his actors are amateurs.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Los Angeles cinematheque Cinefamily screened Neil Breen's Double Down in 2010 and I Am Here.... Now in 2011, helping launch his midnight-movie cult.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      }
+    },
+    {
+      "t": 2750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Neil Breen told CineDump he writes scripts around his money: 'I knew what my budget was. I knew what my geographic restrictions were.' That's why his films keep returning to the desert.",
+      "icon": "money",
+      "byline": "Neil Breen — Writer/Director/Star",
+      "source": {
+        "type": "interview",
+        "url": "https://www.cinedump.com/interviews/2015/4/27/neil-breen"
+      }
+    },
+    {
+      "t": 2887,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof spotters point out the news anchors here say 'bias' and 'prejudice' as if they were adjectives. Both are nouns.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Neil Breen told Whopperjaw that audiences start by chuckling, go quiet, and by the end 'they're giving it a standing ovation.' He says Q&As with 150 fans are a great feeling.",
+      "icon": "mic",
+      "byline": "Neil Breen — Writer/Director/Star",
+      "source": {
+        "type": "interview",
+        "url": "https://whopperjaw.net/fateful-findings/"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Pass Thru is name-checked in other movies, including Suicide Squad (2016), Vanity Project (2020) and Birdemic 3: Sea Eagle, per IMDb's connections list.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Chicken Dynasty review notes the corrupt-executives party is visibly green screen. HorrorNews.net's Charleston Picou likened the film's backgrounds to the prerendered ones in 1996's Resident Evil.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrornews.net/139839/film-review-pass-thru-2016/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Breen's films reuse a formula: an angry entity tries to cleanse the world, with stock footage and long monologues about the news. Pass Thru has its own site, pass-thru-film.com.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://connortumbleson.com/2018/11/04/discovering-neil-breen/"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Chicken Dynasty blog gave Pass Thru 2 out of 5 eggs. It said the film looks like a bigger-budget version of Neil Breen's 2009 movie I Am Here.... Now.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.chickendynasty.com/pass-thru/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blogger Connor Tumbleson found that Pass Thru DVDs were sold through PayPal links for $25.95, shipped by USPS in 3 to 4 weeks, with no artwork or subtitles.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://connortumbleson.com/2018/11/04/discovering-neil-breen/"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The comedy podcast The Worst Idea of All Time reviewed Pass Thru: recorded for Patreon in December 2017, released publicly May 14, 2018. It called the film 'one for the books.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://shows.acast.com/worstideaofalltime/episodes/review-pass-thru"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Paste magazine ranked Breen's I Am Here.... Now number 21 on its 2014 list of the 100 best B movies.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Neil Breen's films have played festivals and cult venues, including the 2012 Butt-Numb-A-Thon and the 2013 Seattle International Film Festival.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A denim military vest from Breen's debut Double Down (2005), tied to a character named Aaron Brand, is carried around as a prop late in Pass Thru.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Neil Breen kept going: Cade: The Tortured Crossing (2023) played Alamo Drafthouse theaters nationwide, and his seventh feature, Dire Duplicity, was set for Alamo rollout in September 2026.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Breen's earlier film Fateful Findings had a North American distributor, Panorama Entertainment, which compared it to Tommy Wiseau's cult classic The Room.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Neil_Breen"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The credits claim any company with an 'N' or 'B' in its name is fictitious and that the work was 'actually done personally by Neil Breen.' N and B are Breen's initials.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm3718935",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
