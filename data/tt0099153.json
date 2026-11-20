@@ -1,0 +1,388 @@
+{
+  "schema": 1,
+  "imdbId": "tt0099153",
+  "title": "Mad Jake",
+  "year": 1990,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-11-20T06:10:34.581Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jake was inspired by a junkman who sold director Tucker Johnston a Karmann-Ghia engine. Johnston and co-writer Ken Sanders shot a teaser trailer first, and it attracted the investors.",
+      "icon": "camera",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mad Jake was also released as Blood Salvage. Its executive producer was heavyweight boxing champion Evander Holyfield, who also has a cameo in the film.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Foreign distributors sold the film as Mad Jake, pitching it like a Mad Max movie. Director Tucker Johnston calls the Egyptian poster 'hilarious.'",
+      "icon": "reel",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The theatrical run was tiny: about fifteen 35mm prints, opening in Atlanta and eight other cities, mostly to harvest review quotes for the video box, says director Tucker Johnston.",
+      "icon": "money",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tucker Johnston made his directing debut here. He co-wrote the script with Ken Sanders, who also produced.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Wikipedia says the shoot ran August to September 1988 in and around Fairburn, Georgia. The film then sat until 1990, and its budget is listed at $2 million.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Blood_Salvage"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Danny Nelson wasn't the first pick for Jake Pruitt. His audition tape won the role, and director Tucker Johnston says he 'ate up every scene.' Nelson was also an ordained minister.",
+      "icon": "star",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Danny Nelson (Jake Pruitt) was a real-life Cates Pickles pitchman, whose slogan was 'We ain't got nothing better to do.' Dad's line 'What else have they got to do?' winks at it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cut from the film: a roadside 'Museum of Oddities' scene, and a scene explaining the scratches on Jake's face. Director Tucker Johnston says the scratches are now left unexplained.",
+      "icon": "camera",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lori Birdsong won the part of April Evans because she could pull off a convincing Southern accent while still projecting inner strength, according to director Tucker Johnston.",
+      "icon": "star",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs nicknamed Danny Nelson, who plays Jake Pruitt, the 'Cates Pickle Man'. Joe Bob also joked that the film has no breasts.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Watch the top of the frame in the kitchen scene with Mrs. Evans around the 31-minute mark: a boom mic hangs in view from two different angles for almost a minute.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs' review rattled off the film's oddities: a heart-eating alligator, a Ford Torino stunt and a 'closeup spinal tap.' He also noted Danny Nelson's performance and the lack of nudity.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 2120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Evander Holyfield invested through producer Ken Sanders' father, who managed him. Director Tucker Johnston recalls him as 'very humble.' By release, Holyfield was heavyweight champ.",
+      "icon": "money",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Editor Jacquie Freeman Ross had previously worked as a dubbing supervisor on G.I. Joe and The Transformers: The Movie.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline: 'If Jake can't fix it, it's been dead too long.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Michael Karp later did visual effects work on RoboCop and Titanic. Makeup effects artist Bill Johnson also worked on Demented and Boxing Helena.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star John Saxon (April's dad, Clifford Evans) was intimidating at first. Later he told director Tucker Johnston this was the best low-budget film he'd made that year.",
+      "icon": "star",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star John Saxon had a black belt in karate and co-starred with Bruce Lee in Enter the Dragon (1973). In this film he plays April's father, Clifford Evans.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ray Walston (organ buyer Mr. Stone) worked just two days. Director Tucker Johnston calls him a 'stanch professional' who was 'obviously just there for the paycheck.'",
+      "icon": "mic",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ray Walston, the organ buyer Mr. Stone, is best known as TV's My Favorite Martian. He is a long way from space here.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ray Walston's role as Mr. Hand in Fast Times at Ridgemont High (1982) helped him escape his My Favorite Martian image. He said he was relieved when fans began shouting 'Mr. Hand' at him.",
+      "icon": "star",
+      "byline": "Ray Walston",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ray_Walston"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The alligator was never on set with the actors. A gator wrangler tapped its tail to make it move, and some shots were sped up to look more menacing, says director Tucker Johnston.",
+      "icon": "alien",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A reviewer at Draconian Swamp of Unholy Souls called the script a tribute to Tobe Hooper's early horror, especially The Texas Chainsaw Massacre.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "About three weeks in, Christian Hesler (Hiram) collapsed from an undisclosed terminal illness. The crew gave him a week off, then used a body double whenever his face wasn't shown.",
+      "icon": "tombstone",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mad Jake was the last film released by Paragon Arts International.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Magnum priced the VHS at $98. Director Tucker Johnston says 'No one was going to pay that outrageous price.'",
+      "icon": "money",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Saxon appeared in three Library of Congress National Film Registry films: A Star Is Born (1954), Enter the Dragon (1973) and A Nightmare on Elm Street (1984).",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Tucker Johnston's unmade sequel: Jake and Hiram merged into one body, April as a self-defense-trained sorority student, and a Rednecks vs. Frat Boys junkyard battle.",
+      "icon": "link",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Video Graveyard's Chris Hartley called the film an 'amusing and entertainingly twisted low-budgeter'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tucker Johnston says the soundtrack gets in the way of scenes. He has a 'Director's Cut' with a new score but can't release it, since he sold his rights to get the film made.",
+      "icon": "boombox",
+      "byline": "Tucker Johnston — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.kindertrauma.com/?p=42218"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "AFI's catalog lists the film (as Blood Salvage) as a reported $2-million production with Evander Holyfield as executive producer.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueriderpictures.com/blood-salvage-aka-mad-jake/"
+      }
+    }
+  ]
+}
