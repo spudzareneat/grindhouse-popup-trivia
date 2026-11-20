@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { buildPicker, parsePickId } from './format.js';
 import { overrideKey, saveOverride } from '../overrides.js';
 import { withLock } from '../lock.js';
+import { readScheduleDoc, writeScheduleDoc, applyPick } from '../schedule-doc.js';
 
 const CLI_PATH = fileURLToPath(new URL('../cli.js', import.meta.url));
 const EPHEMERAL = 64;
@@ -129,14 +130,24 @@ export async function recoverInterrupted({ api, store, log = () => {} }) {
 
 // Records the choice as an override and pushes it. The lock is released before returning,
 // so a following runMovie (which takes the lock itself) cannot deadlock.
-export function makeSaveChoice({ repoDir, git, lockOpts }) {
+export function makeSaveChoice({ repoDir, git, lockOpts, imdb }) {
     const file = path.join(repoDir, 'overrides', 'title-overrides.json');
     const lockFile = path.join(repoDir, '.cache', 'run.lock');
     return ({ entry, tconst }) => withLock(lockFile, async () => {
         git.pull();
         const key = overrideKey(entry.scheduleTitle, entry.scheduleYear);
         saveOverride(file, key, tconst ? { tconst } : { dismissed: true });
-        git.commitAndPush(file, tconst
+        // The matching item in schedule/current.json (if any) is updated in the same commit.
+        const files = [file];
+        const schedule = readScheduleDoc(repoDir);
+        if (schedule) {
+            let rating = null;
+            // Non-fatal: the id is still published and the next schedule run fills in the rating.
+            if (tconst) { try { rating = (await imdb?.fetchRating(tconst)) ?? null; } catch { rating = null; } }
+            const { doc, changed } = applyPick(schedule, { title: entry.scheduleTitle, year: entry.scheduleYear, tconst: tconst ?? null, rating });
+            if (changed) files.push(writeScheduleDoc(repoDir, doc));
+        }
+        git.commitAndPush(files.length === 1 ? file : files, tconst
             ? `Override: ${entry.scheduleTitle} -> ${tconst}`
             : `Override: dismiss ${entry.scheduleTitle}`);
     }, lockOpts);

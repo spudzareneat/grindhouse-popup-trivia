@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { buildScheduleDoc, sameSchedule, publishSchedule, makeResolveItem, publishBestEffort, SCHEDULE_FILE } from '../src/schedule-doc.js';
+import { buildScheduleDoc, sameSchedule, publishSchedule, makeResolveItem, publishBestEffort, applyPick, SCHEDULE_FILE } from '../src/schedule-doc.js';
 
 const post = () => ({
     postId: 't3_new', title: 'Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22', publishedAt: '2026-11-18T12:00:00+00:00',
@@ -188,4 +188,35 @@ test('publishBestEffort never throws: a publish failure is logged and reported a
     const result = await publishBestEffort({ skip: false, post: post(), publish: async () => { throw new Error('git push failed'); }, log: m => logs.push(m) });
     assert.equal(result, 'failed');
     assert.ok(logs.some(l => l.includes('git push failed') && /run continues/.test(l)));
+});
+
+// applyPick: a Discord pick (or dismiss) updates the matching published item.
+async function docFor() {
+    return buildScheduleDoc({ post: post(), now: NOW, resolveItem: async item => 'tt-' + item.title.replace(/ /g, ''), rate: async () => ({ rating: 5, votes: 10 }) });
+}
+test('applyPick sets id, rating and votes on the matching item only', async () => {
+    const doc = await docFor();
+    const before = structuredClone(doc);
+    const { doc: next, changed } = applyPick(doc, { title: 'Tenebre', year: 1984, tconst: 'tt0084777', rating: { rating: 7.6, votes: 21000 } });
+    assert.equal(changed, true);
+    assert.deepEqual(doc, before);
+    const [zeiram, , tenebre] = items(next);
+    assert.deepEqual([tenebre.imdbId, tenebre.imdbRating, tenebre.imdbVotes], ['tt0084777', 7.6, 21000]);
+    assert.equal(zeiram.imdbId, 'tt-Zeiram');
+});
+test('applyPick on dismiss nulls the id, rating and votes', async () => {
+    const { doc: next, changed } = applyPick(await docFor(), { title: 'Zeiram', year: 1991, tconst: null, rating: null });
+    assert.equal(changed, true);
+    assert.deepEqual([items(next)[0].imdbId, items(next)[0].imdbRating, items(next)[0].imdbVotes], [null, null, null]);
+});
+test('applyPick for a film not in the file, or with identical values, reports changed false', async () => {
+    const doc = await docFor();
+    assert.equal(applyPick(doc, { title: 'Not On The Schedule', year: 2001, tconst: 'tt1', rating: null }).changed, false);
+    assert.equal(applyPick(doc, { title: 'Zeiram', year: 1991, tconst: 'tt-Zeiram', rating: { rating: 5, votes: 10 } }).changed, false);
+});
+test('applyPick matches the string year in the file against the numeric pick year, and yearless items by null', async () => {
+    const doc = await docFor();
+    assert.equal(applyPick(doc, { title: 'zeiram', year: 1991, tconst: 'tt9', rating: null }).changed, true);
+    assert.equal(applyPick(doc, { title: 'Zeiram', year: 1992, tconst: 'tt9', rating: null }).changed, false);
+    assert.equal(applyPick(doc, { title: 'Mystery Film', year: null, tconst: 'tt9', rating: null }).changed, true);
 });

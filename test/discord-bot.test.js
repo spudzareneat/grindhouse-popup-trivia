@@ -240,3 +240,69 @@ test('failure texts say the best-guess file is still published', async () => {
     await u.handler(u.click(`pick:${u.id}:tt2`));
     assert.match(last(u.edits).p.content, /push rejected\. The best-guess file .* still published/);
 });
+
+// A pick also updates the published schedule, in the same commit as the override.
+function scheduleDoc() {
+    return { schema: 1, fetchedAt: 'x', postId: 't3_1', title: 'Weekend', publishedAt: 'y', weekend: { fri: '2026-11-20', sat: '2026-11-21', sun: '2026-11-22' },
+        days: [{ day: 'Friday', date: '2026-11-20', sections: [{ name: 'Friday', slug: 'friday', items: [
+            { title: 'Tenebre', year: '1984', display: 'Tenebre (1984)', akas: [], imdbId: null, imdbRating: null, imdbVotes: null },
+        ] }] }] };
+}
+function saveEnv(withSchedule = true) {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'savesched-'));
+    const schedFile = path.join(dir, 'schedule', 'current.json');
+    if (withSchedule) { fs.mkdirSync(path.dirname(schedFile), { recursive: true }); fs.writeFileSync(schedFile, JSON.stringify(scheduleDoc())); }
+    const commits = [];
+    const git = { pull: () => {}, commitAndPush: (f, m) => { commits.push([f, m]); } };
+    return { dir, schedFile, commits, git, file: path.join(dir, 'overrides', 'title-overrides.json') };
+}
+const entry = { scheduleTitle: 'Tenebre', scheduleYear: 1984 };
+
+test('saveChoice updates the schedule file in the same commit as the override', async () => {
+    const t = saveEnv();
+    try {
+        const imdb = { fetchRating: async id => (id === 'tt0084777' ? { rating: 7.6, votes: 21000 } : null) };
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb })({ entry, tconst: 'tt0084777' });
+        assert.equal(t.commits.length, 1);
+        assert.deepEqual(t.commits[0][0], [t.file, t.schedFile]);
+        const item = JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items[0];
+        assert.deepEqual([item.imdbId, item.imdbRating, item.imdbVotes], ['tt0084777', 7.6, 21000]);
+        assert.equal(loadOverrides(t.file).picks[overrideKey('Tenebre', 1984)], 'tt0084777');
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('saveChoice with no schedule file commits only the override', async () => {
+    const t = saveEnv(false);
+    try {
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => null } })({ entry, tconst: 'tt1' });
+        assert.deepEqual(t.commits.map(c => c[0]), [t.file]);
+        assert.equal(fs.existsSync(t.schedFile), false);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('saveChoice for a film not in the schedule commits only the override', async () => {
+    const t = saveEnv();
+    try {
+        const before = fs.readFileSync(t.schedFile, 'utf8');
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => null } })({ entry: { scheduleTitle: 'Other', scheduleYear: 1999 }, tconst: 'tt1' });
+        assert.deepEqual(t.commits.map(c => c[0]), [t.file]);
+        assert.equal(fs.readFileSync(t.schedFile, 'utf8'), before);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('a failing rating lookup still saves the pick, with a null rating', async () => {
+    const t = saveEnv();
+    try {
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => { throw new Error('imdb down'); } } })({ entry, tconst: 'tt0084777' });
+        const item = JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items[0];
+        assert.deepEqual([item.imdbId, item.imdbRating, item.imdbVotes], ['tt0084777', null, null]);
+        assert.deepEqual(t.commits[0][0], [t.file, t.schedFile]);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('dismissing a film keeps it in the schedule with a null id', async () => {
+    const t = saveEnv();
+    try {
+        const doc = scheduleDoc(); doc.days[0].sections[0].items[0].imdbId = 'tt-old'; fs.writeFileSync(t.schedFile, JSON.stringify(doc));
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => { throw new Error('must not be called'); } } })({ entry, tconst: null });
+        const items = JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items;
+        assert.equal(items.length, 1);
+        assert.equal(items[0].imdbId, null);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});

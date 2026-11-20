@@ -5,6 +5,7 @@ import { makePendingStore } from './discord/pending.js';
 import { connectGateway } from './discord/gateway.js';
 import { makeInteractionHandler, recoverInterrupted, makeSaveChoice, makeRunMovie } from './discord/bot.js';
 import { makeGit } from './publish.js';
+import { makeImdb } from './imdb.js';
 
 const log = (m) => console.log(`[${new Date().toISOString()}] ${m}`);
 
@@ -24,7 +25,7 @@ const store = makePendingStore(path.join(repoDir, '.cache', 'discord-pending.jso
 await recoverInterrupted({ api, store, log });
 const onInteraction = makeInteractionHandler({
     api, store, ownerId, channelId, log,
-    saveChoice: makeSaveChoice({ repoDir, git: makeGit(repoDir) }),
+    saveChoice: makeSaveChoice({ repoDir, git: makeGit(repoDir), imdb: makeImdb() }),
     runMovie: makeRunMovie(),
 });
 connectGateway({ token, api, onInteraction, log });

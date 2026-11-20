@@ -5,7 +5,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { resolveTitle } from './resolve.js';
-import { loadOverrides } from './overrides.js';
+import { loadOverrides, overrideKey } from './overrides.js';
 
 export const SCHEDULE_FILE = 'schedule/current.json';
 
@@ -50,6 +50,29 @@ export function readScheduleDoc(repoDir) {
     try { return JSON.parse(fs.readFileSync(path.join(repoDir, SCHEDULE_FILE), 'utf8')); } catch { return null; }
 }
 
+export function writeScheduleDoc(repoDir, doc) {
+    const file = path.join(repoDir, SCHEDULE_FILE);
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    fs.writeFileSync(file, JSON.stringify(doc, null, 2) + '\n');
+    return file;
+}
+
+// A Discord pick (tconst) or dismiss (tconst null) for a schedule title: update every matching item's id and rating.
+// Items match the way overrides do (normalised title + year; the file's string year is converted). Pure: returns a copy,
+// and changed is false when no item matches or nothing would differ.
+export function applyPick(doc, { title, year, tconst, rating }) {
+    const key = overrideKey(title, year ?? null);
+    const next = structuredClone(doc);
+    let changed = false;
+    for (const day of next.days) for (const section of day.sections) for (const item of section.items) {
+        if (overrideKey(item.title, item.year ? Number(item.year) : null) !== key) continue;
+        const imdbId = tconst ?? null, imdbRating = rating?.rating ?? null, imdbVotes = rating?.votes ?? null;
+        if (item.imdbId !== imdbId || item.imdbRating !== imdbRating || item.imdbVotes !== imdbVotes) changed = true;
+        Object.assign(item, { imdbId, imdbRating, imdbVotes });
+    }
+    return { doc: next, changed };
+}
+
 // pull -> fetch -> build -> compare -> write -> commit. A fetchPost failure propagates before anything is written, so the
 // previous file stays published. Returns 'unchanged' (nothing written or committed) or 'published'.
 export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, rate, now, log = () => {} }) {
@@ -57,9 +80,7 @@ export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, ra
     const post = await fetchPost();
     const doc = await buildScheduleDoc({ post, resolveItem, rate, now });
     if (sameSchedule(readScheduleDoc(repoDir), doc)) { log('schedule: unchanged, nothing to publish'); return 'unchanged'; }
-    const file = path.join(repoDir, SCHEDULE_FILE);
-    fs.mkdirSync(path.dirname(file), { recursive: true });
-    fs.writeFileSync(file, JSON.stringify(doc, null, 2) + '\n');
+    const file = writeScheduleDoc(repoDir, doc);
     git.commitAndPush(file, `schedule: ${doc.title}`);
     log(`schedule: published ${doc.title}`);
     return 'published';
