@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { makePendingStore } from '../src/discord/pending.js';
-import { notifyRun, notifyFailure } from '../src/discord/notify.js';
+import { notifyRun, notifyFailure, notifySessionExpiring } from '../src/discord/notify.js';
 import { overrideKey } from '../src/overrides.js';
 
 const cands = [{ tconst: 'tt1', title: 'A', year: 1999, source: 'imdb' }];
@@ -170,4 +170,57 @@ test('an open entry that never got a message (left by an older failed post) does
         assert.equal(t.posted.filter(p => p.components).length, 1);
         assert.ok(t.store.list().some(e => e.status === 'open' && e.messageId));
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+// Reddit login renewal reminders (the scrape needs a logged-in session; see README "Reddit session").
+const DAY = 86400000;
+const NOW = Date.parse('2026-11-20T12:00:00Z');
+const inDays = n => Math.floor((NOW + n * DAY) / 1000);
+function expiryEnv() {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'expiry-'));
+    const posted = [];
+    return { dir, posted, markerFile: path.join(dir, 'sub', 'warned'), api: { postMessage: async p => { posted.push(p); return { id: 'x' }; } } };
+}
+
+test('notifySessionExpiring stays quiet while the session has more than 30 days left, or no expiry is known', async () => {
+    const t = expiryEnv();
+    try {
+        assert.equal(await notifySessionExpiring({ api: t.api, expiresAt: inDays(31), now: NOW, markerFile: t.markerFile }), false);
+        assert.equal(await notifySessionExpiring({ api: t.api, expiresAt: null, now: NOW, markerFile: t.markerFile }), false);
+        assert.equal(t.posted.length, 0);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('notifySessionExpiring warns with the days left, the date and the renewal steps, at most once a day', async () => {
+    const t = expiryEnv();
+    try {
+        assert.equal(await notifySessionExpiring({ api: t.api, expiresAt: inDays(12), now: NOW, markerFile: t.markerFile }), true);
+        const e = t.posted[0].embeds[0];
+        assert.match(e.title, /Reddit login/);
+        assert.match(e.description, /expires in 12 days \(2026-12-02\)/);
+        assert.match(e.description, /Cookie-Editor/);
+        assert.match(e.description, /REDDIT_COOKIES_PATH/);
+        assert.match(e.description, /no redeploy/i);
+        // Same day: no second post. Next day: warns again.
+        assert.equal(await notifySessionExpiring({ api: t.api, expiresAt: inDays(12), now: NOW + 3600000, markerFile: t.markerFile }), false);
+        assert.equal(await notifySessionExpiring({ api: t.api, expiresAt: inDays(12), now: NOW + DAY, markerFile: t.markerFile }), true);
+        assert.equal(t.posted.length, 2);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('notifySessionExpiring says "has expired" for a past expiry, and a failed post is not recorded so it retries', async () => {
+    const t = expiryEnv();
+    try {
+        await notifySessionExpiring({ api: t.api, expiresAt: inDays(-2), now: NOW, markerFile: t.markerFile });
+        assert.match(t.posted[0].embeds[0].description, /has expired/);
+        const logs = [];
+        const bad = { postMessage: async () => { throw new Error('discord down'); } };
+        assert.equal(await notifySessionExpiring({ api: bad, expiresAt: inDays(5), now: NOW + 2 * DAY, markerFile: t.markerFile, log: m => logs.push(m) }), false);
+        assert.ok(logs.some(l => l.includes('discord down')));
+        assert.equal(await notifySessionExpiring({ api: t.api, expiresAt: inDays(5), now: NOW + 2 * DAY, markerFile: t.markerFile }), true);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('notifyFailure appends an error hint (the renewal steps for an expired Reddit session)', async () => {
+    const posted = [];
+    const err = Object.assign(new Error('Reddit session expired'), { hint: 'DO THE STEPS' });
+    await notifyFailure({ api: { postMessage: async p => { posted.push(p); return { id: 'x' }; } }, error: err });
+    assert.match(posted[0].embeds[0].description, /Run failed: Reddit session expired\n\nDO THE STEPS/);
 });

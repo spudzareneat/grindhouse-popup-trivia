@@ -1,7 +1,9 @@
 // Posts the run summary and one picker per movie needing a human decision. Never throws.
+import fs from 'node:fs';
 import path from 'node:path';
 import { buildSummary, buildPicker, needsPicker } from './format.js';
 import { overrideKey } from '../overrides.js';
+import { RELOGIN_STEPS } from '../reddit-browser.js';
 
 const FAIL_MAX = 500;
 
@@ -47,8 +49,38 @@ export async function notifyRun({ api, store, results, postTitle = null, dismiss
 export async function notifyFailure({ api, error, log = () => {} }) {
     try {
         const text = String(error?.message ?? error ?? 'unknown error').slice(0, FAIL_MAX);
-        await api.postMessage({ embeds: [{ title: 'Trivia run', description: `Run failed: ${text}`, color: 0xe74c3c }] });
+        const hint = error?.hint ? `
+
+${String(error.hint).slice(0, 1500)}` : '';
+        await api.postMessage({ embeds: [{ title: 'Trivia run', description: `Run failed: ${text}${hint}`, color: 0xe74c3c }] });
     } catch (e) {
         try { log(`Discord: failure post failed: ${e?.message ?? e}`); } catch { /* ignore */ }
+    }
+}
+
+// The schedule scrape needs a logged-in Reddit session that eventually expires. Starting thresholdDays before that,
+// post a reminder with the renewal steps, at most once per calendar day (markerFile holds the last day posted).
+// Returns true if a message was posted. Never throws.
+export async function notifySessionExpiring({ api, expiresAt, now = Date.now(), thresholdDays = 30, markerFile = null, log = () => {} }) {
+    try {
+        if (!expiresAt) return false;
+        const daysLeft = Math.floor((expiresAt * 1000 - now) / 86400000);
+        if (daysLeft > thresholdDays) return false;
+        const today = new Date(now).toISOString().slice(0, 10);
+        if (markerFile) { try { if (fs.readFileSync(markerFile, 'utf8').trim() === today) return false; } catch { /* no marker yet */ } }
+        const date = new Date(expiresAt * 1000).toISOString().slice(0, 10);
+        const when = daysLeft < 0 ? `has expired (${date})` : `expires in ${daysLeft} day${daysLeft === 1 ? '' : 's'} (${date})`;
+        await api.postMessage({ embeds: [{
+            title: 'Reddit login needs renewing',
+            description: `The Reddit session the schedule scrape uses ${when}. When it does, weekend runs fail until it is renewed.
+
+${RELOGIN_STEPS}`,
+            color: 0xf39c12,
+        }] });
+        if (markerFile) { fs.mkdirSync(path.dirname(markerFile), { recursive: true }); fs.writeFileSync(markerFile, today); }
+        return true;
+    } catch (e) {
+        try { log(`Discord: session expiry warning failed: ${e?.message ?? e}`); } catch { /* ignore */ }
+        return false;
     }
 }

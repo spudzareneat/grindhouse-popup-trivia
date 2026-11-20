@@ -33,6 +33,8 @@ with a logged-in session. Use a dedicated Reddit account that can see r/420Grind
    plus `REDDIT_COOKIES_PATH=/opt/grindhouse-popup-trivia/reddit_cookies.json`), `chown 1000`, mode 600.
    The file must exist before `docker compose up` (otherwise Docker creates an empty directory there).
 3. When the session expires the run fails with "Reddit session expired … re-export the cookies": repeat steps 1–2, no redeploy needed.
+   With Discord configured, the bot posts a "Reddit login needs renewing" reminder (with these steps) once a day starting 30 days
+   before the `reddit_session` cookie expires, and the failure message carries the steps too.
 
 ### Portainer
 

@@ -67,3 +67,12 @@ test('no schedule post, an empty listing or an empty body fail with readable err
     await assert.rejects(fetchWeekendMoviesViaBrowser({ cookiesFile: f, launch: fakeLaunch({ listing: [] }) }), /no posts/);
     await assert.rejects(fetchWeekendMoviesViaBrowser({ cookiesFile: f, launch: fakeLaunch({ body: '' }) }), /no readable body/);
 });
+
+test('sessionExpiresAt reads the reddit_session expiry, and RedditSessionError carries the renewal steps', async () => {
+    const { sessionExpiresAt, RELOGIN_STEPS } = await import('../src/reddit-browser.js');
+    assert.equal(sessionExpiresAt(cookieFile(COOKIES)), 1900000000);
+    assert.equal(sessionExpiresAt(cookieFile([{ name: 'reddit_session', value: 'x', domain: '.reddit.com' }])), null);
+    assert.equal(sessionExpiresAt(cookieFile([{ name: 'loid', value: 'x', domain: '.reddit.com', expirationDate: 5 }])), null);
+    assert.equal(new RedditSessionError('x').hint, RELOGIN_STEPS);
+    assert.match(RELOGIN_STEPS, /Cookie-Editor/);
+});

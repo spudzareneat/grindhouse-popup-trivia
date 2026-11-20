@@ -10,7 +10,19 @@ const NAV_TIMEOUT_MS = 45000;
 // Matches the Chromium that playwright-core 1.49 bundles (131).
 const CHROME_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 
-export class RedditSessionError extends Error {}
+// Shown on Discord with a session warning/failure. Deliberately free of host paths and secrets.
+export const RELOGIN_STEPS = [
+    '**How to renew the Reddit login (about 2 minutes, no redeploy):**',
+    '1. In a Firefox **private** window, log in to reddit.com as the dedicated account. Do **not** click Log out afterwards.',
+    '2. Open the Cookie-Editor extension on reddit.com -> Export -> JSON, and save it as `reddit_cookies.json`.',
+    '3. Copy it over the file the stack mounts (host path in the stack variable REDDIT_COOKIES_PATH), e.g. `scp reddit_cookies.json nautilus:<that path>`, and keep it mode 600.',
+    '4. That is it: the next scheduled run picks up the new file.',
+    'Details: README, section "Reddit session".',
+].join('\n');
+
+export class RedditSessionError extends Error {
+    constructor(message) { super(message); this.hint = RELOGIN_STEPS; }
+}
 
 const SAMESITE = { strict: 'Strict', lax: 'Lax', no_restriction: 'None', none: 'None' };
 
@@ -37,6 +49,11 @@ export function readCookiesFile(file) {
     let json;
     try { json = JSON.parse(text); } catch { throw new RedditSessionError('Reddit cookie file is not valid JSON'); }
     return normalizeCookies(json);
+}
+
+// Epoch seconds when the reddit_session cookie stops being valid, or null if unknown.
+export function sessionExpiresAt(cookiesFile) {
+    return readCookiesFile(cookiesFile).find(c => c.name === 'reddit_session')?.expires ?? null;
 }
 
 // Runs in the page: one record per post in the old.reddit listing.

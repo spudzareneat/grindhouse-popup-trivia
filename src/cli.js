@@ -11,7 +11,7 @@
 import path from 'node:path';
 import { setTimeout as sleep } from 'node:timers/promises';
 import { readWeekendMoviesFile, parseMoviesList } from './schedule.js';
-import { fetchWeekendMoviesViaBrowser } from './reddit-browser.js';
+import { fetchWeekendMoviesViaBrowser, sessionExpiresAt } from './reddit-browser.js';
 import { makeImdb } from './imdb.js';
 import { makeWiki } from './wiki.js';
 import { makeTmdb } from './tmdb.js';
@@ -25,7 +25,7 @@ import { parseArgs, USAGE } from './args.js';
 import { withLock } from './lock.js';
 import { makeDiscordApi } from './discord/api.js';
 import { makePendingStore } from './discord/pending.js';
-import { notifyRun, notifyFailure } from './discord/notify.js';
+import { notifyRun, notifyFailure, notifySessionExpiring } from './discord/notify.js';
 import { loadOverrides } from './overrides.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
@@ -78,6 +78,13 @@ async function main() {
         const results = await locked(async () => {
             const makeApi = () => makeDiscordApi({ token: process.env.DISCORD_BOT_TOKEN, channelId: process.env.DISCORD_CHANNEL_ID });
             let res;
+            // Renewal reminder for the Reddit login, sent before the fetch so it still arrives when the fetch fails. Never blocks the run.
+            if (discordOn && !args.dryRun && !args.movies && !args.schedule) {
+                try {
+                    const cookiesFile = process.env.REDDIT_COOKIES_FILE || '/secrets/reddit_cookies.json';
+                    await notifySessionExpiring({ api: makeApi(), expiresAt: sessionExpiresAt(cookiesFile), markerFile: path.join(repoDir, '.cache', 'reddit-session-warned'), log });
+                } catch (e) { log(`Reddit session expiry check skipped: ${e.message}`); }
+            }
             try {
                 res = await runWeekend(deps, {
                     fetchWeekend: async () => { const s = args.movies ? parseMoviesList(args.movies) : args.schedule ? readWeekendMoviesFile(path.resolve(args.schedule)) : await fetchWeekendMoviesViaBrowser({ log }); postTitle = s.postTitle; return s; },
