@@ -1,0 +1,458 @@
+{
+  "schema": 1,
+  "imdbId": "tt0071994",
+  "title": "Phantom of the Paradise",
+  "year": 1974,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-11-20T05:59:13.566Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening narrator is Rod Serling, creator of The Twilight Zone. He's uncredited in the film.",
+      "icon": "mic",
+      "byline": "Rod Serling",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Real estate developer Gustave Berne put up about $750,000, roughly half the budget, of this rock-opera horror film from director Brian De Palma.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After a six-studio bidding war, 20th Century Fox bought the finished film in under ten days for a $2 million advance, reportedly a record for an independent film then. It still flopped.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The project began as \"Phantom of the Fillmore\". Producers dropped that title when they couldn't get the Fillmore name from concert promoter Bill Graham.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Brian De Palma wanted songwriter Paul Williams as the Phantom. Williams said he wasn't scary enough and took the villain Swan instead, about two weeks before rehearsals.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      },
+      "person": "nm0931437",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzI3MjM3OV5BMl5BanBnXkFtZTcwMzY3ODQ3MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 580,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Arnold Philbin actor George Memmoli had to turn down a role in Taxi Driver after a stunt accident on The Farmer. Martin Scorsese played the part himself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0578622",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM1MjI5MWItZjUzMi00NGEzLWE0NjctZWUyZDA3MDQ5YTUyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 645,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Philbin asks what label Faust is on. A real German prog-rock band called Faust existed in 1974, on Polydor Records.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 695,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Winslow Leach is named after Wilford Leach, director Brian De Palma's mentor. Star William Finley taught in Leach's theatre department at Sarah Lawrence College.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0278073",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1NzA3MjM1M15BMl5BanBnXkFtZTcwODE5MDAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 745,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The building originally read Swan Song Enterprises. After Led Zeppelin's label Swan Song Records objected, edits cost about $22,000 and were still underway weeks before the October 1974 release.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/production_fiasco.asp"
+      }
+    },
+    {
+      "t": 1010,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Led Zeppelin manager Peter Grant, shown the film to spot Swan Song references, reportedly wept at Beef's electrocution. It recalled the death of Les Harvey of Stone the Crows, a band Grant managed.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sissy Spacek worked as set dresser to help her boyfriend Jack Fisk, the production designer. She says she did it so badly she ruined a day of filming. She later starred in De Palma's Carrie.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Betty Buckley, uncredited, dubbed some female voices, including the orgy girl. She'd auditioned for a role and lost out, but De Palma used her again as the gym teacher in Carrie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sha Na Na were still on the call sheet only 24 days before shooting began. De Palma found them too hard to work with, so the Juicy Fruits band had to be put together at the last minute.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Dallas shoot at the Majestic Theatre was planned for seven weeks and took ten. The theater rental agreement even misspelled the film's title as \"Phantom of the Film War\".",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 1720,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The car-trunk bomb sequence, shot as one continuous take, is an homage to Orson Welles' famous opening shot of Touch of Evil (1958).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Dallas audience was a small crowd of local extras. They swapped jackets and hats and moved around the theater so the house looked bigger on camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jessica Harper (Phoenix) says she knew nothing about film sets. She found her casting-room scene with George Memmoli (Philbin) both hilarious and terrifying.",
+      "icon": "mic",
+      "byline": "Jessica Harper",
+      "source": {
+        "type": "web",
+        "url": "https://screenanarchy.com/2016/06/oak-cliff-2016-interview-phantom-of-the-paradises-jessica-harper-returns-to-the-paradise.html"
+      },
+      "person": "nm0363888",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzk1MDI2NzkxN15BMl5BanBnXkFtZTcwNTk1MzMyMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paul Williams (Swan) wrote The Muppet Movie's Rainbow Connection and The Carpenters' We've Only Just Begun. He also wrote the Love Boat theme lyrics.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0931437",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzI3MjM3OV5BMl5BanBnXkFtZTcwMzY3ODQ3MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2240,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "When Swan adjusts the Phantom's voice, the singing voice is Paul Williams, not William Finley. So Swan calling it \"perfect\" is an in-joke.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Swan was originally named Spectre in the script, a play on legendary producer Phil Spector.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The studio once floated Paul Williams as Winslow, Gerrit Graham as Swan and Peter Boyle as Beef. Williams said no, Boyle was unavailable, and Graham became Beef.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2730,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "At the airport, a reporter called Mr. Pizer is a nod to the film's cinematographer Larry Pizer.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Beef's name is also a visual joke: the mark on his chin changes from a Virgo symbol to a shamrock to a male/female symbol during the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Beef's singing is dubbed by Ray Kennedy, since Gerrit Graham wasn't a professional singer. De Palma later said Graham sang so well in the shower that he regretted not letting him sing.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Beef actor Gerrit Graham later wrote for VH1's Pop Up Video, the show this format imitates.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gerrit Graham was so sick the day Life at Last was filmed that he could hardly walk.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Editor Paul Hirsch created Beef's stuttering electrocution effect by reversing every third pair of film frames.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "De Palma dropped a Columbo episode he'd written, recommended by Steven Spielberg, to make this film. He suggested Martin Scorsese as his replacement.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ads once showed swans next to Paul Williams' head, and the title was just \"Phantom\". Fox changed the swans to stars and added \"of the Paradise\", partly because of the King Features comic.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/production_fiasco.asp"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film got four lawsuits or legal threats, including from the Gaston Leroux estate, Universal and King Features. Financier Gustave Berne paid Universal to settle.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/production_fiasco.asp"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It flopped in 1974 except in Winnipeg. It played 18 weeks at the Garrick Theatre, and the soundtrack sold 20,000 copies in Winnipeg alone. Fans held Phantompalooza there in 2005.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4565,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Swan says it's Saturday, November 19, 1953. That date was actually a Thursday.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Paul Williams and George Tipton's score earned an Oscar nomination, plus a Golden Globe nomination. Critic Pauline Kael of The New Yorker praised De Palma's \"breakneck wit\".",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gene Siskel of the Chicago Tribune gave the film two stars out of four. Rotten Tomatoes now sits at 83%.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5040,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The wedding's crow dancers were cheerleaders from a nearby Texas college. Reportedly they hated their feathered bikini costumes, and more feathers were added.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Swan's silver wedding mask came from a face mold made for Battle for the Planet of the Apes, in which Paul Williams played an orangutan.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://swanarchives.org/Production.asp"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Swan grabbing the hanging sword is a nod to the Sword of Damocles anecdote from the Roman writer Cicero.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Paul Williams performed The Hell of It on The Brady Bunch Hour in 1977.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
