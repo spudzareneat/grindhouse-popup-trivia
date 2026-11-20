@@ -1,0 +1,482 @@
+{
+  "schema": 1,
+  "imdbId": "tt0281919",
+  "title": "How to Make a Monster",
+  "year": 2001,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-11-20T06:18:18.014Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This is a remake in name only: the 1958 How to Make a Monster was about a makeup artist using his creations for revenge. The 2001 version keeps just the title and swaps in a killer video game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 145,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This movie shares only its title with the 1958 How to Make a Monster, a film made by producer Herman Cohen. The 2001 version swaps his makeup-artist revenge plot for a killer video game.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Lou Arkoff is the son of Samuel Z. Arkoff, the AIP boss behind the 1958 original. Remaking old AIP titles for cable was a family business.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 310,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the third release in Stan Winston's Creature Features series of AIP remakes. Others in 2001 included The Day the World Ended, Earth vs. the Spider, She Creature and Teenage Caveman.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stan Winston, the effects legend behind Terminator 2 and Jurassic Park's dinosaurs, produced this with actress Colleen Camp, who also plays CEO Faye Clayton. His studio built the monster effects.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 530,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It never played theaters. How to Make a Monster premiered on Cinemax on October 14, 2001, perfect fodder for late-night cable.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director George Huang made the acclaimed Hollywood-satire Swimming with Sharks (1994). Critic Vince Leo noted this film echoes that movie's theme of ambition and ruthlessness.",
+      "icon": "camera",
+      "byline": "George Huang — Director",
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/howtomakeamonster.html"
+      },
+      "person": "nm0398986",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk1YTgzMGEtYzQzMC00NWRiLTgwZWQtZjBhYTMzZDJiNDI4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Swimming with Sharks, George Huang worked at Columbia Pictures. Robert Rodriguez, whom he met there, told him to just 'go out and make a movie', so Huang quit his job.",
+      "icon": "mic",
+      "byline": "George Huang — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0398986",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk1YTgzMGEtYzQzMC00NWRiLTgwZWQtZjBhYTMzZDJiNDI4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "George Huang later became a creative consultant on several Robert Rodriguez films, according to Richard Scheib of Moria.",
+      "icon": "link",
+      "byline": "George Huang — Director",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 970,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tyler Mane (Hardcore) played Sabretooth in X-Men (2000) and again in Deadpool & Wolverine (2024), 24 years later.",
+      "icon": "star",
+      "byline": "Tyler Mane",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0541932",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5NjM4ODIzM15BMl5BanBnXkFtZTgwMTA3OTg5NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before acting, Tyler Mane (Hardcore) was a pro wrestler. In WCW as 'Big Sky' he regularly teamed with Vinnie Vegas, who became WWF's Diesel, Kevin Nash.",
+      "icon": "knuckles",
+      "byline": "Tyler Mane",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0541932",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5NjM4ODIzM15BMl5BanBnXkFtZTgwMTA3OTg5NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tyler Mane (Hardcore) later took over from Michael Myers' mask-wearers as the killer in Rob Zombie's Halloween (2007) and Halloween II (2009).",
+      "icon": "skull",
+      "byline": "Tyler Mane",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0541932",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5NjM4ODIzM15BMl5BanBnXkFtZTgwMTA3OTg5NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Clea DuVall (Laura) went on to direct Happiest Season (2020) and co-create the animated series HouseBroken. Here she's still the intern.",
+      "icon": "star",
+      "byline": "Clea DuVall",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0245112",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU0NDc3MTM4NV5BMl5BanBnXkFtZTcwMjY4Mzc1OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clea DuVall (Laura) worked in a coffee shop before her first film role in Little Witches (1996).",
+      "icon": "star",
+      "byline": "Clea DuVall",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0245112",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU0NDc3MTM4NV5BMl5BanBnXkFtZTcwMjY4Mzc1OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Clea DuVall (Laura) starred in 1999's But I'm a Cheerleader and had a cameo in She's All That, taken to support friend Rachael Leigh Cook's first lead.",
+      "icon": "star",
+      "byline": "Clea DuVall",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0245112",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU0NDc3MTM4NV5BMl5BanBnXkFtZTcwMjY4Mzc1OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1630,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Steven Culp (Drummond) played Robert F. Kennedy in Thirteen Days (2000), and later Rex Van de Kamp on Desperate Housewives.",
+      "icon": "star",
+      "byline": "Steven Culp",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0191688",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MzA0NzYxOF5BMl5BanBnXkFtZTYwNzIzMTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1740,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the 2003-04 TV season Steven Culp (Drummond) held recurring roles on four series at once, including JAG, The West Wing and ER.",
+      "icon": "star",
+      "byline": "Steven Culp",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0191688",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MzA0NzYxOF5BMl5BanBnXkFtZTYwNzIzMTA2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jason Marsden (Bug) is the voice of Max in Disney's A Goofy Movie and Thackery Binx, the cat in Hocus Pocus. He is not related to actor James Marsden, though they're friends.",
+      "icon": "star",
+      "byline": "Jason Marsden",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005189",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTg0OTg1YjUtYmVjZC00NDY2LTlmMDAtZDQ2MjM2ZmI2ZmNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jason Marsden (Bug) voiced characters in the Baldur's Gate games, and the office set is stocked with game boxes including Baldur's Gate and EverQuest.",
+      "icon": "robot",
+      "byline": "Jason Marsden",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005189",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTg0OTg1YjUtYmVjZC00NDY2LTlmMDAtZDQ2MjM2ZmI2ZmNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2070,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jason Marsden (Bug) once appeared in an episode of Tales from the Crypt, and the film's set includes a Tales from the Crypt pinball machine.",
+      "icon": "link",
+      "byline": "Jason Marsden",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005189",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTg0OTg1YjUtYmVjZC00NDY2LTlmMDAtZDQ2MjM2ZmI2ZmNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The set dressing name-checks real games: a poster for Evil Dead: Hail to the King (2000) hangs in the office, alongside Top Gun.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2290,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The yellow, red-cheeked, zig-zag-tailed minor demons in the fictional game 'Evilution' look a lot like Pikachu from Pokemon.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Weapon designer Hardcore's spiked-guard sword is a replica of the one wielded by Julie Strain in the animated Heavy Metal 2000. Strain voiced the lead and cameos here as herself.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2510,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Julie Strain, the B-movie queen and Heavy Metal 2000 star, plays herself. Richard Scheib found the gag funny, but noted the film still has her take her clothes off.",
+      "icon": "sunglasses",
+      "byline": "Julie Strain",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 2620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Danny Masterson, later of That '70s Show, shows up uncredited as Laura's abusive boyfriend Jeremy.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2730,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria called the premise, a motion-capture suit taken over by a game's AI, ingenious, but said the characters are shrill caricatures and the film ultimately 'doesn't work'.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 2785,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Adam Tyner of DVD Talk called the film a 'moderately high-tech spin' on the 'spam in a cabin' formula: a group trapped with a killer. He found it neither scary nor campy.",
+      "icon": "mic",
+      "byline": "Adam Tyner — DVD Talk",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/4052"
+      }
+    },
+    {
+      "t": 2840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nathan Rabin of The A.V. Club wrote that the film 'intermittently qualifies as an intriguing experiment, but it quickly runs out of ideas and energy.'",
+      "icon": "mic",
+      "byline": "Nathan Rabin — The A.V. Club",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TV Guide's Maitland McDonagh gave it 2 of 4 stars, calling it 'tailor-made for people who hate video games.'",
+      "icon": "mic",
+      "byline": "Maitland McDonagh — TV Guide",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3005,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Adam Tyner of DVD Talk compared the film's humor to an episode of Boy Meets World. He also noted that most of the gore and deaths happen off-screen, and called it 'an okay movie' worth a rental.",
+      "icon": "mic",
+      "byline": "Adam Tyner — DVD Talk",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/4052"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vince Leo of Qwipster's Movie Reviews gave it 2 of 5, calling it a campy cheese-fest, with Stan Winston effects that were 'workable enough' for an ultra-low budget.",
+      "icon": "money",
+      "byline": "Vince Leo — Qwipster",
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/howtomakeamonster.html"
+      }
+    },
+    {
+      "t": 3170,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vince Leo of Qwipster spotted a visible 'FX missing' placeholder in the film, and actors swapping seats between shots.",
+      "icon": "camera",
+      "byline": "Vince Leo — Qwipster",
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/howtomakeamonster.html"
+      }
+    },
+    {
+      "t": 3280,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The soundtrack features The Cult's 'My Bridges Burn', P.O.D.'s 'Alive' and Poe's 'Control'.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3390,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Creature effects came from Stan Winston Studio, with supervisors Shane Mahan and Paul Mejias, and CG by First Unit.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was rated R for violence, gore, language and nudity, unusual for a TV movie with a cable premiere.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://qwipster.net/howtomakeamonster.html"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Stan Winston's studio also launched an action figure line tied to the Creature Features films, but toy and film release timing didn't line up, hurting sales.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.imaginaryworldspodcast.org/s/Making-Up-Creatures-transcript.pdf"
+      }
+    },
+    {
+      "t": 3740,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2005 the film was nominated for a Hollywood Makeup Artist Award and Hair Stylist Guild Award.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3860,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was released on DVD on June 11, 2002, by Columbia TriStar Home Entertainment, under the German title 'Evilution - Die Bestie aus dem Cyberspace'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria said the film's closing lesson, 'Don't be nice because the world isn't nice', leaves an unpleasant, callous taste. He gave the film 2 stars.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/howtomakeamonster2001.htm"
+      }
+    }
+  ]
+}
