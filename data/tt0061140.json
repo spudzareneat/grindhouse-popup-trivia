@@ -1,0 +1,294 @@
+{
+  "schema": 1,
+  "imdbId": "tt0061140",
+  "title": "The Undertaker and His Pals",
+  "year": 1966,
+  "runtimeSec": 3780,
+  "generatedAt": "2026-11-20T05:56:30.438Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch the opening pan: IMDb lists a goof where the cameraman's shadow falls across the victim's leg as the camera slides along her body.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writer-director T.L.P. Swicegood made this as a comedy spoof of Herschell Gordon Lewis' Blood Feast (1963), widely called the first splatter film.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/22/pure-terror-month-the-undertaker-and-his-pals-1966"
+      }
+    },
+    {
+      "t": 310,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Some theaters reportedly handed out a 'Certificate of Assurance' for patrons to sign, releasing the house from liability for 'coronary, insanity, or death' caused by this film.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorandsons.com/2026/04/01/todays-special-a-look-at-1966s-the-undertaker-and-his-pals"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The original cut reportedly spliced in real surgical-training footage for shock value. It got the film banned in places, and no print of that version is known to survive.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/22/pure-terror-month-the-undertaker-and-his-pals-1966"
+      }
+    },
+    {
+      "t": 530,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actress Warrene Ott plays twin sisters Thursday and Friday. Bands About Movies suggests the 'Friday' name is a joke on 1960s starlet Tuesday Weld.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/22/pure-terror-month-the-undertaker-and-his-pals-1966"
+      },
+      "person": "nm0653067",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk4ZmEyYjAtY2FhZC00OTRjLTgzMDYtYjM0NjQwYjE3YjdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria says the film takes the Sweeney Todd idea of human remains served as food and swaps the barber for an undertaker in 1960s Los Angeles.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/undertaker-and-his-pals-1966.htm"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film got a 2024 restoration by the American Genre Film Archive, but the print still shows scratches, cigarette burns and missing frames. Fitting for a grindhouse relic.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorandsons.com/2026/04/01/todays-special-a-look-at-1966s-the-undertaker-and-his-pals"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cult producer Ted V. Mikels acquired the film for a triple bill with The Embalmer and his own The Corpse Grinders. He cut most of the gore and a scene of Ray Dannis in drag as an old lady.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ray Dannis, who plays the undertaker Mort, also turned up in Ted V. Mikels' The Corpse Grinders, which later shared a triple bill with this film, and in the 1973 horror film The Severed Arm.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorandsons.com/2026/04/01/todays-special-a-look-at-1966s-the-undertaker-and-his-pals"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Police in Louisville, Kentucky seized a print under a law banning materials dealing with 'bloodshed, lust or crime.' A court struck the law down as unconstitutional and the print was returned.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1190,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer-director T.L.P. Swicegood's earlier film Escape from Hell Island (1963) shot some scenes at Sloppy Joe's Bar in Key West, Florida.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorandsons.com/2026/04/01/todays-special-a-look-at-1966s-the-undertaker-and-his-pals"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Clarksville, Indiana, a local Parent-Teacher Association and several women's groups complained about the film, and the theater cancelled its showings.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1410,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sally Frei, who plays Harry Glass's secretary Ann Poultry, also appeared in the sci-fi cheapie Women of the Prehistoric Planet (1966).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://horrorandsons.com/2026/04/01/todays-special-a-look-at-1966s-the-undertaker-and-his-pals"
+      },
+      "person": "nm0293738"
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Guest star Robert Lowery was television's second Batman, and his marriage to actress Jean Parker ended in divorce. He left acting soon after The Ballad of Josie (1967).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/22/pure-terror-month-the-undertaker-and-his-pals-1966"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Variety said the film 'borrowed every gimmick from horror and macabre comedy films, with a resultant mish-mash which is difficult to appraise viewer-wise.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star James Westmoreland is billed here as 'Rad Fulton.' Agent Henry Willson, who made Rock Hudson a star, gave him that name. He later went back to his real name.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0298502",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjg5MzQ3Nzk4Nl5BMl5BanBnXkFtZTcwOTEzODMzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is now in the public domain. Bands About Movies' reviewer first found it in Mill Creek's 50-film 'Pure Terror' DVD box set, one of many budget collections it has turned up in.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/22/pure-terror-month-the-undertaker-and-his-pals-1966"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Rob Zombie sampled lines from this film's trailer in his song 'What Lurks On Channel X.' The Gravediggaz also sampled its dialogue, and the Misfits used its posters in promotional materials.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/11/22/pure-terror-month-the-undertaker-and-his-pals-1966"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director T.L.P. Swicegood also wrote the Robert Sheckley adaptation Escape from Hell Island (1963). This was the only film he directed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/undertaker-and-his-pals-1966.htm"
+      },
+      "person": "nm0842515"
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Karen Ciral, who plays the victim in the opening attack, died young at 34, killed by a drunk driver, which makes her scantily clad appearance here a rare one.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria compared the film's cheesy style to Mikels' The Corpse Grinders but judged Swicegood far more competent as a filmmaker than Mikels.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/undertaker-and-his-pals-1966.htm"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filming began September 13, 1965, with studio work at Alpha Omega Studios in Glendale, California. Location scenes were shot around Los Angeles and Glendale.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "AllMovie's Fred Beldin called it an 'incredibly weird horror comedy' that 'revels in its own inappropriateness so completely that it's impossible to forget.'",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A 25 October 1972 Variety article says the film was still in release five years after it opened, helped by early-'70s drive-in bills with The Corpse Grinders.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
