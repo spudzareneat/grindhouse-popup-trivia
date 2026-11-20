@@ -1,0 +1,417 @@
+{
+  "schema": 1,
+  "imdbId": "tt9612004",
+  "title": "No Resistance",
+  "year": 1994,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-20T05:06:22.760Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Super-VHS, the format No Resistance was shot on, was introduced by JVC in 1987. It squeezed roughly 400 lines of resolution out of a normal VHS cassette shell, versus about 240 for regular VHS.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/S-VHS"
+      }
+    },
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "No Resistance was shot on Super-VHS with a single camera over four months in mid-1992. Editing then took about two years.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was funded with \"pocket change, favors and ingenuity\" after its grant application to the Southwest Alternate Media Project was rejected.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tim Thomson also co-wrote, shot and edited No Resistance. Coproducer Michael H. Schneider Jr. wrote the Houston Press to insist Thomson deserved the producer credit too.",
+      "icon": "camera",
+      "byline": "Michael H. Schneider Jr. — Coproducer",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/letters-6572556/"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Houston punk band Pain Teens wrote an album's worth of original music for the movie, for no pay, because they liked the script.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "KTRK Channel 13 news anchor Dave Ward, a Houston TV fixture, has a cameo as a bartender.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Star David Rains (Dij) dyed his hair bright pink for the role. He also co-wrote the script, first conceiving the idea in 1990.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star David Rains drove to shoots in pink hair, a ratty Army jacket and carrying a vial of fake-cocaine powder. \"I was scared to death some cop was gonna pull me over,\" he told the Houston Press.",
+      "icon": "mic",
+      "byline": "David Rains — Dij",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tim Thomson cited William Gibson, Dashiell Hammett, Raymond Chandler and Sonic Youth as influences on the film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Houston police answered a reported gang fight at the shoot of a gunfight scene. Once they realized it was a movie, they asked to be in it.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tim Thomson and star David Rains were high school best friends in Corpus Christi. Thomson moved to Houston about five years before the film's release.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Houston Press story on the making of No Resistance was written by Matt Zoller Seitz, later a 1994 Pulitzer finalist for criticism and an editor-at-large at RogerEbert.com.",
+      "icon": "reel",
+      "byline": "Matt Zoller Seitz",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Matt_Zoller_Seitz"
+      }
+    },
+    {
+      "t": 1080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When actors playing a gang didn't show up, producer Mike Schnieder, who worked at a Houston law firm, recruited men from a local bar. They ended up in more scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Irving Cutter IV, who plays Waldo, also co-wrote the script. David Rains showed Cutter and director Tim Thomson a first draft in early 1991, a year before cameras rolled.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      },
+      "person": "nm10404835"
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "No Resistance premiered at the 1994 Dallas Video Festival and drew overflow crowds, so it was shown in a second auditorium.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1260,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Tim Thomson's rule for low-budget sci-fi: \"I think the trick... is making half-references to things.\" Hint at a bigger world and let viewers fill in what the budget can't show.",
+      "icon": "mic",
+      "byline": "Tim Thomson — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      },
+      "person": "nm0860781",
+      "image": "https://m.media-amazon.com/images/M/MV5BODczNjQ2MzIyM15BMl5BanBnXkFtZTgwNDU4ODk5NzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Festivals mostly passed on it: too rough for film festivals, not experimental enough for video festivals, according to the Houston Press.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bliss Blood (Chablis) co-founded Pain Teens in Houston in 1985 with guitarist Scott Ayers. The band later put out records on the Butthole Surfers' King Coffey's label, Trance Syndicate.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Pain_Teens"
+      },
+      "person": "nm1379366"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tim Thomson's later shorts Dwelling and White Bunnies were scored by Pain Teens guitarist Scott Ayers in his home studio, Anomie. They screened at a Houston Museum of Fine Arts local-film showcase.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/music/static-6570314/"
+      },
+      "person": "nm0860781",
+      "image": "https://m.media-amazon.com/images/M/MV5BODczNjQ2MzIyM15BMl5BanBnXkFtZTgwNDU4ODk5NzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Editing was done in-house at Contemporary Productions in Houston, with help from local editor Chris Hogan.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer David Rains kept telling director Tim Thomson, \"No one would say this much!\" about the script's wordy hard-boiled dialogue.",
+      "icon": "mic",
+      "byline": "Tim Thomson — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Houston Press ties the gunfight shoot to the 1992 Republican National Convention, held at the Astrodome that August. The Astros were sent on a 26-game road trip to make room.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/1992_Republican_National_Convention"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Houston Press compared hero Dij to the lone-wolf heroes of Yojimbo and Miller's Crossing.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After years of editing, director Tim Thomson told the Houston Press: \"I'm so tired of looking at it that I'm just glad it's over.\"",
+      "icon": "mic",
+      "byline": "Tim Thomson — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      },
+      "person": "nm0860781",
+      "image": "https://m.media-amazon.com/images/M/MV5BODczNjQ2MzIyM15BMl5BanBnXkFtZTgwNDU4ODk5NzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1920,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bliss Blood later moved to New York and formed jazz band The Moonlighters after Pain Teens split in 1995.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://ihrtn.net/pain-teens-special-bio-selected-discography/"
+      },
+      "person": "nm1379366"
+    },
+    {
+      "t": 2040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Most of the No Resistance cast were nonprofessionals working for free, with friends coming in from Corpus Christi, Austin and Dallas. Star David Rains said he'd \"do it all over again for beer.\"",
+      "icon": "mic",
+      "byline": "David Rains — Dij",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bartender cameo Dave Ward joined Houston's KTRK Channel 13 in 1966. He anchored its 10 p.m. news for 48 years, until December 2014, and kept making local-history segments afterward.",
+      "icon": "sunglasses",
+      "byline": "Dave Ward — Cameo",
+      "source": {
+        "type": "web",
+        "url": "https://houston.culturemap.com/news/society/12-27-14-legendary-tv-anchor-retires-from-10-oclock-news-and-an-epic-party-follows"
+      }
+    },
+    {
+      "t": 2760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "No Resistance premiered at the Dallas Video Festival, an event run by video artist Bart Weiss that ran for roughly 34 years before ending in 2021.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nbcdfw.com/about-nbc-5/community/dallas-videofest-to-end-after-34-years/2690114"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tim Thomson told the Houston Press his next project should be shot on actual film. He'd even consider remaking No Resistance, if someone gave him proper funding.",
+      "icon": "money",
+      "byline": "Tim Thomson — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      },
+      "person": "nm0860781",
+      "image": "https://m.media-amazon.com/images/M/MV5BODczNjQ2MzIyM15BMl5BanBnXkFtZTgwNDU4ODk5NzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 1994 No Resistance had no real distribution. Houstonians could rent it at the local video store Sound Exchange, according to the Houston Press.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "More than 30 years later the Netherlands' BUT Film Festival screened No Resistance on August 31, 2025, in its \"Virtual Insanity\" program.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://butff.nl/program/program-2025/no-resistance"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Tim Thomson and star David Rains' idea for No Resistance dates to 1990. The finished movie took about five years to make, thanks to tight budgets and scheduling problems.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Houston Press writer Matt Zoller Seitz compared No Resistance's loner hero to Yojimbo and Miller's Crossing. The film's tagline, \"You look like a fella that's got a couple of enemies,\" fits that mold.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.houstonpress.com/news/cyberdreams-6572539/"
+      }
+    }
+  ]
+}
