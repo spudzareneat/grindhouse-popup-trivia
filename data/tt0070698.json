@@ -1,0 +1,594 @@
+{
+  "schema": 1,
+  "imdbId": "tt0070698",
+  "title": "Sisters",
+  "year": 1972,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-11-20T06:03:26.626Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Brian De Palma wanted stars like Sidney Poitier and Marlo Thomas, but the film's budget was only $500,000. He shot it in eight weeks after a month of rehearsals.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 191,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This fake game show, \"Peeping Toms,\" was inspired by the hidden-camera TV series Candid Camera. It's also a voyeurism joke from director Brian De Palma, who spends the whole movie on watching.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Roommates Margot Kidder and Jennifer Salt each found a box under their Christmas tree holding this script. It was a gift from their friend, director Brian De Palma.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 305,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Margot Kidder (Danielle Breton) went on to play Lois Lane in Superman (1978). She was also reportedly the first choice for Carrie White in De Palma's Carrie (1976).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0452288",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ5OTQ5NDg5OV5BMl5BanBnXkFtZTgwMDYwMjE1NTM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 350,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Lisle Wilson (Phillip Woode) later headlined the cult B-movie The Incredible Melting Man (1977). He also appeared in Cotton Comes to Harlem (1970).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0933769",
+      "image": "https://m.media-amazon.com/images/M/MV5BODExMGYzYWItNWM2YS00ZTVjLTgxY2YtZjAyNmFjMmEzYjVmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "De Palma first cut the film to Bernard Herrmann's Marnie score. Herrmann, the composer of Psycho, told him: \"Young man, I cannot watch your film while I'm listening to Marnie.\"",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/20/the-films-of-brian-de-palma-sisters-1972/"
+      }
+    },
+    {
+      "t": 460,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The date spot in the prize, Manhattan's African Room, was a real club on West 44th Street. The film also shot at the Time-Life Building, but spent nearly all its time on Staten Island.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.screenslate.com/articles/sisters"
+      }
+    },
+    {
+      "t": 530,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "William Finley (Emil Breton) is best known as Winslow Leach in De Palma's rock opera Phantom of the Paradise (1974). He and Charles Durning reunited in De Palma's The Fury (1978).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0278073",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1NzA3MjM1M15BMl5BanBnXkFtZTcwODE5MDAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Editor Paul Hirsch suggested Bernard Herrmann after cutting rough footage to Herrmann's Psycho and Marnie music. The composer was semi-retired but loved the script.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 725,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Brian De Palma financed Sisters independently. The producer kept raising money until there was about $500,000 in cash. De Palma's verdict: \"I don't recommend it to anybody.\"",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Ray Stark originally bought the project as a vehicle for Raquel Welch. De Palma went another way, with Margot Kidder playing both sisters.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "De Palma's voyeur obsession has a root. As a boy, he spent days stalking his own father with recording equipment, trying to prove his mother's suspicion of an affair.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODQ0NDY3OV5BMl5BanBnXkFtZTYwNjAxNTM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1025,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "American International Pictures sold Sisters with a gimmick: posters promised a \"Special Shock Recovery Period,\" with no one seated after each show so audiences could compose themselves.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.screenslate.com/articles/sisters"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A February 1972 trade item said Louis Gossett Jr. had a starring role in this film, but scheduling conflicts forced him to withdraw.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Brian De Palma shot about eight feet of film for every foot used, and only one scene was dropped. That was the six-minute tracking shot of the apartment search.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "De Palma lit the film in a \"truly classical\" style. Some shots took 45 minutes to set up, and he shot roughly eight feet of film for every foot used.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The shorter bakery clerk is played by Olympia Dukakis, uncredited. She later won the Best Supporting Actress Oscar for Moonstruck (1987).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Sisters_(1972_film)"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bernard Herrmann hated De Palma's opening-credits cue, calling it \"TERRIBLE!\" He argued that Hitchcock could make audiences wait, but De Palma was not Hitchcock.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 1640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "For the 1973 UK cinema release, titled Blood Sisters, the BBFC cut the violent stabbing of Phillip Woode. Later UK releases were uncut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1752,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "36 Hamilton Avenue is a real Staten Island co-op, the former Alexander Hamilton. Its corner windows and marble entry look much as they did in 1972.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1830,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jennifer Salt (Grace Collier) is the daughter of Waldo Salt, who adapted Midnight Cowboy (1969). She played Crazy Annie in that film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0759022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTk3Mzc2N15BMl5BanBnXkFtZTcwODM3OTM3Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1927,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film's producer doubted anyone could fit inside a sofa bed. De Palma shot it in one unbroken shot to prove a body could.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1985,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "De Palma can't recall where he got the split-screen idea. He calls it \"a meditative form\" where you can go slowly, and viewers make juxtapositions in their minds.",
+      "icon": "mic",
+      "byline": "Brian De Palma — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dolph Sweet (Detective Kelly) and Charles Durning later played the same role, police chief Gil McGowan, on the soap Another World. Durning did two episodes in 1972, then Sweet did ten.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2120,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Split-screen wasn't new in 1972: Grand Prix (1966) and Woodstock (1970) used it. Director Brian De Palma used it to heighten the film's voyeurism, a trick he reused in Carrie (1976).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/148221/insider-info-sisters-behind-the-scenes"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film borrows from Hitchcock: Rear Window's nosy neighbor, Psycho's early death of an apparent lead, and Rope's long takes. De Palma was branded a Hitchcock copycat from here on.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2315,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Sisters, Margot Kidder (Danielle Breton) appeared on The Dick Cavett Show in 1970, on an episode that also featured Janis Joplin and Gloria Swanson.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://trailersfromhell.com/sisters/"
+      },
+      "person": "nm0452288",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ5OTQ5NDg5OV5BMl5BanBnXkFtZTgwMDYwMjE1NTM@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2430,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "De Palma shot this search as a six-minute Max Ophüls-style take, with the couch stain growing. It looked like blood seeping up the arm, so he scrapped it and used regular coverage.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "De Palma says his voyeurism theme came from watching Vietnam on the 7 o'clock news: \"a very voyeuristic war.\" We are controlled by the media, he said, and it can be manipulated.",
+      "icon": "mic",
+      "byline": "Brian De Palma — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2743,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Jennifer Salt and Mary Davenport, who play mother and daughter on screen, are mother and daughter in real life.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critic Robin Wood argued the film's \"monster\" is Grace as much as the twins. He wrote that one can define the monster of Sisters as women's liberation.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3080,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Charles Durning (Joseph Larch) landed on Omaha Beach on D-Day, the only member of his unit to survive. He earned three Purple Hearts and a Silver Star, then became a dance teacher.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "De Palma introduced Martin Scorsese and Robert De Niro to each other. Scorsese's Mean Streets (1973) gives him a special thanks credit for it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODQ0NDY3OV5BMl5BanBnXkFtZTYwNjAxNTM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Los Angeles Times' Justin Chang ranked Sisters De Palma's most underrated 1970s film in 2016. Rotten Tomatoes has it at 86% positive.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3510,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The poster behind Grace in the magazine office is the June 25, 1965 Life cover. It featured Santa and Giuseppina Foglia, Italian conjoined twins separated a month earlier.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3620,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The idea came from a 1966 Life article on Soviet conjoined twins Masha and Dasha Krivoshlyapova. A photo showed one twin cheerful and the other surly, and it haunted De Palma.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3840,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "On this ferry shot, look at the Twin Towers: a crane sits on one, which is still unfinished. Cars were also allowed on Staten Island ferries then.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "De Palma later helped his friend George Lucas cast Star Wars (1977). He also did uncredited work on its opening text crawl.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODQ0NDY3OV5BMl5BanBnXkFtZTYwNjAxNTM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The head of the clinic that separated the twins is named Dr. Milius, a nod to De Palma's friend, writer-director John Milius.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "William Finley's look as Emil Breton was inspired by De Palma's father Anthony, a surgeon.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0278073",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1NzA3MjM1M15BMl5BanBnXkFtZTcwODE5MDAzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vincent Canby of The New York Times called it \"a good, substantial horror film.\" He said De Palma showed himself a first-rate director of conventional material.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4610,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Derek Winnert gave Sisters four stars and called it \"enjoyable, shocking, graphic.\" He notes the film's budget was $500,000 and it took $1 million at the North American box office.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.derekwinnert.com/sisters-blood-sisters-1972-margot-kidder-jennifer-salt-charles-durning-classic-movie-review-5378/"
+      }
+    },
+    {
+      "t": 4720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "De Palma has said the dream-sequence exposition was influenced by the surreal conception scene in Roman Polanski's Rosemary's Baby (1968), a film he loves.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4820,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "De Palma shot some sequences himself on 16mm. These include Emil speaking directly to camera in the film's hallucination sequence.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "To show both conjoined twins, De Palma photographed Margot Kidder seated in two positions, then joined the images with optical editing.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sisters earned about $1 million in US and Canadian rentals on a $500,000 budget. American International Pictures released it in April 1973 after a Filmex premiere in November 1972.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5175,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "After Sisters premiered at the 1972 Filmex festival in Los Angeles, American International Pictures bought it about a month later, according to CineSavant's Glenn Erickson.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://trailersfromhell.com/sisters/"
+      }
+    },
+    {
+      "t": 5250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Asked about the film's strange, open-ended finale, Jennifer Salt admitted in an interview that she didn't understand it either.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0759022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTk3Mzc2N15BMl5BanBnXkFtZTcwODM3OTM3Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5380,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sisters was remade in 2006 with Lou Doillon, Stephen Rea and Chloë Sevigny.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rare slasher where the killer is a woman and all the victims are men. It's a mirror-image of De Palma's later Hitchcockian thriller Dressed to Kill (1980).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
