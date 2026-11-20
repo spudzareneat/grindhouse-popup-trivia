@@ -1,6 +1,9 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildScheduleDoc, sameSchedule, SCHEDULE_FILE } from '../src/schedule-doc.js';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { buildScheduleDoc, sameSchedule, publishSchedule, SCHEDULE_FILE } from '../src/schedule-doc.js';
 
 const post = () => ({
     postId: 't3_new', title: 'Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22', publishedAt: '2026-11-18T12:00:00+00:00',
@@ -75,4 +78,65 @@ test('sameSchedule ignores fetchedAt but not content', async () => {
     assert.equal(sameSchedule(a, c), false);
     assert.equal(sameSchedule(null, a), false);
     assert.equal(sameSchedule(a, undefined), false);
+});
+
+// publishSchedule: pull, fetch, build, compare with the file on disk, write, commit.
+function pubEnv(over = {}) {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'pub-'));
+    const calls = [];
+    const git = { pull: () => calls.push(['pull']), commitAndPush: (files, msg) => calls.push(['commit', files, msg]) };
+    const run = (extra = {}) => publishSchedule({
+        repoDir: dir, git, fetchPost: async () => post(), resolveItem: async () => 'tt1', rate: async () => ({ rating: 6, votes: 9 }),
+        now: NOW, log: () => {}, ...over, ...extra,
+    });
+    return { dir, calls, run, file: path.join(dir, SCHEDULE_FILE) };
+}
+test('publishSchedule writes the file and commits it', async () => {
+    const t = pubEnv();
+    try {
+        assert.equal(await t.run(), 'published');
+        const written = JSON.parse(fs.readFileSync(t.file, 'utf8'));
+        assert.equal(written.schema, 1);
+        assert.equal(written.fetchedAt, NOW);
+        assert.equal(items(written)[0].imdbId, 'tt1');
+        assert.ok(fs.readFileSync(t.file, 'utf8').endsWith('}\n'));
+        assert.deepEqual(t.calls, [['pull'], ['commit', t.file, 'schedule: Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22']]);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('unchanged content is not rewritten or committed', async () => {
+    const t = pubEnv();
+    try {
+        await t.run();
+        const before = fs.readFileSync(t.file, 'utf8');
+        assert.equal(await t.run({ now: '2026-11-20T05:00:00.000Z' }), 'unchanged');
+        assert.equal(fs.readFileSync(t.file, 'utf8'), before);
+        assert.equal(t.calls.filter(c => c[0] === 'commit').length, 1);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('changed content (a new rating) is republished', async () => {
+    const t = pubEnv();
+    try {
+        await t.run();
+        assert.equal(await t.run({ rate: async () => ({ rating: 8, votes: 9 }) }), 'published');
+        assert.equal(items(JSON.parse(fs.readFileSync(t.file, 'utf8')))[0].imdbRating, 8);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('a failing fetchPost leaves the existing file untouched and does not commit', async () => {
+    const t = pubEnv();
+    try {
+        await t.run();
+        const before = fs.readFileSync(t.file);
+        await assert.rejects(t.run({ fetchPost: async () => { throw new Error('Reddit session expired'); } }), /session expired/);
+        assert.deepEqual(fs.readFileSync(t.file), before);
+        assert.equal(t.calls.filter(c => c[0] === 'commit').length, 1);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('a corrupt existing file is treated as missing and replaced', async () => {
+    const t = pubEnv();
+    try {
+        fs.mkdirSync(path.dirname(t.file), { recursive: true });
+        fs.writeFileSync(t.file, '{not json');
+        assert.equal(await t.run(), 'published');
+        assert.equal(JSON.parse(fs.readFileSync(t.file, 'utf8')).schema, 1);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });

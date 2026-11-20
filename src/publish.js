@@ -32,12 +32,14 @@ export function makeGit(repoDir, { dryRun = false, exec = execFileSync } = {}) {
         pull() { if (!dryRun) git('pull', '--rebase', '--autostash'); },
         // Delivers commits stranded by an earlier failed push; fails fast on a read-only deploy key.
         push() { if (!dryRun) git('push'); },
+        // filePath: one path, or several that are committed together.
         commitAndPush(filePath, message, removePaths = []) {
             if (dryRun) return false;
-            git('add', '--', filePath);
+            const files = [].concat(filePath);
+            git('add', '--', ...files);
             const tracked = trackedOf(removePaths);
             for (const p of tracked) git('rm', '-q', '--ignore-unmatch', '--', p);
-            git('commit', '-m', message, '--', filePath, ...tracked);
+            git('commit', '-m', message, '--', ...files, ...tracked);
             pushWithRetry();
             return true;
         },

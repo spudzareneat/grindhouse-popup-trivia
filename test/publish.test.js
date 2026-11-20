@@ -90,3 +90,13 @@ test('removeAndPush: git rm-s tracked paths and commits only them; untracked is 
     assert.deepEqual(none.calls, [['ls-files', '--', 'data/tt0.json']]);
     assert.equal(makeGit('/repo', { dryRun: true, exec: none.exec }).removeAndPush(['x'], 'm'), false);
 });
+
+test('commitAndPush with several files adds and commits them together', () => {
+    const { calls, exec } = recorder();
+    makeGit('/repo', { exec }).commitAndPush(['overrides/o.json', 'schedule/current.json'], 'msg');
+    assert.deepEqual(calls, [
+        ['add', '--', 'overrides/o.json', 'schedule/current.json'],
+        ['commit', '-m', 'msg', '--', 'overrides/o.json', 'schedule/current.json'],
+        ['push'],
+    ]);
+});
