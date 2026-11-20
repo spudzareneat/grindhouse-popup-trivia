@@ -11,7 +11,15 @@ export const SCHEDULE_FILE = 'schedule/current.json';
 
 // resolveItem(item) -> tconst|null and rate(tconst) -> {rating, votes}|null are injected; a failure in either
 // (or a title that cannot be resolved) gives nulls for that item and never aborts the build.
-export async function buildScheduleDoc({ post, resolveItem, rate, now }) {
+// previous (the file as last published) is only consulted for the SAME post: a failed or empty lookup keeps the id already
+// published (an IMDb outage must not erase it; a dismiss already nulled it in the file, so nothing is resurrected), and a
+// rating already published for an unchanged id is kept rather than refetched (so vote-count drift never causes a commit).
+export async function buildScheduleDoc({ post, resolveItem, rate, now, previous = null }) {
+    const key = item => `${item.title}|${item.year ?? ''}`;
+    const prevByKey = new Map();
+    if (previous && previous.postId === post.postId) {
+        for (const d of previous.days ?? []) for (const s of d.sections ?? []) for (const it of s.items ?? []) prevByKey.set(key(it), it);
+    }
     const days = [];
     for (const day of post.days) {
         const sections = [];
@@ -19,12 +27,18 @@ export async function buildScheduleDoc({ post, resolveItem, rate, now }) {
             const items = [];
             for (const item of section.items) {
                 let imdbId = null, imdbRating = null, imdbVotes = null;
+                const prev = prevByKey.get(key(item));
                 try { imdbId = (await resolveItem(item)) ?? null; } catch { imdbId = null; }
+                if (!imdbId && prev?.imdbId) imdbId = prev.imdbId;
                 if (imdbId) {
-                    try {
-                        const r = await rate(imdbId);
-                        if (r) { imdbRating = r.rating; imdbVotes = r.votes; }
-                    } catch { /* rating stays null; the next schedule run retries */ }
+                    if (prev && prev.imdbId === imdbId && prev.imdbRating != null) {
+                        imdbRating = prev.imdbRating; imdbVotes = prev.imdbVotes ?? null;
+                    } else {
+                        try {
+                            const r = await rate(imdbId);
+                            if (r) { imdbRating = r.rating; imdbVotes = r.votes; }
+                        } catch { /* rating stays null; the next schedule run retries */ }
+                    }
                 }
                 items.push({ ...item, imdbId, imdbRating, imdbVotes });
             }
@@ -77,9 +91,11 @@ export function applyPick(doc, { title, year, tconst, rating }) {
 // previous file stays published. Returns 'unchanged' (nothing written or committed) or 'published'.
 export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, rate, now, log = () => {} }) {
     git.pull();
+    git.push();   // deliver a commit stranded by an earlier failed push (as runWeekend does), so a stale raw file is not left behind
     const post = await fetchPost();
-    const doc = await buildScheduleDoc({ post, resolveItem, rate, now });
-    if (sameSchedule(readScheduleDoc(repoDir), doc)) { log('schedule: unchanged, nothing to publish'); return 'unchanged'; }
+    const previous = readScheduleDoc(repoDir);
+    const doc = await buildScheduleDoc({ post, resolveItem, rate, now, previous });
+    if (sameSchedule(previous, doc)) { log('schedule: unchanged, nothing to publish'); return 'unchanged'; }
     const file = writeScheduleDoc(repoDir, doc);
     git.commitAndPush(file, `schedule: ${doc.title}`);
     log(`schedule: published ${doc.title}`);
@@ -92,7 +108,10 @@ export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, ra
 export function makeResolveItem({ imdb, tmdb, overridesFile, log }) {
     return async item => {
         const year = item.year ? Number(item.year) : null;
-        const r = await resolveTitle({ title: item.title, year, akas: item.akas }, { imdb, tmdb, overrides: loadOverrides(overridesFile), log });
+        const overrides = loadOverrides(overridesFile);
+        // resolveTitle only honours picks; a dismissed title must stay unresolved here too, or the next run would re-resolve it.
+        if (overrides.dismissed[overrideKey(item.title, year)]) return null;
+        const r = await resolveTitle({ title: item.title, year, akas: item.akas }, { imdb, tmdb, overrides, log });
         return r.tconst ?? null;
     };
 }

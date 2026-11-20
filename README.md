@@ -64,6 +64,8 @@ generator, and a Discord pick updates the matching item in the same commit as th
 `node src/cli.js schedule` (no Claude usage) scrapes, resolves, rates and commits only if the content changed; `--dry-run`
 prints the document without writing. It runs on Wednesday at 12:00 and 20:00 (container time) so the lineup appears when the
 post does, and `run` publishes the schedule it has just scraped before researching. A failed scrape leaves the previous file in place.
+Within one weekend, ids and ratings already published are kept (an IMDb outage can't blank them, and a rating is fetched once per
+film rather than refreshed), a dismissed title is never re-resolved, and nothing is committed unless the content changed.
 
 Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth failure (re-run later / fix the token),
 3 git push failed (run stopped; the commit stays local and is pushed by the next run), 64 bad command line.

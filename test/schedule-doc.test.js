@@ -84,7 +84,7 @@ test('sameSchedule ignores fetchedAt but not content', async () => {
 function pubEnv(over = {}) {
     const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'pub-'));
     const calls = [];
-    const git = { pull: () => calls.push(['pull']), commitAndPush: (files, msg) => calls.push(['commit', files, msg]) };
+    const git = { pull: () => calls.push(['pull']), push: () => calls.push(['push']), commitAndPush: (files, msg) => calls.push(['commit', files, msg]) };
     const run = (extra = {}) => publishSchedule({
         repoDir: dir, git, fetchPost: async () => post(), resolveItem: async () => 'tt1', rate: async () => ({ rating: 6, votes: 9 }),
         now: NOW, log: () => {}, ...over, ...extra,
@@ -100,7 +100,7 @@ test('publishSchedule writes the file and commits it', async () => {
         assert.equal(written.fetchedAt, NOW);
         assert.equal(items(written)[0].imdbId, 'tt1');
         assert.ok(fs.readFileSync(t.file, 'utf8').endsWith('}\n'));
-        assert.deepEqual(t.calls, [['pull'], ['commit', t.file, 'schedule: Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22']]);
+        assert.deepEqual(t.calls, [['pull'], ['push'], ['commit', t.file, 'schedule: Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22']]);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });
 test('unchanged content is not rewritten or committed', async () => {
@@ -113,11 +113,11 @@ test('unchanged content is not rewritten or committed', async () => {
         assert.equal(t.calls.filter(c => c[0] === 'commit').length, 1);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });
-test('changed content (a new rating) is republished', async () => {
+test('changed content (a different resolved id) is republished, with a fresh rating', async () => {
     const t = pubEnv();
     try {
         await t.run();
-        assert.equal(await t.run({ rate: async () => ({ rating: 8, votes: 9 }) }), 'published');
+        assert.equal(await t.run({ resolveItem: async () => 'tt2', rate: async () => ({ rating: 8, votes: 9 }) }), 'published');
         assert.equal(items(JSON.parse(fs.readFileSync(t.file, 'utf8')))[0].imdbRating, 8);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });
@@ -219,4 +219,65 @@ test('applyPick matches the string year in the file against the numeric pick yea
     assert.equal(applyPick(doc, { title: 'zeiram', year: 1991, tconst: 'tt9', rating: null }).changed, true);
     assert.equal(applyPick(doc, { title: 'Zeiram', year: 1992, tconst: 'tt9', rating: null }).changed, false);
     assert.equal(applyPick(doc, { title: 'Mystery Film', year: null, tconst: 'tt9', rating: null }).changed, true);
+});
+
+// --- Final-review fixes ---
+test('makeResolveItem returns null for a dismissed title without searching (a dismiss must not be re-resolved)', async () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'dis-'));
+    const file = path.join(dir, 'title-overrides.json');
+    fs.writeFileSync(file, JSON.stringify({ picks: {}, dismissed: { 'seven|1979': true } }));
+    try {
+        const imdb = { searchTitle: async () => { throw new Error('must not search'); }, searchCandidates: async () => { throw new Error('must not search'); } };
+        const resolveItem = makeResolveItem({ imdb, tmdb: null, overridesFile: file, log: () => {} });
+        assert.equal(await resolveItem({ title: 'Seven', year: '1979', akas: [] }), null);
+    } finally { fs.rmSync(dir, { recursive: true, force: true }); }
+});
+
+const prevDoc = async (over = {}) => {
+    const d = await buildScheduleDoc({ post: post(), now: NOW, resolveItem: async item => 'tt-' + item.title.replace(/ /g, ''), rate: async () => ({ rating: 6.4, votes: 3100 }) });
+    return { ...d, ...over };
+};
+test('a failed or empty lookup carries forward the previously published id (same post only)', async () => {
+    const previous = await prevDoc();
+    const nulls = await buildScheduleDoc({ post: post(), now: NOW, previous, resolveItem: async () => null, rate: async () => null });
+    assert.deepEqual(items(nulls).map(i => i.imdbId), items(previous).map(i => i.imdbId));
+    const threw = await buildScheduleDoc({ post: post(), now: NOW, previous, resolveItem: async () => { throw new Error('imdb down'); }, rate: async () => null });
+    assert.deepEqual(items(threw).map(i => i.imdbId), items(previous).map(i => i.imdbId));
+    const otherPost = await buildScheduleDoc({ post: { ...post(), postId: 't3_other' }, now: NOW, previous, resolveItem: async () => null, rate: async () => null });
+    assert.ok(items(otherPost).every(i => i.imdbId === null));
+});
+test('a previously published rating is kept, not refetched, while the id is unchanged (no vote-count churn)', async () => {
+    const previous = await prevDoc();
+    let rated = 0;
+    const next = await buildScheduleDoc({ post: post(), now: NOW, previous, resolveItem: async item => 'tt-' + item.title.replace(/ /g, ''), rate: async () => { rated++; return { rating: 9.9, votes: 99999 }; } });
+    assert.equal(rated, 0);
+    assert.deepEqual(items(next).map(i => [i.imdbRating, i.imdbVotes]), items(previous).map(i => [i.imdbRating, i.imdbVotes]));
+});
+test('a missing rating is fetched, and a changed id gets a fresh rating', async () => {
+    const previous = await prevDoc();
+    items(previous)[0].imdbRating = null; items(previous)[0].imdbVotes = null;
+    const refreshed = await buildScheduleDoc({ post: post(), now: NOW, previous, resolveItem: async item => 'tt-' + item.title.replace(/ /g, ''), rate: async () => ({ rating: 8, votes: 5 }) });
+    assert.deepEqual([items(refreshed)[0].imdbRating, items(refreshed)[1].imdbRating], [8, 6.4]);
+    const changedId = await buildScheduleDoc({ post: post(), now: NOW, previous: await prevDoc(), resolveItem: async () => 'tt-NEW', rate: async () => ({ rating: 7, votes: 1 }) });
+    assert.ok(items(changedId).every(i => i.imdbId === 'tt-NEW' && i.imdbRating === 7));
+});
+test('publishSchedule: an IMDb outage or vote drift after a good publish changes nothing and commits nothing', async () => {
+    const t = pubEnv();
+    try {
+        await t.run({ rate: async () => ({ rating: 6, votes: 9 }) });
+        const before = fs.readFileSync(t.file, 'utf8');
+        assert.equal(await t.run({ now: '2026-11-20T05:00:00.000Z', resolveItem: async () => null, rate: async () => { throw new Error('down'); } }), 'unchanged');
+        assert.equal(await t.run({ now: '2026-11-20T06:00:00.000Z', rate: async () => ({ rating: 6.1, votes: 12 }) }), 'unchanged');
+        assert.equal(fs.readFileSync(t.file, 'utf8'), before);
+        assert.equal(t.calls.filter(c => c[0] === 'commit').length, 1);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('publishSchedule delivers commits stranded by an earlier failed push: pull, then push, before anything else', async () => {
+    const t = pubEnv();
+    try {
+        await t.run();
+        t.calls.length = 0;
+        assert.equal(await t.run(), 'unchanged');
+        assert.deepEqual(t.calls, [['pull'], ['push']]);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });

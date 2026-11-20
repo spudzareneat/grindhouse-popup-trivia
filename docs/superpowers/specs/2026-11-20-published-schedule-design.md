@@ -58,7 +58,10 @@ unchanged (the generator's `flattenMovies` converts to a number internally; publ
 resolver (which already applies `overrides/title-overrides.json`), fetch `ratingsSummary { aggregateRating voteCount }`
 from the IMDb GraphQL endpoint already used by `src/imdb.js`, write the file, and commit/push only if the content
 (ignoring `fetchedAt`) changed. Commit message `schedule: <post title>`. A rating fetch failure leaves that item's rating null;
-it is retried on the next run. `run` calls the same function before researching.
+it is retried on the next run. Within one weekend's post, ids and ratings already published are kept (a failed or empty lookup
+never erases an id, and a rating is fetched once per id, not refreshed), so an IMDb outage cannot blank the file and vote-count
+drift never causes a commit. A dismissed title is never re-resolved. `schedule` also pushes any commit stranded by an
+earlier failed push before doing anything else. (Added after the final review.) `run` calls the same function before researching.
 
 **Cron:** add `schedule` on Wednesday (my call: 12:00 and 20:00 container time, since the post is "usually Wednesday"),
 alongside the existing Thu/Fri `run` entries.
