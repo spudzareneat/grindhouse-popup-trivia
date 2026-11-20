@@ -1,0 +1,432 @@
+{
+  "schema": 1,
+  "imdbId": "tt0091338",
+  "title": "Killer Party",
+  "year": 1986,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-11-20T05:19:13.889Z",
+  "facts": [
+    {
+      "t": 87,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The funeral eulogy invokes the Wizard of Oz's Tin Man. The film's only listed movie reference on IMDb is The Wizard of Oz (1939).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 132,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Killer Party went through the working titles Fool's Night and April Fool. It became Killer Party when Paramount announced its own April Fool's Day, due in theaters first.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Fruet co-wrote the classic Canadian road movie Goin' Down the Road. His own debut, Wedding in White (1972), won Best Picture at the 1973 Canadian Film Awards.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0296651",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDI3YmIxYjQtZjU2YS00OTFjLWIzMzMtYjFkMTdiZWQ1YzdjXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 270,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Critic Tim Brayton noted the opening stacks a funeral inside a drive-in movie inside a music video. The film's title doesn't appear until about nine and a quarter minutes in.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.alternateending.com/2026/01/killer-party-1986.html/amp"
+      }
+    },
+    {
+      "t": 340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: as April wanders the abandoned snack bar, the film crew can be seen reflected in the silver metal of the candy case.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The song over the opening is 'You're No Fool', performed by the band White Sister. It is credited to the character April in the film's music listing.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 575,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Elaine Wilkes (Phoebe) left acting and earned a Ph.D. in naturopathy, plus a master's in psychology. She later became a LEED-accredited green building professional.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0929161"
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The fictional Briggs College, where the sorority sisters study, turns up again in the 1998 slasher Urban Legend.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/10/15/killer-party-1986"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After shooting in 1984, MGM reportedly left the film on the shelf for a year and a half, per The Tampa Tribune's Bob Ross. It then got only a limited US release.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Killer-Party-Blu-ray/297885"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The ad tagline read 'DEADicated to the class of '86.' Another promised: 'By the end of the dance, some of the sorority sisters were dead on their feet.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Killer_Party"
+      }
+    },
+    {
+      "t": 1215,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: when the killer approaches the housemother nailing down a stair, the camera's shadow is visible on the door to the right.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Filming began in Toronto in fall 1984, but the film didn't reach theaters until May 9, 1986. It was a US/Canada co-production.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1530,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Professor Zito is named after director Joseph Zito, who made Friday the 13th: The Final Chapter (1984). Killer Party screenwriter Barney Cohen wrote that film too.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1585,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Paul Bartel (Professor Zito) directed Death Race 2000 and the cult hit Eating Raoul. He appeared in over 90 films and TV episodes, often opposite Mary Woronov.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000860",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NDg5MzQ2OV5BMl5BanBnXkFtZTcwMTcwMTg5Nw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1665,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ralph Seymour (Martin) began on Broadway in Peter Shaffer's Equus. He later appeared in Empire of the Sun (1987) and Rain Man (1988).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0786860",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmYwN2VhZjYtMDdmNy00NTI5LWEyMWEtYzM0NWNhZmQzYmMwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1790,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Martin Hewitt (Blake) was a bartender and valet parker before he beat out 5,000 actors, reportedly including Tom Cruise and Timothy Hutton, to star in Endless Love (1981).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0382063",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NlYjVjZjQtNDQ3NS00NDg3LTlhNTAtMmEyODM4YzNmZjk5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it two stars. He praised Sherry Willis-Burch's lively performance but noted nearly an hour passes before the killings start.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/killer-party-1986-the-april-fool.htm"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "John Beal's score mixes live strings and brass with synths including a Fairlight CMI and a Yamaha DX7. He also slipped in a Bernard Herrmann-style riff, per a Blu-ray.com review.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Killer-Party-Blu-ray/297885"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "When Sherry Willis-Burch auditioned, Vivia was a small role and the first character to die. After she won it, the script was rewritten and the part was expanded.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0932499"
+    },
+    {
+      "t": 2495,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Elaine Wilkes (Phoebe) said the film was significantly altered after shooting. In editing, one character's real death was replaced with a fake-out joke.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1271515/killer-party"
+      },
+      "person": "nm0929161"
+    },
+    {
+      "t": 2650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Joanna Johnson (Jennifer) went on to a long soap career, playing on and off on The Bold and the Beautiful from 1987 to 2014.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/10/15/killer-party-1986"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sherry Willis-Burch (Vivia) also starred in an earlier slasher, Final Exam (1981), where she played Janet.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hudsonlee.com/?p=2394"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer Barney Cohen's Killer Party reunited the horror-comedy prank with the slasher. Film Society of Lincoln Center called it an overlooked slasher, overshadowed by April Fool's Day.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screenwriter Barney Cohen says the film's working title was The April Fool. A copyright dispute arose with the financiers of Friday the 13th Part IV, who were making April Fool's Day.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Killer-Party-Blu-ray/297885"
+      }
+    },
+    {
+      "t": 3565,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The grocery bags in this scene are from Bells Supermarket, a Western New York chain that went out of business seven years after the film came out.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Filmed in October, though this half is set on April 1. You can spot actors in winter coats and even snowflakes drifting past the camera in exterior shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3780,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The slow-dance song, 'The Lucky One', was performed by Laura Branigan and written by Bruce Roberts.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Two of the actresses wore contact lenses on set. Gas-permeable lenses were standard in 1984 and bulkier than today's, which made them awkward to work in.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1271515/killer-party"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "MGM cut bloody details from almost every murder before release. Fangoria magazine then published photos of the trimmed death scenes. They were never restored.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4310,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The pre-cut version had more gore, including a fuller trident impalement of sorority sister Pam. The MPAA demanded cuts and the film was re-edited.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/10/15/killer-party-1986"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It was the last film in MGM's original library, dating to 1924, released the same month Kirk Kerkorian sold the studio to Ted Turner. It grossed just $457,026.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Tim Brayton counted twelve deaths in the film and called it several different movies in one: teen comedy, sex farce, mystery and slasher.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.alternateending.com/2026/01/killer-party-1986.html/amp"
+      }
+    },
+    {
+      "t": 4830,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Goof alert: forearm splints are visible under Jennifer's sleeves when she blocks blows from wooden beams. Her sleeves roll up once, then back down to hide them.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs gave the film a slight recommendation for its sheer number of murders. He felt its supernatural elements recalled The Exorcist and Poltergeist.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director William Fruet moved into TV, including Goosebumps and Poltergeist: The Legacy. LA's New Beverly Cinema ran a triple-feature retrospective of his work in 2015.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1271515/killer-party"
+      }
+    },
+    {
+      "t": 5360,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Per TCM, the final ambulance scene was shot around 3 a.m. The distributor also toned down the film's gore, especially in the finale, to get an R rating.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1271515/killer-party"
+      }
+    }
+  ]
+}
