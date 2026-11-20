@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, readWeekendMoviesFile, feedUrl, FEED_URL, parseDateRange } from '../src/schedule.js';
+import { parseEntries, selectCurrentEntry, parseSchedule, parseListItems, flattenMovies, fetchWeekendMovies, readWeekendMoviesFile, feedUrl, FEED_URL, parseDateRange, parseMoviesList } from '../src/schedule.js';
 
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const entry = (id, title, pub, html) =>
@@ -145,7 +145,21 @@ test('feedUrl applies a personal feed token to the subreddit feed, and defaults 
     assert.equal(feedUrl({}), FEED_URL);
     assert.equal(feedUrl({ REDDIT_FEED_URL: 'https://www.reddit.com/.rss?feed=abc123&user=someone' }), FEED_URL + '?feed=abc123&user=someone');
 });
+test('feedUrl rejects a REDDIT_FEED_URL that is not a URL, naming the variable but never echoing the value', () => {
+    const token = '0123456789abcdef0123456789abcdef01234567';
+    assert.throws(() => feedUrl({ REDDIT_FEED_URL: token }), err => /REDDIT_FEED_URL/.test(err.message) && /full URL/.test(err.message) && !err.message.includes(token));
+    assert.throws(() => feedUrl({ REDDIT_FEED_URL: 'https://www.reddit.com/.rss' }), /feed=.*user=|feed.*user/);
+});
 test('a non-429 failure reports the readable part of the error page, never the URL', async () => {
     const page = '<style>.x{color:red}</style><body><h1>blocked by network security</h1></body>';
     await assert.rejects(fetchWeekendMovies(async () => ({ ok: false, status: 403, text: async () => page })), err => /HTTP 403 — blocked by network security/.test(err.message) && !/feed=/.test(err.message));
+});
+
+test('parseMoviesList turns a pasted "Title (Year); Title (Year)" list into a schedule', () => {
+    const r = parseMoviesList('Carnival of Souls (1962); Alligator (1980) aka Alligator: The Bite\nJudge & Jury (1996) ;  Mystery Film;; Carnival of Souls (1962)');
+    assert.equal(r.postTitle, 'Manual list');
+    assert.equal(r.weekendFri, null);
+    assert.deepEqual(r.movies.map(m => [m.title, m.year]), [['Carnival of Souls', 1962], ['Alligator', 1980], ['Judge & Jury', 1996], ['Mystery Film', null]]);
+    assert.deepEqual(r.movies[1].akas, ['Alligator: The Bite']);
+    assert.throws(() => parseMoviesList(' ; \n '), /no movies/);
 });

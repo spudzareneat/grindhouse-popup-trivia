@@ -5,3 +5,7 @@ out/
 *.log
 secrets/
 .cache/
+
+# Reddit session cookie exports are credentials
+export.json
+reddit_cookies.json

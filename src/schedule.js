@@ -160,8 +160,24 @@ export function flattenMovies(days) {
     return out;
 }
 
+// Hand-typed lineup ("Title (Year); Title (Year)", also newline-separated) for when the Reddit scrape is unavailable.
+// Same "Title (Year) aka Other" syntax and parsing as a schedule post's list items.
+export function parseMoviesList(text) {
+    const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const lines = String(text).split(/[;\n]+/).map(s => s.trim()).filter(Boolean);
+    const items = parseListItems(lines.map(l => `<li>${esc(l)}</li>`).join(''));
+    if (!items.length) throw new Error('no movies in the --movies list');
+    const name = 'Manual list';
+    return { postTitle: name, weekendFri: null, movies: flattenMovies([{ day: name, sections: [{ name, slug: slugify(name), items }] }]) };
+}
+
 function scheduleFromFeed(feedXml) {
-    const entry = selectCurrentEntry(parseEntries(feedXml));
+    return scheduleFromEntries(parseEntries(feedXml));
+}
+
+// entries: [{ postId, title, publishedAt, contentHtml }] from the (now retired) RSS feed or the browser scrape.
+export function scheduleFromEntries(entries) {
+    const entry = selectCurrentEntry(entries);
     if (!entry) throw new Error('no schedule post found in feed');
     const days = parseSchedule(entry.contentHtml);
     if (!days.length) throw new Error('no days parsed from schedule post: ' + entry.title);
@@ -183,8 +199,15 @@ export function feedUrl(env = process.env) {
     const raw = env.REDDIT_FEED_URL;
     if (!raw) return FEED_URL;
     const u = new URL(FEED_URL);
-    const src = new URL(raw);
-    for (const k of ['feed', 'user']) if (src.searchParams.has(k)) u.searchParams.set(k, src.searchParams.get(k));
+    let src;
+    try { src = new URL(raw); } catch {
+        // Never echo the value: it is (or contains) the feed credential.
+        throw new Error('REDDIT_FEED_URL is set but is not a valid URL; it must be the full URL from reddit.com/prefs/feeds (https://www.reddit.com/.rss?feed=...&user=...), not just the token');
+    }
+    if (!src.searchParams.has('feed') || !src.searchParams.has('user')) {
+        throw new Error('REDDIT_FEED_URL has no feed= and user= parameters; use the full URL from reddit.com/prefs/feeds');
+    }
+    for (const k of ['feed', 'user']) u.searchParams.set(k, src.searchParams.get(k));
     return u.href;
 }
 

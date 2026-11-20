@@ -22,6 +22,18 @@ Design: see `docs/curated-popup-trivia-design.md` (copied from the userscript re
    then look at it: `docker compose run --rm generator shell` → `cat /work/out/tt0055830.json`.
 5. Start the schedule: `docker compose up -d --build` (runs at midnight ending Wed, Thu 06:00 and Fri 00:01 in `TZ`). Logs: `docker compose logs -f`.
 
+### Reddit session (required)
+
+Reddit shut down RSS on 2026-11-13 and blocks plain HTTP clients, so the schedule is read by headless Chromium
+with a logged-in session. Use a dedicated Reddit account that can see r/420Grindhouse.
+
+1. Log in as that account in a normal browser, then export the reddit.com cookies as JSON
+   (e.g. the Cookie-Editor extension → Export → JSON).
+2. Save it on the server as `secrets/reddit_cookies.json` (Portainer: `/opt/grindhouse-popup-trivia/reddit_cookies.json`
+   plus `REDDIT_COOKIES_PATH=/opt/grindhouse-popup-trivia/reddit_cookies.json`), `chown 1000`, mode 600.
+   The file must exist before `docker compose up` (otherwise Docker creates an empty directory there).
+3. When the session expires the run fails with "Reddit session expired … re-export the cookies": repeat steps 1–2, no redeploy needed.
+
 ### Portainer
 
 1. On the server: `sudo mkdir -p /opt/grindhouse-popup-trivia && sudo ssh-keygen -t ed25519 -N "" -f /opt/grindhouse-popup-trivia/deploy_key && sudo chown 1000 /opt/grindhouse-popup-trivia/deploy_key`;

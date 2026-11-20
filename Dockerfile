@@ -17,6 +17,12 @@ RUN mkdir /work && chown node:node /work
 
 WORKDIR /app
 COPY package.json ./
+# Chromium for the Reddit schedule scrape (Reddit RSS ended 2026-11-13). Browsers live outside HOME so the node user can read them.
+ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
+RUN npm install --omit=dev --no-audit --no-fund \
+ && npx playwright-core install --with-deps chromium \
+ && chmod -R a+rX /ms-playwright \
+ && rm -rf /var/lib/apt/lists/*
 COPY src ./src
 COPY docker ./docker
 RUN chmod +x docker/entrypoint.sh

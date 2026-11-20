@@ -7,5 +7,8 @@
   "scripts": {
     "test": "node --test",
     "start": "node src/cli.js run"
+  },
+  "dependencies": {
+    "playwright-core": "1.49.1"
   }
 }
