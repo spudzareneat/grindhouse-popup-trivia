@@ -2,3 +2,6 @@
 0 0 * * 4 cd /app && node src/cli.js run
 0 6 * * 4 cd /app && node src/cli.js run
 1 0 * * 5 cd /app && node src/cli.js run
+# Lineup only (no Claude usage): publishes schedule/current.json as soon as the weekend post is up (usually Wednesday).
+0 12 * * 3 cd /app && node src/cli.js schedule
+0 20 * * 3 cd /app && node src/cli.js schedule

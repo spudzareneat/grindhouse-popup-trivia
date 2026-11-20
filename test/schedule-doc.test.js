@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { buildScheduleDoc, sameSchedule, publishSchedule, SCHEDULE_FILE } from '../src/schedule-doc.js';
+import { buildScheduleDoc, sameSchedule, publishSchedule, makeResolveItem, publishBestEffort, SCHEDULE_FILE } from '../src/schedule-doc.js';
 
 const post = () => ({
     postId: 't3_new', title: 'Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22', publishedAt: '2026-11-18T12:00:00+00:00',
@@ -139,4 +139,53 @@ test('a corrupt existing file is treated as missing and replaced', async () => {
         assert.equal(await t.run(), 'published');
         assert.equal(JSON.parse(fs.readFileSync(t.file, 'utf8')).schema, 1);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+
+// Wiring helpers used by the CLI.
+function overridesFile(picks = {}) {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'ovr-'));
+    const file = path.join(dir, 'title-overrides.json');
+    fs.writeFileSync(file, JSON.stringify({ picks, dismissed: {} }));
+    return { dir, file };
+}
+test('makeResolveItem honours an override, converting the string year to a number for the key', async () => {
+    const o = overridesFile({ 'black cobra woman|1976': 'tt0074501' });
+    try {
+        const imdb = { searchTitle: async () => { throw new Error('must not search'); }, searchCandidates: async () => { throw new Error('must not search'); } };
+        const resolveItem = makeResolveItem({ imdb, tmdb: null, overridesFile: o.file, log: () => {} });
+        assert.equal(await resolveItem({ title: 'Black Cobra Woman', year: '1976', akas: [] }), 'tt0074501');
+    } finally { fs.rmSync(o.dir, { recursive: true, force: true }); }
+});
+test('makeResolveItem searches IMDb with a numeric year, and returns null when nothing matches', async () => {
+    const o = overridesFile();
+    try {
+        const seen = [];
+        const imdb = {
+            searchTitle: async (term, year) => { seen.push([term, year]); return term === 'Zeiram' ? { tconst: 'tt0103327', title: 'Zeiram', year: 1991, votes: 5000 } : null; },
+            searchCandidates: async () => [],
+        };
+        const resolveItem = makeResolveItem({ imdb, tmdb: null, overridesFile: o.file, log: () => {} });
+        assert.equal(await resolveItem({ title: 'Zeiram', year: '1991', akas: [] }), 'tt0103327');
+        assert.deepEqual(seen[0], ['Zeiram', 1991]);
+        assert.equal(await resolveItem({ title: 'Mystery Film', year: null, akas: [] }), null);
+    } finally { fs.rmSync(o.dir, { recursive: true, force: true }); }
+});
+test('publishBestEffort skips when told to, and when there is no scraped post (manual lists)', async () => {
+    let called = 0;
+    const publish = async () => { called++; return 'published'; };
+    assert.equal(await publishBestEffort({ skip: true, post: post(), publish, log: () => {} }), 'skipped');
+    assert.equal(await publishBestEffort({ skip: false, post: undefined, publish, log: () => {} }), 'skipped');
+    assert.equal(called, 0);
+});
+test('publishBestEffort hands the already-scraped post to publish and returns its result', async () => {
+    let fetched;
+    const result = await publishBestEffort({ skip: false, post: post(), publish: async fetchPost => { fetched = await fetchPost(); return 'unchanged'; }, log: () => {} });
+    assert.equal(result, 'unchanged');
+    assert.deepEqual(fetched, post());
+});
+test('publishBestEffort never throws: a publish failure is logged and reported as failed', async () => {
+    const logs = [];
+    const result = await publishBestEffort({ skip: false, post: post(), publish: async () => { throw new Error('git push failed'); }, log: m => logs.push(m) });
+    assert.equal(result, 'failed');
+    assert.ok(logs.some(l => l.includes('git push failed') && /run continues/.test(l)));
 });

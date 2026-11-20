@@ -53,6 +53,18 @@ add `--force` to regenerate an existing file. `… backfill-totals` adds the Dri
 existed (`--dry-run` writes to `out/`). Don't run a manual `docker compose run … movie` while a scheduled
 run is in progress — they share the `/work` checkout.
 
+### Published schedule
+
+`schedule/current.json` is the weekend lineup (post title, dates, days → sections → items) with each film's resolved
+`imdbId` and its IMDb `imdbRating` / `imdbVotes` (`null` when unknown). The userscript's Coming Attractions reads it from
+`https://raw.githubusercontent.com/spudzareneat/grindhouse-popup-trivia/main/schedule/current.json`. `year` is a string, as the
+userscript's own parser produced it. Items are resolved with the same resolver and `overrides/title-overrides.json` as the
+generator, and a Discord pick updates the matching item in the same commit as the override.
+
+`node src/cli.js schedule` (no Claude usage) scrapes, resolves, rates and commits only if the content changed; `--dry-run`
+prints the document without writing. It runs on Wednesday at 12:00 and 20:00 (container time) so the lineup appears when the
+post does, and `run` publishes the schedule it has just scraped before researching. A failed scrape leaves the previous file in place.
+
 Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth failure (re-run later / fix the token),
 3 git push failed (run stopped; the commit stays local and is pushed by the next run), 64 bad command line.
 

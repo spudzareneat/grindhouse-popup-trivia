@@ -27,12 +27,13 @@ import { makeDiscordApi } from './discord/api.js';
 import { makePendingStore } from './discord/pending.js';
 import { notifyRun, notifyFailure, notifySessionExpiring } from './discord/notify.js';
 import { loadOverrides } from './overrides.js';
+import { publishSchedule, buildScheduleDoc, makeResolveItem, publishBestEffort } from './schedule-doc.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
     const args = parseArgs(process.argv.slice(2));
     const [command, target] = args._;
-    if (args.error || !(command === 'run' || command === 'backfill-totals' || (command === 'movie' && target))) {
+    if (args.error || !(command === 'run' || command === 'schedule' || command === 'backfill-totals' || (command === 'movie' && target))) {
         console.error(USAGE);
         if (args.error) console.error(args.error);
         process.exitCode = 64;
@@ -72,22 +73,35 @@ async function main() {
         onWait: pid => log(`waiting for another run to finish (pid ${pid})...`),
     });
 
+    const discordOn = process.env.DISCORD_BOT_TOKEN && process.env.DISCORD_CHANNEL_ID;
+    const makeApi = () => makeDiscordApi({ token: process.env.DISCORD_BOT_TOKEN, channelId: process.env.DISCORD_CHANNEL_ID });
+    // Renewal reminder for the Reddit login, sent before the fetch so it still arrives when the fetch fails. Never blocks the run.
+    const remindSessionExpiry = async () => {
+        if (!discordOn) return;
+        try {
+            const cookiesFile = process.env.REDDIT_COOKIES_FILE || '/secrets/reddit_cookies.json';
+            await notifySessionExpiring({ api: makeApi(), expiresAt: sessionExpiresAt(cookiesFile), markerFile: path.join(repoDir, '.cache', 'reddit-session-warned'), log });
+        } catch (e) { log(`Reddit session expiry check skipped: ${e.message}`); }
+    };
+    // Publishing schedule/current.json (see docs/superpowers/specs/2026-11-20-published-schedule-design.md).
+    const resolveItem = makeResolveItem({ imdb: deps.imdb, tmdb: deps.tmdb, overridesFile: deps.overridesFile, log });
+    const rate = id => deps.imdb.fetchRating(id);
+    const publish = fetchPost => publishSchedule({ repoDir, git: deps.git, fetchPost, resolveItem, rate, now: new Date().toISOString(), log });
+
     if (command === 'run') {
-        const discordOn = process.env.DISCORD_BOT_TOKEN && process.env.DISCORD_CHANNEL_ID;
         let postTitle = null;
         const results = await locked(async () => {
-            const makeApi = () => makeDiscordApi({ token: process.env.DISCORD_BOT_TOKEN, channelId: process.env.DISCORD_CHANNEL_ID });
             let res;
-            // Renewal reminder for the Reddit login, sent before the fetch so it still arrives when the fetch fails. Never blocks the run.
-            if (discordOn && !args.dryRun && !args.movies && !args.schedule) {
-                try {
-                    const cookiesFile = process.env.REDDIT_COOKIES_FILE || '/secrets/reddit_cookies.json';
-                    await notifySessionExpiring({ api: makeApi(), expiresAt: sessionExpiresAt(cookiesFile), markerFile: path.join(repoDir, '.cache', 'reddit-session-warned'), log });
-                } catch (e) { log(`Reddit session expiry check skipped: ${e.message}`); }
-            }
+            if (!args.dryRun && !args.movies && !args.schedule) await remindSessionExpiry();
             try {
                 res = await runWeekend(deps, {
-                    fetchWeekend: async () => { const s = args.movies ? parseMoviesList(args.movies) : args.schedule ? readWeekendMoviesFile(path.resolve(args.schedule)) : await fetchWeekendMoviesViaBrowser({ log }); postTitle = s.postTitle; return s; },
+                    // The lineup is published from the scrape this run already makes (no second Reddit login), before any researching.
+                    fetchWeekend: async () => {
+                        const s = args.movies ? parseMoviesList(args.movies) : args.schedule ? readWeekendMoviesFile(path.resolve(args.schedule)) : await fetchWeekendMoviesViaBrowser({ log });
+                        await publishBestEffort({ skip: args.dryRun || !!args.movies || !!args.schedule, post: s.post, publish, log });
+                        postTitle = s.postTitle;
+                        return s;
+                    },
                     delayMs: Number(process.env.MOVIE_DELAY_SEC || 60) * 1000,
                     sleep,
                 });
@@ -113,6 +127,24 @@ async function main() {
         else if (results.some(r => r.stop === 'usage')) process.exitCode = 2;
         else if (attempted.length && attempted.every(r => r.status === 'failed')) process.exitCode = 1;
         else process.exitCode = 0;
+    } else if (command === 'schedule') {
+        // Lineup only: scrape, resolve ids, rate, publish. No Claude usage; safe to run often.
+        const fetchPost = async () => (await fetchWeekendMoviesViaBrowser({ log })).post;
+        try {
+            if (!args.dryRun) await remindSessionExpiry();
+            if (args.dryRun) {
+                const doc = await buildScheduleDoc({ post: await fetchPost(), resolveItem, rate, now: new Date().toISOString() });
+                log(`schedule (dry run, nothing written): ${doc.title}`);
+                console.log(JSON.stringify(doc, null, 2));
+            } else {
+                await locked(() => publish(fetchPost));
+            }
+            process.exitCode = 0;
+        } catch (e) {
+            log(`schedule failed: ${e.message}`);
+            if (discordOn && !args.dryRun) await notifyFailure({ api: makeApi(), error: e, log });
+            process.exitCode = e instanceof PublishError ? 3 : 1;
+        }
     } else if (command === 'backfill-totals') {
         if (!deps.totalsRows.length) { log('No Drive-In Totals loaded — nothing to backfill'); process.exitCode = 1; return; }
         try {

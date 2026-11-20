@@ -4,6 +4,8 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { resolveTitle } from './resolve.js';
+import { loadOverrides } from './overrides.js';
 
 export const SCHEDULE_FILE = 'schedule/current.json';
 
@@ -61,4 +63,25 @@ export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, ra
     git.commitAndPush(file, `schedule: ${doc.title}`);
     log(`schedule: published ${doc.title}`);
     return 'published';
+}
+
+// resolveItem for buildScheduleDoc: the same resolver (and overrides file) the generator uses. The published item
+// keeps the parser's string year; the resolver and the override keys want a number, so convert here.
+// Overrides are re-read per call so a Discord pick committed after the pull is honoured.
+export function makeResolveItem({ imdb, tmdb, overridesFile, log }) {
+    return async item => {
+        const year = item.year ? Number(item.year) : null;
+        const r = await resolveTitle({ title: item.title, year, akas: item.akas }, { imdb, tmdb, overrides: loadOverrides(overridesFile), log });
+        return r.tconst ?? null;
+    };
+}
+
+// What `run` does with the schedule it has just scraped: publish it, but never let a publish problem stop the run.
+// publish(fetchPost) is typically publishSchedule bound to repo/git/resolver. Returns 'skipped' | 'failed' | publish's result.
+export async function publishBestEffort({ skip, post, publish, log }) {
+    if (skip || !post) return 'skipped';
+    try { return await publish(async () => post); } catch (e) {
+        log(`schedule publish failed (run continues): ${e.message}`);
+        return 'failed';
+    }
 }
