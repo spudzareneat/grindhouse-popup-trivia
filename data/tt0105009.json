@@ -1,0 +1,399 @@
+{
+  "schema": 1,
+  "imdbId": "tt0105009",
+  "title": "No Place to Hide",
+  "year": 1992,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-11-20T06:07:13.161Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The viola in this opening Swan Lake ballet sequence was played by Maria Newman, stepdaughter of the film's composer, Robert O. Ragland.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 180,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lydie Denier, who plays murdered ballerina Pamela Hanley, started modeling at 14 for Vogue and ELLE, and entered Miss Italia 1984 before moving to Los Angeles to act.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lydie_Denier"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Cannon Pictures first hired Roman Polanski to direct. He insisted on rewriting the script first, which proved too slow and costly, so Cannon fired him and writer Richard Danus directed instead.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 370,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dey Young (Detective Karen) later guest-starred on three Star Trek series. Writer-director Richard Danus also wrote for Star Trek: The Next Generation and Deep Space Nine.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dey_Young"
+      }
+    },
+    {
+      "t": 435,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Bruce Weitz, who plays Captain Nelson Silva, won the 1984 Emmy for Outstanding Supporting Actor as Sgt. Mick Belker on Hill Street Blues.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Weitz"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Shot in 1990 but released in U.S. theaters in 1993, the film took in only about $135,000 at the box office.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cannon Group was run by Israeli cousins Menahem Golan and Yoram Globus, who built an empire on 80s action B-movies like Missing in Action and Death Wish sequels. Cobra (1986) was its biggest hit.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Cannon_Group"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-director Richard Danus never directed another feature. His credits are mostly TV, including Star Trek: The Next Generation and the 1976 movie Serpico's TV counterpart work.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Martin Landau (Frank McCoy) was embarrassed by this film. A fan once raised it at an LAX hotel and Landau shook his head: 'Of all the pictures I've made, why would you ask about that one?'",
+      "icon": "mic",
+      "byline": "Martin Landau",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001445",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI0MzkxNzg0OF5BMl5BanBnXkFtZTcwNDUzOTc5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kane Hodder, who plays Weller, played Jason Voorhees in four Friday the 13th films, from Part VII to Jason X. He was the first actor to play Jason more than once.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kane_Hodder"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Robert O. Ragland scored creature features Grizzly (1976) and Q (1982) and the thriller 10 to Midnight. He also worked with Cannon boss Menahem Golan and director Larry Cohen.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Robert_O._Ragland"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tinsel phones from the La Reina Theatre on Ventura Boulevard in Sherman Oaks, a real cinema where the production shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1710,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The production filmed at the Natural History Museum of Los Angeles County in Exposition Park, and at Elysian Park.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Drew Barrymore admitted she took the role mostly because she needed work, calling the movie 'more of a D-movie than a B-movie.'",
+      "icon": "mic",
+      "byline": "Drew Barrymore",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000106",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyOTMzODIxM15BMl5BanBnXkFtZTcwODM2NTY5Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Kris Kristofferson (Joe Garvey) got his music break by landing a helicopter in Johnny Cash's backyard to hand him a song. He was a former Army Ranger captain and helicopter pilot.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kris Kristofferson often pretended not to remember filming this movie when fans asked about it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001434",
+      "image": "https://m.media-amazon.com/images/M/MV5BODM4NDY5MTYyMl5BMl5BanBnXkFtZTYwNjg1ODE2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Of 2,000 actors who auditioned for Lee Strasberg's Actors Studio, only two got in: Martin Landau (Frank McCoy) and Steve McQueen. They later co-starred in Nevada Smith (1966).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline: 'A teenager who's seen too much...and a cop who's seen it all.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cannon was taken over by Giancarlo Parretti's Pathé, which revived the name as low-budget Cannon Pictures. It released its last film in 1994 and its library was auctioned in 1997.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Cannon_Group"
+      }
+    },
+    {
+      "t": 2580,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Illana Diamant (Joline) was Miss Israel 1980 and represented Israel at the Miss Universe pageant that year.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0224532",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwOTUyNjU2MF5BMl5BanBnXkFtZTYwNDQzMTEz._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Washington Post's Richard Harrington wrote: 'No Place to Hide is so bad it's not even any good.' He called it a 'triumph of underachievement' for its two leads.",
+      "icon": "mic",
+      "byline": "Richard Harrington — The Washington Post",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/No_Place_to_Hide_(1993_film)"
+      }
+    },
+    {
+      "t": 2745,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "O.J. Simpson plays Allie Wheeler, a wheelchair-using friend of the hero. Two years after the film's U.S. release, Simpson was acquitted in his 1995 murder trial.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001740",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NTYzNTg2N15BMl5BanBnXkFtZTcwMzEwMTAxMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "O.J. Simpson (Allie Wheeler) was once considered for the title role in The Terminator, but producers feared he was too nice. He did star in the Naked Gun comedies.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A filming location, Alverno High School in Sierra Madre, was the alien headquarters in the 1980s miniseries V. It later stood in for a Catholic school in Lady Bird (2016).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Alverno_Heights_Academy"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Illana Diamant (Joline) later appeared in Stone Cold, Double Team and Universal Soldier: Regeneration.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Drew Barrymore was only about 14 when she made this, the same age as her character Tinsel. Poison Ivy, released in 1992, helped launch her teen-to-adult career turn.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000106",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyOTMzODIxM15BMl5BanBnXkFtZTcwODM2NTY5Mg@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kris Kristofferson wrote 'Me and Bobby McGee' and 'Help Me Make It Through the Night'. He later played Whistler in the Blade trilogy.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4070,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lilyan Chauvin, who plays the Mother Superior here, also played a different Mother Superior in Silent Night, Deadly Night (1984). Maybe an inside joke.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before this film, writer-director Richard Danus wrote for TV shows Blue Thunder (1984) and McMillan & Wife (1971).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bands About Movies' Cannon Month series covers the film and notes the surprise that Cannon made it. It also says the killer's costume has a giallo flavor.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2022/08/09/cannon-month-2-no-place-to-hide-1992/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kane Hodder later starred as Victor Crowley in the Hatchet horror series. His performance in the first Hatchet won the Fantastic Fest Horror Jury Award for Best Actor.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kane_Hodder"
+      }
+    },
+    {
+      "t": 5050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lydie Denier also played Jane in the Tarzan TV series. Bands About Movies notes she appeared in many Zalman King films, including Wild Orchid II and Red Shoe Diaries.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2022/08/09/cannon-month-2-no-place-to-hide-1992/"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Martin Landau won the Best Supporting Actor Oscar for playing Bela Lugosi in Ed Wood (1994), the year after this film reached U.S. theaters.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001445",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI0MzkxNzg0OF5BMl5BanBnXkFtZTcwNDUzOTc5MQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
