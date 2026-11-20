@@ -1,0 +1,389 @@
+{
+  "schema": 1,
+  "imdbId": "tt0094962",
+  "title": "The Dead Next Door",
+  "year": 1989,
+  "runtimeSec": 4680,
+  "generatedAt": "2026-11-20T06:15:23.129Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director J.R. Bookwalter shot this on Super 8, the home-movie format, in his hometown of Akron, Ohio. He was about 20, and the whole thing took roughly four years to finish.",
+      "icon": "camera",
+      "byline": "J.R. Bookwalter — Director",
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/the-director-next-door-jr-bookwalter/"
+      },
+      "person": "nm0006931",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Q4NjY1YTYtNjFmOC00ZDA5LWE2ZGYtMThkNTkwNmI5MGY1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 210,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sam Raimi, fresh off Evil Dead II, funded this film with part of his pay. He's credited only as executive producer 'The Master Cylinder.'",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 318,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The newscaster says The Jeffersons and Sanford & Son are preempted. Both 1970s sitcoms get name-checked in the film's list of pop culture references.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reported budget is $75,000. Director J.R. Bookwalter later guessed it was closer to $125,000, and everyone worked for deferred pay.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 495,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director J.R. Bookwalter's idea for this feature grew out of one of his short films, a riff on Lucio Fulci's Italian zombie gutmuncher Zombie (1979).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/blog/ds-dead-next-door"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The voice of team leader Raimi is not actor Pete Ferry's. It's The Evil Dead star Bruce Campbell, who dubbed the part during post-production.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first two weeks of dailies were nearly unusable because cinematographer Michael Tolochko wasn't using a light meter. Scott Spiegel showed him how, but some scenes stayed very dark.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Many character names are horror in-jokes: Raimi for Sam Raimi, Savini for Tom Savini, and Cmdr. Carpenter for John Carpenter. Bookwalter reportedly named the lead after Raimi as thanks.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dead-next-door-1989.htm"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hundreds of locals answered the casting call for zombie extras in Akron. Director J.R. Bookwalter, his brother and his best friend all shambled around as zombies too.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.midwestmoviemaker.com/2012/01/filmmaker-next-door-akrons-own-horror.html"
+      }
+    },
+    {
+      "t": 955,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The movie Randalls urges Raimi to watch for zombie-killing tips is The Evil Dead (1981), the film that made Sam Raimi, this movie's backer, famous.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1125,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Tom Savini was supposed to play the bumbling Dr. Savini himself, but he was busy on The Texas Chainsaw Massacre 2. The role went to another actor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Production was fueled by Jack Daniel's: the film was reportedly sponsored by the whiskey, and bottles are strewn throughout.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1405,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The captain mourns lost soldiers Romero and King, nods to horror kings George A. Romero and Stephen King.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Overseas titles got wild: Japan called it Another Evil Dead, Spain called it Mondo Zombie, and the banned-in-Germany DVD was retitled Zombie Squad.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.midwestmoviemaker.com/2012/01/filmmaker-next-door-akrons-own-horror.html"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bookwalter wrote the film as a list of shots rather than a conventional screenplay.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot on Super 8 but edited on video, which is why it looks a lot like a shot-on-video movie. Mondo Digital's review notes this.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadnextdoor"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bogdan Pecic (Dr. Moulsson) also stars in director J.R. Bookwalter's Robot Ninja (1989) and Zombie Cop (1991), and both of those films wink back at this one.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce Campbell supervised post-production sound and dubbed two characters. Only two actors kept their original voices, so the Blu-ray offers both dubbed and original-cast mixes.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadnextdoor"
+      }
+    },
+    {
+      "t": 2200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The electronic score was composed by director J.R. Bookwalter himself. Local bands fill out the songs, and in 2026 Mystic Vault Records pressed the soundtrack on vinyl from his original recordings.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film got Moria reviews: Richard Scheib gave it two stars, calling it amateurish but praising the gore effects and the Washington D.C. footage.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/dead-next-door-1989.htm"
+      }
+    },
+    {
+      "t": 2745,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Dr. Moulsson's hat, played by Bogdan Pecic, reads 'Once I thought I was Wrong, but I was Mistaken!'",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bookwalter wrote a romance between Raimi and Kuller early on, but scrapped it as uninteresting.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rue Morgue magazine put The Dead Next Door on its list of the Top 50 Essential Gore Films, a long way from a backyard Super 8 shoot in Akron.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.midwestmoviemaker.com/2012/01/filmmaker-next-door-akrons-own-horror.html"
+      }
+    },
+    {
+      "t": 3249,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Rev. Jones, the cult leader, is most likely modeled on Jim Jones, whose Peoples Temple saw over 900 deaths at Jonestown, Guyana in 1978.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Kokai, who plays Rev. Jones, is the horror host 'Drac' of The Frank and Drac Show. He was inducted into the Official Horror Host Hall of Fame in 2019.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0463677",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjJhMDE1NmYtODVlMi00N2FhLTllNGEtYjQyNjMxYzE1YWY3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital says the film was hyped for years as the next wave of grassroots young horror filmmakers. Some fans were baffled when it arrived: more ambition than polish, but inventive gore.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/deadnextdoor"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After a cult following grew on VHS, Anchor Bay's 2005 DVD shortened the end credits by about four minutes. They'd run roughly 12 minutes, and the titles were rebuilt because the Amiga was gone.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/the-director-next-door-jr-bookwalter/"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original VHS cut ran 83 minutes. Anchor Bay's 2005 remaster trimmed it to 78 minutes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was banned in Germany: indexed in 2002 and then confiscated nationwide. The ban was lifted in 2020.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "AllMovie called it 'very stylish for what is essentially an epic-scale home movie,' likening its pace to a live-action video game.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director J.R. Bookwalter planned a sequel, Dead Future: The Dead Next Door, where humans and zombies must co-exist, with political satire about racism and love. It was never made.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film got a laserdisc release in Japan, the only one of director J.R. Bookwalter's films to get that format, per his Film Threat interview.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/the-director-next-door-jr-bookwalter/"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The end credits boast the film was shot in 'Amscovision,' a process where the camera rigs are built from 2x4s and PVC pipes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
