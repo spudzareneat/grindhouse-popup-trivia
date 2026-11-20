@@ -1,0 +1,415 @@
+{
+  "schema": 1,
+  "imdbId": "tt0092669",
+  "title": "Blood Diner",
+  "year": 1987,
+  "runtimeSec": 5280,
+  "generatedAt": "2026-11-20T05:44:38.317Z",
+  "facts": [
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blood Diner was shot in just three weeks on a budget of only about $330,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jackie Kong says distributors were stunned to meet her after the film's success. They had assumed she was a man, since women directing movies was almost unheard of then.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0465034"
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film's 'cult of Sheetar' echoes Blood Feast, where the killer was Fuad Ramses and the goddess Ishtar. Here the killer becomes Anwar Namtut and the goddess Sheetar.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/blood-diner-blu-ray-review-originally-published-2016"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Little Michael, the wrestling-obsessed kid hero's pint-sized pal? Not quite: the character Little Michael was played by a woman, actress Roxanne Osco.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Michael Sonye wrote under the pseudonym 'Dukey Flyswatter' and also appears in the film. He acted in Troma's Surf Nazis Must Die the same year.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/blood-diner-blu-ray-review-originally-published-2016"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The score was composed by Don Preston, a former keyboardist with Frank Zappa's Mothers of Invention. Filmmaker Robert Downey Sr. reportedly introduced him to Jackie Kong.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/blood-diner-blu-ray-review-originally-published-2016"
+      }
+    },
+    {
+      "t": 728,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Anwar's boast that Sheetar is 'more powerful than Superman' is one of the film's pop-culture nods. The IMDb connections list also credits Superman (1978), Flashdance and King Kong Lives as references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 910,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Vitamin's crack about cheerleaders dressed up like 'Flashdance' is one of the movie's 1980s pop shout-outs. Flashdance came out in 1983, four years earlier.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kong said she avoided watching Blood Feast so it wouldn't influence her film. One Blu-ray reviewer at Genre Grinder doubts that claim.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/blood-diner-blu-ray-review-originally-published-2016"
+      },
+      "person": "nm0465034"
+    },
+    {
+      "t": 1063,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Carl Crew, who plays George Tutman, joked in the Blu-ray extras that Tanya Papanicolas, who plays the goddess Sheetar, 'always smelled like teriyaki.'",
+      "icon": "mic",
+      "byline": "Carl Crew",
+      "source": {
+        "type": "web",
+        "url": "https://geeksofdoom.com/2016/09/26/blu-ray-review-blood-diner-vestron"
+      },
+      "person": "nm0187680",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDYyZjA5MTgtNDQyYy00Y2YzLWI1ZDUtYzJjNGI0YWRjMjcxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1255,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Wrestling fans may spot the TV in Georgie's room: a figurine in front of it keeps vanishing and reappearing between shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Per an archival interview with project consultant Eric Caidin, the brothers were originally meant to be played by horror face Michael Berryman and pro wrestler George 'The Animal' Steele.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://geeksofdoom.com/2016/09/26/blu-ray-review-blood-diner-vestron"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blood Diner's UK 18-certificate release was cut by 3 minutes 53 seconds by the BBFC, and the UK Vestron tape was heavily trimmed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Punk and rockabilly musicians were cast as extras, bit players and even leads. Writer Michael Sonye himself played in the punk band Haunted Garage, making the club scenes a love letter to 1987 LA.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/?p=950"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blood Diner was banned in a number of Canadian provinces on release.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1988 Australian Vestron home video, rated R, is the uncut version. The German rental tape and UK sale tape were cut, while the Dutch tape was uncut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jackie Kong says the script was 'as serious as a heart attack' until she added the comedy. Writer Michael Sonye disputes that, saying producer Jimmy Maslon's ideas had to be funny to be used.",
+      "icon": "mic",
+      "byline": "Jackie Kong",
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/?p=950"
+      },
+      "person": "nm0465034"
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blood Diner was Jackie Kong's third feature, after The Being (1983) and Night Patrol (1984). A Blu-ray extra says the cast was assembled without SAG support.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/blood-diner-blu-ray-review-originally-published-2016"
+      },
+      "person": "nm0465034"
+    },
+    {
+      "t": 2566,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The nature hike was filmed at Bronson Caves in Griffith Park, Los Angeles. It's a classic movie location, and that's also where the film's Hollywood shooting took place.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Michael Sonye cites The Evil Dead and Re-Animator as major influences on Blood Diner's gory-funny tone, even though director Jackie Kong insists nobody was making horror-comedies before 1987.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://geeksofdoom.com/2016/09/26/blu-ray-review-blood-diner-vestron"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's soundtrack leans on 1950s doo-wop: The Penguins, The Calvanes, The Meadowlarks and The Medallions all appear, mixed with new rockabilly from Dino Lee.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Much of the dialogue was post-synced, and reviewers note the sync is often rough, which fits the rough-edged sound of Herschell Gordon Lewis's Blood Feast.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdexotica.com/2016/10/a-smorgasmorgue-of-horror-blood-diner.html?m=1"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Directed by Jackie Kong, Blood Diner was produced by Lawrence Kasanoff, Kong, Jimmy Maslon and Ellen Steloff. Maslon also wrote the song 'Shake It Out'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Blood_Diner"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jackie Kong wanted Blood Diner released unrated instead of trimmed for an R from the MPAA. Distributor Vestron agreed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/?p=950"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film got only a limited theatrical release from Lightning Pictures in July 1987, then found its audience on VHS from Vestron Video.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Rick Burks, who plays Michael Tutman, died in 1989 at age 29, so he is absent from the 2016 making-of documentary.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmfreakcentral.net/?p=950"
+      },
+      "person": "nm0122078"
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lionsgate launched its Vestron Video Collector's Series in 2016 with Blood Diner. Director Jackie Kong agreed to record a commentary only if the studio also backed a theatrical run.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blood-diner-director-invites-you-to-spend-the-night/"
+      }
+    },
+    {
+      "t": 4474,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The rockabilly tune 'Stud Pony' was written and performed by Dino Lee, who also provided 'Everybody Get Some' for the film.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vestron's closure meant director Jackie Kong finished only two pictures of her three-picture deal with the company.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jackie_Kong"
+      },
+      "person": "nm0465034"
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The official Blood Feast sequel finally came in 2002: Herschell Gordon Lewis made Blood Feast 2: All U Can Eat, 15 years after Blood Diner.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.genregrinder.com/post/blood-diner-blu-ray-review-originally-published-2016"
+      }
+    },
+    {
+      "t": 4830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blood Diner sold out Fantastic Fest, and Fangoria reports midnight crowds respond with a Rocky Horror-style frenzy. Fans have even had the film tattooed on their bodies.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/blood-diner-director-invites-you-to-spend-the-night/"
+      }
+    },
+    {
+      "t": 4950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TV Guide felt the film paid tribute to Herschell Gordon Lewis but that Jackie Kong's contempt for the source material left little of value. Rotten Tomatoes sits at 50%.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5080,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Carl Crew, who plays George Tutman, mentioned in the Blu-ray extras a possible sequel called Blood Dinner, which he said would be shot entirely in virtual reality.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://geeksofdoom.com/2016/09/26/blu-ray-review-blood-diner-vestron"
+      },
+      "person": "nm0187680",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDYyZjA5MTgtNDQyYy00Y2YzLWI1ZDUtYzJjNGI0YWRjMjcxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2016 Jackie Kong took Blood Diner on a roadshow with Q&As and rock 'n roll parties in Austin, Denver, Kansas City and New York to promote the Vestron Blu-ray.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/director-jackie-kong-is-taking-cult-classic-blood-diner-on-the-road-187/"
+      },
+      "person": "nm0465034"
+    }
+  ]
+}
