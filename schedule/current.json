@@ -1,0 +1,333 @@
+{
+  "schema": 1,
+  "fetchedAt": "2026-11-21T00:04:11.005Z",
+  "postId": "t3_1xzazcd",
+  "title": "Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22",
+  "publishedAt": "2026-11-18T09:29:06+00:00",
+  "weekend": {
+    "fri": "2026-11-20",
+    "sat": "2026-11-21",
+    "sun": "2026-11-22"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "sections": [
+        {
+          "name": "Funky Cheese Friday",
+          "slug": "funky-cheese-friday",
+          "items": [
+            {
+              "title": "Russell Madness",
+              "year": "2015",
+              "display": "Russell Madness (2015)",
+              "akas": [],
+              "imdbId": "tt4257950",
+              "imdbRating": 4.3,
+              "imdbVotes": 811
+            },
+            {
+              "title": "No Resistance",
+              "year": "1994",
+              "display": "No Resistance (1994)",
+              "akas": [],
+              "imdbId": "tt9612004",
+              "imdbRating": 7.3,
+              "imdbVotes": 32
+            },
+            {
+              "title": "Private Lessons",
+              "year": "1981",
+              "display": "Private Lessons (1981)",
+              "akas": [],
+              "imdbId": "tt0082948",
+              "imdbRating": 5.1,
+              "imdbVotes": 4938
+            }
+          ]
+        },
+        {
+          "name": "Friday Grindhouse-A-Go-Go",
+          "slug": "friday-grindhouse-a-go-go",
+          "items": [
+            {
+              "title": "Crawlspace",
+              "year": "1986",
+              "display": "Crawlspace (1986)",
+              "akas": [],
+              "imdbId": "tt0090881",
+              "imdbRating": 5.4,
+              "imdbVotes": 4579
+            },
+            {
+              "title": "Zeiram",
+              "year": "1991",
+              "display": "Zeiram (1991)",
+              "akas": [],
+              "imdbId": "tt0103327",
+              "imdbRating": 6.4,
+              "imdbVotes": 1244
+            },
+            {
+              "title": "Killer Party",
+              "year": "1986",
+              "display": "Killer Party (1986)",
+              "akas": [],
+              "imdbId": "tt0091338",
+              "imdbRating": 5,
+              "imdbVotes": 3045
+            }
+          ]
+        },
+        {
+          "name": "Friday Night Freak Show",
+          "slug": "friday-night-freak-show",
+          "items": [
+            {
+              "title": "Lady Avenger",
+              "year": "1988",
+              "display": "Lady Avenger (1988)",
+              "akas": [],
+              "imdbId": "tt0097703",
+              "imdbRating": 4.1,
+              "imdbVotes": 290
+            },
+            {
+              "title": "The Wizard of Gore",
+              "year": "2007",
+              "display": "The Wizard of Gore (2007)",
+              "akas": [],
+              "imdbId": "tt0765487",
+              "imdbRating": 4.8,
+              "imdbVotes": 3098
+            },
+            {
+              "title": "Hybrid",
+              "year": "2007",
+              "display": "Hybrid (2007)",
+              "akas": [],
+              "imdbId": "tt0874917",
+              "imdbRating": 3.2,
+              "imdbVotes": 816
+            }
+          ]
+        }
+      ],
+      "date": "2026-11-20"
+    },
+    {
+      "day": "Saturday",
+      "sections": [
+        {
+          "name": "Psychedelic Saturday",
+          "slug": "psychedelic-saturday",
+          "items": [
+            {
+              "title": "Shock Treatment",
+              "year": "1981",
+              "display": "Shock Treatment (1981)",
+              "akas": [],
+              "imdbId": "tt0083067",
+              "imdbRating": 5.7,
+              "imdbVotes": 5986
+            },
+            {
+              "title": "Soul Brothers of Kung Fu",
+              "year": "1977",
+              "display": "Soul Brothers of Kung Fu (1977)",
+              "akas": [],
+              "imdbId": "tt0081539",
+              "imdbRating": 6.3,
+              "imdbVotes": 292
+            },
+            {
+              "title": "Pass Thru",
+              "year": "2016",
+              "display": "Pass Thru (2016)",
+              "akas": [],
+              "imdbId": "tt5445074",
+              "imdbRating": 4.5,
+              "imdbVotes": 2308
+            }
+          ]
+        },
+        {
+          "name": "Saturday Prime Time Drive-In",
+          "slug": "saturday-prime-time-drive-in",
+          "items": [
+            {
+              "title": "Conquest",
+              "year": "1983",
+              "display": "Conquest (1983)",
+              "akas": [],
+              "imdbId": "tt0085356",
+              "imdbRating": 5.2,
+              "imdbVotes": 3417
+            },
+            {
+              "title": "Blood Diner",
+              "year": "1987",
+              "display": "Blood Diner (1987)",
+              "akas": [],
+              "imdbId": "tt0092669",
+              "imdbRating": 5.3,
+              "imdbVotes": 6253
+            },
+            {
+              "title": "Tenebre",
+              "year": "1984",
+              "display": "Tenebre (1984)",
+              "akas": [],
+              "imdbId": null,
+              "imdbRating": null,
+              "imdbVotes": null
+            }
+          ]
+        },
+        {
+          "name": "Red Light Saturday Night",
+          "slug": "red-light-saturday-night",
+          "items": [
+            {
+              "title": "Virtual Seduction",
+              "year": "1995",
+              "display": "Virtual Seduction (1995) aka Cybersex",
+              "akas": [
+                "Cybersex"
+              ],
+              "imdbId": "tt0114856",
+              "imdbRating": 4.5,
+              "imdbVotes": 232
+            },
+            {
+              "title": "The Devil's Wedding Night",
+              "year": "1973",
+              "display": "The Devil's Wedding Night (1973)",
+              "akas": [],
+              "imdbId": "tt0070547",
+              "imdbRating": 5.3,
+              "imdbVotes": 1307
+            },
+            {
+              "title": "Two to Tango",
+              "year": "1989",
+              "display": "Two to Tango (1989)",
+              "akas": [],
+              "imdbId": "tt0096325",
+              "imdbRating": 5.3,
+              "imdbVotes": 83
+            }
+          ]
+        }
+      ],
+      "date": "2026-11-21"
+    },
+    {
+      "day": "Sunday",
+      "sections": [
+        {
+          "name": "The Sunday Classics",
+          "slug": "the-sunday-classics",
+          "items": [
+            {
+              "title": "The Undertaker and His Pals",
+              "year": "1966",
+              "display": "The Undertaker and His Pals (1966)",
+              "akas": [],
+              "imdbId": "tt0061140",
+              "imdbRating": 4.5,
+              "imdbVotes": 1395
+            },
+            {
+              "title": "Phantom of the Paradise",
+              "year": "1974",
+              "display": "Phantom of the Paradise (1974)",
+              "akas": [],
+              "imdbId": "tt0071994",
+              "imdbRating": 7.3,
+              "imdbVotes": 27154
+            },
+            {
+              "title": "Sisters",
+              "year": "1972",
+              "display": "Sisters (1972)",
+              "akas": [],
+              "imdbId": "tt0070698",
+              "imdbRating": 6.8,
+              "imdbVotes": 24095
+            }
+          ]
+        },
+        {
+          "name": "Sunday Slop-O-Rama",
+          "slug": "sunday-slop-o-rama",
+          "items": [
+            {
+              "title": "No Place to Hide",
+              "year": "1992",
+              "display": "No Place to Hide (1992)",
+              "akas": [],
+              "imdbId": "tt0105009",
+              "imdbRating": 5.1,
+              "imdbVotes": 890
+            },
+            {
+              "title": "Blood Salvage",
+              "year": "1990",
+              "display": "Blood Salvage (1990) aka Bad Jake",
+              "akas": [
+                "Bad Jake"
+              ],
+              "imdbId": "tt0099153",
+              "imdbRating": 5,
+              "imdbVotes": 787
+            },
+            {
+              "title": "The Dead Next Door",
+              "year": "1989",
+              "display": "The Dead Next Door (1989)",
+              "akas": [],
+              "imdbId": "tt0094962",
+              "imdbRating": 5,
+              "imdbVotes": 3710
+            }
+          ]
+        },
+        {
+          "name": "Last Call Sunday Night",
+          "slug": "last-call-sunday-night",
+          "items": [
+            {
+              "title": "How to Make a Monster",
+              "year": "2001",
+              "display": "How to Make a Monster (2001)",
+              "akas": [],
+              "imdbId": "tt0281919",
+              "imdbRating": 4.5,
+              "imdbVotes": 1961
+            },
+            {
+              "title": "Blackjack",
+              "year": "1998",
+              "display": "Blackjack (1998)",
+              "akas": [],
+              "imdbId": "tt0126816",
+              "imdbRating": 4.8,
+              "imdbVotes": 4953
+            },
+            {
+              "title": "Deep Core",
+              "year": "2000",
+              "display": "Deep Core (2000)",
+              "akas": [],
+              "imdbId": "tt0202314",
+              "imdbRating": 3.2,
+              "imdbVotes": 1340
+            }
+          ]
+        }
+      ],
+      "date": "2026-11-22"
+    }
+  ]
+}
