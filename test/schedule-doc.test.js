@@ -347,3 +347,30 @@ test('publishSchedule republishes when info was missing and is now available (re
         assert.ok(items(JSON.parse(fs.readFileSync(t.file, 'utf8'))).every(i => i.info && i.info.cleanTitle));
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });
+
+// applyPick with info: a Discord pick refreshes the picked film's published info too.
+test('applyPick sets info on the matching item only, and reports changed', async () => {
+    const doc = await docFor();
+    const info = { imdbId: 'tt0084777', cleanTitle: 'Tenebrae', poster: 'https://p/t' };
+    const { doc: next, changed } = applyPick(doc, { title: 'Tenebre', year: 1984, tconst: 'tt0084777', rating: null, info });
+    assert.equal(changed, true);
+    assert.deepEqual(items(next)[2].info, info);
+    assert.ok(!('info' in items(next)[0]));
+    assert.ok(!('info' in items(doc)[2]));
+});
+test('applyPick with info undefined leaves info untouched, and with null clears it', async () => {
+    const doc = await docFor();
+    items(doc)[2].info = { imdbId: 'tt-Tenebre', cleanTitle: 'Old' };
+    const keep = applyPick(doc, { title: 'Tenebre', year: 1984, tconst: 'tt-Tenebre', rating: { rating: 5, votes: 10 } });
+    assert.equal(keep.changed, false);
+    assert.equal(items(keep.doc)[2].info.cleanTitle, 'Old');
+    const cleared = applyPick(doc, { title: 'Tenebre', year: 1984, tconst: null, rating: null, info: null });
+    assert.equal(cleared.changed, true);
+    assert.deepEqual([items(cleared.doc)[2].imdbId, items(cleared.doc)[2].info], [null, null]);
+});
+test('applyPick reports changed false when the info is identical', async () => {
+    const doc = await docFor();
+    const info = { imdbId: 'tt-Zeiram', cleanTitle: 'Zeiram' };
+    items(doc)[0].info = info;
+    assert.equal(applyPick(doc, { title: 'Zeiram', year: 1991, tconst: 'tt-Zeiram', rating: { rating: 5, votes: 10 }, info: { ...info } }).changed, false);
+});

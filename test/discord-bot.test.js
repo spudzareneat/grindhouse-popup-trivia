@@ -306,3 +306,44 @@ test('dismissing a film keeps it in the schedule with a null id', async () => {
         assert.equal(items[0].imdbId, null);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });
+
+// A pick also refreshes the picked film's published info.
+const picked = { imdbId: 'tt0084777', cleanTitle: 'Tenebrae', poster: 'https://p/t' };
+test('saveChoice writes the fetched info into the schedule file in the same commit', async () => {
+    const t = saveEnv();
+    try {
+        const asked = [];
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => null }, fetchInfo: async id => { asked.push(id); return picked; } })({ entry, tconst: 'tt0084777' });
+        assert.deepEqual(asked, ['tt0084777']);
+        assert.deepEqual(t.commits[0][0], [t.file, t.schedFile]);
+        assert.deepEqual(JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items[0].info, picked);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('a failing or null info fetch still saves the pick, with info null', async () => {
+    for (const fetchInfo of [async () => { throw new Error('tmdb down'); }, async () => null]) {
+        const t = saveEnv();
+        try {
+            await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => null }, fetchInfo })({ entry, tconst: 'tt0084777' });
+            const item = JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items[0];
+            assert.deepEqual([item.imdbId, item.info], ['tt0084777', null]);
+            assert.deepEqual(t.commits[0][0], [t.file, t.schedFile]);
+        } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+    }
+});
+test('dismissing nulls the published info and never calls fetchInfo', async () => {
+    const t = saveEnv();
+    try {
+        const doc = scheduleDoc(); doc.days[0].sections[0].items[0].imdbId = 'tt-old'; doc.days[0].sections[0].items[0].info = picked;
+        fs.writeFileSync(t.schedFile, JSON.stringify(doc));
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => null }, fetchInfo: async () => { throw new Error('must not be called'); } })({ entry, tconst: null });
+        const item = JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items[0];
+        assert.deepEqual([item.imdbId, item.info], [null, null]);
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('without a fetchInfo, a pick leaves any published info key alone (older wiring)', async () => {
+    const t = saveEnv();
+    try {
+        await makeSaveChoice({ repoDir: t.dir, git: t.git, imdb: { fetchRating: async () => null } })({ entry, tconst: 'tt0084777' });
+        assert.ok(!('info' in JSON.parse(fs.readFileSync(t.schedFile, 'utf8')).days[0].sections[0].items[0]));
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});

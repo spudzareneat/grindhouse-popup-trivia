@@ -91,7 +91,8 @@ export function writeScheduleDoc(repoDir, doc) {
 // A Discord pick (tconst) or dismiss (tconst null) for a schedule title: update every matching item's id and rating.
 // Items match the way overrides do (normalised title + year; the file's string year is converted). Pure: returns a copy,
 // and changed is false when no item matches or nothing would differ.
-export function applyPick(doc, { title, year, tconst, rating }) {
+// info (optional): the picked film's published info object, or null to clear it (dismiss); undefined leaves info untouched.
+export function applyPick(doc, { title, year, tconst, rating, info }) {
     const key = overrideKey(title, year ?? null);
     const next = structuredClone(doc);
     let changed = false;
@@ -100,6 +101,11 @@ export function applyPick(doc, { title, year, tconst, rating }) {
         const imdbId = tconst ?? null, imdbRating = rating?.rating ?? null, imdbVotes = rating?.votes ?? null;
         if (item.imdbId !== imdbId || item.imdbRating !== imdbRating || item.imdbVotes !== imdbVotes) changed = true;
         Object.assign(item, { imdbId, imdbRating, imdbVotes });
+        if (info !== undefined) {
+            const nextInfo = info ?? null;
+            if (JSON.stringify(item.info ?? null) !== JSON.stringify(nextInfo)) changed = true;
+            item.info = nextInfo;
+        }
     }
     return { doc: next, changed };
 }

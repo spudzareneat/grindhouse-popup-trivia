@@ -130,7 +130,7 @@ export async function recoverInterrupted({ api, store, log = () => {} }) {
 
 // Records the choice as an override and pushes it. The lock is released before returning,
 // so a following runMovie (which takes the lock itself) cannot deadlock.
-export function makeSaveChoice({ repoDir, git, lockOpts, imdb }) {
+export function makeSaveChoice({ repoDir, git, lockOpts, imdb, fetchInfo }) {
     const file = path.join(repoDir, 'overrides', 'title-overrides.json');
     const lockFile = path.join(repoDir, '.cache', 'run.lock');
     return ({ entry, tconst }) => withLock(lockFile, async () => {
@@ -144,7 +144,11 @@ export function makeSaveChoice({ repoDir, git, lockOpts, imdb }) {
             let rating = null;
             // Non-fatal: the id is still published and the next schedule run fills in the rating.
             if (tconst) { try { rating = (await imdb?.fetchRating(tconst)) ?? null; } catch { rating = null; } }
-            const { doc, changed } = applyPick(schedule, { title: entry.scheduleTitle, year: entry.scheduleYear, tconst: tconst ?? null, rating });
+            // The picked film's published info is refreshed too (non-fatal: null, and the next schedule run retries). A dismiss clears it.
+            let info;
+            if (!tconst) info = null;
+            else if (fetchInfo) { try { info = (await fetchInfo(tconst)) ?? null; } catch { info = null; } }
+            const { doc, changed } = applyPick(schedule, { title: entry.scheduleTitle, year: entry.scheduleYear, tconst: tconst ?? null, rating, info });
             if (changed) files.push(writeScheduleDoc(repoDir, doc));
         }
         git.commitAndPush(files.length === 1 ? file : files, tconst
