@@ -182,3 +182,31 @@ test('tmdb searchCandidates without a year sends no year parameter', async () =>
     assert.ok(calls.filter(u => u.includes('/search/movie')).every(u => !new URL(u).searchParams.has('year')));
     assert.equal(calls.filter(u => u.includes('/search/movie')).length, 1);
 });
+
+// fetchLineup: the TMDB fields Coming Attractions shows (published into schedule/current.json info).
+const tmdbLineupFetch = (over = {}) => async (url) => {
+    if (url.includes('/find/')) return jsonResponse({ movie_results: over.find === undefined ? [{ id: 603 }] : over.find });
+    return jsonResponse({
+        title: 'Zeiram', release_date: '1991-12-05', vote_average: 6.44, runtime: 85, genres: [{ name: 'Action' }, { name: 'Sci-Fi' }],
+        poster_path: '/p.jpg', backdrop_path: '/b.jpg', overview: 'o', ...(over.movie || {}),
+    });
+};
+test('tmdb fetchLineup maps find + movie details', async () => {
+    assert.deepEqual(await makeTmdb('K', tmdbLineupFetch()).fetchLineup('tt0103327'), {
+        tmdbId: 603, title: 'Zeiram', year: 1991, rating: 6.4, runtime: 85, genres: ['Action', 'Sci-Fi'],
+        poster: 'https://image.tmdb.org/t/p/w342/p.jpg', backdrop: 'https://image.tmdb.org/t/p/w780/b.jpg', overview: 'o',
+    });
+});
+test('tmdb fetchLineup nulls what TMDB lacks (no rating, runtime, images, date)', async () => {
+    const r = await makeTmdb('K', tmdbLineupFetch({ movie: { vote_average: 0, runtime: 0, poster_path: null, backdrop_path: null, release_date: '', overview: '', genres: [] } })).fetchLineup('tt1');
+    assert.deepEqual(r, { tmdbId: 603, title: 'Zeiram', year: null, rating: null, runtime: null, genres: [], poster: null, backdrop: null, overview: null });
+});
+test('tmdb fetchLineup returns null when TMDB has no match, and is a no-op without a key', async () => {
+    assert.equal(await makeTmdb('K', tmdbLineupFetch({ find: [] })).fetchLineup('tt1'), null);
+    let called = false;
+    assert.equal(await makeTmdb('', async () => { called = true; }).fetchLineup('tt1'), null);
+    assert.equal(called, false);
+});
+test('tmdb fetchLineup propagates an HTTP failure', async () => {
+    await assert.rejects(makeTmdb('K', async () => jsonResponse({}, 500)).fetchLineup('tt1'));
+});

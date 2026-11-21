@@ -4,7 +4,7 @@ const BASE = 'https://api.themoviedb.org/3';
 
 // Optional source. TMDB v3 API key via TMDB_API_KEY; without one this is a no-op.
 export function makeTmdb(apiKey, fetchImpl = fetch) {
-    if (!apiKey) return { fetchExtras: async () => null, searchCandidates: async () => [] };
+    if (!apiKey) return { fetchExtras: async () => null, searchCandidates: async () => [], fetchLineup: async () => null };
     const k = `api_key=${encodeURIComponent(apiKey)}`;
     async function fetchExtras(tconst) {
         const find = await getJson(fetchImpl, `${BASE}/find/${tconst}?external_source=imdb_id&${k}`);
@@ -47,5 +47,25 @@ export function makeTmdb(apiKey, fetchImpl = fetch) {
             return out.filter(Boolean);
         } catch { return []; }
     }
-    return { fetchExtras, searchCandidates };
+    // The TMDB fields Coming Attractions shows (same values and image sizes the userscript's own TMDB lookup uses:
+    // w342 posters, w780 backdrops, rating rounded to one decimal). Null when TMDB has no match; rejects on HTTP failure.
+    async function fetchLineup(tconst) {
+        const find = await getJson(fetchImpl, `${BASE}/find/${tconst}?external_source=imdb_id&${k}`);
+        const m = find.movie_results?.[0];
+        if (!m) return null;
+        const d = await getJson(fetchImpl, `${BASE}/movie/${m.id}?${k}`);
+        const y = parseInt((d.release_date || '').slice(0, 4), 10);
+        return {
+            tmdbId: m.id,
+            title: d.title || null,
+            year: Number.isFinite(y) ? y : null,
+            rating: d.vote_average ? Math.round(d.vote_average * 10) / 10 : null,
+            runtime: d.runtime || null,
+            genres: (d.genres || []).map(g => g.name).filter(Boolean),
+            poster: d.poster_path ? `https://image.tmdb.org/t/p/w342${d.poster_path}` : null,
+            backdrop: d.backdrop_path ? `https://image.tmdb.org/t/p/w780${d.backdrop_path}` : null,
+            overview: d.overview || null,
+        };
+    }
+    return { fetchExtras, searchCandidates, fetchLineup };
 }
