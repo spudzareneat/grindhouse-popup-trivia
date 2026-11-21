@@ -210,3 +210,24 @@ test('tmdb fetchLineup returns null when TMDB has no match, and is a no-op witho
 test('tmdb fetchLineup propagates an HTTP failure', async () => {
     await assert.rejects(makeTmdb('K', async () => jsonResponse({}, 500)).fetchLineup('tt1'));
 });
+
+// fetchWikipediaUrl: the film's Wikipedia article link shown on Coming Attractions cards.
+test('fetchWikipediaUrl searches "<title> <year> film" and builds the article URL', async () => {
+    let seen;
+    const fetchImpl = async (url) => { seen = decodeURIComponent(url); return jsonResponse({ query: { search: [{ title: 'Zeiram (film)' }] } }); };
+    assert.equal(await makeWiki(fetchImpl).fetchWikipediaUrl('Zeiram', 1991), 'https://en.wikipedia.org/wiki/Zeiram_(film)');
+    assert.match(seen, /list=search/);
+    assert.match(seen, /srsearch=Zeiram 1991 film/);
+    assert.match(seen, /srlimit=1/);
+});
+test('fetchWikipediaUrl without a year drops it from the query', async () => {
+    let seen;
+    const fetchImpl = async (url) => { seen = decodeURIComponent(url); return jsonResponse({ query: { search: [{ title: 'X' }] } }); };
+    await makeWiki(fetchImpl).fetchWikipediaUrl('Zeiram', null);
+    assert.match(seen, /srsearch=Zeiram film(&|$)/);
+});
+test('fetchWikipediaUrl returns null for no hit, and rejects when the request fails', async () => {
+    assert.equal(await makeWiki(async () => jsonResponse({ query: { search: [] } })).fetchWikipediaUrl('Nothing', 1999), null);
+    assert.equal(await makeWiki(async () => jsonResponse({})).fetchWikipediaUrl('Nothing', 1999), null);
+    await assert.rejects(makeWiki(async () => jsonResponse({}, 500)).fetchWikipediaUrl('Zeiram', 1991));
+});

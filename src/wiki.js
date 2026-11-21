@@ -91,5 +91,14 @@ export function makeWiki(fetchImpl = fetch) {
         return rows.filter(r => intros[r.title]).map(r => ({ ...r, intro: intros[r.title] }));
     }
 
-    return { fetchWikidata, fetchWikipediaExtract, fetchWikipediaIntros, fetchRelatedArticles };
+    // The film's Wikipedia article URL: the first search hit for "<title> <year> film" (the same query the userscript's own
+    // Wikipedia link uses), or null for no hit. Rejects on a failed request.
+    async function fetchWikipediaUrl(title, year) {
+        const q = `${title}${year ? ' ' + year : ''} film`;
+        const j = await getJson(fetchImpl, `${WP_API}?action=query&list=search&srsearch=${encodeURIComponent(q)}&srlimit=1&format=json`);
+        const hit = j.query?.search?.[0];
+        return hit ? `https://en.wikipedia.org/wiki/${encodeURIComponent(hit.title.replace(/ /g, '_'))}` : null;
+    }
+
+    return { fetchWikidata, fetchWikipediaExtract, fetchWikipediaIntros, fetchRelatedArticles, fetchWikipediaUrl };
 }
