@@ -122,3 +122,52 @@ test('fetchRating propagates a query failure', async () => {
     const imdb = makeImdb(imdbStub(() => new Error('boom')));
     await assert.rejects(imdb.fetchRating('tt1'), /boom/);
 });
+
+// fetchLineupInfo: the IMDb half of the published lineup info (same shapes the userscript's own cards consume).
+const kf = (id, title, year, votes) => ({ node: { title: { id, titleText: { text: title }, releaseYear: { year }, ratingsSummary: { voteCount: votes } } } });
+const credit = (nm, name, character, photo, knownFor = []) => ({ name: { id: nm, nameText: { text: name }, primaryImage: photo ? { url: photo } : null, knownFor: { edges: knownFor } }, characters: character ? [{ name: character }] : [] });
+const PHOTO = 'https://m.media-amazon.com/images/M/abc._V1_QL75_UX280_CR0,0,280,414_.jpg';
+const lineupTitle = (over = {}) => ({ title: {
+    id: 'tt0103327', series: null, titleText: { text: 'Zeiram' }, releaseYear: { year: 1991 },
+    ratingsSummary: { aggregateRating: 6.4, voteCount: 3100 }, runtime: { seconds: 5130 },
+    plot: { plotText: { plainText: 'A bounty hunter.' } }, primaryImage: { url: 'https://m.media-amazon.com/images/M/poster.jpg' },
+    titleGenres: { genres: [{ genre: { text: 'Action' } }, { genre: { text: 'Sci-Fi' } }] },
+    certificate: { rating: 'Not Rated' },
+    parentsGuide: { categories: [{ category: { text: 'Violence & Gore' }, severity: { text: 'Moderate' } }, { category: { text: 'Nudity' }, severity: null }] },
+    stars: [{ credits: [
+        credit('nm1', 'Star One', 'Iria', PHOTO, [kf('tt0103327', 'Zeiram', 1991, 9000), kf('tt9', 'Other A', 1990, 10), kf('tt8', 'Other B', 1989, 500)]),
+        credit('nm2', 'Star Two', null, null),
+        credit('nm3', 'Star Three', 'Bob', PHOTO),
+        credit('nm4', 'Star Four', 'Fourth', PHOTO),
+    ] }],
+    cast: { edges: [{ node: credit('nm9', 'Fallback Actor', 'Fb', PHOTO) }] },
+    ...over,
+} });
+
+test('fetchLineupInfo maps title fields, certificate, parents guide and runtime in minutes', async () => {
+    const calls = [];
+    const imdb = makeImdb(imdbStub(() => lineupTitle(), calls));
+    const r = await imdb.fetchLineupInfo('tt0103327');
+    assert.equal(calls[0].op, 'GHLineup');
+    assert.deepEqual(calls[0].vars, { id: 'tt0103327' });
+    assert.deepEqual({ ...r, cast: undefined }, {
+        title: 'Zeiram', year: 1991, rating: 6.4, runtime: 86, overview: 'A bounty hunter.', poster: 'https://m.media-amazon.com/images/M/poster.jpg',
+        genres: ['Action', 'Sci-Fi'], certificate: 'Not Rated', parentalGuide: [{ category: 'Violence & Gore', severity: 'Moderate' }], cast: undefined,
+    });
+});
+test('fetchLineupInfo cast: principal credits first, capped at 3, headshot shrunk, most-voted known-for excluding this film', async () => {
+    const r = await makeImdb(imdbStub(() => lineupTitle())).fetchLineupInfo('tt0103327');
+    assert.equal(r.cast.length, 3);
+    assert.deepEqual(r.cast[0], { name: 'Star One', nconst: 'nm1', character: 'Iria', photo: 'https://m.media-amazon.com/images/M/abc._V1_UX120_.jpg', knownFor: { title: 'Other B', year: 1989, tconst: 'tt8' } });
+    assert.deepEqual(r.cast[1], { name: 'Star Two', nconst: 'nm2', character: null, photo: null, knownFor: null });
+    assert.equal(r.cast[2].name, 'Star Three');
+});
+test('fetchLineupInfo falls back to credits when there are no principal credits, and tolerates missing optional fields', async () => {
+    const r = await makeImdb(imdbStub(() => lineupTitle({ stars: [], certificate: null, parentsGuide: null, runtime: null, plot: null, primaryImage: null, titleGenres: null, ratingsSummary: null }))).fetchLineupInfo('tt1');
+    assert.deepEqual(r.cast.map(c => c.name), ['Fallback Actor']);
+    assert.deepEqual([r.certificate, r.parentalGuide, r.runtime, r.overview, r.poster, r.genres, r.rating], [null, null, null, null, null, [], null]);
+});
+test('fetchLineupInfo returns null for an unknown title and rejects on a query failure', async () => {
+    assert.equal(await makeImdb(imdbStub(() => ({ title: null }))).fetchLineupInfo('tt0'), null);
+    await assert.rejects(makeImdb(imdbStub(() => new Error('boom'))).fetchLineupInfo('tt1'), /boom/);
+});

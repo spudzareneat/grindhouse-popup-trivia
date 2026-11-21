@@ -162,5 +162,55 @@ export function makeImdb(fetchImpl = fetch) {
         return { rating: r.aggregateRating, votes: r.voteCount ?? 0 };
     }
 
-    return { query, searchTitle, searchCandidates, fetchBundle, fetchRating };
+    // The IMDb half of the published lineup info (what Coming Attractions cards show). Field selections and result shapes are the
+    // userscript's own (imdb-resolve.js fetchImdbTitleFields + movie-title-links fetchImdbTitleGuide) so a card looks the same
+    // whether it comes from the published file or a local lookup. Null for an unknown title; rejects on a failed query.
+    async function fetchLineupInfo(tconst) {
+        const data = await query('GHLineup', LINEUP_Q, { id: tconst });
+        const t = data.title;
+        if (!t) return null;
+        const guide = t.parentsGuide?.categories;
+        const stars = (t.stars || []).flatMap(g => g?.credits || []);
+        const credits = stars.length ? stars : (t.cast?.edges || []).map(e => e?.node);
+        return {
+            title: t.titleText?.text ?? null,
+            year: t.releaseYear?.year ?? null,
+            rating: t.ratingsSummary?.aggregateRating ?? null,
+            runtime: t.runtime?.seconds != null ? Math.round(t.runtime.seconds / 60) : null,
+            overview: t.plot?.plotText?.plainText ?? null,
+            poster: t.primaryImage?.url ?? null,
+            genres: (t.titleGenres?.genres || []).map(g => g.genre?.text).filter(Boolean),
+            certificate: t.certificate?.rating ?? null,
+            parentalGuide: guide ? guide.map(c => ({ category: c.category?.text, severity: c.severity?.text })).filter(c => c.category && c.severity) : null,
+            cast: credits.map(c => ({
+                name: c?.name?.nameText?.text ?? null,
+                nconst: c?.name?.id ?? null,
+                character: c?.characters?.[0]?.name ?? null,
+                photo: castThumb(c?.name?.primaryImage?.url),
+                knownFor: topKnownFor(c?.name?.knownFor, [tconst, t.series?.series?.id]),
+            })).filter(c => c.name).slice(0, 3),
+        };
+    }
+
+    return { query, searchTitle, searchCandidates, fetchBundle, fetchRating, fetchLineupInfo };
+}
+
+const CAST_PERSON = 'name{ id nameText{ text } primaryImage{ url } knownFor(first: 4){ edges{ node{ title{ id titleText{ text } releaseYear{ year } ratingsSummary{ voteCount } } } } } } ... on Cast { characters{ name } }';
+const LINEUP_Q = 'query GHLineup($id: ID!){ title(id:$id){ id series{ series{ id } } titleText{ text } releaseYear{ year } ratingsSummary{ aggregateRating voteCount } '
+    + 'runtime{ seconds } plot{ plotText{ plainText } } primaryImage{ url } titleGenres{ genres{ genre{ text } } } certificate{ rating } '
+    + 'parentsGuide{ categories{ category{ text } severity{ text } } } '
+    + 'stars: principalCredits(filter: { categories: ["cast"] }) { credits{ ' + CAST_PERSON + ' } } '
+    + 'cast: credits(first: 3, filter: { categories: ["cast"] }) { edges{ node{ ' + CAST_PERSON + ' } } } } }';
+
+// IMDb image URLs are full-size originals; the "._V1_..." suffix is a resize spec, so a small thumbnail is the same URL with
+// a different suffix (the userscript's _imdbThumb does the same).
+const castThumb = url => (url ? url.replace(/\._V1_[^/]*\.jpg$/, '._V1_UX120_.jpg') : null);
+
+// A cast member's single most-voted known-for title, excluding this film (and its series, for episodes).
+function topKnownFor(knownFor, excludeIds) {
+    const titles = (knownFor?.edges || []).map(e => e?.node?.title)
+        .filter(t => t && t.id && !excludeIds.includes(t.id) && t.titleText?.text);
+    if (!titles.length) return null;
+    titles.sort((a, b) => (b.ratingsSummary?.voteCount ?? 0) - (a.ratingsSummary?.voteCount ?? 0));
+    return { title: titles[0].titleText.text, year: titles[0].releaseYear?.year ?? null, tconst: titles[0].id };
 }
