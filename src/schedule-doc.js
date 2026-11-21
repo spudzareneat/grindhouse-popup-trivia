@@ -48,7 +48,8 @@ export async function buildScheduleDoc({ post, resolveItem, rate, now, previous 
                     let info = null;
                     if (imdbId) {
                         const prevInfo = prev && prev.imdbId === imdbId ? (prev.info ?? null) : null;
-                        if (prevInfo?.cleanTitle) info = prevInfo;
+                        // Complete = has a title and no failed source (`partial`); partial info is retried on every run.
+                        if (prevInfo?.cleanTitle && !prevInfo.partial) info = prevInfo;
                         else {
                             let got = null;
                             try { got = await fetchInfo(imdbId); } catch { got = null; }
@@ -91,7 +92,9 @@ export function writeScheduleDoc(repoDir, doc) {
 // A Discord pick (tconst) or dismiss (tconst null) for a schedule title: update every matching item's id and rating.
 // Items match the way overrides do (normalised title + year; the file's string year is converted). Pure: returns a copy,
 // and changed is false when no item matches or nothing would differ.
-// info (optional): the picked film's published info object, or null to clear it (dismiss); undefined leaves info untouched.
+// info (optional): the picked film's published info object. null clears it (dismiss), except that a null for a pick of the
+// SAME id keeps what is published (a failed refetch must not erase good info). undefined leaves info untouched, except that
+// changing the id always clears an existing info (it belongs to the old film; never keep another film's poster).
 export function applyPick(doc, { title, year, tconst, rating, info }) {
     const key = overrideKey(title, year ?? null);
     const next = structuredClone(doc);
@@ -99,10 +102,14 @@ export function applyPick(doc, { title, year, tconst, rating, info }) {
     for (const day of next.days) for (const section of day.sections) for (const item of section.items) {
         if (overrideKey(item.title, item.year ? Number(item.year) : null) !== key) continue;
         const imdbId = tconst ?? null, imdbRating = rating?.rating ?? null, imdbVotes = rating?.votes ?? null;
-        if (item.imdbId !== imdbId || item.imdbRating !== imdbRating || item.imdbVotes !== imdbVotes) changed = true;
+        const idChanged = item.imdbId !== imdbId;
+        if (idChanged || item.imdbRating !== imdbRating || item.imdbVotes !== imdbVotes) changed = true;
         Object.assign(item, { imdbId, imdbRating, imdbVotes });
-        if (info !== undefined) {
-            const nextInfo = info ?? null;
+        let nextInfo;
+        if (info === undefined) nextInfo = idChanged && 'info' in item ? null : undefined;
+        else if (info === null && tconst && !idChanged) nextInfo = item.info ?? null;
+        else nextInfo = info;
+        if (nextInfo !== undefined) {
             if (JSON.stringify(item.info ?? null) !== JSON.stringify(nextInfo)) changed = true;
             item.info = nextInfo;
         }

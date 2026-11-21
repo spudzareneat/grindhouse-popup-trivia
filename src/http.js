@@ -40,7 +40,8 @@ export const USER_AGENT ='grindhouse-popup-trivia/0.1 (+https://github.com/spudz
 
 async function get(fetchImpl, url, headers, timeoutMs) {
     const r = await fetchImpl(url, { headers: { 'User-Agent': USER_AGENT, ...headers }, signal: AbortSignal.timeout(timeoutMs) });
-    if (!r.ok) throw new Error(`HTTP ${r.status} for ${url.slice(0, 120)}`);
+    // TMDB keys travel in the query string, and these messages get logged: never print an api_key value.
+    if (!r.ok) throw new Error(`HTTP ${r.status} for ${url.replace(/([?&]api_key=)[^&]*/gi, '$1***').slice(0, 120)}`);
     return r;
 }
 export async function getJson(fetchImpl, url, headers = {}, timeoutMs = 20000) {

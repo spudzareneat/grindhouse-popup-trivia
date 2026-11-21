@@ -61,3 +61,28 @@ test('the kill-count loader runs once across several films, and not at all when 
     await make({ tmdb: { fetchLineup: async () => null }, killCounts: async () => { loads2++; return new Map(); } })('tt1');
     assert.equal(loads2, 0);
 });
+
+// --- Final-review fixes ---
+test('info is flagged partial when a source FAILED, and not when a source simply has nothing', async () => {
+    const boom = async () => { throw new Error('down'); };
+    assert.ok(!('partial' in await make()('tt1')));
+    assert.ok(!('partial' in await make({ tmdb: { fetchLineup: async () => null } })('tt1')), 'no TMDB key / no TMDB match is normal');
+    assert.ok(!('partial' in await make({ wiki: { fetchWikipediaUrl: async () => null } })('tt1')), 'no Wikipedia hit is normal');
+    assert.ok(!('partial' in await make({ killCounts: async () => new Map([['999', 3]]) })('tt1')), 'film not in the kill-count db is normal');
+    for (const over of [{ imdb: { fetchLineupInfo: boom } }, { tmdb: { fetchLineup: boom } }, { wiki: { fetchWikipediaUrl: boom } }, { killCounts: boom }, { killCounts: async () => new Map() }]) {
+        assert.equal((await make(over)('tt1')).partial, true);
+    }
+});
+test('the kill-count database is cached for a while, but an empty or failed download is retried after a minute', async () => {
+    let t = 0, loads = 0, mode = 'empty';
+    const fetchInfo = make({ now: () => t, killCounts: async () => { loads++; return mode === 'ok' ? new Map([['603', 1]]) : new Map(); } });
+    await fetchInfo('a'); await fetchInfo('b');
+    assert.equal(loads, 1, 'a failure is not re-downloaded for every film');
+    t = 61000; mode = 'ok';
+    assert.equal((await fetchInfo('c')).killCount, 1);
+    assert.equal(loads, 2);
+    t = 61000 + 9 * 60000; await fetchInfo('d');
+    assert.equal(loads, 2, 'a good download is reused');
+    t = 61000 + 11 * 60000; await fetchInfo('e');
+    assert.equal(loads, 3, 'and refreshed after ten minutes (a long-lived bot must not serve it forever)');
+});

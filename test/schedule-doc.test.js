@@ -374,3 +374,31 @@ test('applyPick reports changed false when the info is identical', async () => {
     items(doc)[0].info = info;
     assert.equal(applyPick(doc, { title: 'Zeiram', year: 1991, tconst: 'tt-Zeiram', rating: { rating: 5, votes: 10 }, info: { ...info } }).changed, false);
 });
+
+// --- Final-review fixes (partial info, applyPick info semantics) ---
+test('partial previous info is refetched and replaced by a complete one; a failed refetch keeps it', async () => {
+    const previous = await buildWith();
+    items(previous)[0].info = { ...items(previous)[0].info, partial: true };
+    const healed = await buildWith({ previous });
+    assert.ok(!('partial' in items(healed)[0].info));
+    const kept = await buildWith({ previous, fetchInfo: async () => { throw new Error('down'); } });
+    assert.equal(items(kept)[0].info.partial, true);
+});
+test('applyPick: a null info for the SAME id keeps the existing info (a failed refetch must not erase it)', async () => {
+    const doc = await docFor();
+    items(doc)[2].info = { imdbId: 'tt-Tenebre', cleanTitle: 'Keep' };
+    const r = applyPick(doc, { title: 'Tenebre', year: 1984, tconst: 'tt-Tenebre', rating: { rating: 5, votes: 10 }, info: null });
+    assert.equal(r.changed, false);
+    assert.equal(items(r.doc)[2].info.cleanTitle, 'Keep');
+});
+test('applyPick: changing the id never keeps the old film\'s info', async () => {
+    const doc = await docFor();
+    items(doc)[2].info = { imdbId: 'tt-Tenebre', cleanTitle: 'Old film' };
+    for (const info of [undefined, null]) {
+        const r = applyPick(doc, { title: 'Tenebre', year: 1984, tconst: 'tt-OTHER', rating: null, info });
+        assert.equal(r.changed, true);
+        assert.equal(items(r.doc)[2].info, null);
+    }
+    const noKey = applyPick(await docFor(), { title: 'Tenebre', year: 1984, tconst: 'tt-OTHER', rating: null });
+    assert.ok(!('info' in items(noKey.doc)[2]), 'an item that never had an info key does not gain one');
+});
