@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "fetchedAt": "2026-11-21T00:04:11.005Z",
+  "fetchedAt": "2026-11-21T01:05:35.556Z",
   "postId": "t3_1xzazcd",
   "title": "Weekend Grindhouse Schedule - Fri 11/20 - Sun 11/22",
   "publishedAt": "2026-11-18T09:29:06+00:00",
@@ -24,7 +24,76 @@
               "akas": [],
               "imdbId": "tt4257950",
               "imdbRating": 4.3,
-              "imdbVotes": 811
+              "imdbVotes": 811,
+              "info": {
+                "imdbId": "tt4257950",
+                "cleanTitle": "Russell Madness",
+                "cleanYear": 2015,
+                "rating": 5.2,
+                "runtime": 92,
+                "genres": [
+                  "Comedy"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/udurlPODKYMUeLA4wi9ET8mlLBM.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/l1whKYuBypXlug16VlxwXw0tTkq.jpg",
+                "overview": "Russell, an undersized but big-hearted terrier, dreams of having a family of his own. After running away from his pet store, Russell gets taken in by The Ferraros, who discover their new pet pooch has incredible wrestling skills.",
+                "certificate": "PG",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "None"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Sean Giambrone",
+                    "nconst": "nm4677867",
+                    "character": "Russell",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYTk0MzMzYTEtZGQyNS00MzYwLWJlOWEtMWNjNWYwNDJkZjgzXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Ralph Breaks the Internet",
+                      "year": 2018,
+                      "tconst": "tt5848272"
+                    }
+                  },
+                  {
+                    "name": "David Milchard",
+                    "nconst": "nm1660138",
+                    "character": "Nate",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "The Eye",
+                      "year": 2008,
+                      "tconst": "tt0406759"
+                    }
+                  },
+                  {
+                    "name": "Steve Richmond",
+                    "nconst": "nm5014055",
+                    "character": "Older Max",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Supernatural",
+                      "year": 2005,
+                      "tconst": "tt0460681"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt4257950/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt4257950",
+                  "wiki": "https://en.wikipedia.org/wiki/Russell_Madness"
+                }
+              }
             },
             {
               "title": "No Resistance",
@@ -33,7 +102,76 @@
               "akas": [],
               "imdbId": "tt9612004",
               "imdbRating": 7.3,
-              "imdbVotes": 32
+              "imdbVotes": 32,
+              "info": {
+                "imdbId": "tt9612004",
+                "cleanTitle": "No Resistance",
+                "cleanYear": 1994,
+                "rating": 7,
+                "runtime": 85,
+                "genres": [
+                  "Science Fiction"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/2khPSJlCFLsOwGEu5Zd9dxNkfbC.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/u11BzIKeI0MvbSgRZp7SdBo6Kew.jpg",
+                "overview": "In a near-future Houston, street junkie cybercriminal Dij scrapes together survival by pulling underground hacks with his custom mobile rig - but now, he's gotten a hold of something huge, deadly and valuable - and everyone wants him dead.",
+                "certificate": null,
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Chuck Beatty",
+                    "nconst": "nm10404838",
+                    "character": "Cutter MD",
+                    "photo": null,
+                    "knownFor": null
+                  },
+                  {
+                    "name": "Bliss Blood",
+                    "nconst": "nm1379366",
+                    "character": "Chablis",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Hello Lonesome",
+                      "year": 2010,
+                      "tconst": "tt1258201"
+                    }
+                  },
+                  {
+                    "name": "Irving Cutter IV",
+                    "nconst": "nm10404835",
+                    "character": "Waldo",
+                    "photo": null,
+                    "knownFor": null
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt9612004/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt9612004",
+                  "wiki": "https://en.wikipedia.org/wiki/To_Live_(1994_film)"
+                }
+              }
             },
             {
               "title": "Private Lessons",
@@ -42,7 +180,85 @@
               "akas": [],
               "imdbId": "tt0082948",
               "imdbRating": 5.1,
-              "imdbVotes": 4938
+              "imdbVotes": 4938,
+              "info": {
+                "imdbId": "tt0082948",
+                "cleanTitle": "Private Lessons",
+                "cleanYear": 1981,
+                "rating": 5.7,
+                "runtime": 87,
+                "genres": [
+                  "Comedy",
+                  "Romance"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/dTkBOgOv3tpCnfMY6kX2MCYibo3.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/qp6qyypoTTq0lgi3OFt6O1hGrXx.jpg",
+                "overview": "Phillip Filmore is a naive, 15-year-old, preoccupied with sex, who develops a crush on Nicole Mallow, the new 30-something, French housekeeper and sitter to look after him when Phillip's father is out of town for the summer on a \"business\" trip. But Mr. Filmore's unscrupulous chauffeur, Lester Lewis, takes advantage of Phillip's crush on Nicole to hire her to seduce the youth, then draws her into a plot to fake her own death in a blackmail scheme aimed to drain Phillip's trust fund.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "None"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Sylvia Kristel",
+                    "nconst": "nm0000482",
+                    "character": "Mallow",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjIxMjUxNDgxOV5BMl5BanBnXkFtZTcwNDg2MTI2OA@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Emmanuelle",
+                      "year": 1974,
+                      "tconst": "tt0071464"
+                    }
+                  },
+                  {
+                    "name": "Howard Hesseman",
+                    "nconst": "nm0381606",
+                    "character": "Lester",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQxOTkzNDg5NV5BMl5BanBnXkFtZTYwNTk1MTY0._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Police Academy 2: Their First Assignment",
+                      "year": 1985,
+                      "tconst": "tt0089822"
+                    }
+                  },
+                  {
+                    "name": "Eric Brown",
+                    "nconst": "nm0113525",
+                    "character": "Philly",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUxOTc1MjEwMl5BMl5BanBnXkFtZTcwMzkyODM1Mw@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Waxwork",
+                      "year": 1988,
+                      "tconst": "tt0096426"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0082948/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0082948",
+                  "wiki": "https://en.wikipedia.org/wiki/Private_Lessons_(1981_film)"
+                }
+              }
             }
           ]
         },
@@ -57,7 +273,85 @@
               "akas": [],
               "imdbId": "tt0090881",
               "imdbRating": 5.4,
-              "imdbVotes": 4579
+              "imdbVotes": 4579,
+              "info": {
+                "imdbId": "tt0090881",
+                "cleanTitle": "Crawlspace",
+                "cleanYear": 1986,
+                "rating": 5.4,
+                "runtime": 80,
+                "genres": [
+                  "Horror",
+                  "Thriller"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/hzrHUY2aksJcLGchBkLg6fTFgI8.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/bk2zPmljHwxucjtuVF0b39hJExB.jpg",
+                "overview": "A man who runs an apartment house for women is the demented son of a Nazi surgeon who has the house equipped with secret passageways, hidden rooms and torture and murder devices.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Klaus Kinski",
+                    "nconst": "nm0001428",
+                    "character": "Karl Gunther",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTgyOTgwMDE1MV5BMl5BanBnXkFtZTcwNzAxNTIzNA@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "For a Few Dollars More",
+                      "year": 1965,
+                      "tconst": "tt0059578"
+                    }
+                  },
+                  {
+                    "name": "Talia Balsam",
+                    "nconst": "nm0051104",
+                    "character": "Lori Bancroft",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTA1MDQ0NDUxMDJeQTJeQWpwZ15BbWU4MDczMTkyMzAy._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Mad Men",
+                      "year": 2007,
+                      "tconst": "tt0804503"
+                    }
+                  },
+                  {
+                    "name": "Barbara Whinnery",
+                    "nconst": "nm0924172",
+                    "character": "Harriet Watkins",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYWRjZmIxOTQtZjk1MC00YWQ1LWJmYzAtOWE5NjljYzZhMWY2XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "True Blood",
+                      "year": 2008,
+                      "tconst": "tt0844441"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0090881/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0090881",
+                  "wiki": "https://en.wikipedia.org/wiki/Crawlspace_(1986_film)"
+                }
+              }
             },
             {
               "title": "Zeiram",
@@ -66,7 +360,87 @@
               "akas": [],
               "imdbId": "tt0103327",
               "imdbRating": 6.4,
-              "imdbVotes": 1244
+              "imdbVotes": 1244,
+              "info": {
+                "imdbId": "tt0103327",
+                "cleanTitle": "Zëiram",
+                "cleanYear": 1991,
+                "rating": 6.2,
+                "runtime": 97,
+                "genres": [
+                  "Adventure",
+                  "Action",
+                  "Comedy",
+                  "Science Fiction"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/pIXJIxy0OXgTgVIIks98UjRp59z.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/uePLLSyFR4bczdZYA6VCuugqFyX.jpg",
+                "overview": "Teppei and Kamiya, two average joes working in the electronic services industry, stumble upon the intergalactic bounty-hunter Ilia, and her partner, the artificial intelligence named Bob. Both men are accidentally transported to the Zone, a virtual reality in which Bob has trapped Ilia's latest prey, a biological weapon named Zeiram. The Earth natives must both survive the experience and help Ilia capture Zeiram before the Zone disappears around them.",
+                "certificate": null,
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Mild"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Yûko Moriyama",
+                    "nconst": "nm0605800",
+                    "character": "Iria",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Zeiram 2",
+                      "year": 1994,
+                      "tconst": "tt0111822"
+                    }
+                  },
+                  {
+                    "name": "Kunihiro Ida",
+                    "nconst": "nm0407336",
+                    "character": "Teppei",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZGU0ODMzODEtMWZmZC00YTFjLThkMmEtMmMwOTlkYzI1OTYzXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Zeiram 2",
+                      "year": 1994,
+                      "tconst": "tt0111822"
+                    }
+                  },
+                  {
+                    "name": "Yukijirô Hotaru",
+                    "nconst": "nm0396212",
+                    "character": "Kamiya",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Cure",
+                      "year": 1997,
+                      "tconst": "tt0123948"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0103327/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0103327",
+                  "wiki": "https://en.wikipedia.org/wiki/Zeiram"
+                }
+              }
             },
             {
               "title": "Killer Party",
@@ -75,7 +449,85 @@
               "akas": [],
               "imdbId": "tt0091338",
               "imdbRating": 5,
-              "imdbVotes": 3045
+              "imdbVotes": 3045,
+              "info": {
+                "imdbId": "tt0091338",
+                "cleanTitle": "Killer Party",
+                "cleanYear": 1986,
+                "rating": 5,
+                "runtime": 92,
+                "genres": [
+                  "Comedy",
+                  "Horror"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/ym1KgAPOfmVYSh31mzK56jytqfT.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/viHDt7yHqZYjnzvLbfP8BCWXmdx.jpg",
+                "overview": "It's April Fool's Day and the sisters of Sigma Alpha Pi believe they've found the perfect place to throw a party: the abandoned fraternity house where the guillotined pledge once lost his head in a hazing gone awry.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Mild"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Martin Hewitt",
+                    "nconst": "nm0382063",
+                    "character": "Blake",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2NlYjVjZjQtNDQ3NS00NDg3LTlhNTAtMmEyODM4YzNmZjk5XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Endless Love",
+                      "year": 1981,
+                      "tconst": "tt0082329"
+                    }
+                  },
+                  {
+                    "name": "Ralph Seymour",
+                    "nconst": "nm0786860",
+                    "character": "Martin",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYmYwN2VhZjYtMDdmNy00NTI5LWEyMWEtYzM0NWNhZmQzYmMwXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Rain Man",
+                      "year": 1988,
+                      "tconst": "tt0095953"
+                    }
+                  },
+                  {
+                    "name": "Elaine Wilkes",
+                    "nconst": "nm0929161",
+                    "character": "Phoebe",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Sixteen Candles",
+                      "year": 1984,
+                      "tconst": "tt0088128"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0091338/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0091338",
+                  "wiki": "https://en.wikipedia.org/wiki/Killer_Party"
+                }
+              }
             }
           ]
         },
@@ -90,7 +542,76 @@
               "akas": [],
               "imdbId": "tt0097703",
               "imdbRating": 4.1,
-              "imdbVotes": 290
+              "imdbVotes": 290,
+              "info": {
+                "imdbId": "tt0097703",
+                "cleanTitle": "Lady Avenger",
+                "cleanYear": 1988,
+                "rating": 2.9,
+                "runtime": 82,
+                "genres": [
+                  "Action"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/h5Ai76Sd6kKzcz5fouoNSG7NnKj.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/JAZbfbYrbz8EKxFbLA7NUCTpDa.jpg",
+                "overview": "When the door of freedom cracks open for inmate Maggie Blair at her brother's funeral, nothing stands in her way, kicking off her furious determination to unearth the gang that murdered her brother.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Mild"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Peggy McIntaggart",
+                    "nconst": "nm0570606",
+                    "character": "Maggie",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Beverly Hills Cop II",
+                      "year": 1987,
+                      "tconst": "tt0092644"
+                    }
+                  },
+                  {
+                    "name": "Tony Josephs",
+                    "nconst": "nm0430736",
+                    "character": "Jack",
+                    "photo": null,
+                    "knownFor": null
+                  },
+                  {
+                    "name": "Jacolyn Leeman",
+                    "nconst": "nm0498655",
+                    "character": "Mary",
+                    "photo": null,
+                    "knownFor": null
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0097703/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0097703",
+                  "wiki": "https://en.wikipedia.org/wiki/Grotesque_(1988_film)"
+                }
+              }
             },
             {
               "title": "The Wizard of Gore",
@@ -99,7 +620,85 @@
               "akas": [],
               "imdbId": "tt0765487",
               "imdbRating": 4.8,
-              "imdbVotes": 3098
+              "imdbVotes": 3098,
+              "info": {
+                "imdbId": "tt0765487",
+                "cleanTitle": "The Wizard of Gore",
+                "cleanYear": 2007,
+                "rating": 4.7,
+                "runtime": 94,
+                "genres": [
+                  "Mystery",
+                  "Horror"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/qulo6qgqCWGmFcKCsSYc4d4APzF.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/ara5HeHRVviWkn19oDTUX4Rfvnx.jpg",
+                "overview": "In the darkly phantasmagorical world of the carnival magician and sideshow hypnotist, the gruesome \"illusions\" of Montag the Magnificent are unique in that they seem to become retroactive reality long after the the tricks are done. Is it coincidence, or circumstantial evidence of the world's most diabolically ingenious murders? When an underground journalist begins to investigate the strange deaths, the truth proves to be far more bizarre and disturbing than anything he or his readers might have imagined.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Severe"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Kip Pardue",
+                    "nconst": "nm0661164",
+                    "character": "Edmund Bigelow",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQ1NTI5ODMwNl5BMl5BanBnXkFtZTYwOTIxMTEz._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Remember the Titans",
+                      "year": 2000,
+                      "tconst": "tt0210945"
+                    }
+                  },
+                  {
+                    "name": "Bijou Phillips",
+                    "nconst": "nm0005313",
+                    "character": "Maggie",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTU3MDkzMTM1NF5BMl5BanBnXkFtZTcwOTc2MzI0Mg@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Almost Famous",
+                      "year": 2000,
+                      "tconst": "tt0181875"
+                    }
+                  },
+                  {
+                    "name": "Crispin Glover",
+                    "nconst": "nm0000417",
+                    "character": "Montag the Magnificent",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2VmMDVkODktMWM5Zi00YTI5LTk0ZDAtY2RhMmEyZmRiMGY2XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "River's Edge",
+                      "year": 1986,
+                      "tconst": "tt0091860"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0765487/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0765487",
+                  "wiki": "https://en.wikipedia.org/wiki/The_Wizard_of_Gore_(2007_film)"
+                }
+              }
             },
             {
               "title": "Hybrid",
@@ -108,7 +707,88 @@
               "akas": [],
               "imdbId": "tt0874917",
               "imdbRating": 3.2,
-              "imdbVotes": 816
+              "imdbVotes": 816,
+              "info": {
+                "imdbId": "tt0874917",
+                "cleanTitle": "Hybrid",
+                "cleanYear": 2007,
+                "rating": 4.6,
+                "runtime": 90,
+                "genres": [
+                  "Fantasy",
+                  "Horror",
+                  "Thriller",
+                  "Mystery",
+                  "Action"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/jjQDD5bGMQpFH0yE1xKVv4Kyk4j.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/lT1YZUkQyCQhslDeWgnVTlnV5Yi.jpg",
+                "overview": "After an accident causes him to lose his sight, Aaron Scates finds himself in a fight for survival. He must learn to embrace his inner animal or become another failed experiment.",
+                "certificate": "Not Rated",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Mild"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Justine Bateman",
+                    "nconst": "nm0000868",
+                    "character": "Andrea",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZmEzYjljYTgtZTQ0Yy00YzExLTlhMjEtOWY0MGUzNjYyNWVlXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Arrested Development",
+                      "year": 2003,
+                      "tconst": "tt0367279"
+                    }
+                  },
+                  {
+                    "name": "Tinsel Korey",
+                    "nconst": "nm1535188",
+                    "character": "Lydia",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTJjOTdlYWUtM2IyNS00NGZmLThkNTAtODU3YjdmM2U0OTM1XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The Twilight Saga: New Moon",
+                      "year": 2009,
+                      "tconst": "tt1259571"
+                    }
+                  },
+                  {
+                    "name": "William MacDonald",
+                    "nconst": "nm0531966",
+                    "character": null,
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNDM3ZjE5ZTAtNjc4MC00Mjc4LTgwMjMtZmQ4MzczMGEzOWFjXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Riverdale",
+                      "year": 2017,
+                      "tconst": "tt5420376"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0874917/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0874917",
+                  "wiki": "https://en.wikipedia.org/wiki/Hybrid_(2007_film)"
+                }
+              }
             }
           ]
         }
@@ -129,7 +809,84 @@
               "akas": [],
               "imdbId": "tt0083067",
               "imdbRating": 5.7,
-              "imdbVotes": 5986
+              "imdbVotes": 5986,
+              "info": {
+                "imdbId": "tt0083067",
+                "cleanTitle": "Shock Treatment",
+                "cleanYear": 1981,
+                "rating": 5.9,
+                "runtime": 94,
+                "genres": [
+                  "Comedy"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/obUmsgTu0MqXiEU5PtSOuAqnl05.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/bUppYEaVkrvBU7bQ65MIGSVukAG.jpg",
+                "overview": "Brad and Janet Majors find their strained marriage put to the test on popular Denton TV show Marriage Maze. Poor Brad is heavily sedated and institutionalised, whilst Janet is given a radical makeover and primed for stardom. But what are the real motivations behind the kooky DTV crew and their enigmatic head-honcho, Farley Flavors?",
+                "certificate": "PG",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "None"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Jessica Harper",
+                    "nconst": "nm0363888",
+                    "character": "Janet Majors",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzk1MDI2NzkxN15BMl5BanBnXkFtZTcwNTk1MzMyMw@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Minority Report",
+                      "year": 2002,
+                      "tconst": "tt0181689"
+                    }
+                  },
+                  {
+                    "name": "Cliff De Young",
+                    "nconst": "nm0002037",
+                    "character": "Brad Majors",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzAzMjg2ZWYtNDZlOC00MTE5LWI1MmYtZWFlZjg4MTZkNGYwXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Glory",
+                      "year": 1989,
+                      "tconst": "tt0097441"
+                    }
+                  },
+                  {
+                    "name": "Richard O'Brien",
+                    "nconst": "nm0639782",
+                    "character": "Dr. Cosmo McKinley",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM2MDQxMjgwMV5BMl5BanBnXkFtZTcwNjg3MTI3NA@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Dark City",
+                      "year": 1998,
+                      "tconst": "tt0118929"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0083067/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0083067",
+                  "wiki": "https://en.wikipedia.org/wiki/Shock_Treatment"
+                }
+              }
             },
             {
               "title": "Soul Brothers of Kung Fu",
@@ -138,7 +895,80 @@
               "akas": [],
               "imdbId": "tt0081539",
               "imdbRating": 6.3,
-              "imdbVotes": 292
+              "imdbVotes": 292,
+              "info": {
+                "imdbId": "tt0081539",
+                "cleanTitle": "Soul Brothers of Kung Fu",
+                "cleanYear": 1977,
+                "rating": 6.4,
+                "runtime": 93,
+                "genres": [
+                  "Action"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/djyusrsc1IgZp01BtG9GkDzGqla.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/ksAQRGsUhkh77zMwX84LgdS1kul.jpg",
+                "overview": "Two illegal immigrants meet a young kid and the three become best friends until one of them joins the Triads. Now the remaining two must fight the Triads in a battle to the death.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Bruce Li",
+                    "nconst": "nm0508362",
+                    "character": "Wong Wei-lung",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYTRlYWNkNzAtNWIzZC00MjNlLWE0MzctZjk5ZDczZDQ5MmM2XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Fist of Fury II",
+                      "year": 1977,
+                      "tconst": "tt0074313"
+                    }
+                  },
+                  {
+                    "name": "Ku Feng",
+                    "nconst": "nm0473314",
+                    "character": "Chin Shi Po",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNjNhZDI5ZTctMjUzNi00MGQxLWJmMWUtNThjYmYxMDE0ZWI0XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Martial Club",
+                      "year": 1981,
+                      "tconst": "tt0083343"
+                    }
+                  },
+                  {
+                    "name": "Meng Lo",
+                    "nconst": "nm0516327",
+                    "character": "Shao-san",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZDQwMWIwODEtYTkzYi00YjFlLWIxMGMtNGNlNmY4YjExZjc0XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Ip Man 2",
+                      "year": 2010,
+                      "tconst": "tt1386932"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0081539/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0081539",
+                  "wiki": "https://en.wikipedia.org/wiki/Soul_Brothers_of_Kung_Fu"
+                }
+              }
             },
             {
               "title": "Pass Thru",
@@ -147,7 +977,81 @@
               "akas": [],
               "imdbId": "tt5445074",
               "imdbRating": 4.5,
-              "imdbVotes": 2308
+              "imdbVotes": 2308,
+              "info": {
+                "imdbId": "tt5445074",
+                "cleanTitle": "Pass Thru",
+                "cleanYear": 2016,
+                "rating": 4.3,
+                "runtime": 90,
+                "genres": [
+                  "Science Fiction",
+                  "Drama"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/34oJ7dasSLserJaNZ9TxqTBYjOR.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/uoZGnCyqrrQEbOS4feXURgRUle8.jpg",
+                "overview": "An artificial Intelligence from far into the future arrives to immediately cleanse the human species of millions of humans who are harmful to other humans.",
+                "certificate": "Not Rated",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Mild"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Neil Breen",
+                    "nconst": "nm3718935",
+                    "character": "A.I., Thgil",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZTM0NmZjZmUtNmU1Ni00NWViLTllMWEtM2ZhNjBiMTYyODdjXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Fateful Findings",
+                      "year": 2012,
+                      "tconst": "tt2332623"
+                    }
+                  },
+                  {
+                    "name": "Viad",
+                    "nconst": "nm7980505",
+                    "character": "Tiger",
+                    "photo": null,
+                    "knownFor": null
+                  },
+                  {
+                    "name": "Kathy Corpus",
+                    "nconst": "nm4133850",
+                    "character": "Amanda",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNjUwYzVjMTEtMzhkZS00N2Y4LWI5OTItMmExNzczMzQyZjY3XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Gabe the Cupid Dog",
+                      "year": 2012,
+                      "tconst": "tt2147293"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt5445074/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt5445074",
+                  "wiki": "https://en.wikipedia.org/wiki/Neil_Breen"
+                }
+              }
             }
           ]
         },
@@ -162,7 +1066,87 @@
               "akas": [],
               "imdbId": "tt0085356",
               "imdbRating": 5.2,
-              "imdbVotes": 3417
+              "imdbVotes": 3417,
+              "info": {
+                "imdbId": "tt0085356",
+                "cleanTitle": "Conquest",
+                "cleanYear": 1983,
+                "rating": 5.3,
+                "runtime": 88,
+                "genres": [
+                  "Adventure",
+                  "Fantasy",
+                  "Action",
+                  "Horror"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/fwEZHv3nksttbsSkRYAdb5dfaBn.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/5if7wtyH95UM8QuTKuSp5Quc1L2.jpg",
+                "overview": "To mark his passage into manhood, young Ilias is gifted a magical bow by his father and embarks upon a journey into the wilderness to rid the land of evil, all the while battling the witch Ocron, who wishes to steal the bow for her own nefarious ends.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Jorge Rivero",
+                    "nconst": "nm0729473",
+                    "character": "Mace",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZDcwNTA3OTMtOGViYS00MWI1LWExMGItOTZhNWRhNDYxZmYyXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The Last Hard Men",
+                      "year": 1976,
+                      "tconst": "tt0074776"
+                    }
+                  },
+                  {
+                    "name": "Andrea Occhipinti",
+                    "nconst": "nm0643647",
+                    "character": "Ilias",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOWE2OGVjMzAtZDgyOS00NDA4LWJlNzgtYjQ2YTVlMDZkYzA5XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "This Must Be the Place",
+                      "year": 2011,
+                      "tconst": "tt1440345"
+                    }
+                  },
+                  {
+                    "name": "Conrado San Martín",
+                    "nconst": "nm0760701",
+                    "character": "Zora",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMWJmMDkwZDctNGYyYy00ZjZlLWE0MmQtZDVjYzhlNDNjM2YyXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "La muerte silba un blues",
+                      "year": 1964,
+                      "tconst": "tt0056259"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0085356/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0085356",
+                  "wiki": "https://en.wikipedia.org/wiki/Conquest_(1983_film)"
+                }
+              }
             },
             {
               "title": "Blood Diner",
@@ -171,7 +1155,85 @@
               "akas": [],
               "imdbId": "tt0092669",
               "imdbRating": 5.3,
-              "imdbVotes": 6253
+              "imdbVotes": 6253,
+              "info": {
+                "imdbId": "tt0092669",
+                "cleanTitle": "Blood Diner",
+                "cleanYear": 1987,
+                "rating": 5.4,
+                "runtime": 88,
+                "genres": [
+                  "Horror",
+                  "Comedy"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/q8Y9BhkWj5Hi7hCQ5QPsDHC95jR.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/gIKm4gzfZzNxaAvNw2xihAh9o3F.jpg",
+                "overview": "Two cannibalistic brothers kill various young women to make their flesh part of a new special dish at their rundown restaurant while seeking blood sacrifices to awaken a dormant Egyptian goddess.",
+                "certificate": "Unrated",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Rick Burks",
+                    "nconst": "nm0122078",
+                    "character": "Michael Tutman",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "The Under Achievers",
+                      "year": 1987,
+                      "tconst": "tt0094217"
+                    }
+                  },
+                  {
+                    "name": "Carl Crew",
+                    "nconst": "nm0187680",
+                    "character": "George Tutman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZDYyZjA5MTgtNDQyYy00Y2YzLWI1ZDUtYzJjNGI0YWRjMjcxXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The Secret Life: Jeffrey Dahmer",
+                      "year": 1993,
+                      "tconst": "tt0244782"
+                    }
+                  },
+                  {
+                    "name": "Roger Dauer",
+                    "nconst": "nm0202283",
+                    "character": "Mark Shepard",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2ZlYmM0ZjUtOTEyMS00ZTc2LWE5ZTUtOWVjYWJmM2Q2MWRiXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The New Mike Hammer",
+                      "year": 1984,
+                      "tconst": "tt0086760"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0092669/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0092669",
+                  "wiki": "https://en.wikipedia.org/wiki/Blood_Diner"
+                }
+              }
             },
             {
               "title": "Tenebre",
@@ -180,7 +1242,8 @@
               "akas": [],
               "imdbId": null,
               "imdbRating": null,
-              "imdbVotes": null
+              "imdbVotes": null,
+              "info": null
             }
           ]
         },
@@ -197,7 +1260,64 @@
               ],
               "imdbId": "tt0114856",
               "imdbRating": 4.5,
-              "imdbVotes": 232
+              "imdbVotes": 232,
+              "info": {
+                "imdbId": "tt0114856",
+                "cleanTitle": "Virtual Seduction",
+                "cleanYear": 1995,
+                "rating": 4.4,
+                "runtime": 89,
+                "genres": [
+                  "Science Fiction",
+                  "TV Movie"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/eNtCx3M5WoCp1mDKHpmeuDpsVjJ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/bCKqLzqbluUwzZmDPOPMqxYDVMy.jpg",
+                "overview": "A man becomes obsessed with a virtual reality game that can resurrect his murdered girlfriend in cyberspace.",
+                "certificate": "R",
+                "parentalGuide": null,
+                "cast": [
+                  {
+                    "name": "Jeff Fahey",
+                    "nconst": "nm0001194",
+                    "character": "Liam Bass",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYjZmNDE1YTAtMzJkOC00N2M5LWE5ZWYtN2YxN2UyOTBlYjlmXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Lost",
+                      "year": 2004,
+                      "tconst": "tt0411008"
+                    }
+                  },
+                  {
+                    "name": "Ami Dolenz",
+                    "nconst": "nm0000371",
+                    "character": "Laura",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNTY5NjU2OTI4M15BMl5BanBnXkFtZTcwMzIxMjIzMQ@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Can't Buy Me Love",
+                      "year": 1987,
+                      "tconst": "tt0092718"
+                    }
+                  },
+                  {
+                    "name": "Carrie Genzel",
+                    "nconst": "nm0313232",
+                    "character": "Paris",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMzY2MjA1ZjktMDNhMC00Y2U0LTk3MjQtMzM2ZGI0M2Y0ZmMxXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The Walking Dead",
+                      "year": 2010,
+                      "tconst": "tt1520211"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0114856/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0114856",
+                  "wiki": "https://en.wikipedia.org/wiki/Virtual_Seduction"
+                }
+              }
             },
             {
               "title": "The Devil's Wedding Night",
@@ -206,7 +1326,84 @@
               "akas": [],
               "imdbId": "tt0070547",
               "imdbRating": 5.3,
-              "imdbVotes": 1307
+              "imdbVotes": 1307,
+              "info": {
+                "imdbId": "tt0070547",
+                "cleanTitle": "The Devil's Wedding Night",
+                "cleanYear": 1973,
+                "rating": 5.4,
+                "runtime": 83,
+                "genres": [
+                  "Horror"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/7dXtC1zkssrvQSo25u9muvoGrns.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/hDNwmi99YyGupHaXsgenIuKwQU5.jpg",
+                "overview": "The 1800s: scholarly Karl Schiller believes he's found the ring of the Nibelungen, which holds great power. It's at Castle Dracula. His twin, Franz, a gambler, asks if vampires frighten Karl; Karl shows him an Egyptian amulet, which may protect him. Franz takes the amulet and sets out ahead of his brother, arriving at the castle first. There he finds a countess who invites him to dine. Later that night, Karl arrives. Coincidently, it's the Night of the Virgin Moon, a night that falls every fifty years and draws five virgins from the surrounding village to the castle not be heard from again. Can Karl protect his brother, find the ring, and rescue any of the women?",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "None"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Mark Damon",
+                    "nconst": "nm0198941",
+                    "character": "Franz Schiller",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZDY2ZmI3MTEtMGY5MS00NTg5LWI2NWItZTc4MTA3NjUwZTJjXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Monster",
+                      "year": 2003,
+                      "tconst": "tt0340855"
+                    }
+                  },
+                  {
+                    "name": "Rosalba Neri",
+                    "nconst": "nm0626219",
+                    "character": "La Contessa Dolingen de Vries",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BM2MzNGRlMjctOGZjNC00YWYxLWIwZmItMzRmZGQxYjY0NTBkXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The Arena",
+                      "year": 1974,
+                      "tconst": "tt0069729"
+                    }
+                  },
+                  {
+                    "name": "Esmeralda Barros",
+                    "nconst": "nm0057754",
+                    "character": "Lara - Zombie",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZjY5YzM0ZjYtNDFjMy00ZTZhLThhMDEtYzBkODk1M2FiY2QzXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Kong Island",
+                      "year": 1968,
+                      "tconst": "tt0062946"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0070547/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0070547",
+                  "wiki": "https://en.wikipedia.org/wiki/The_Devil's_Wedding_Night"
+                }
+              }
             },
             {
               "title": "Two to Tango",
@@ -215,7 +1412,63 @@
               "akas": [],
               "imdbId": "tt0096325",
               "imdbRating": 5.3,
-              "imdbVotes": 83
+              "imdbVotes": 83,
+              "info": {
+                "imdbId": "tt0096325",
+                "cleanTitle": "Two to Tango",
+                "cleanYear": 1989,
+                "rating": 3,
+                "runtime": 87,
+                "genres": [
+                  "Thriller"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/kbKe0Q09hrsQzhYLqtcc2XpDM3F.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/A3tJYNEhseu5AbnCnZOu2yCDC9w.jpg",
+                "overview": "Jim Conrad, a reluctant hitman, is ordered to Buenos Aires to complete one last contract. The task becomes complicated when the intended victim proves to be a well-protected man accompanied by a beautiful mistress who has caught Conrad's eye.",
+                "certificate": "R",
+                "parentalGuide": [],
+                "cast": [
+                  {
+                    "name": "Don Stroud",
+                    "nconst": "nm0835144",
+                    "character": "James Conrad",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM5MjUzMjI4OF5BMl5BanBnXkFtZTcwOTMzMDMyOA@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Django Unchained",
+                      "year": 2012,
+                      "tconst": "tt1853728"
+                    }
+                  },
+                  {
+                    "name": "Adrianne Sachs",
+                    "nconst": "nm0755124",
+                    "character": "Cecilia Lorca",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "RoboCop",
+                      "year": 1987,
+                      "tconst": "tt0093870"
+                    }
+                  },
+                  {
+                    "name": "Duilio Marzio",
+                    "nconst": "nm0555823",
+                    "character": "Paulino Velasco",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BZjMwYmNjMGYtZDFmNC00YTUxLTkwOGYtZjQ4NmE5YjgzYTJiXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Las manos",
+                      "year": 2006,
+                      "tconst": "tt0489751"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0096325/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0096325",
+                  "wiki": "https://en.wikipedia.org/wiki/Tango_%26_Cash"
+                }
+              }
             }
           ]
         }
@@ -236,7 +1489,81 @@
               "akas": [],
               "imdbId": "tt0061140",
               "imdbRating": 4.5,
-              "imdbVotes": 1395
+              "imdbVotes": 1395,
+              "info": {
+                "imdbId": "tt0061140",
+                "cleanTitle": "The Undertaker and His Pals",
+                "cleanYear": 1966,
+                "rating": 4.7,
+                "runtime": 63,
+                "genres": [
+                  "Comedy",
+                  "Horror"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/1jTMa1COl2XcSzTGPZvMYIvl0T4.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/zUYzUl4Gnro8R05iWIbQmrpXOPZ.jpg",
+                "overview": "An undertaker befriends a pair of motorcycle-riding, knife-wielding, psycho restaurant owners who kill people for body parts to use in their blue-plate daily specials.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Warrene Ott",
+                    "nconst": "nm0653067",
+                    "character": "Friday",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYjk4ZmEyYjAtY2FhZC00OTRjLTgzMDYtYjM0NjQwYjE3YjdjXkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "A Guide for the Married Man",
+                      "year": 1967,
+                      "tconst": "tt0061736"
+                    }
+                  },
+                  {
+                    "name": "James Westmoreland",
+                    "nconst": "nm0298502",
+                    "character": "Harry Glass",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjg5MzQ3Nzk4Nl5BMl5BanBnXkFtZTcwOTEzODMzMQ@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Don't Answer the Phone!",
+                      "year": 1980,
+                      "tconst": "tt0080645"
+                    }
+                  },
+                  {
+                    "name": "Marty Friedman",
+                    "nconst": "nm0295300",
+                    "character": "'Doc' Jerry",
+                    "photo": null,
+                    "knownFor": null
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0061140/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0061140",
+                  "wiki": "https://en.wikipedia.org/wiki/The_Undertaker_and_His_Pals"
+                }
+              }
             },
             {
               "title": "Phantom of the Paradise",
@@ -245,7 +1572,86 @@
               "akas": [],
               "imdbId": "tt0071994",
               "imdbRating": 7.3,
-              "imdbVotes": 27154
+              "imdbVotes": 27154,
+              "info": {
+                "imdbId": "tt0071994",
+                "cleanTitle": "Phantom of the Paradise",
+                "cleanYear": 1974,
+                "rating": 7.5,
+                "runtime": 92,
+                "genres": [
+                  "Drama",
+                  "Horror",
+                  "Music"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+                "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+                "certificate": "PG",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Mild"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Paul Williams",
+                    "nconst": "nm0931437",
+                    "character": "Swan",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTc3NzI3MjM3OV5BMl5BanBnXkFtZTcwMzY3ODQ3MQ@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Smokey and the Bandit",
+                      "year": 1977,
+                      "tconst": "tt0076729"
+                    }
+                  },
+                  {
+                    "name": "William Finley",
+                    "nconst": "nm0278073",
+                    "character": "Winslow",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTI1NzA3MjM1M15BMl5BanBnXkFtZTcwODE5MDAzMQ@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "The Black Dahlia",
+                      "year": 2006,
+                      "tconst": "tt0387877"
+                    }
+                  },
+                  {
+                    "name": "Jessica Harper",
+                    "nconst": "nm0363888",
+                    "character": "Phoenix",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzk1MDI2NzkxN15BMl5BanBnXkFtZTcwNTk1MzMyMw@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Minority Report",
+                      "year": 2002,
+                      "tconst": "tt0181689"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0071994/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0071994",
+                  "wiki": "https://en.wikipedia.org/wiki/Phantom_of_the_Paradise"
+                }
+              }
             },
             {
               "title": "Sisters",
@@ -254,7 +1660,85 @@
               "akas": [],
               "imdbId": "tt0070698",
               "imdbRating": 6.8,
-              "imdbVotes": 24095
+              "imdbVotes": 24095,
+              "info": {
+                "imdbId": "tt0070698",
+                "cleanTitle": "Sisters",
+                "cleanYear": 1973,
+                "rating": 6.7,
+                "runtime": 93,
+                "genres": [
+                  "Thriller",
+                  "Horror"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/hqxzpgJse54AcX1Mt1c6raXS290.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/V4iqE9Ptgx7FJ8pLK0IWI9Zg46.jpg",
+                "overview": "Inquisitive journalist Grace Collier is horrified when she witnesses her neighbor, fashion model Danielle Breton, violently murder a man. Panicking, she calls the police. But when the detective arrives at the scene and finds nothing amiss, Grace is forced to take matters into her own hands. Her first move is to recruit private investigator Joseph Larch, who helps her to uncover a secret about Danielle's past that has them both seeing double.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Severe"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Margot Kidder",
+                    "nconst": "nm0452288",
+                    "character": "Danielle Breton",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjQ5OTQ5NDg5OV5BMl5BanBnXkFtZTgwMDYwMjE1NTM@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Superman",
+                      "year": 1978,
+                      "tconst": "tt0078346"
+                    }
+                  },
+                  {
+                    "name": "Jennifer Salt",
+                    "nconst": "nm0759022",
+                    "character": "Grace Collier",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjAwOTk3Mzc2N15BMl5BanBnXkFtZTcwODM3OTM3Mw@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "American Horror Story",
+                      "year": 2011,
+                      "tconst": "tt1844624"
+                    }
+                  },
+                  {
+                    "name": "Charles Durning",
+                    "nconst": "nm0001164",
+                    "character": "Joseph Larch",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjAzMDk1NTU1OV5BMl5BanBnXkFtZTYwMDA2MjM0._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "O Brother, Where Art Thou?",
+                      "year": 2000,
+                      "tconst": "tt0190590"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0070698/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0070698",
+                  "wiki": "https://en.wikipedia.org/wiki/Sisters_(1972_film)"
+                }
+              }
             }
           ]
         },
@@ -269,7 +1753,76 @@
               "akas": [],
               "imdbId": "tt0105009",
               "imdbRating": 5.1,
-              "imdbVotes": 890
+              "imdbVotes": 890,
+              "info": {
+                "imdbId": "tt0105009",
+                "cleanTitle": "No Place to Hide",
+                "cleanYear": 1992,
+                "rating": 5.5,
+                "runtime": 98,
+                "genres": [
+                  "Thriller"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/xsgAsIvzNk761Xdyijiem6LlWl8.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/hPjfe7sgEeK6qagrl4Ldhaa3spf.jpg",
+                "overview": "Detective Joe Garvey is called in to a mysterious case: a ballerina has been slayed on stage during a performance, it seems she didn't even fight. At her house Garvey finds her 14 years old precocious sister Tinsel. She's not very cooperative, so he arranges to have her sent to the orphanage -- until she's attacked too. He takes her under his wings, and soon both get the attention of a secret organization.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Severe"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Kris Kristofferson",
+                    "nconst": "nm0001434",
+                    "character": "Joe Garvey",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BODM4NDY5MTYyMl5BMl5BanBnXkFtZTYwNjg1ODE2._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Blade",
+                      "year": 1998,
+                      "tconst": "tt0120611"
+                    }
+                  },
+                  {
+                    "name": "Drew Barrymore",
+                    "nconst": "nm0000106",
+                    "character": "Tinsel Hanley",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjEyOTMzODIxM15BMl5BanBnXkFtZTcwODM2NTY5Mg@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "50 First Dates",
+                      "year": 2004,
+                      "tconst": "tt0343660"
+                    }
+                  },
+                  {
+                    "name": "Illana Diamant",
+                    "nconst": "nm0224532",
+                    "character": "Joline",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUwOTUyNjU2MF5BMl5BanBnXkFtZTYwNDQzMTEz._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Double Team",
+                      "year": 1997,
+                      "tconst": "tt0119013"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0105009/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0105009",
+                  "wiki": "https://en.wikipedia.org/wiki/Run_Hide_Fight"
+                }
+              }
             },
             {
               "title": "Blood Salvage",
@@ -280,7 +1833,85 @@
               ],
               "imdbId": "tt0099153",
               "imdbRating": 5,
-              "imdbVotes": 787
+              "imdbVotes": 787,
+              "info": {
+                "imdbId": "tt0099153",
+                "cleanTitle": "Blood Salvage",
+                "cleanYear": 1990,
+                "rating": 5.6,
+                "runtime": 98,
+                "genres": [
+                  "Horror",
+                  "Comedy"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/xwH45tB4bFiloK1RLBHaKI0XIt1.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/ciQnh6NQ0RXfdyFC14h1CidFUyS.jpg",
+                "overview": "Twisted tale about a crazy, preaching redneck named Jake who kidnaps people off the highway and performs sick medical experiments on them. He then proceeds to sell their organs on the black market to Mr. Stone. Everything is fine until he kidnaps the handicapped April and finds that she is harder to control than the others.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Danny Nelson",
+                    "nconst": "nm0625280",
+                    "character": "Jake Pruitt",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "The Curious Case of Benjamin Button",
+                      "year": 2008,
+                      "tconst": "tt0421715"
+                    }
+                  },
+                  {
+                    "name": "Lori Birdsong",
+                    "nconst": "nm0083486",
+                    "character": "April Evans",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Hunter",
+                      "year": 1984,
+                      "tconst": "tt0086734"
+                    }
+                  },
+                  {
+                    "name": "Christian Hesler",
+                    "nconst": "nm0381396",
+                    "character": "Hiram",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Funland",
+                      "year": 1987,
+                      "tconst": "tt0091094"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0099153/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0099153",
+                  "wiki": "https://en.wikipedia.org/wiki/Blood_Salvage"
+                }
+              }
             },
             {
               "title": "The Dead Next Door",
@@ -289,7 +1920,82 @@
               "akas": [],
               "imdbId": "tt0094962",
               "imdbRating": 5,
-              "imdbVotes": 3710
+              "imdbVotes": 3710,
+              "info": {
+                "imdbId": "tt0094962",
+                "cleanTitle": "The Dead Next Door",
+                "cleanYear": 1989,
+                "rating": 4.8,
+                "runtime": 84,
+                "genres": [
+                  "Horror",
+                  "Action",
+                  "Thriller"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/v0YY0O4hnsd8fiJ3TnBOfZZR4hQ.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/fJMLD9WsyiMY2IQYRSBgI2a43Jp.jpg",
+                "overview": "The government sets up a zombie squad after an epidemic has made the world run rampant with living corpses. The team head off to Ohio to try and find a cure but soon run into a crazy cult of zombie lovers who are set on preserving the walking dead as they believe it's God's will.",
+                "certificate": "Unrated",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Severe"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Pete Ferry",
+                    "nconst": "nm0275097",
+                    "character": "Raimi",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Take Shelter",
+                      "year": 2011,
+                      "tconst": "tt1675192"
+                    }
+                  },
+                  {
+                    "name": "Bogdan Pecic",
+                    "nconst": "nm0669607",
+                    "character": "Dr. Moulsson",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Robot Ninja",
+                      "year": 1989,
+                      "tconst": "tt0100503"
+                    }
+                  },
+                  {
+                    "name": "Michael Grossi",
+                    "nconst": "nm0343593",
+                    "character": "Mercer",
+                    "photo": null,
+                    "knownFor": null
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0094962/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0094962",
+                  "wiki": "https://en.wikipedia.org/wiki/The_Dead_Next_Door"
+                }
+              }
             }
           ]
         },
@@ -304,7 +2010,83 @@
               "akas": [],
               "imdbId": "tt0281919",
               "imdbRating": 4.5,
-              "imdbVotes": 1961
+              "imdbVotes": 1961,
+              "info": {
+                "imdbId": "tt0281919",
+                "cleanTitle": "How to Make a Monster",
+                "cleanYear": 2001,
+                "rating": 4.3,
+                "runtime": 91,
+                "genres": [
+                  "TV Movie",
+                  "Horror",
+                  "Science Fiction",
+                  "Thriller"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/1SYUhLRAe2hgw47aBWMxUG7f97X.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/99jyzZKS4qw2MAwiGVmLudCVxTI.jpg",
+                "overview": "Video game developer Clayton Software enlists the talents of a misfit group of programmers to develop the scariest computer combat game: EVILUTION. With four weeks to bring the game to market and a million-dollar bonus on the line, they utilize a telemetry suit to render a 3-D version of the onscreen player. But when a power surge gives the hard drive a mind of its own, the suit comes to life to play the game for real and the programming team find themselves in the middle of a chilling virtual nightmare beyond their wildest imagination.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Severe"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Severe"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Clea DuVall",
+                    "nconst": "nm0245112",
+                    "character": "Laura",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjU0NDc3MTM4NV5BMl5BanBnXkFtZTcwMjY4Mzc1OA@@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Argo",
+                      "year": 2012,
+                      "tconst": "tt1024648"
+                    }
+                  },
+                  {
+                    "name": "Steven Culp",
+                    "nconst": "nm0191688",
+                    "character": "Drummond",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM3MzA0NzYxOF5BMl5BanBnXkFtZTYwNzIzMTA2._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Captain America: The Winter Soldier",
+                      "year": 2014,
+                      "tconst": "tt1843866"
+                    }
+                  },
+                  {
+                    "name": "Tyler Mane",
+                    "nconst": "nm0541932",
+                    "character": "Hardcore",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjA5NjM4ODIzM15BMl5BanBnXkFtZTgwMTA3OTg5NDE@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "X-Men",
+                      "year": 2000,
+                      "tconst": "tt0120903"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0281919/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0281919",
+                  "wiki": "https://en.wikipedia.org/wiki/How_to_Make_a_Monster_(2001_film)"
+                }
+              }
             },
             {
               "title": "Blackjack",
@@ -313,7 +2095,87 @@
               "akas": [],
               "imdbId": "tt0126816",
               "imdbRating": 4.8,
-              "imdbVotes": 4953
+              "imdbVotes": 4953,
+              "info": {
+                "imdbId": "tt0126816",
+                "cleanTitle": "Blackjack",
+                "cleanYear": 1998,
+                "rating": 5.3,
+                "runtime": 112,
+                "genres": [
+                  "TV Movie",
+                  "Action",
+                  "Thriller",
+                  "Crime"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/xinJIob2IVjXaupIkSj2TGiJYJf.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/hLr3ybylDMnC33mnK9IRPQXFntl.jpg",
+                "overview": "After saving Casey, a daughter of his friend, from hired assassins, Jack Devlin is hit with a strange phobia - fear of white color. But when his other friend, who works as a bodyguard for a supermodel, is wounded, Jack decides to step in for him. Now he must confront his fear and the assassin, who seems to be well aware of Jack's problem.",
+                "certificate": "R",
+                "parentalGuide": [
+                  {
+                    "category": "Sex & Nudity",
+                    "severity": "None"
+                  },
+                  {
+                    "category": "Violence & Gore",
+                    "severity": "Mild"
+                  },
+                  {
+                    "category": "Profanity",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Alcohol, Drugs & Smoking",
+                    "severity": "Moderate"
+                  },
+                  {
+                    "category": "Frightening & Intense Scenes",
+                    "severity": "Moderate"
+                  }
+                ],
+                "cast": [
+                  {
+                    "name": "Dolph Lundgren",
+                    "nconst": "nm0000185",
+                    "character": "Jack Devlin",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Rocky IV",
+                      "year": 1985,
+                      "tconst": "tt0089927"
+                    }
+                  },
+                  {
+                    "name": "Kate Vernon",
+                    "nconst": "nm0894690",
+                    "character": "Dr. Rachel Stein",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTc5NzMxMTk5MV5BMl5BanBnXkFtZTgwMDgwMjg2MjE@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Battlestar Galactica",
+                      "year": 2004,
+                      "tconst": "tt0407362"
+                    }
+                  },
+                  {
+                    "name": "Phillip MacKenzie",
+                    "nconst": "nm0533384",
+                    "character": "Rory Gaines",
+                    "photo": null,
+                    "knownFor": {
+                      "title": "Dawn of the Dead",
+                      "year": 2004,
+                      "tconst": "tt0363547"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0126816/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0126816",
+                  "wiki": "https://en.wikipedia.org/wiki/Blackjack_(1998_film)"
+                }
+              }
             },
             {
               "title": "Deep Core",
@@ -322,7 +2184,65 @@
               "akas": [],
               "imdbId": "tt0202314",
               "imdbRating": 3.2,
-              "imdbVotes": 1340
+              "imdbVotes": 1340,
+              "info": {
+                "imdbId": "tt0202314",
+                "cleanTitle": "Deep Core",
+                "cleanYear": 2000,
+                "rating": 4,
+                "runtime": 90,
+                "genres": [
+                  "Action",
+                  "Science Fiction",
+                  "Thriller"
+                ],
+                "poster": "https://image.tmdb.org/t/p/w342/oCW6Sd8WQUdJvGAMAD1voHF2fBL.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w780/jWQdfAaJNRhObPUugbhcsmru63h.jpg",
+                "overview": "A powerful laser machine rips the core of the earth causing earthquakes and tsunamis, and only one man and his team can save the planet from destruction. Will they succeed?",
+                "certificate": "PG-13",
+                "parentalGuide": [],
+                "cast": [
+                  {
+                    "name": "Craig Sheffer",
+                    "nconst": "nm0001729",
+                    "character": "Brian Goodman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU5MzE3NzkzNV5BMl5BanBnXkFtZTYwNjk5MDcy._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "A River Runs Through It",
+                      "year": 1992,
+                      "tconst": "tt0105265"
+                    }
+                  },
+                  {
+                    "name": "Terry Farrell",
+                    "nconst": "nm0000395",
+                    "character": "Allison Saunders",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMGYxMjU1NzctYTE2MC00ZDhlLWJmNDAtMTZlYTVlN2I4Y2M5XkEyXkFqcGc@._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Star Trek: Deep Space Nine",
+                      "year": 1993,
+                      "tconst": "tt0106145"
+                    }
+                  },
+                  {
+                    "name": "Bruce McGill",
+                    "nconst": "nm0569226",
+                    "character": "Sam Dalton",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1NzEwNF5BMl5BanBnXkFtZTYwNzkwMTM0._V1_UX120_.jpg",
+                    "knownFor": {
+                      "title": "Law Abiding Citizen",
+                      "year": 2009,
+                      "tconst": "tt1197624"
+                    }
+                  }
+                ],
+                "killCount": null,
+                "links": {
+                  "imdb": "https://www.imdb.com/title/tt0202314/",
+                  "letterboxd": "https://letterboxd.com/imdb/tt0202314",
+                  "wiki": "https://en.wikipedia.org/wiki/Deep_Core_(film)"
+                }
+              }
             }
           ]
         }
