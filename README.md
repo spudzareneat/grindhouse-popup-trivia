@@ -67,6 +67,14 @@ post does, and `run` publishes the schedule it has just scraped before researchi
 Within one weekend, ids and ratings already published are kept (an IMDb outage can't blank them, and a rating is fetched once per
 film rather than refreshed), a dismissed title is never re-resolved, and nothing is committed unless the content changed.
 
+Each item also carries an `info` object: everything the Coming Attractions cards show, looked up once here instead of in every
+viewer's browser, in the same shape and priority the userscript's own lookup returns (`cleanTitle`, `cleanYear`, `rating`,
+`runtime` in minutes, `genres`, `poster` and `backdrop` URLs, `overview`, `certificate`, `parentalGuide`, top-3 `cast`,
+`killCount`, `links`). TMDB (needs `TMDB_API_KEY`) wins, IMDb fills the gaps, and without a TMDB key IMDb values stand in. A source
+that fails only nulls its own fields, and an item with no usable `info` (`null`) makes the userscript fall back to its own lookup
+for that one film. Complete `info` is kept for the rest of the weekend (not refetched), incomplete `info` is retried on every run,
+and a Discord pick refreshes the picked film's `info` along with its id and rating.
+
 Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth failure (re-run later / fix the token),
 3 git push failed (run stopped; the commit stays local and is pushed by the next run), 64 bad command line.
 
