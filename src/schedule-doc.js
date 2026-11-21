@@ -14,7 +14,10 @@ export const SCHEDULE_FILE = 'schedule/current.json';
 // previous (the file as last published) is only consulted for the SAME post: a failed or empty lookup keeps the id already
 // published (an IMDb outage must not erase it; a dismiss already nulled it in the file, so nothing is resurrected), and a
 // rating already published for an unchanged id is kept rather than refetched (so vote-count drift never causes a commit).
-export async function buildScheduleDoc({ post, resolveItem, rate, now, previous = null }) {
+// fetchInfo(tconst) -> Info|null (optional; see src/lineup-info.js): when supplied every item gets an `info` key. Complete previous
+// info (has cleanTitle) for the same post and id is kept; otherwise it is fetched, and a failed fetch keeps previous info only if
+// that info belongs to the same id (never another film's), else null.
+export async function buildScheduleDoc({ post, resolveItem, rate, now, previous = null, fetchInfo = null }) {
     const key = item => `${item.title}|${item.year ?? ''}`;
     const prevByKey = new Map();
     if (previous && previous.postId === post.postId) {
@@ -40,7 +43,21 @@ export async function buildScheduleDoc({ post, resolveItem, rate, now, previous 
                         } catch { /* rating stays null; the next schedule run retries */ }
                     }
                 }
-                items.push({ ...item, imdbId, imdbRating, imdbVotes });
+                let infoField = {};
+                if (fetchInfo) {
+                    let info = null;
+                    if (imdbId) {
+                        const prevInfo = prev && prev.imdbId === imdbId ? (prev.info ?? null) : null;
+                        if (prevInfo?.cleanTitle) info = prevInfo;
+                        else {
+                            let got = null;
+                            try { got = await fetchInfo(imdbId); } catch { got = null; }
+                            info = got ?? prevInfo;
+                        }
+                    }
+                    infoField = { info };
+                }
+                items.push({ ...item, imdbId, imdbRating, imdbVotes, ...infoField });
             }
             sections.push({ ...section, items });
         }
@@ -89,12 +106,12 @@ export function applyPick(doc, { title, year, tconst, rating }) {
 
 // pull -> fetch -> build -> compare -> write -> commit. A fetchPost failure propagates before anything is written, so the
 // previous file stays published. Returns 'unchanged' (nothing written or committed) or 'published'.
-export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, rate, now, log = () => {} }) {
+export async function publishSchedule({ repoDir, git, fetchPost, resolveItem, rate, now, fetchInfo = null, log = () => {} }) {
     git.pull();
     git.push();   // deliver a commit stranded by an earlier failed push (as runWeekend does), so a stale raw file is not left behind
     const post = await fetchPost();
     const previous = readScheduleDoc(repoDir);
-    const doc = await buildScheduleDoc({ post, resolveItem, rate, now, previous });
+    const doc = await buildScheduleDoc({ post, resolveItem, rate, now, previous, fetchInfo });
     if (sameSchedule(previous, doc)) { log('schedule: unchanged, nothing to publish'); return 'unchanged'; }
     const file = writeScheduleDoc(repoDir, doc);
     git.commitAndPush(file, `schedule: ${doc.title}`);

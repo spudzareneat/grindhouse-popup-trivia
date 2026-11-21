@@ -28,6 +28,8 @@ import { makePendingStore } from './discord/pending.js';
 import { notifyRun, notifyFailure, notifySessionExpiring } from './discord/notify.js';
 import { loadOverrides } from './overrides.js';
 import { publishSchedule, buildScheduleDoc, makeResolveItem, publishBestEffort } from './schedule-doc.js';
+import { makeFetchInfo } from './lineup-info.js';
+import { fetchKillCounts } from './killcounts.js';
 
 // Exit codes: 0 ok, 1 failures / feed error, 2 Claude usage limit or auth, 3 git push failed, 64 bad usage.
 async function main() {
@@ -86,7 +88,9 @@ async function main() {
     // Publishing schedule/current.json (see docs/superpowers/specs/2026-11-20-published-schedule-design.md).
     const resolveItem = makeResolveItem({ imdb: deps.imdb, tmdb: deps.tmdb, overridesFile: deps.overridesFile, log });
     const rate = id => deps.imdb.fetchRating(id);
-    const publish = fetchPost => publishSchedule({ repoDir, git: deps.git, fetchPost, resolveItem, rate, now: new Date().toISOString(), log });
+    // The per-film info shown on Coming Attractions cards (IMDb + TMDB + Wikipedia + kill counts), fetched once here for everyone.
+    const fetchInfo = makeFetchInfo({ imdb: deps.imdb, tmdb: deps.tmdb, wiki: deps.wiki, killCounts: () => fetchKillCounts() });
+    const publish = fetchPost => publishSchedule({ repoDir, git: deps.git, fetchPost, resolveItem, rate, fetchInfo, now: new Date().toISOString(), log });
 
     if (command === 'run') {
         let postTitle = null;
@@ -133,7 +137,7 @@ async function main() {
         try {
             if (!args.dryRun) await remindSessionExpiry();
             if (args.dryRun) {
-                const doc = await buildScheduleDoc({ post: await fetchPost(), resolveItem, rate, now: new Date().toISOString() });
+                const doc = await buildScheduleDoc({ post: await fetchPost(), resolveItem, rate, fetchInfo, now: new Date().toISOString() });
                 log(`schedule (dry run, nothing written): ${doc.title}`);
                 console.log(JSON.stringify(doc, null, 2));
             } else {

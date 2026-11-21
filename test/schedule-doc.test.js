@@ -281,3 +281,69 @@ test('publishSchedule delivers commits stranded by an earlier failed push: pull,
         assert.deepEqual(t.calls, [['pull'], ['push']]);
     } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
 });
+
+// --- Published info (per-film `info` object) ---
+const idOf = item => 'tt-' + item.title.replace(/ /g, '');
+const infoOf = id => ({ imdbId: id, cleanTitle: 'Title ' + id, poster: 'https://p/' + id });
+const buildWith = (over = {}) => buildScheduleDoc({ post: post(), now: NOW, resolveItem: async item => idOf(item), rate: async () => ({ rating: 5, votes: 10 }), fetchInfo: async id => infoOf(id), ...over });
+
+test('items gain info when fetchInfo is supplied, and have no info key otherwise', async () => {
+    const withInfo = await buildWith();
+    assert.deepEqual(items(withInfo).map(i => i.info), items(withInfo).map(i => infoOf(i.imdbId)));
+    const without = await buildWith({ fetchInfo: undefined });
+    assert.ok(items(without).every(i => !('info' in i)));
+});
+test('an unresolved item has info null and fetchInfo is not called for it', async () => {
+    const asked = [];
+    const doc = await buildWith({ resolveItem: async item => (item.title === 'Mystery Film' ? null : idOf(item)), fetchInfo: async id => { asked.push(id); return infoOf(id); } });
+    assert.equal(items(doc)[1].info, null);
+    assert.ok(!asked.includes(null));
+    assert.equal(asked.length, 2);
+});
+test('complete previous info for the same post and id is kept and not refetched', async () => {
+    const previous = await buildWith();
+    items(previous)[0].info = { ...items(previous)[0].info, poster: 'https://old/poster' };
+    let calls = 0;
+    const next = await buildWith({ previous, fetchInfo: async id => { calls++; return infoOf(id); } });
+    assert.equal(calls, 0);
+    assert.equal(items(next)[0].info.poster, 'https://old/poster');
+});
+test('incomplete previous info (no cleanTitle) is refetched; a failed refetch keeps the incomplete previous info', async () => {
+    const previous = await buildWith();
+    items(previous)[0].info = { imdbId: items(previous)[0].imdbId };
+    const refreshed = await buildWith({ previous });
+    assert.equal(items(refreshed)[0].info.cleanTitle, 'Title ' + items(previous)[0].imdbId);
+    const kept = await buildWith({ previous, fetchInfo: async () => { throw new Error('down'); } });
+    assert.deepEqual(items(kept)[0].info, { imdbId: items(previous)[0].imdbId });
+    const keptNull = await buildWith({ previous, fetchInfo: async () => null });
+    assert.deepEqual(items(keptNull)[0].info, { imdbId: items(previous)[0].imdbId });
+});
+test('a changed id refetches and never keeps the old film\'s info; a different post never reuses previous info', async () => {
+    const previous = await buildWith();
+    const changed = await buildWith({ previous, resolveItem: async () => 'tt-NEW' });
+    assert.ok(items(changed).every(i => i.info.imdbId === 'tt-NEW'));
+    const failed = await buildWith({ previous, resolveItem: async () => 'tt-NEW', fetchInfo: async () => { throw new Error('down'); } });
+    assert.ok(items(failed).every(i => i.info === null));
+    const otherPost = await buildScheduleDoc({ post: { ...post(), postId: 't3_other' }, now: NOW, previous, resolveItem: async item => idOf(item), rate: async () => ({ rating: 1, votes: 1 }), fetchInfo: async id => ({ ...infoOf(id), poster: 'fresh' }) });
+    assert.ok(items(otherPost).every(i => i.info.poster === 'fresh'));
+});
+test('publishSchedule: a second run with a failing fetchInfo changes nothing and commits nothing', async () => {
+    const t = pubEnv();
+    try {
+        await t.run({ fetchInfo: async id => infoOf(id) });
+        const before = fs.readFileSync(t.file, 'utf8');
+        assert.equal(await t.run({ now: '2026-11-21T05:00:00.000Z', fetchInfo: async () => { throw new Error('down'); } }), 'unchanged');
+        assert.equal(fs.readFileSync(t.file, 'utf8'), before);
+        assert.equal(t.calls.filter(c => c[0] === 'commit').length, 1);
+        assert.ok(items(JSON.parse(before)).every(i => i.info && i.info.cleanTitle));
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
+test('publishSchedule republishes when info was missing and is now available (retry of an earlier failure)', async () => {
+    const t = pubEnv();
+    try {
+        await t.run({ fetchInfo: async () => null });
+        assert.ok(items(JSON.parse(fs.readFileSync(t.file, 'utf8'))).every(i => i.info === null));
+        assert.equal(await t.run({ now: '2026-11-21T06:00:00.000Z', fetchInfo: async id => infoOf(id) }), 'published');
+        assert.ok(items(JSON.parse(fs.readFileSync(t.file, 'utf8'))).every(i => i.info && i.info.cleanTitle));
+    } finally { fs.rmSync(t.dir, { recursive: true, force: true }); }
+});
