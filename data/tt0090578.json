@@ -1,0 +1,387 @@
+{
+  "schema": 1,
+  "imdbId": "tt0090578",
+  "title": "Abducted",
+  "year": 1986,
+  "runtimeSec": 5400,
+  "generatedAt": "2026-11-26T06:10:50.900Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Boon Collins' film was loosely inspired by the 1984 Montana abduction of biathlete Kari Swenson by survivalists Don Nichols and his son Dan, who wanted her as a 'mountain bride'.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kari_Swenson"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The poster tagline: 'When she went for her morning jog she didn't realize she'd be running for her life!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The real victim, Kari Swenson, was a bronze medalist on the 1984 US relay team at the first Women's Biathlon World Championships in Chamonix, France, before her kidnapping that summer.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/14/usa-up-all-night-month-abducted-1986"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the real case, Don Nichols got 85 years and son Dan got 10. Kari Swenson survived being shot, became a veterinarian, and later advised on the 1987 NBC TV movie with Tracy Pollan.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kari_Swenson"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's working title was 'Stone Sheep', a nod to the bighorn-style animals that Dan Haggerty's character, Joe Evans, obsesses over. It was renamed Abducted.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Abducted-Blu-ray/372346"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the real case, the shot that hit Kari Swenson collapsed a lung, but she survived, partly thanks to the breathing capacity of a trained endurance athlete.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/14/usa-up-all-night-month-abducted-1986"
+      }
+    },
+    {
+      "t": 1150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kari Swenson, the biathlete who inspired this film, resented media coverage that painted her kidnappers as romantic 'mountain men' instead of criminals.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/14/usa-up-all-night-month-abducted-1986"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-director Boon Collins cast Dan Haggerty, TV's Grizzly Adams, right after Haggerty's 1984 cocaine bust. Collins called him a 'piece of work' on the 2024 Blu-ray.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Abducted-Blu-ray/372346"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinematographer Robert McLachlan, who shot this wilderness thriller on a tiny crew, later filmed Game of Thrones and Ray Donovan. Director Boon Collins says the shoot paid very little.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebloodypitofhorror.blogspot.com/2021/07/abducted-1986.html?m=1"
+      }
+    },
+    {
+      "t": 1600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole movie was shot in about 17 days north of Vancouver on a budget under CA$200,000.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Writer-director Boon Collins co-wrote the script with Lindsey Bourne, who also co-wrote the 1995 sequel Abducted II: The Reunion.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/14/usa-up-all-night-month-abducted-1986"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Roberta Weiss' river-log struggle wasn't shot in a river. It was a North Vancouver hotel pool lined with weighted black tarp, with the crew splashing her to fake the current.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0919156",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzMxZWY5ZDItNGJjYi00ZmJhLWE0NWMtZTMyZmRkN2I0YTE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Roberta Weiss (Renee) was cast in Toronto because director Boon Collins felt she had a 'serious' demeanor. She later played Flame Beaufort on the soap Santa Barbara.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0919156",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzMxZWY5ZDItNGJjYi00ZmJhLWE0NWMtZTMyZmRkN2I0YTE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Film distributor Films We Like says Abducted was shot on Mount Seymour in British Columbia, just north of Vancouver.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmswelike.com/films/abducted"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lawrence King-Phillips (Vern) was a friend of director Boon Collins' sister from their Ryerson University days. He later lived briefly with Collins and his wife.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0455402",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZhMWE4NmEtNDY5Ni00MDY1LWFhYTktNmY2YmM5ZDA3NDZlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Roberta Weiss (Renee) also appeared in the Stephen King adaptation The Dead Zone (1983) and the anthology series Tales from the Darkside.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0919156",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzMxZWY5ZDItNGJjYi00ZmJhLWE0NWMtZTMyZmRkN2I0YTE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2770,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dan Haggerty broke his leg just before filming and wore a thigh-high cast. For his close-ups he was rolled along on a dolly, faking his walk.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In long shots, Dan Haggerty's walking was done by Norm Mackie, a lookalike the crew found working at a nearby log sort yard. He took time off work and went uncredited.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Abducted earned a Genie Award nomination for Best Overall Sound at the 8th Genie Awards in 1987, for Peter Clements, David Appleby and Don White.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dan Haggerty's beard famously caught fire in 1977 when a restaurant patron carried a flaming cocktail too close.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stephen E. Miller, who plays the Guide, also appeared in the first Rambo film, First Blood (1982).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0589358",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU5MWUzY2YtOWZiYi00MTQ3LTljZmYtMGI1OTI0NjA2ZjE5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "VideoHound's Golden Movie Retriever called Abducted 'weird and unbelievably tedious', but praised its spectacular wilderness footage.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After its one-week Canadian run, Abducted got wide video distribution worldwide in the late 1980s, including a US release from Prism and releases in Europe, South America and Japan.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebloodypitofhorror.blogspot.com/2021/07/abducted-1986.html?m=1"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewing the 2024 Blu-ray, Brian Orndorf called it 'a bizarrely inert study of relationships and nature'. He said director Boon Collins lacked the imagination for active horror.",
+      "icon": "mic",
+      "byline": "Brian Orndorf",
+      "source": {
+        "type": "web",
+        "url": "https://brianorndorf.com/2025/06/03/blu-ray-review-abducted"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the UK, Abducted came out on VHS from RCA Columbia Home Entertainment.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kari Swenson returned to competition after her ordeal and finished fourth at a 1986 biathlon event in Oslo, Norway, before retiring.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/09/14/usa-up-all-night-month-abducted-1986"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Boon Collins first made his name writing the 1981 slasher Butcher, Baker, Nightmare Maker. He later made a sequel to this film, Abducted II: The Reunion.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://m.blu-ray.com/movies/Abducted-Blu-ray/372346"
+      },
+      "person": "nm0172181"
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The sequel Abducted II: The Reunion brought back Dan Haggerty and Lawrence King-Phillips and added horror regular Debbie Rochon. It later aired on USA Network's late-night USA Up All Night.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://thebloodypitofhorror.blogspot.com/2021/07/abducted-1986.html?m=1"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A train engineer who was a huge Grizzly Adams fan backed his train up for a second take on the trestle, on one condition: he got to meet Dan Haggerty. Haggerty gave him a signed 8x10.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0353624",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzYyMDM4OV5BMl5BanBnXkFtZTcwMjY5NTYyMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Boon Collins recalls Lawrence King-Phillips (Vern) as a 'tortured soul'. After the shoot he lived briefly with Collins, then returned to Toronto and later died of a heroin overdose.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0455402",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZhMWE4NmEtNDY5Ni00MDY1LWFhYTktNmY2YmM5ZDA3NDZlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Abducted opened in Canadian theaters on December 12, 1986, and played for just one week.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
