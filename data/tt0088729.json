@@ -1,0 +1,436 @@
+{
+  "schema": 1,
+  "imdbId": "tt0088729",
+  "title": "The Annihilators",
+  "year": 1985,
+  "runtimeSec": 5040,
+  "generatedAt": "2026-11-26T05:39:47.297Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Annihilators' tagline: \"For them, the Vietnam War wasn't Hell... it was Practice.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Vietnam jungle scenes were shot first, near Charlie Brown airport in Atlanta, Georgia, long before the film moved on to the city streets.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "This was shot in Atlanta at the same time as Chuck Norris' Invasion U.S.A. (1985). Locations and stunt men were shared: crews did this by day, then Norris' film at night.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andy Wood, who plays squad demolitions man Woody, also appeared in Rambo: First Blood Part II (1985), another Vietnam-vet action film released the same year.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueprintreview.co.uk/2019/05/the-annihilators/"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "During this booby-trap patrol, Gerrit Graham (Ray Track) was hurt for real: a plastic canteen stand-in made a spiked log bounce into his forehead. He needed microsurgery, and the script was rewritten.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Overseas, The Annihilators was sold as Action Force in Europe, a title that sounds more like a toy line than a grindhouse vigilante flick.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2025/09/15/usa-up-all-night-the-annihilators-1985/"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gerrit Graham (Ray Track) later became a writer on VH1's Pop Up Video, the very show this bubble style is borrowed from.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 560,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The grocery store at the heart of the neighborhood is Little's Food Store, a real Cabbagetown, Atlanta location per a Good Efficient Butchery review.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=1"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Roy Boy Jagger is played by Paul Koslo, who'd earlier been in The Omega Man (1971) and Vanishing Point (1971), and later Robot Jox (1989).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0467178",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5NzA2NjI0OV5BMl5BanBnXkFtZTcwNzY5NTQzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In the UK, two seconds were cut for an 18 rating: a shot of a bare-breasted woman being stabbed, removed as sexualized violence.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Charles E. Sellier Jr. made this a year after Silent Night, Deadly Night (1984), the notorious Christmas slasher about a killer Santa.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0783398"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Christopher Stone (Bill \"Sarge\" Ecker) co-starred with his wife Dee Wallace in The Howling and Cujo. He died of a heart attack at 53, in 1995.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 1070,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The film's grocery-store victim is killed with a meat tenderizer, the kind sold in his own shop. A blog review at Good Efficient Butchery noted the grim irony.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Sid Conrad (Louie Nace) served in the U.S. Army at the Battle of the Bulge, then earned a Columbia journalism master's on the G.I. Bill before becoming a TV character actor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0175725"
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The budget forced the writers to shrink the group of Vietnam vets assembling here to just four.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Lieutenant Hawkins is played by Jim Antonio, the older brother of actor-director Lou Antonio.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0031386",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWU1MjVkNTItZTFkMS00NjI4LTlmNmUtNzgyZTJlNWNjMDgzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1405,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Gerrit Graham (Ray Track) was best known for Brian De Palma films like Phantom of the Paradise (1974), and starred opposite Kurt Russell in Used Cars (1980).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1525,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A Good Efficient Butchery review compared Paul Koslo's mulleted, cartoonish gang boss Roy Boy Jagger to Gavan O'Herlihy's villain Fraker in Death Wish 3.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      },
+      "person": "nm0467178",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5NzA2NjI0OV5BMl5BanBnXkFtZTcwNzY5NTQzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Atlanta's Cabbagetown district stood in for the film's fictional gang-ridden neighborhood, South Point.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It rode the Vietnam-vet vigilante wave of Taxi Driver, Rolling Thunder, The Exterminator and First Blood, with a Seven Samurai-style team-up twist.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrew Skeates of Blueprint Review called it a grown-up take on The A-Team, where the bad guys die in bloody, squib-popping fashion instead of just crashing their vans.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueprintreview.co.uk/2019/05/the-annihilators/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paul Koslo (Roy Boy Jagger) was born Manfred Koslowski in Germany and raised in Saskatchewan, Canada, after his soldier father moved the family post-WWII.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0467178",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5NzA2NjI0OV5BMl5BanBnXkFtZTcwNzY5NTQzMQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lawrence Hilton-Jacobs (Garrett Floyd) was the only cast member to appear in all 95 episodes of Welcome Back, Kotter, as Freddie \"Boom Boom\" Washington.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0385320",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4MTY2NzQ3Nl5BMl5BanBnXkFtZTYwNjI1OTQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lawrence Hilton-Jacobs (Garrett Floyd) was also in the classic Cooley High (1975) and Claudine (1974), the same era as his Welcome Back, Kotter fame.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Unlike typical movie gangs, the punks here are played by men in their 30s and 40s, not teens, as a Good Efficient Butchery review pointed out.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 2625,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Despite all the shootouts, bullet holes never appear in the red panel van, a continuity slip.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2965,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "After Gerrit Graham's on-set forehead injury, his role was rewritten and cut down. He returned only in the final week of shooting to film his reduced scenes.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Charles E. Sellier Jr. created the 1970s book and NBC series The Life and Times of Grizzly Adams, a long way from this violent Atlanta vigilante flick.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0783398"
+    },
+    {
+      "t": 3350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sarah Morgan of ON Magazine described director Charles E. Sellier Jr. as a \"low-rent Roger Corman\" who mentored young writers, producers and directors on even smaller budgets.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.on-magazine.co.uk/arts/film-reviews/the-annihilators-1985-bluray"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gerrit Graham (Ray Track) wrote the lyrics to the Grateful Dead song \"Victim or the Crime,\" set to a tune by Bob Weir.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Annihilators was a cable late-night staple: USA Network's Up All Night aired it on April 15, October 11 and November 25, 1989.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2025/09/15/usa-up-all-night-the-annihilators-1985/"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Charles E. Sellier Jr.'s Sunn Classic Pictures run produced eleven features that rank among the top 100 highest-grossing independent films, per Wikipedia.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Charles_Sellier"
+      },
+      "person": "nm0783398"
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "New World Pictures released it regionally in summer 1985. It was still reaching theaters like one in Toledo, Ohio, by January 1986.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was the last film Charles E. Sellier Jr. directed. He died in 2011 at age 67 in Idaho.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://goodefficientbutchery.blogspot.com/2019/07/retro-review-annihilators-1985.html?m=0"
+      },
+      "person": "nm0783398"
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Annihilators is name-checked in the 2019 documentary Our VHS Collection.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
