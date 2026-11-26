@@ -1,0 +1,374 @@
+{
+  "schema": 1,
+  "imdbId": "tt0132888",
+  "title": "Blood Freak",
+  "year": 1972,
+  "runtimeSec": 5160,
+  "generatedAt": "2026-11-26T05:20:25.569Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Blood Freak's budget was reportedly just $25,000, and it still managed a turkey-headed drug-fiend monster, a table-saw amputation and a sermon or two.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Steve Hawkes took this job to pay skin-graft bills after being badly burned on the set of a Tarzan movie in Florida. His scarred arms reportedly show up in some Blood Freak scenes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Classic-Horror.com's Nate Yapp says the gore here is cherry Kool-Aid, and the severed limb is plastic. Not exactly corn-syrup-and-latex Hollywood craftsmanship.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/blood_freak_1972"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Steve Hawkes was born Stjepan Šipek in Croatia. He came to America to make Spanish-language Tarzan movies for the South American market before ending up as a turkey-headed junkie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The lead character's name, Herschell, is a tribute to gore-film pioneer Herschell Gordon Lewis, the 'Godfather of Gore' behind Blood Feast.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Most of the cast were acting students from co-director Brad F. Grinter's class. Grinter reportedly used some of his students' tuition money to fund his own film projects.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original financier reportedly backed out partway through shooting. Co-directors Brad F. Grinter and Steve Hawkes finished the film with their own money.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://366weirdmovies.com/258-blood-freak-1972"
+      }
+    },
+    {
+      "t": 1040,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-director Brad F. Grinter also made Flesh Feast (1970), the final film appearance of Hollywood star Veronica Lake. She died in 1973.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before Blood Freak, director Brad F. Grinter made several 'nudie-cuties' shot at Florida nudist camps. He was himself a nudist, according to TCM.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 1280,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The video box billed it as 'the world's first turkey-monster-pro-jesus-anti-drug-gore-film,' according to Classic-Horror.com's review. Every word of that is accurate.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/blood_freak_1972"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Years later, star Steve Hawkes called Blood Freak 'a sad chapter in my life.'",
+      "icon": "mic",
+      "byline": "Steve Hawkes",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was originally rated X for its violence. It was re-edited in 1975 to earn an R rating from the MPAA.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The man who loses a leg to a table saw was reportedly played by a real amputee, one of Brad F. Grinter's acting students.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://366weirdmovies.com/258-blood-freak-1972"
+      }
+    },
+    {
+      "t": 1880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The turkey head worn by star Steve Hawkes was made of papier-mâché.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "PopMatters writer Bill Gibron called Blood Freak the only exploitation film endorsed by the Southern Baptist Convention, the Betty Ford Clinic and the Butterball Thanksgiving Hotline.",
+      "icon": "sunglasses",
+      "byline": "Bill Gibron — PopMatters",
+      "source": {
+        "type": "web",
+        "url": "https://366weirdmovies.com/258-blood-freak-1972"
+      }
+    },
+    {
+      "t": 2060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's tagline billed it as 'A Dracula On Drugs!'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "PopMatters writer Bill Gibron listed Blood Freak as a guilty pleasure. He praised its 'endless shots of Grinter babbling like an improvising, smut peddling Criswell.'",
+      "icon": "mic",
+      "byline": "Bill Gibron — PopMatters",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dennis Schwartz of Ozus' World Movie Reviews gave it a C+ and called everything about it 'Ed Wood bad.' He said it demands to be seen by weird film addicts.",
+      "icon": "mic",
+      "byline": "Dennis Schwartz — Ozus' World",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Casey Scott of DVD Drive-In described Blood Freak as a mix of a Ron Ormond Christian message film, an H.G. Lewis gorefest and an anti-pot PSA.",
+      "icon": "mic",
+      "byline": "Casey Scott — DVD Drive-In",
+      "source": {
+        "type": "web",
+        "url": "https://366weirdmovies.com/258-blood-freak-1972"
+      }
+    },
+    {
+      "t": 2780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bleeding Skull's Joseph A. Ziemba called it 'a trash film revelation. Peerless, disturbed, and completely stupid.'",
+      "icon": "mic",
+      "byline": "Joseph A. Ziemba — Bleeding Skull!",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The sound is non-synchronized, with clucking noises, a recurring shriek and one heavily reused musical sting, according to a Gizmodo write-up of the film.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/in-blood-freak-marijuana-and-mutant-turkeys-lead-to-aw-1661380945"
+      }
+    },
+    {
+      "t": 3140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gizmodo noted that director Brad F. Grinter, who plays the film's narrator, smokes on camera and seems to read his lines from a table.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/in-blood-freak-marijuana-and-mutant-turkeys-lead-to-aw-1661380945"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blood Freak has been name-checked in later films, including Blood Sucking Freaks (1976), Nail Gun Massacre (2009) and Happy Thanksgiving (2023).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 2004, star Steve Hawkes's pet tiger Bobo escaped his Florida animal compound and was shot dead the next day, making national news. Hawkes believes it was needless.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0370047",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzM0ZmEwYzktODQwZS00YjgyLWFlNGYtZjJkMzQ0Y2MxNzM4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gizmodo's Cheryl Eddy called Blood Freak a 'craptacular masterpiece' and argued it 'is what Thanksgiving traditions should be built upon.'",
+      "icon": "mic",
+      "byline": "Cheryl Eddy — Gizmodo",
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/in-blood-freak-marijuana-and-mutant-turkeys-lead-to-aw-1661380945"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Steve Hawkes and his animal sanctuary were featured on The Daily Show in 1999.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/209723/in-the-know-blood-freak-trivia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Years after Blood Freak, star Steve Hawkes returned to horror with the zombie films 2056 Escape from Zombie Island (2012) and 2057: Return to Zombie Island (2013).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0370047",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzM0ZmEwYzktODQwZS00YjgyLWFlNGYtZjJkMzQ0Y2MxNzM4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Grinter's cast included his own family. His son Randy Grinter, a cameraman, appears in the film. His daughter Heather Grinter is credited too, as Angel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Brad F. Grinter later retired to a Christian life in Florida and died in 1993.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://366weirdmovies.com/258-blood-freak-1972"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's Hollywood-ish blend of Christian message, gore and anti-drug sermon has made it a cult Thanksgiving favorite among horror fans.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/in-blood-freak-marijuana-and-mutant-turkeys-lead-to-aw-1661380945"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer Nate Yapp wrote that Ed Wood 'would have been mighty proud' of Blood Freak, though he still found Plan 9 from Outer Space the better-constructed film.",
+      "icon": "mic",
+      "byline": "Nate Yapp — Classic-Horror.com",
+      "source": {
+        "type": "web",
+        "url": "https://classic-horror.com/reviews/blood_freak_1972"
+      }
+    }
+  ]
+}
