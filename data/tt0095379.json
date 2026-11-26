@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "imdbId": "tt0095379",
+  "title": "Intruder",
+  "year": 1989,
+  "runtimeSec": 4980,
+  "generatedAt": "2026-11-26T05:43:09.908Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Intruder was shot at night inside a real, closed grocery store in Bell, California. The crew had two tons of damaged, defective merchandise delivered to stock the empty shelves.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 165,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per a KQEK review, the crew got into the shuttered grocery store by bribing a watchman. They used its basement, loading ramps, attic, trash compactor and butcher area as sets.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=4223"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Scott Spiegel based the story on his own job at the Walnut Lake Market in Michigan. It remade his earlier Super-8 slasher short, 'Night Crew'.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 315,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Scott Spiegel lent the only copy of his Super-8 short 'Night Crew' to someone who never returned it. For the Blu-ray he rebuilt a roughly 20-minute version from unused sync-sound footage.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=4223"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's budget is reported as just $130,000. Shooting in a real store at night saved on sets and props.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/intruder-1989-wtf/"
+      }
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The whole film was shot on short ends, the leftover partial rolls of unexposed film stock, and the shoot took about two weeks.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It was first called 'The Night Crew'. Distributors wanted a more generic slasher title, so it became 'Intruder'. In Italy it was 'Terrore senza volto' (Terror Without a Face).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Paramount's video box pushed Bruce Campbell, Sam Raimi and Ted Raimi as stars. Campbell only has a cameo as a cop, Sam Raimi plays a supporting role, and Ted Raimi's part is small.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The DVD back cover made Renée Estevez look like the heroine. In the film, her character Linda is the first to die.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0261729",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NTkxNDk4OV5BMl5BanBnXkFtZTcwNzkxMTg2OA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1065,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Scott Spiegel says he once tried to phone Renée Estevez (Linda) and accidentally got her dad, Martin Sheen, on the line. Estevez is Sheen's daughter and Emilio Estevez's sister.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/52698"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Walnut Lake, the film's setting, is named for a lake in West Bloomfield, Michigan. Spiegel, the Raimi brothers and Bruce Campbell all grew up in that area.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The gore effects were done by KNB EFX (Greg Nicotero, Robert Kurtzman, Howard Berger). Spiegel knew them from Evil Dead II and feared they'd be too expensive.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Intruder_(1989_film)"
+      }
+    },
+    {
+      "t": 1365,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Intruder was the special-effects debut of the KNB trio Greg Nicotero, Robert Kurtzman and Howard Berger. They had just finished Deep Star Six (1989), and later did From Dusk Till Dawn.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=4223"
+      }
+    },
+    {
+      "t": 1440,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sam Raimi's character Randy sings the same song Shelly sings in Raimi's own The Evil Dead (1981).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000600",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ0NjI0NzkzMV5BMl5BanBnXkFtZTYwMDc0ODk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1590,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Police officers Dalton and Matthews are played by Alvy Moore and Tom Lester. They were Hank Kimball and Eb Dawson on the 1960s sitcom Green Acres.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Thirty minutes in, Officer Dalton starts to open the door, but in the next shot he is still turning the key to unlock it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Emil Sitka, a veteran of the Three Stooges shorts, says his Stooges catchphrase 'Hold hands, you lovebirds!' here. It is also written on his tombstone. Sam Raimi is a big Stooges fan.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2019/10/02/intruder-1989/"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spiegel's first idea for the final shot was to travel down the heroine's throat to her heart. It would end on a freeze frame as the heart stopped beating.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2175,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Paste Magazine noted Scott Spiegel's showy camerawork: one kill is filmed entirely through the green glass of a wine bottle. Bandsaw, trash compactor and meathook gags round out the gore.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pastemagazine.com/movies/horror-movies/intruder-1989-slasher-movie-review-underrated-kills-practical-effects-raimi-bruce-campbell"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Burr Steers (Bub) and Billy Marti (Dave) made their screen debuts here, as did David Byrnes (Craig).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/intruder-1989-wtf/"
+      }
+    },
+    {
+      "t": 2325,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cult-film king Charles Band was executive producer. Trouble at his company Empire Pictures reportedly led Paramount to release the film direct to video, which hurt its reputation.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=4223"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Lawrence Bender co-wrote and produced Intruder. Spiegel later introduced him to Quentin Tarantino, and Bender went on to produce Reservoir Dogs and Pulp Fiction.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Intruder_(1989_film)"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tobe Hooper, who directed The Texas Chain Saw Massacre, was at one point set to direct Intruder.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bender also did double duty. He doubled for the killer in many shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sam Raimi's character was first going to be gutted by a meat hook. His brother Ted Raimi (who plays Joe) pitched the gag of hanging him up like meat instead.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000600",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ0NjI0NzkzMV5BMl5BanBnXkFtZTYwMDc0ODk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was partly shot in a grocery store but the TV Guides at the checkout show March 12, 1988. They also change from shot to shot, though the story takes place over one night.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Paramount VHS was cut to an R rating, losing about five minutes of gore, and nearly all of KNB's effects footage went with it. The uncut version took years to resurface.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Australia the film was first refused classification. Later it was cut by about a minute for an R rating, and one video release lost four minutes.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UK's BBFC cut the Colourbox video by 1 minute 53 seconds in 1989. Those cuts were waived for the 2003 DVD.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3525,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 'Slashed Prices' making-of on the Synapse disc recalls a makeup artist leaving the set in tears during the bandsaw effect, so the fake head must have looked convincing.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/review/52698"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The German release was cut by about 9 minutes to get an FSK rating of not under 18. The uncut version ended up on the SPIO/JK index.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Spiegel directed The Rookie? No: he co-wrote Evil Dead II with Sam Raimi and worked on Hostel-era horror with Eli Roth through their company Raw Nerve.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The music was mostly stock library cues. Dick Walter's 'Voices from the Underworld' had already been used in the 1988 film Transformations.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3975,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "KQEK notes the surviving sound mix includes cues from Herbie Hancock's Death Wish score and Denny Zeitlin's Invasion of the Body Snatchers (1978) score, alongside the library music.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://kqek.com/mobile/?p=4223"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Intruder opened January 27, 1989, up against Rain Man and Working Girl, and left almost no trace on the box office charts.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/intruder-1989-wtf/"
+      }
+    },
+    {
+      "t": 4125,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Joe Bob Briggs called Intruder 'the best 1981 slasher film made in 1989' on The Last Drive-In. He said a store open after hours on its last night is a perfect isolated slasher location.",
+      "icon": "joebob",
+      "byline": "Joe Bob Briggs",
+      "source": {
+        "type": "web",
+        "url": "https://joebobbriggs.com/the-last-drive-in-season-7-episode-2-intruder-and-in-a-violent-nature"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Mondo Digital wrote that in a more forgiving universe Intruder would have been the last great gory swan song of the '80s slasher era. It blamed the R-rated cut for its weak start.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk's Adam Tyner gave Intruder four and a half stars out of five. He wrote that it 'easily ranks up there as one of the best slashers I've ever seen.'",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Posters, trailers and the Paramount VHS cover all gave away the killer's identity, spoiling the film's suspense.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bruce Campbell's brief cop cameo comes at the very end. Despite his top billing on the DVD and the 'special appearance by' credit, he is barely in the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer-director Scott Spiegel died September 1, 2025. He co-wrote Evil Dead II and Intruder was his first feature as director.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0818547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzRkMmYzZTEtN2E5YS00NWJmLThhMWEtMTYyY2IyMzQ1N2VkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
