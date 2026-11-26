@@ -1,0 +1,447 @@
+{
+  "schema": 1,
+  "imdbId": "tt0097886",
+  "title": "Mindfield",
+  "year": 1989,
+  "runtimeSec": 5520,
+  "generatedAt": "2026-11-26T06:24:38.515Z",
+  "facts": [
+    {
+      "t": 60,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In French, director Jean-Claude Lord's Mindfield is titled La mémoire assassinée, roughly 'the murdered memory'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Lord"
+      }
+    },
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Michael Ironside (Kellen O'Reilly) reportedly got so unhappy on set that he wanted both director Jean-Claude Lord and co-star Lisa Langlois fired from the production.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000461",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWI1YzNmOTQtM2M1Yi00M2E1LWIyZTItY2FjODZlZDAzN2NkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mindfield began as a 1989 novel by William Deverell, a Canadian author and lawyer. He also wrote the screenplay for this film adaptation.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/William_Deverell"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Parts of Mindfield were shot at Montréal's Olympic Stadium, the huge venue built for the 1976 Summer Games.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lisa Langlois (lawyer Sarah Paradis) was reportedly James Cameron's first choice for Sarah Connor in The Terminator. Her agent talked her into a different role instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0486590",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2M1MWQxZGYtZjFkOC00NTlkLTg0MGMtYTUyMjI2MzNiNjA3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mindfield writer William Deverell practiced law in Vancouver for 20+ years and co-founded the BC Civil Liberties Association, which fits the film's civil-rights lawyer, Sarah Paradis (Lisa Langlois).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/William_Deverell"
+      }
+    },
+    {
+      "t": 680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Ironside's breakout was playing head-exploding villain Darryl Revok in David Cronenberg's 1981 Canadian sci-fi horror film Scanners.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000461",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWI1YzNmOTQtM2M1Yi00M2E1LWIyZTItY2FjODZlZDAzN2NkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 820,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The plot echoes real history: from 1957 to 1964 the CIA funded psychiatrist Ewen Cameron's memory-erasing experiments at Montréal's Allan Memorial Institute, through a front group.",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dr. Mendel, the psychiatrist, is played by Janine Manatis, who was actually star Michael Ironside's teacher and mentor at drama school.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Real-life Montréal experimenter Ewen Cameron used 'psychic driving': patients heard recorded messages up to 16 hours a day, repeated as many as half a million times.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      }
+    },
+    {
+      "t": 1240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Christopher Plummer (Doctor Satorius) played Captain von Trapp in The Sound of Music. At 82 he became the oldest person to win an acting Oscar, for Beginners.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001626",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzQ5MDY3NF5BMl5BanBnXkFtZTcwNzMxOTU5Ng@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the real Montréal CIA-funded experiments, drug-induced sleep sometimes lasted up to 86 days, combined with LSD, electroshock and recorded messages.",
+      "icon": "radioactive",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      }
+    },
+    {
+      "t": 1520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jean-Claude Lord also made The Vindicator (1986), and per DVD Talk, he directed Eddie and the Cruisers II as well.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dvdtalk.com/reviews/review/75460"
+      },
+      "person": "nm0520440",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDcxYzczNTctMmZiMS00ZTM5LTlmYzUtZThjNWQ0YWQ1YjE5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Canadians learned of the real Montréal CIA experiments in 1980, when CBC's investigative show The Fifth Estate aired two former patients speaking publicly for the first time.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The Mindfield script is credited to George Mihalka, director of My Bloody Valentine, and producer Tom Berry. Mihalka says he developed it with novelist William Deverell and meant to direct it himself.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dvdtalk.com/reviews/review/75460"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per High Def Digest, producer Tom Berry and writer George Mihalka developed the script with novelist William Deverell. Mihalka is frank in an interview about how hard the shoot was.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bluray.highdefdigest.com/111575/mindfield.html"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Young Kellen is played by Steve Atkinson, who also played the young version of Michael Ironside's character in Hello Mary Lou: Prom Night II (1987).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Brian Orndorf found the acting good but the film scattered, with too many ideas and characters. He said it falls short as a conspiracy thriller about MKUltra-style induced amnesia.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://brianorndorf.com/2023/03/18/blu-ray-review-mindfield/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The trailer for Mindfield borrowed music from the William Friedkin crime thriller To Live and Die in L.A. and used alternate takes that never made the final cut.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jean-Claude Lord and star Michael Ironside already teamed up on the 1982 slasher Visiting Hours, where Ironside played killer Colt Hawker. Mindfield reunited them.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bluray.highdefdigest.com/111575/mindfield.html"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "On Total Recall, Arnold Schwarzenegger learned Michael Ironside was phoning his sister, who had cancer. Arnold took him to his trailer for an hour-long three-way call about her diet and exercise.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000461",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWI1YzNmOTQtM2M1Yi00M2E1LWIyZTItY2FjODZlZDAzN2NkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Real-life fallout: a 1988 class action against the CIA paid victims of the Montréal experiments about $67,000 each. In 1992 Canada paid 77 people $100,000 each; roughly 250 others were denied.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk's Justin Remer called Mindfield workmanlike but enjoyable, praised Michael Ironside as the glue holding it together, and said Christopher Plummer gets far too little screen time.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dvdtalk.com/reviews/review/75460"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jean-Claude Lord's Visiting Hours (1982, with Michael Ironside) was cut by a minute in UK cinemas and later landed on the BBFC's 'video nasty' list. It earned $13.3M on a $6M budget.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Visiting_Hours_(film)"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Christopher Plummer originally trained to be a concert pianist before turning to acting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001626",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzQ5MDY3NF5BMl5BanBnXkFtZTcwNzMxOTU5Ng@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lisa Langlois (lawyer Sarah Paradis) led three cult films: Happy Birthday to Me (1981), Class of 1984 (1982) and the killer-rat movie Deadly Eyes (1982).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Langlois"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Ironside says most people know him from his voice work as Sam Fisher in the Tom Clancy's Splinter Cell video games, not his many on-screen villains.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000461",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWI1YzNmOTQtM2M1Yi00M2E1LWIyZTItY2FjODZlZDAzN2NkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lisa Langlois made her film debut in Claude Chabrol's Blood Relatives (1978), opposite Donald Sutherland.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lisa_Langlois"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sean McCann (Rudy) is best known as Frank Rittenhauer in Tommy Boy and as Lt. Jim Hogan on the Canadian TV series Night Heat.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0564921",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY3YWYzYWMtNGNkZi00Mjg4LTlkMDItYWQxMTg5ZmVhYjI5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sean McCann (Rudy) is a big Toronto Blue Jays fan who attends nearly every home game and scouts amateur baseball in Ontario for the club.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Christopher Plummer turned down the role of Gandalf in Peter Jackson's Lord of the Rings trilogy and admitted he regretted it. Ian McKellen got the part.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001626",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzQ5MDY3NF5BMl5BanBnXkFtZTcwNzMxOTU5Ng@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jean-Claude Lord also made the hit Québec hockey drama Lance et compte (1986-89), which aired in English on CBC as He Shoots, He Scores and won him a Prix Gémeaux.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jean-Claude_Lord"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Per DVD Talk, Mindfield went straight to video. Its tagline: 'The CIA tried to turn him into the Perfect Killer. And they did. Now he's after them...'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dvdtalk.com/reviews/review/75460"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Stefan Wodoslawsky (Raolo Basutti) also produced: he co-produced the 1979 short Bravery in the Field, which earned an Academy Award nomination for Best Live Action Short.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Stefan_Wodoslawsky"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mindfield got shout-outs in later productions: Who's Listening (1990), Twin Sisters (1992) and Scissors (2012) all reference it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Real-life MKUltra paper trail: CIA files on the program were destroyed in 1973, so the details of its Montréal funding remain largely unknown.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Montreal_experiments"
+      }
+    }
+  ]
+}
