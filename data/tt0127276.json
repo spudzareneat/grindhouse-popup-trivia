@@ -1,0 +1,469 @@
+{
+  "schema": 1,
+  "imdbId": "tt0127276",
+  "title": "The Shadow Men",
+  "year": 1997,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-11-26T06:21:02.174Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "In the opening chase, Dean Stockwell's character Stan Mills is called an Air Force man, yet he's wearing a Marine Corps uniform. Military-minded viewers have spotted the mix-up.",
+      "icon": "crosshair",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 240,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Andrew McCarthy (Pretty in Pink) was once announced as the lead of this film in a 1995 American Film Market special issue of The Hollywood Reporter. Eric Roberts ended up with the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Men in Black legend dates to 1953, when UFO researcher Albert K. Bender said three men in dark suits silenced him. Gray Barker's 1956 book They Knew Too Much About Flying Saucers spread the story.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Men_in_black"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Luca Bercovici, director of the cult horror film Ghoulies, was originally considered to direct The Shadow Men. Timothy Bond got the job instead.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 510,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gray Barker's 1956 book on Albert Bender's visitors helped make the Men in Black a UFO staple. Skeptoid argues the whole folklore traces back to Barker's fiction and one man's rambling report.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://skeptoid.com/episodes/4351"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film's budget was reportedly just $2 million, a tiny sum for a movie about alien abductions and a government cover-up.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 690,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1997 hit Men in Black was loosely based on a comic by Lowell Cunningham and Sandy Carruthers. This film, released the same year, went the grim, serious route instead of comedy.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Men_in_black"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Men in Black, the big-budget Will Smith comedy, came out the same year. The Science Fiction Encyclopedia says this film is the relatively serious take on the same legend.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Science Fiction Encyclopedia called the film a 'drab, low-budget dramatization' of the Men in Black legend, and compared it to a weak X-Files episode stretched to feature length.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://sf-encyclopedia.com/entry/shadow_men_the"
+      }
+    },
+    {
+      "t": 1140,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Eric Roberts played the villain The Master in the 1996 Doctor Who TV movie. He is the only non-British actor and the only Oscar-nominated actor to play the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1230,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts' Master in the 1996 Doctor Who TV movie came after Fox and Universal reportedly insisted on a name American villain. The movie drew 9.08 million UK viewers but only 5.6 million in the US.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Who_(film)"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Eric Roberts, who plays Bob Wilson, is the older brother of Julia Roberts. They made just one film together, Blood Red (1989).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000616",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Shadow Men's release date is murky. Wikipedia and AllMovie say September 1997, some listings say September 24, 1997, and others say 1998. This low-profile video-era title left little paper trail.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/The_Shadow_Men_(1997_film)"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sherilyn Fenn (Dez Wilson) played Audrey Horne in David Lynch's Twin Peaks, earning Golden Globe and Emmy nominations for it.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000145",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2MDYwNTEyMV5BMl5BanBnXkFtZTYwMzM3NDk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sherilyn Fenn (Dez Wilson) didn't actually tie the famous cherry stem in a knot as Audrey Horne in Twin Peaks. She has said she thought the scene was silly and never expected it to become a thing.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/1967834/sherilyn-fenn-didnt-perform-audrey-horen-cherry-stem-trick-twin-peaks"
+      },
+      "person": "nm0000145",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2MDYwNTEyMV5BMl5BanBnXkFtZTYwMzM3NDk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director David Lynch described Sherilyn Fenn, who plays Dez Wilson here, as 'five feet of heaven in a ponytail'.",
+      "icon": "mic",
+      "byline": "David Lynch",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000145",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2MDYwNTEyMV5BMl5BanBnXkFtZTYwMzM3NDk1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Timothy Bond was born in Ottawa and holds degrees in physics/chemistry and English dramatic literature. His directing debut was Deadly Harvest (1977).",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://wikipedia.com/wiki/Timothy_Bond"
+      },
+      "person": "nm0003403"
+    },
+    {
+      "t": 1980,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dean Stockwell (Stan Mills) was Oscar-nominated for Married to the Mob (1988). He later starred as Admiral Al in the TV series Quantum Leap.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0001777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Timothy Bond directed Star Trek: The Next Generation episodes including 'The Vengeance Factor' and 'The Most Toys' in season 3. Andrew Prine, who plays MIB #1, also guested on that series.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Prine"
+      },
+      "person": "nm0003403"
+    },
+    {
+      "t": 2220,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Dean Stockwell, who plays Stan Mills, auditioned for Michael Corleone in The Godfather before Al Pacino got the part.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2340,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before the horror cult films, Andrew Prine (MIB #1) played Helen Keller's older brother in The Miracle Worker (1962). He also replaced Anthony Perkins in the Broadway hit Look Homeward, Angel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Prine"
+      },
+      "person": "nm0697785",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2NjU4MTU5Nl5BMl5BanBnXkFtZTcwMTk3NTUwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dean Stockwell, a child star at MGM, won two Best Actor awards at Cannes for Long Day's Journey into Night (1962). He shared both with his co-stars.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2580,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Andrew Prine (MIB #1) starred in 1970s cult horror including Simon, King of the Witches, Grizzly and The Evil. He later played a reverend in Rob Zombie's The Lords of Salem (2012).",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Prine"
+      },
+      "person": "nm0697785",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2NjU4MTU5Nl5BMl5BanBnXkFtZTcwMTk3NTUwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dean Stockwell was also a collage artist, and he designed the cover of Neil Young's album American Stars 'n Bars.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Halfway House Cafe, a Shadow Men location, began as a trading post in 1906 and became a cafe in 1931. It has also hosted The A-Team, Knight Rider, Heartbreak Ridge and Space Cowboys.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://signalscv.com/2022/04/halfway-house-more-than-a-century-of-popularity"
+      }
+    },
+    {
+      "t": 2940,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Andrew Prine, who plays MIB #1, appeared in over 180 film and TV productions, and was best known for Westerns. He also starred in The Town That Dreaded Sundown (1976).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0697785",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2NjU4MTU5Nl5BMl5BanBnXkFtZTcwMTk3NTUwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sable Ranch, a Shadow Men location, appeared in B-Westerns in the 1940s and later in Robin Hood: Men in Tights. A 2016 wildfire destroyed much of it.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.cbsnews.com/losangeles/news/sand-fire-destroys-beloved-ranch-that-served-as-backdrop-for-blockbuster-hits"
+      }
+    },
+    {
+      "t": 3180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Timothy Bond is a Canadian TV veteran. He has directed episodes of Star Trek: The Next Generation, Due South, Sliders and The New Alfred Hitchcock Presents.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0003403"
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before Men in Black (1997), the myth appeared in The Alien Encounters (1979) and The Brother from Another Planet (1984). This film followed in 1997 with a straight-faced version.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Men_in_black"
+      }
+    },
+    {
+      "t": 3420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Andrew McCarthy, the film's original lead, later made Perfect Assassins for the same production company, Promark.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3540,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Brendon Ryan Barrett (Andy Wilson) also starred in the 1997 direct-to-video Casper: A Spirited Beginning, playing the son of Steve Guttenberg's property-developer character.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.rottentomatoes.com/m/casper_a_spirited_beginning/cast-and-crew"
+      },
+      "person": "nm0057075"
+    },
+    {
+      "t": 3660,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was shot around Santa Clarita, California. Locations include Sable Ranch on Sand Canyon Road and the Halfway House Cafe on Sierra Highway.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's tagline was 'They know that you know.'",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Andrew Prine's 1976 film The Town That Dreaded Sundown was one of the earliest slashers. It was based on the real 1946 Texarkana murders and directed by Charles B. Pierce, who also played a patrolman.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/449586/the-town-that-dreaded-sundown"
+      },
+      "person": "nm0697785",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2NjU4MTU5Nl5BMl5BanBnXkFtZTcwMTk3NTUwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4200,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Shadow Men was referenced in the German crime comedy Bang Boom Bang - Ein todsicheres Ding (1999).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was produced by Promark Entertainment Group with Spectacor Films, and written by Eric Miller and Justin Stanley.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://sf-encyclopedia.com/entry/shadow_men_the"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Some sources list the runtime as 91 minutes and others 95. Whichever is right, the Science Fiction Encyclopedia called the film a feature-length X-Files episode.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://sf-encyclopedia.com/entry/shadow_men_the"
+      }
+    }
+  ]
+}
