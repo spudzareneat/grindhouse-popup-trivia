@@ -1,0 +1,359 @@
+{
+  "schema": 1,
+  "imdbId": "tt1129441",
+  "title": "ThanksKilling",
+  "year": 2008,
+  "runtimeSec": 4200,
+  "generatedAt": "2026-11-26T05:10:29.980Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "ThanksKilling's famous tagline, \"Gobble, gobble, motherf*cker!\", was dreamed up by creators Jordan Downey and Kevin Stewart before they had any actual plot.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nofilmschool.com/2017/11/why-director-cult-thankskilling-argues-theres-virtue-making-bad-movies"
+      }
+    },
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Pilgrim girl Wanda Lust was cast off Craigslist, and was the only actor paid. The adult film performer later said it was the one film credit she regrets.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nighttidemag.com/2024/11/28/sinister-screen-thankskilling-ck/"
+      },
+      "person": "nm2013159"
+    },
+    {
+      "t": 165,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Jordan Downey wanted a much bigger opening with a full Pilgrim and Native American dinner, but time and money ran out. It was never shot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm2006573",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGE1ZmU4NjctOTg2Ni00NzgwLWE2NWQtODNiMDcyMGViMmQ3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 210,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The whole movie cost about $3,500 and was shot in roughly two weeks in summer 2007 by college students Jordan Downey and Kevin Stewart.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 255,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The nude Pilgrim opening was shot in a public park without a permit. Many locations were chosen because they needed none.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was shot during the summer between Jordan Downey and Kevin Stewart's junior and senior years at college, and partly at Denison University in Granville, Ohio.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Writers Jordan Downey and Kevin Stewart came up with ideas by walking to a nearby Blockbuster and studying the covers of bad movies.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nofilmschool.com/2017/11/why-director-cult-thankskilling-argues-theres-virtue-making-bad-movies"
+      }
+    },
+    {
+      "t": 430,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before settling on a Thanksgiving slasher, Jordan Downey and Kevin Stewart considered an Easter slasher called \"Eggstravakill\".",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Auditions were held in director Jordan Downey's garage. Cast members were mostly friends and family.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ryan E. Francis (Darren) drums in the band Overated, whose song \"The Lines Have Been Drawn\" plays on the radio during the Jeep ride.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lindsey Anderson (Kristen) joined on Ryan E. Francis's recommendation. The filmmakers met her at a doughnut shop days before shooting began.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1446913"
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jordan Downey sculpted the Turkie puppet in his apartment bathroom, using leftover effects supplies and a foam turkey hunting decoy as the body.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nighttidemag.com/2024/11/28/sinister-screen-thankskilling-ck/"
+      },
+      "person": "nm2006573",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGE1ZmU4NjctOTg2Ni00NzgwLWE2NWQtODNiMDcyMGViMmQ3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Troy Smith's gore budget was only a few hundred dollars. The blood work reportedly leaned on cheap materials, including strawberry jam.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nighttidemag.com/2024/11/28/sinister-screen-thankskilling-ck/"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The filmmakers never found a name for the killer turkey in 2008. For the 2012 sequel they finally settled on \"Turkie\".",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Hermit actor General Bastard drove in from Michigan to shoot his scenes over a few days.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The magic totem was bought on eBay. It arrived only a few inches tall, so the filmmakers embraced the absurdity and used it anyway.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1680,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The only footage shot but cut was an improvised dream scene in which Darren runs through a cornfield. There are no other deleted scenes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The turkey's feet and lower half are never seen in the film.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Actor Chuck Lamb's faceless sheriff look came from a fake fleshy mask made by effects artist Troy Smith.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wondering about the continuity? The campus scenes show autumn leaves, but the film was shot in summer, so the woods are green.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film nearly went to Troma, but the filmmakers pulled out and sold DVDs themselves on Amazon. It took about a year to sell 1,000 copies.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nofilmschool.com/2017/11/why-director-cult-thankskilling-argues-theres-virtue-making-bad-movies"
+      }
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Jordan Downey credits Netflix and the distributor Gravitas Ventures with helping the film find its cult audience after the slow self-distributed DVD start.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://nofilmschool.com/2017/11/why-director-cult-thankskilling-argues-theres-virtue-making-bad-movies"
+      },
+      "person": "nm2006573",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGE1ZmU4NjctOTg2Ni00NzgwLWE2NWQtODNiMDcyMGViMmQ3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The first public screening was at the Merry Scary Winter Horrorland festival, part of the Sacramento Horror Fest, in December 2008.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2950,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Jordan Downey on why he made it: \"There was no reason to make it other than to have fun and I do think that shines through.\"",
+      "icon": "mic",
+      "byline": "Jordan Downey — Director",
+      "source": {
+        "type": "web",
+        "url": "https://nofilmschool.com/2017/11/why-director-cult-thankskilling-argues-theres-virtue-making-bad-movies"
+      },
+      "person": "nm2006573",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGE1ZmU4NjctOTg2Ni00NzgwLWE2NWQtODNiMDcyMGViMmQ3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews were mixed. Tom Russo of The Boston Globe called it \"cheerily awful\", while Forbes' Mark Hughes said it is so awful it doesn't need MST3K-style jokes to entertain.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The \"To be continued in space...\" card was a pure joke. Even so, ThanksKilling 3 followed in 2012, skipping a \"2\" on purpose; its plot is the hunt for the lost middle film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 2012 sequel ThanksKilling 3 raised $112,248 on Kickstarter, about thirty times the original's $3,500 budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "ThanksKilling: The Musical premiered in Seattle in 2013. Ryan E. Francis, who plays Darren in the film, later reprised the role on stage in Columbus, Ohio.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The musical's producer David Eck first watched the film on a plane. Its writers reportedly produced the script in about three days after meeting Jordan Downey and Kevin Stewart.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.broadwayworld.com/article/BWW-Interview-David-Eck-Jordan-Mann-from-THANKSKILLING-THE-MUSICAL-Get-Stuffed-and-Personal-20151118"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The filmmakers copyrighted \"Death Turkey\" as an alternate title for overseas markets that don't celebrate Thanksgiving.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
