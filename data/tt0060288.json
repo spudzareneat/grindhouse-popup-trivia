@@ -1,0 +1,476 @@
+{
+  "schema": 1,
+  "imdbId": "tt0060288",
+  "title": "Deadlier Than the Male",
+  "year": 1967,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-11-26T06:00:56.101Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Bruce Newberry bought the Bulldog Drummond rights after reading that Drummond was America's third-favorite fictional character, behind Sherlock Holmes and Tarzan.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 135,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Filmink argued this opening, with a seductive assassin staging a mid-air murder, was copied for the opening of the 2000 movie Charlie's Angels.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Walker Brothers' theme song was co-written by Scott Engel, better known as Scott Walker. It was a small UK hit in October 1966 and is essentially a Scott Walker solo number.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/04/03/deadlier-than-the-male-1967/"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The band Space sampled this song for their hit 'Female of the Species', which played over the closing credits of the first Austin Powers movie.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/04/03/deadlier-than-the-male-1967/"
+      }
+    },
+    {
+      "t": 405,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Italian star Sylva Koscina, who plays Penelope, was dubbed by voice artist Nikki Van der Zyl. Koscina had also been considered for Tatiana in From Russia with Love.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 495,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Star Richard Johnson (Hugh Drummond) was director Terence Young's first choice to play James Bond in Dr. No (1962). He got a Bond-style spy hero here instead.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The title comes from Rudyard Kipling's 1911 poem 'The Female of the Species'. It also echoes author Sapper's Drummond novel of that name, filmed as Bulldog Drummond Comes Back (1937).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 665,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Leonard Rossiter, who plays board member Henry Bridgenorth, later became TV's Rupert Rigsby in Rising Damp and Reginald Perrin. He also had a speaking part in Kubrick's 2001.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Leonard_Rossiter"
+      }
+    },
+    {
+      "t": 740,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Elke Sommer, playing assassin Irma Eckman, was paid $170,000 for the role.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 855,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Steve Carlson, who plays Drummond's nephew Robert, made his movie debut here, according to The Magnificent 60s.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://themagnificent60s.com/2021/11/03/deadlier-than-the-male/"
+      }
+    },
+    {
+      "t": 965,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "British censors worried about the murder of board member Henry Bridgenorth. The producers fought the censors over the film's women assassins, torture and promiscuity.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Elke Sommer was Playboy's October 1964 cover girl. Unhappy with the roles she got after this film, she posed nude for the magazine again in December 1967.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1130,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Sylva Koscina (Penelope) first became an international name as Iole, bride of Steve Reeves' muscleman hero in the Italian sword-and-sandal hit Hercules (1958).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://themagnificent60s.com/2021/11/03/deadlier-than-the-male/"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Ralph Thomas admitted he made this for 'greed': three months, lots of money, a great location, and a lot of fun.",
+      "icon": "mic",
+      "byline": "Ralph Thomas — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Jimmy Sangster tried for a star Drummond: Stanley Baker, Peter O'Toole, Jack Hawkins, Stephen Boyd and David Niven were discussed, with Australian Rod Taylor the favorite.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Jimmy Sangster was on a break from Hammer Films, where he'd written The Curse of Frankenstein (1957), Dracula (1958) and The Mummy (1959).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.bafta.org/heritage/in-memory-of/jimmy-sangster"
+      }
+    },
+    {
+      "t": 1531,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Star Nigel Green had played Nayland Smith in The Face of Fu Manchu (1965). Later in this film Drummond mocks a character with a Fu Manchu jibe.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "At the Rome Film Festival, Quentin Tarantino revealed this was the first film he remembers seeing. He was five years old.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1725,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriting was a team job: Jimmy Sangster, David D. Osborn (who also wrote Maroc 7) and Liz Charles-Williams, for whom this was her screen debut.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://themagnificent60s.com/2021/11/03/deadlier-than-the-male/"
+      }
+    },
+    {
+      "t": 1800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Its X rating from the British censors was for the brutality and promiscuity of its two female villains. One review says it could air on regular TV now.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/04/03/deadlier-than-the-male-1967/"
+      }
+    },
+    {
+      "t": 1930,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Hugh Drummond is never called 'Bulldog' in this movie, apparently because the nickname seemed wrong for the Swinging Sixties. Here Boxer calls him 'Dog' once.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://themagnificent60s.com/2021/11/03/deadlier-than-the-male/"
+      }
+    },
+    {
+      "t": 2025,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the novels Drummond was a World War I veteran. Here he is updated to a Korean War veteran, hence the Korea tunnel reference.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Ralph Thomas, famous for the Doctor in the House comedies, had already tried a Bond spoof with Agent 8¾ (1964), a background that arguably gave this film's action extra punch.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://themagnificent60s.com/2021/11/03/deadlier-than-the-male/"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Johnson said of his Drummond: 'I couldn't respect the man. He was bigoted and brutal.' He played a braver, more physical version of himself instead.",
+      "icon": "mic",
+      "byline": "Richard Johnson — Star",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was Amerlon Productions' first, a subsidiary of Inflight, the company that showed in-flight movies. Rank Organisation provided the financing; its budget is listed at about 1.7 million.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film was announced in 1964 as Female of the Species, part of a Rank Organisation slate of eight films worth £4.5 million. Shooting didn't start until 1966.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "When Rank announced its 1966 slate, this Drummond thriller sat alongside The Quiller Memorandum, Maroc 7, The Long Duel and The Battle of Britain.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3120,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Filming began 23 May 1966 in Technicolor and Techniscope, with interiors at Pinewood Studios and the Italian coast scenes shot at Lerici and La Spezia.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Monthly Film Bulletin sniffed that the film 'succeeds only in giving it the look of a poor imitation', adding 'the original Drummond would have found the whole thing rather distasteful.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3360,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Drummond's Lloyd's insurance job is a leftover of writer Jimmy Sangster's 1964 plan: a rich Mayfair Drummond working as a Lloyd's underwriter who travels the world.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Virginia North made her film debut here. She went on to become a Bond girl in On Her Majesty's Secret Service.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/04/03/deadlier-than-the-male-1967/"
+      }
+    },
+    {
+      "t": 3640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Nigel Green (Carl Petersen) really served in Korea, like Drummond in this film. He suffered a head wound that needed a metal skull plate, and battled depression and headaches for life.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3836,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Milton Reid, who plays henchman Chang, was a pro wrestler known as The Mighty Chang. He reportedly challenged Harold Sakata to a shoot match over the Oddjob role in Goldfinger.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/04/03/deadlier-than-the-male/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Suzanna Leigh (Grace) was the goddaughter of Vivien Leigh, and took her screen surname from her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Ralph Thomas said the film was meant as a pilot for a TV series. In 1964 writer Jimmy Sangster had talked of three Drummond films plus a series.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Richard Johnson returned as Drummond in the 1969 sequel Some Girls Do. The two films were later released together as a DVD double feature.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Suzanna Leigh (Grace) later played Harry Nilsson's love interest in the rock-and-roll horror comedy Son of Dracula (1974), starring Ringo Starr.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/04/03/deadlier-than-the-male-1967/"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the sequel Some Girls Do (1969), Joanna Lumley appears uncredited as a robot. Filmink judged it 'far less fun' than this film, and Monthly Film Bulletin called it an 'inane sequel'.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Some_Girls_Do"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The giant chess pieces are loosely based on the 12th-century Lewis Chessmen found in Scotland in 1831. After filming they sat in Pinewood's grounds and were repainted for years.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Those oversized chess pieces were reused in UFO's 'Timelash', Sleuth (1974), The Man with the Golden Gun (1974) and The Sweeney, before vanishing in the late 1990s.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Elke Sommer later won a $3.3 million libel judgment in 1993 against Zsa Zsa Gabor, after a feud that began in 1984.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Elke_Sommer"
+      }
+    }
+  ]
+}
