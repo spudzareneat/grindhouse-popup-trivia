@@ -1,0 +1,371 @@
+{
+  "schema": 1,
+  "imdbId": "tt0078251",
+  "title": "Snake and Crane Arts of Shaolin",
+  "year": 1978,
+  "runtimeSec": 5760,
+  "generatedAt": "2026-11-26T06:04:48.647Z",
+  "facts": [
+    {
+      "t": 75,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The opening-credits music, \"Ice Floe 9\" by Pierre Arvay from the De Wolfe library, also opens Monty Python and the Holy Grail (1975) and appeared in the extended Dawn of the Dead (1978).",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Silver Emulsion says the opening staff showcase from star Jackie Chan outshines the opening of his earlier Lo Wei-era film To Kill With Intrigue (1977).",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.silveremulsion.com/2013/04/23/snake-and-crane-arts-of-shaolin-1978/"
+      }
+    },
+    {
+      "t": 360,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The Silver Emulsion film blog calls the film's opening martial arts showcase, built around Jackie Chan's staff work, one of the best parts of the movie, and rates the action 3.5 out of 4.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.silveremulsion.com/2013/04/23/snake-and-crane-arts-of-shaolin-1978/"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "PopMatters' J.C. Macek III notes that the English voices on Jackie Chan's Hong Kong films of this era were largely cartoon voice actors, hence that distinctive kung fu theater dub sound.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popmatters.com/review/175598-jackie-chan-beginnings-snake-crane-arts-of-shaolin-magnificent-bodyg/"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jackie Chan made this one for Lo Wei's company the same year as Snake in the Eagle's Shadow, his breakout hit. Silver Emulsion notes it opened just one week after that film.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.silveremulsion.com/2013/04/23/snake-and-crane-arts-of-shaolin-1978/"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Chen Chi-hwa stepped in for producer Lo Wei, who had directed Jackie Chan's earlier films. LoveHKFilm's Calvin McMillin says that made this one more polished.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.lovehkfilm.com/reviews/snake_and_crane_arts.htm"
+      }
+    },
+    {
+      "t": 880,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Chen Chi-hwa also directed Jackie Chan's next film, Half a Loaf of Kung Fu, which Chan co-wrote with Tang Ming-chi.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Half_a_Loaf_of_Kung_Fu"
+      },
+      "person": "nm0155179"
+    },
+    {
+      "t": 970,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Nora Miao (Tang Pin-Er) starred in all three of Bruce Lee's completed Hong Kong films: The Big Boss, Fist of Fury and The Way of the Dragon.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0583963",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgwNjkwNzA4NF5BMl5BanBnXkFtZTcwNzkxNzE0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Nora Miao (Tang Pin-Er) and Jackie Chan were both in Fist of Fury (1972): she as Bruce Lee's love interest, he as a stunt double for the villain who gets kicked flying in the finale.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jackie_Chan"
+      },
+      "person": "nm0583963",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgwNjkwNzA4NF5BMl5BanBnXkFtZTcwNzkxNzE0NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1250,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Lo Wei's 1976 film New Fist of Fury recast Jackie Chan as a Bruce Lee heir and even changed his stage name to Sing Lung to push the resemblance. It flopped, and so did Lo's similar follow-ups.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jackie_Chan"
+      },
+      "person": "nm0000329",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4MDM0MDUzM15BMl5BanBnXkFtZTcwOTI4MzU1Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was released by the Lo Wei Motion Picture Company, a subsidiary of Golden Harvest. Chen Chi-hwa was also the stunt co-ordinator, alongside Tu Wi Ho.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Producer Lo Wei, whose company made this film, had directed Bruce Lee's The Big Boss and Fist of Fury. He is credited with more than 60 films as director.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lo_Wei"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "LoveHKFilm's Calvin McMillin called this one of Jackie Chan's best films from his Lo Wei contract years, though not as much fun as Drunken Master or The Fearless Hyena.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.lovehkfilm.com/reviews/snake_and_crane_arts.htm"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jackie Chan is credited as the film's action director alongside To Wai-Wo, so the fights you're watching were choreographed by its own star.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fareastfilms.com/review/snake-and-crane-arts-of-shaolin/"
+      }
+    },
+    {
+      "t": 2250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Slow the cartwheel fight with Sing Chu and you'll see the hole in the ground that his punch supposedly makes was already there before his fist lands.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Miao Tien (Leader Gu) was in A Touch of Zen (1971), the film where a teenage Jackie Chan had his first extra role. Miao Tien made over 100 martial arts films.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Miao_Tien"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jackie Chan's next film after this one, Half a Loaf of Kung Fu, was shelved. Producer Lo Wei disliked it, refused to release it, and rushed Chan into Magnificent Bodyguards instead.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.silveremulsion.com/2013/04/23/snake-and-crane-arts-of-shaolin-1978/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jackie Chan's next release, Magnificent Bodyguards, was billed as Hong Kong's first 3D film. PopMatters' J.C. Macek III says its score is lifted almost entirely from John Williams' Star Wars music.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.popmatters.com/review/175598-jackie-chan-beginnings-snake-crane-arts-of-shaolin-magnificent-bodyg/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The main theme of the Japanese theatrical version was \"Dangerous Days\", composed by Tetsushi Hayashi, courtesy of Nippon Columbia Records.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3490,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Pierre Arvay, composer of the opening-credits cue 'Ice Floe', was a prolific library composer. Monty Python's timing chart misspelled the cue as 'Ice Flow', per writer Tim Worthington.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://timworthington.org/2023/05/31/special-moose-effects-olaf-prot/"
+      }
+    },
+    {
+      "t": 3675,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Silver Emulsion's reviewer named Oddball Lu, played by Wu Te-shan, their favorite supporting character, praising his wuxia-style name and his creative cursing.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.silveremulsion.com/2013/04/23/snake-and-crane-arts-of-shaolin-1978/"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jackie Chan's other 1978 hit, Snake in the Eagle's Shadow, was a Seasonal Films loan-out. It became South Korea's second-biggest film of 1979, behind Chan's Drunken Master.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Snake_in_the_Eagle%27s_Shadow"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Seasonal Film, the company behind Chan's breakout hits, was founded in 1974 by Ng See-yuen. It later co-made the No Retreat, No Surrender trilogy that launched Jean-Claude Van Damme.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Seasonal_Film_Corporation"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film earned HK$662,851 in Hong Kong. When it reached France in 1984 it sold 345,312 tickets, and a French DVD later retitled it Le Magnifique.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Miao Tien, who plays Leader Gu, later became an art-house regular. His final film role, in Goodbye, Dragon Inn (2003), had him playing himself. He died in 2005.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Miao_Tien"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jackie Chan got his stage name from construction workers in Canberra, Australia, who couldn't pronounce his real name and called him \"Jackie.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000329",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4MDM0MDUzM15BMl5BanBnXkFtZTcwOTI4MzU1Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4930,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Far East Films' Andrew Saroch called this finale 'one of the most complicated pieces of choreography ever seen on screen' and gave the film 4 out of 5.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://fareastfilms.com/review/snake-and-crane-arts-of-shaolin/"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Silver Emulsion's reviewer called the spear-brothers fight the film's highlight, saying the spears Jackie Chan dodges and rolls past looked real, and might actually have been.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.silveremulsion.com/2013/04/23/snake-and-crane-arts-of-shaolin-1978/"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The 2002 US Columbia TriStar DVD of this film was dubtitled and missing over five minutes of footage. Hong Kong Legends' 2007 UK release was the first fully uncut English-friendly one.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Distribution: West Germany saw this film in 1978 via A.B., Canada in 1979 via Golden Harvest Cinema, and Japan in 1983 via Toei, with Mandarin audio and Japanese subtitles.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.grindhousedatabase.com/index.php/Snake_%26_Crane_Arts_of_Shaolin"
+      }
+    }
+  ]
+}
