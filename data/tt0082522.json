@@ -1,0 +1,393 @@
+{
+  "schema": 1,
+  "imdbId": "tt0082522",
+  "title": "Home Sweet Home",
+  "year": 1981,
+  "runtimeSec": 5100,
+  "generatedAt": "2026-11-26T05:05:45.096Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Killer Jay Jones is played by Jake Steinfeld, who became fitness mogul \"Body by Jake\" and once trained Harrison Ford for Indiana Jones and the Temple of Doom.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jake_Steinfeld"
+      },
+      "person": "nm0826039",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5ODA4OTc1NF5BMl5BanBnXkFtZTcwODQ4NzkxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Thomas Bush, who wrote Home Sweet Home, later worked as an assistant sound editor on Sam Raimi's Evil Dead II (1987), per JoBlo's Black Sheep column.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/?p=115580"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jake Steinfeld later created the 24-hour network FitTV and sold it to News Corp. Before that, he played a PCP-crazed killer in a Thanksgiving slasher.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jake_Steinfeld"
+      },
+      "person": "nm0826039",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5ODA4OTc1NF5BMl5BanBnXkFtZTcwODQ4NzkxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Nettie Peña has a UCLA film MFA and won a William Morris Scholarship for directing. She later worked at NBC News in Burbank and now exhibits still photography.",
+      "icon": "camera",
+      "byline": "Nettie Peña — Director",
+      "source": {
+        "type": "web",
+        "url": "https://filmfatales.org/directors/nettiepena"
+      }
+    },
+    {
+      "t": 480,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Film historian Adam Rockoff heard that star Jake Steinfeld has no sense of humor about being in this movie, which makes watching it \"almost worthwhile.\"",
+      "icon": "mic",
+      "byline": "Adam Rockoff",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hal C. F. Astell of Apocalypse Later noted the cast is left out of the opening credits. He guessed producer Don Edmonds invited neighbours along to ad-lib some of the dialogue.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.apocalypselaterfilm.com/2018/11/home-sweet-home-1981.html"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Nettie Peña earlier edited the 1978 porn-horror film Dracula Sucks, starring Jamie Gillis as the Count. It was a long way from Thanksgiving.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Dracula_Sucks"
+      },
+      "person": "nm0671569"
+    },
+    {
+      "t": 750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter De Paula, who plays Harold Bradley's son Mistake, isn't a career actor. Apocalypse Later says he had a year-long run as the Magician in a touring production of The Magic Show.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.apocalypselaterfilm.com/2018/11/home-sweet-home-1981.html"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Harold Bradley actor Don Edmonds directed the notorious Ilsa: She Wolf of the SS (1975), shot in nine days on the Hogan's Heroes set.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ilsa:_She_Wolf_of_the_SS"
+      },
+      "person": "nm0103756",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTVjNjA0ZmEtYzYzYS00NWM3LTgwYzMtNWYxMDllOWFlYjg0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 930,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Sallee Young, who plays Linda, also appeared in the 1980 cult sleaze-horror film Demented, according to JoBlo's Black Sheep column.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/?p=115580"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Don Edmonds, who plays Harold Bradley, called the Ilsa: She Wolf of the SS screenplay he directed \"the worst piece of shit I ever read.\" It was still a financial success.",
+      "icon": "mic",
+      "byline": "Don Edmonds",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Ilsa:_She_Wolf_of_the_SS"
+      },
+      "person": "nm0103756",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTVjNjA0ZmEtYzYzYS00NWM3LTgwYzMtNWYxMDllOWFlYjg0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Four-year-old Vinessa Shaw (Angel Bradley) made her film debut here. Twelve years later she was the teen lead in Disney's Hocus Pocus.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pastemagazine.com/movies/bad-movie-diaries/bad-movie-diaries-home-sweet-home-1981"
+      },
+      "person": "nm0005416",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDZkN2JiNjUtYTY5NC00YzI4LWFmYmQtODYxOGE2YjhiNjE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vinessa Shaw later appeared in Stanley Kubrick's Eyes Wide Shut (1999) while attending Barnard College, and in the 2006 remake of The Hills Have Eyes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0005416",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDZkN2JiNjUtYTY5NC00YzI4LWFmYmQtODYxOGE2YjhiNjE3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In the UK video nasty panic, this film was seized under Section 3 of the Obscene Publications Act 1959. Its distributors weren't prosecuted, but tapes could be destroyed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Video_nasty"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Section 3 was the \"less obscene\" video nasty category. Dealers who admitted the material was obscene avoided personal prosecution. Friday the 13th and The Thing were on the same list.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Video_nasty"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Slasher in the House is the film's alternate title. It was released in Germany as BloodParty.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/10/29/slasher-month-home-sweet-home-1981"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Peter De Paula, who plays Harold Bradley's heavy-metal son Mistake, was a stage magician and mime. He had earlier played \"Mime #1\" on Wonder Woman in 1978.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pastemagazine.com/movies/bad-movie-diaries/bad-movie-diaries-home-sweet-home-1981"
+      },
+      "person": "nm1130901"
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paste Magazine's Jim Vorel called this about as close as you can get to a feature-length version of the fake Thanksgiving trailer from Grindhouse, later made into the film Thanksgiving.",
+      "icon": "link",
+      "byline": "Jim Vorel",
+      "source": {
+        "type": "web",
+        "url": "https://pastemagazine.com/movies/bad-movie-diaries/bad-movie-diaries-home-sweet-home-1981"
+      }
+    },
+    {
+      "t": 2460,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Slasher site Hysteria Lives! gave Home Sweet Home 1.5 out of 5. It called it \"a truly terrible movie,\" but said cheese fans might get \"a few kicks out of this fetid stinker.\"",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critical Condition said the film's killer \"hams it up so badly, you half expect bacon to fly off the screen.\" Fitting for a Thanksgiving movie.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2820,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Retro Slashers was kinder than most: \"The film has heart. Sure, it's a kind of mindless and confused heart, but... there's a real feeling that the filmmakers were shooting for something.\"",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Slasher films about Thanksgiving are rare. This one and Blood Rage (1987) are the two usually named. Home Sweet Home was also directed by a woman, Nettie Peña, which was even rarer in the genre.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0671569"
+    },
+    {
+      "t": 3180,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The hit-and-run scene at the start was shot in Porter Ranch, California, about 30 miles from Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's distributor was Intercontinental Releasing Corporation. Don Edmonds, who plays Harold Bradley, also produced it.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2020/10/29/slasher-month-home-sweet-home-1981"
+      },
+      "person": "nm0103756",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTVjNjA0ZmEtYzYzYS00NWM3LTgwYzMtNWYxMDllOWFlYjg0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3540,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "JoBlo's Black Sheep column called the film \"painfully hamstrung by its unforgivable frugality.\" No budget figure has surfaced, but the production values tell the story.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/?p=115580"
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jake Steinfeld's niece is Hailee Steinfeld, the Oscar-nominated star of True Grit (2010).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0826039",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5ODA4OTc1NF5BMl5BanBnXkFtZTcwODQ4NzkxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Video Recordings Act 1984, a direct result of the video nasty panic, made the BBFC classify home video for the first time. Many films were then cut for tape.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Video_nasty"
+      }
+    },
+    {
+      "t": 4080,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paste's Jim Vorel noted this came right after Friday the 13th set off a boom in holiday slashers. He joked that Sean Cunningham and John Carpenter directed theirs, while this one has Nettie Peña.",
+      "icon": "reel",
+      "byline": "Jim Vorel — Paste",
+      "source": {
+        "type": "web",
+        "url": "https://pastemagazine.com/movies/bad-movie-diaries/bad-movie-diaries-home-sweet-home-1981"
+      }
+    },
+    {
+      "t": 4300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Paste's Bad Movie Diaries crew joked that some scenes in Home Sweet Home look lit by a book light, and wondered whether the whole film was dubbed.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pastemagazine.com/movies/bad-movie-diaries/bad-movie-diaries-home-sweet-home-1981"
+      }
+    },
+    {
+      "t": 4520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hal C. F. Astell of Apocalypse Later called this \"far worse\" than Blood Rage, which he once named the worst film of the 1980s. He still called Mistake the film's best part.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.apocalypselaterfilm.com/2018/11/home-sweet-home-1981.html"
+      }
+    },
+    {
+      "t": 4740,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Reviewer Travis Singley gave Home Sweet Home three turkeys out of four, one below Blood Rage. He called it a \"less-polished Thanksgiving-set Halloween.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://hyperrealfilm.club/reviews/thanksgiving-throwdown"
+      }
+    }
+  ]
+}
