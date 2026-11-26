@@ -1,0 +1,610 @@
+{
+  "schema": 1,
+  "imdbId": "tt0097001",
+  "title": "C.H.U.D. II: Bud the Chud",
+  "year": 1989,
+  "runtimeSec": 5040,
+  "generatedAt": "2026-11-26T06:17:48.597Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screenwriter Ed Naha said C.H.U.D. II started out as a planned sequel to Return of the Living Dead, not to the 1984 C.H.U.D. It got retooled into a C.H.U.D. follow-up.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/chud-ii-revisited/"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Gerrit Graham, who plays Bud, later became a writer on VH1's Pop Up Video, the show this very bubble style is copying.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 250,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Robert Vaughn (Colonel Masters) had only 16 lines in The Magnificent Seven, and was convinced both it and Bullitt would be box-office poison.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001816",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAxNzIzOTI0MV5BMl5BanBnXkFtZTgwMzAzODc1MDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 330,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director David Irving shot three versions of the film: a comedy-heavy cut, a horror-heavy cut, and a toned-down one for TV. He decided the balance of laughs and gore in the editing room.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/C.H.U.D._II:_Bud_the_C.H.U.D."
+      }
+    },
+    {
+      "t": 425,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Brian Robbins, who plays student Steve Williams, grew up to be a director and producer (Varsity Blues, Coach Carter) and is now co-CEO of Paramount Pictures.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005367",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0MjczNjc0OV5BMl5BanBnXkFtZTYwODY3MTY2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tricia Leigh Fisher (Katie Norton) is the daughter of singer Eddie Fisher and Connie Stevens, and the younger half-sister of Star Wars' Carrie Fisher.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0279826",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk2OTE5ODM2MV5BMl5BanBnXkFtZTYwNDA5MDc1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 545,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Bill Calvert (Kevin) guest-starred in both China Beach and Quantum Leap in 1988-89, two unrelated shows that each featured a character named Sam Beckett.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0130785"
+    },
+    {
+      "t": 620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ed Naha wrote the script under the pseudonym M. Kane Jeeves, a name borrowed from W.C. Fields. Naha had also written Honey, I Shrunk the Kids.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/C.H.U.D._II:_Bud_the_C.H.U.D."
+      }
+    },
+    {
+      "t": 700,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Jack Riley, playing Wade Williams, and castmate Michael Bell would later work together again on the animated series Rugrats.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 754,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The Williams family's Alaskan wildlife TV special is full of penguins, but penguins live only in the Southern Hemisphere, not Alaska. Nature documentary fail!",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director David Irving is the son of actress Priscilla Pointer and brother of actress Amy Irving, which made Steven Spielberg (Amy's then-husband) his brother-in-law.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0410253"
+    },
+    {
+      "t": 960,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Gerrit Graham liked playing Bud so much he adopted the alias Bud T. Chud, and he played a character of that name in David Irving's next film, Night of the Cyclone.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/chud-ii-revisited/"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1040,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director David Irving says he has still never seen the original 1984 C.H.U.D., the movie this one is a sequel to.",
+      "icon": "link",
+      "byline": "David Irving — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/71535/chud-ii-bud-the-chud/"
+      },
+      "person": "nm0410253"
+    },
+    {
+      "t": 1117,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The script slips in a Smurfs gag. The film also nods to Blazing Saddles, Day of the Dead, Guess Who's Coming to Dinner and Plan 9 from Outer Space.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Per Irving's commentary, studio Vestron struggled to find anyone to direct a script this ambitious with almost no budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/71535/chud-ii-bud-the-chud/"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The poster shows the monsters at a sewer manhole like the first C.H.U.D., but these zombies look different and there are no sewers in the movie at all.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1320,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vestron reportedly figured an underpaid extra could play Bud the Chud cheaply. Director David Irving had to replace an already-cast actor when Gerrit Graham came aboard.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/71535/chud-ii-bud-the-chud/"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before directing hits, Brian Robbins (Steve Williams) hosted a late-1980s kids' game show called Pictionary.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0005367",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0MjczNjc0OV5BMl5BanBnXkFtZTYwODY3MTY2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Larry Linville, who plays Dr. Jewell, is best known as the pompous Major Frank Burns on M*A*S*H.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Larry_Linville"
+      }
+    },
+    {
+      "t": 1550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "IMDb says the film was shot in 1987, two years before its 1989 release, around Southern California including San Pedro, Saugus and East Los Angeles.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1625,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "June Lockhart, who plays Gracie, was Dr. Maureen Robinson on Lost in Space (1965-68) and Timmy's mom Ruth Martin on Lassie for about 200 episodes.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/June_Lockhart"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gerrit Graham, our Bud, was also in Brian De Palma's Phantom of the Paradise, Used Cars, TerrorVision and Child's Play 2.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1790,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Lawrence Kasanoff ran Lightning Pictures, Vestron's genre subsidiary. He later produced the Mortal Kombat movies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Lawrence_Kasanoff"
+      }
+    },
+    {
+      "t": 1876,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Bud's theme song has music by composer Nicholas Pike, lyrics by Cynthia Garris, and is sung by Kipp Lennon.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tricia Leigh Fisher once appeared with her mother Connie Stevens and sister Joely Fisher in Bring Me the Head of Dobie Gillis, a 1988 TV reunion movie.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0279826",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk2OTE5ODM2MV5BMl5BanBnXkFtZTYwNDA5MDc1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Cudlitz, later a star of The Walking Dead, is credited as a carpenter on this film. He went on to zombie-fighting.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2225,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Makeup effects artist Allan Apone says the C.H.U.D. look came from makeup experiments, and the crew made 'C.H.U.D.sicles' using fiberglass molds.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.nickkarner.com/post/c-h-u-d-ii-bud-the-chud-1989"
+      }
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviewer Andrew Hatfield on JoBlo called it 'somehow more fun than' the original C.H.U.D. He said it 'isn't scary in the least and that's ok.'",
+      "icon": "mic",
+      "byline": "Andrew Hatfield — JoBlo",
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/chud-ii-revisited/"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Planned for theaters, this sequel instead came out on VHS and laserdisc from Vestron Video on September 27, 1989.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/C.H.U.D._II:_Bud_the_C.H.U.D."
+      }
+    },
+    {
+      "t": 2570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rich Hall, who plays Stan, is the comedian who invented Sniglets, the made-up words for things with no name.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdexotica.com/2019/10/vestrons-chud-2-bud-chud-this-chuds-for.html"
+      }
+    },
+    {
+      "t": 2655,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Steve's 'Guess who's coming to dinner' quip nods to the 1967 Sidney Poitier film Guess Who's Coming to Dinner, one of several movies this script name-checks.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2766,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The movie's tagline was 'This C.H.U.D.'s for you!', a twist on a famous beer slogan. Colonel Masters' line here echoes it.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Bud the C.H.U.D. looks like a comic riff on Bub, the zombie in George Romero's Day of the Dead (1985), which this film references.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/chud-ii-revisited/"
+      }
+    },
+    {
+      "t": 2975,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director David Irving said the cast's improvised material made the film hard to assemble in the editing room.",
+      "icon": "camera",
+      "byline": "David Irving — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/71535/chud-ii-bud-the-chud/"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Ritch Shydner, who plays the Mailman, was originally cast as Bud the Chud until Gerrit Graham took the role.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3225,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The trick-or-treat gag 'I got a rock' spoofs It's the Great Pumpkin, Charlie Brown (1966), where Charlie Brown gets a rock in his bag.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3370,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Robert Englund, Freddy Krueger himself, has an uncredited cameo as a man in a trench coat walking with the trick-or-treaters.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/C.H.U.D._II:_Bud_the_C.H.U.D."
+      }
+    },
+    {
+      "t": 3435,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Robert Englund's cameo as a trench-coated man among the trick-or-treaters was trimmed back by studio Vestron, according to director David Irving's commentary.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/71535/chud-ii-bud-the-chud/"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Vaughn (Colonel Masters) has a PhD in Communications. His thesis on Hollywood blacklisting was published in 1972 as the book Only Victims.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001816",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAxNzIzOTI0MV5BMl5BanBnXkFtZTgwMzAzODc1MDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3618,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This is Wall of Voodoo's 'Brave New Dance'. Much of the soundtrack was written and performed by the new wave band's later lineup, with Andy Prieboy on vocals.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/C.H.U.D._II:_Bud_the_C.H.U.D."
+      }
+    },
+    {
+      "t": 3720,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Editor Barbara Pokras also cut The Return of the Living Dead, the zombie comedy this film was first conceived as a sequel to.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://misantropey.com/tag/chud-2/"
+      }
+    },
+    {
+      "t": 3826,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "'I'm a Hungry Man' was written and sung by Andy Prieboy himself, the Wall of Voodoo singer, rather than by the band.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director David Irving later became chairman of undergraduate film and television at NYU's Tisch School of the Arts. He had earlier directed Rumpelstiltskin.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0410253"
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director David Irving's mother, actress Priscilla Pointer, plays Dr. Berlin in the film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite her high billing, Bianca Jagger (Mick Jagger's ex-wife) appears only briefly in the film's final scene.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4320,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tricia Leigh Fisher (Katie) says this swimming pool sequence was hard to shoot, and she had to wear a very uncomfortable swimsuit.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdtalk.com/reviews/71535/chud-ii-bud-the-chud/"
+      },
+      "person": "nm0279826",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk2OTE5ODM2MV5BMl5BanBnXkFtZTYwNDA5MDc1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lionsgate put the film on Blu-ray on November 22, 2016, as part of its Vestron Video Collector's Series.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/C.H.U.D._II:_Bud_the_C.H.U.D."
+      }
+    },
+    {
+      "t": 4550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Later films that mention C.H.U.D. II include 28 Days Later (2002), Slither (2006) and Ti West's The House of the Devil (2010).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gerrit Graham wrote the lyrics to the Grateful Dead song 'Victim or the Crime', set to a tune by Bob Weir.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0334057",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTg0Mzg3Nl5BMl5BanBnXkFtZTcwNzc1MDAxOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Robert Vaughn was one of the first actors to play the same character, Napoleon Solo, on three series: The Man from U.N.C.L.E., Please Don't Eat the Daisies and The Girl from U.N.C.L.E.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001816",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAxNzIzOTI0MV5BMl5BanBnXkFtZTgwMzAzODc1MDI@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
