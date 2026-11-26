@@ -1,0 +1,451 @@
+{
+  "schema": 1,
+  "imdbId": "tt0085253",
+  "title": "Blood Rage",
+  "year": 1987,
+  "runtimeSec": 4920,
+  "generatedAt": "2026-11-26T05:17:43.677Z",
+  "facts": [
+    {
+      "t": 91,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The kid selling condoms at the drive-in is Ted Raimi in his first film. He was 19, and he later became a regular in his brother Sam Raimi's movies.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 136,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blood Rage was shot in 1983 but not released until 1987. Rue Morgue's Michael Gingold thinks March 1984 is more likely.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This opening drive-in sequence was shot in New Jersey, even though the rest of Blood Rage was filmed around Jacksonville, Florida.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 305,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ted Raimi's debut scene was shot separately from the rest of Blood Rage. Fangoria's Michael Gingold notes it was filmed by Tim Philo, who also shot The Evil Dead.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/review-blood-rage-blu-raydvd/"
+      }
+    },
+    {
+      "t": 410,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "This hospital visit between Maddy and Todd appears only in the uncut Blood Rage. The edited theatrical cut, Nightmare at Shadow Woods, leaves it out.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 615,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mark Soper played both twins, sometimes switching several times in one day. He kept a list of each twin's traits, such as different postures and head positions, to tell them apart.",
+      "icon": "mic",
+      "byline": "Mark Soper — Todd/Terry",
+      "source": {
+        "type": "interview",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's working title was The Complex. Director John Grissmer re-titled it Slasher, and that is the title on the opening credits of the home-video cut.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The screenwriter, Bruce Rubin, didn't want credit and used the pseudonym Richard Lamden. Per the Arrow commentary, he wrote to the producer's specifications for commercial reasons.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/review-blood-rage-blu-raydvd/"
+      }
+    },
+    {
+      "t": 1067,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Dr. Berman is played by producer Marianne Kanter. The actress hired from New York never showed up, so Kanter stepped in herself.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0437913",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzA2N2RiOWEtZDM5MC00OGM4LWExODktODI4MzkxNTUxMWRkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1190,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Watch Brad's office wall: an M.C. Escher drawing of a hand hangs there just before Brad's own hand gets chopped off.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The nature-trail scenes were shot on the University of North Florida campus. The apartment complex was in west Jacksonville, where producer Marianne Kanter had lined up many local investors.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ed French designed the gore, including decapitations and bisections. He later worked on Terminator 2: Judgment Day and Sleepaway Camp, and he plays a small role here.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdverdict.com/reviews/bloodragebluray.php"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "For the bisected Dr. Berman effect, actress Marianne Kanter's real body was hidden in a hole in the ground. The fake torso is visibly too small.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1530,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "\"THAT ISN'T CRANBERRY SAUCE!\" has become the film's unofficial tagline. Fans quote it back at each other, and Blood Rage is one of the few slashers set on Thanksgiving.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Star Louise Lasser (Maddy) was married to Woody Allen from 1966 to 1970. She acted in his early comedies Take the Money and Run and Bananas.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0489837",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmNlNTUwMjMtOTQ1Zi00MDBhLTg2ZjYtZDIzYTZhMDBkODkyXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1810,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Effects artist Ed French says Blood Rage was his first time doing active blood gags. His earlier work on Sleepaway Camp was mostly corpses and aftermath.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.fangoria.com/original/review-blood-rage-blu-raydvd/"
+      }
+    },
+    {
+      "t": 1922,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Jayne Bentzen (Julie) is best known for the soap The Edge of Night, where she played Nicole Drake Cavanaugh from 1978 to 1981.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0073009"
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The tagline on the poster read: Not all the evil is on Elm Street.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2215,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screenwriter Bruce Rubin's credits also include the 1982 teen sex comedy Zapped!, a long way from Thanksgiving slashers.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/blood-rage-cordially-invites-you-to-the-ultimate-80s-ho-1848070829"
+      }
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Slant Magazine's Clayton Dillard gave Blood Rage 4.5 out of 5 stars. He called it funny, brutal, and the slasher genre's sense of transgression distilled.",
+      "icon": "trophy",
+      "byline": "Clayton Dillard — Slant Magazine",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2440,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Star Mark Soper called the shoot intense and intimate, with few people, little time and little money. He says that freedom let the cast make bolder choices than mainstream films allow.",
+      "icon": "mic",
+      "byline": "Mark Soper — Actor",
+      "source": {
+        "type": "interview",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety dismissed it as a trite slasher flick. It added that only Louise Lasser, who plays Maddy, realized the script could only be played for laughs.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Nightmare at Shadow Woods, the 1987 theatrical cut, trimmed much of the gore to dodge an X rating. It did keep a swimming pool scene that the uncut VHS version lacks.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blood Rage got a new audience through streaming. Joe Bob Briggs presented it on Shudder, and it is also a regular on Tubi.",
+      "icon": "joebob",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/blood-rage-1987-real-slashers/"
+      }
+    },
+    {
+      "t": 2985,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Mark Soper recalls Louise Lasser getting a stop-everything round of applause on set after one take. He says he has seen that only twice in his life.",
+      "icon": "mic",
+      "byline": "Mark Soper — Todd/Terry",
+      "source": {
+        "type": "interview",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    },
+    {
+      "t": 3041,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "According to Mark Soper, much of Terry's playfulness was improvised, including the tennis ball, the diving board and handling a corpse like a puppet.",
+      "icon": "mic",
+      "byline": "Mark Soper — Todd/Terry",
+      "source": {
+        "type": "interview",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity slip: Andrea and Gregg change position on the diving board from shot to shot while they kiss.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Marianne Kanter said the shoot was rocky. Star Louise Lasser and director John Grissmer clashed, and Grissmer quit mid-shoot until she talked him back.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Characters wear Nike apparel throughout, with the swoosh prominent in many shots.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3585,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Just before Terry stabs Artie in the neck with the meat fork, a crew member is briefly visible in the background on the bridge.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The gore arrived after Tom Savini reshaped horror effects but before the MPAA cracked down on slashers. DVD Verdict credits that timing for its extreme kills.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdverdict.com/reviews/bloodragebluray.php"
+      }
+    },
+    {
+      "t": 3850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mark Soper, who plays both twins, later played Joseph Barringer on Knots Landing and Michael Milton in The World According to Garp.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0814637",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDI4Mjg4MTUtMTVmZS00NWI2LWE5ZGQtZTcxODZlMGQ2ZDQ0XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director John Grissmer's only other credited film is Scalpel (1977), also known as False Face.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dvdverdict.com/reviews/bloodragebluray.php"
+      },
+      "person": "nm0342626"
+    },
+    {
+      "t": 4230,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look closely at the victims in the sauna: they can be seen breathing.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The horror podcast Watch If You Dare reviews Blood Rage every Thanksgiving. For 2021 they titled the episode Slasher as a joke, to trick listeners.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blood Rage was the last film distributed by The Film Concept Group. By May 1987 its title had changed from Blood Rage to Nightmare at Shadow Woods for further regions.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Asked by Rue Morgue about a Blood Rage 2, Mark Soper, who plays both twins, answered: \"Yes! When do we start?\"",
+      "icon": "mic",
+      "byline": "Mark Soper — Actor",
+      "source": {
+        "type": "interview",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    },
+    {
+      "t": 4760,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mark Soper says Shudder and Tubi's revival of Blood Rage surprised him. He has even gotten unusual fan requests from Italy.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://rue-morgue.com/exclusive-interview-mark-soper-blood-rage/"
+      }
+    }
+  ]
+}
