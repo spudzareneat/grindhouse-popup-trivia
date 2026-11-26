@@ -1,0 +1,598 @@
+{
+  "schema": 1,
+  "imdbId": "tt0083630",
+  "title": "The Beastmaster",
+  "year": 1982,
+  "runtimeSec": 7080,
+  "generatedAt": "2026-11-26T05:29:39.810Z",
+  "facts": [
+    {
+      "t": 70,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Composer Lee Holdridge wrote about 80 minutes of music for The Beastmaster, recorded in Rome with members of the Academy of Santa Cecilia orchestra and the Radio Symphony Orchestra of Rome.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 125,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is very loosely based on Andre Norton's 1959 sci-fi novel The Beast Master. Norton disliked the changes so much she asked for her name to be removed from the credits.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 170,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Rip Torn (high priest Maax) wanted a turkey-vulture look, so he wore a prosthetic nose. It reportedly melted in the California sun during outdoor shoots and caused delays.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      },
+      "person": "nm0001800",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwMTI5MTA5MV5BMl5BanBnXkFtZTYwMDE2Mjk2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 230,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Maax was written for Klaus Kinski. Director Don Coscarelli couldn't reach a deal with him, so the producers hired Rip Torn instead.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The roughly $9 million budget was the biggest of director Don Coscarelli's career at that point. He had just made the low-budget cult horror Phantasm.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0181741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzY0MzQ2N15BMl5BanBnXkFtZTYwMzY0MzM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Don Coscarelli described The Beastmaster as a cross between samurai films and Disney animal movies. He was also a fan of Steve Reeves' sword-and-sandal flicks.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      },
+      "person": "nm0181741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzY0MzQ2N15BMl5BanBnXkFtZTYwMzY0MzM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 520,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was set for Christmas 1982. Then United Artists bought the US rights and moved it to August, where it opened the same summer as Conan the Barbarian.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      }
+    },
+    {
+      "t": 600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The American Humane Association supervised a big animal cast on The Beastmaster: twenty ferrets, three grizzly bears, a wedge-tailed eagle and three tigers.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "On star Marc Singer's first day, the Russian bear used in the young-Dar scene broke loose and attacked its handler. The crew fled into vehicles, then asked Singer if he was ready.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001743",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxNjUyNTg2NF5BMl5BanBnXkFtZTYwNjc2MDM0._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 770,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Shooting began in widescreen anamorphic, but the French backers wanted spherical lenses for TV. This bear scene was cropped to match the final 1.85:1 look.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-producer Sylvio Tabet told Screen International he financed the film himself with European bank loans. Variety instead reported a consortium of foreign investors.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Filming ran from December 1, 1981 to mid-February 1982. Interiors were shot in a former toy warehouse in North Hollywood, and exteriors on an oil company's 3,000-acre Simi Valley property.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      }
+    },
+    {
+      "t": 1060,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Director Don Coscarelli was barred from creating the film's optical effects. He says the dust cloud thrown up by the Jun horde looks bad.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Sharak the eagle often wouldn't fly on cue. The crew released it from a hot-air balloon, and Marc Singer says it once clawed his back during a sword-pulling scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The poster tagline promised a hero born with the courage of an eagle, the strength of a black tiger, and the power of a god.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 1710,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tanya Roberts shot her swimming scene in a cold natural pond during a winter shoot. Crew rushed in to wrap her in blankets between takes.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      },
+      "person": "nm0000617",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MTE4Mjg0NF5BMl5BanBnXkFtZTYwMDc1OTQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "About 25 ferrets played Kodo and Podo. Ferrets can't really be trained, so handlers baited them with food to get them to go or look where needed.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1950,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Composer Lee Holdridge gave Kiri a flute-led love theme and marked Dar's animal communication with bells, according to Filmtracks' review of the score.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmtracks.com/titles/beastmaster.html"
+      }
+    },
+    {
+      "t": 2075,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Ruh the black panther is a tiger dyed black. Director Don Coscarelli didn't like the stripes, so cases of Lady Clairol dye stayed on set, but stripes still show where the dye washed off.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2169,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Kipling, the tiger who played Ruh, was dyed black to pass as a panther and trained for six weeks before filming.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      }
+    },
+    {
+      "t": 2260,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Don Coscarelli wanted an 18-year-old Demi Moore as Kiri, but the executive producer overruled him and cast Tanya Roberts.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000617",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MTE4Mjg0NF5BMl5BanBnXkFtZTYwMDc1OTQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2420,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Co-producer Sylvio Tabet said the budget was impressive for an independent film, but he felt it should have been about three times larger. He had sets built to match the lens angles to save money.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://schlockmania.com/tabet-part-1"
+      }
+    },
+    {
+      "t": 2600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kiri star Tanya Roberts later got the role of Stacey Sutton in the James Bond film A View to a Kill (1985).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000617",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MTE4Mjg0NF5BMl5BanBnXkFtZTYwMDc1OTQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "For the shot where a ferret meets the tiger nose to nose, the tiger was heavily fed first. Per JoBlo, as soon as the director yelled cut, trainers quickly separated the animals.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Monthly Film Bulletin's Tom Milne mocked the helicopter shots standing in for the eagle's spying, since all it sees is the hero posing on hilltops in martial-arts stances.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Whenever the tiger was on set, child actors had to be absent and a sharpshooter kept a rifle aimed at it. That forced rewrites and short stunt doubles for some shots.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The UK cinema cut was trimmed for a PG rating, including the puncturing of a ring containing an eyeball. The topless bathing footage was also removed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TCM reports the film cost around $10 million and grossed about $14 million, so it only just recouped its costs. Cable TV later made it a cult favorite.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.tcm.com/articles/1364639/the-beastmaster"
+      }
+    },
+    {
+      "t": 3330,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Marc Singer called Dar's costume a leather hula skirt. When he and John Amos (Seth) saw each other in costume for the first time, they burst out laughing.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0025309",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA4OTcxNzk0MF5BMl5BanBnXkFtZTcwMzc5NDQwOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3470,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Josh Milrad, who plays young prince Tal, was nominated for a Young Artist Award for Best Young Supporting Actor in a Motion Picture.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0590582"
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tanya Roberts often flirted with child actor Josh Milrad to annoy co-star Marc Singer. Milrad never complained, as he was at the age where he found girls interesting.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety was unimpressed: it wrote that an hour in, it is very hard to care what the film is about, and an hour later, very hard to remember.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The filmmakers arranged for Tanya Roberts to appear in Playboy to promote the film, but that issue didn't come out until after the film had opened.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000617",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MTE4Mjg0NF5BMl5BanBnXkFtZTYwMDc1OTQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Don Coscarelli and co-writer Paul Pepperman have reclaimed the rights to The Beastmaster and say they plan to pursue a reboot.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.syfy.com/index%2ephp/syfy-wire/wire-buzz-the-beastmaster-the-one-and-only-ivan-love-and-monsters"
+      }
+    },
+    {
+      "t": 4700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Don Coscarelli says the original camera negative is lost. It was stored in a private house that was sold, and he has asked the public for help finding it.",
+      "icon": "tombstone",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0181741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzY0MzQ2N15BMl5BanBnXkFtZTYwMzY0MzM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Vincent Canby of The New York Times found the film neither better nor worse than Conan the Barbarian, saying it looks both big and cheap.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Joe Lynch has used Don Coscarelli's troubled Beastmaster experience as a reference point while making his own fantasy comedy Knights of Badassdom, according to JoBlo.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After Don Coscarelli's director's cut, the producers took over the edit and reportedly lengthened every shot, slowing the pace. Coscarelli was also barred from creating the optical effects.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      },
+      "person": "nm0181741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzY0MzQ2N15BMl5BanBnXkFtZTYwMzY0MzM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Producer Dino De Laurentiis liked the film and offered Don Coscarelli the job of directing Conan the Destroyer (1984). Coscarelli declined because he thought the script was bad.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0181741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzY0MzQ2N15BMl5BanBnXkFtZTYwMzY0MzM1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film ran so often on cable that comedian Dennis Miller joked HBO stood for Hey, Beastmaster's On. Fans said TBS meant The Beastmaster Station.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Don Coscarelli sold off his rights to the story and characters. He gets no money from the two sequels or the TV series.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In 1993 a TNT programming director said the film was the network's most popular movie after Gone with the Wind, crediting its mythological appeal.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rip Torn plays Maax here. In Men in Black (1997) he played Zed, the same name as this film's king.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0001800",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwMTI5MTA5MV5BMl5BanBnXkFtZTYwMDE2Mjk2._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 6300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Gene Siskel gave the film two stars out of four, writing that it is overlong and, in this sort of brainless adventure, one climax is enough.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Lee Holdridge's score was recorded in Italy, but the studio found the big battle cue lacking. It was re-recorded in Los Angeles with a fuller ensemble for the final cut.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.filmtracks.com/titles/beastmaster.html"
+      }
+    },
+    {
+      "t": 6500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Two years later Tanya Roberts starred as Sheena (1984), another heroine who can talk to animals.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0000617",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MTE4Mjg0NF5BMl5BanBnXkFtZTYwMDc1OTQ1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 6600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the 1996 TV sequel Beastmaster III, Casper Van Dien played Tal and Tony Todd replaced John Amos as Seth. Marc Singer later joined the 1999 TV series as Dartanus.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/wtf-happened-to-the-beastmaster/"
+      }
+    },
+    {
+      "t": 6700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1991 sequel Beastmaster 2: Through the Portal of Time was directed by Sylvio Tabet, the original film's co-producer. Marc Singer returned as Dar.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 6900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In Japan the film was released as Miracle Master.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
