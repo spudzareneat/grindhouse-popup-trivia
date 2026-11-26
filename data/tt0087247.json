@@ -1,0 +1,574 @@
+{
+  "schema": 1,
+  "imdbId": "tt0087247",
+  "title": "Fear City",
+  "year": 1984,
+  "runtimeSec": 5700,
+  "generatedAt": "2026-11-26T05:46:52.460Z",
+  "facts": [
+    {
+      "t": 90,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "20th Century Fox originally backed Fear City, then decided it had too much nudity, sex, violence and drug content and sold it to the indie company Aquarius Releasing.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The title comes from 1975 'Fear City' pamphlets, handed out by NYC police unions to warn tourists away. The cover was a hooded skull. A judge ruled it protected free speech.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Fear_City_pamphlets"
+      }
+    },
+    {
+      "t": 265,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Distributor Aquarius Releasing, which picked up Fear City after 20th Century Fox dropped it, also put out Dr. Butcher, M.D. and 7 Doors of Death, a re-edited version of Lucio Fulci's The Beyond.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2025/01/18/fear-city-1984/"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Abel Ferrara's cut first got an X rating from the MPAA, so he had to trim violence and nudity heavily to get an R.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was meant to be Abel Ferrara's first major-studio film. Fox had a two-picture deal with producer Bruce Cohn Curtis, the other picture being the sci-fi thriller Dreamscape.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's working title was Ripper. Shooting began April 26, 1983 at Raleigh Studios in Los Angeles, then moved to location work in Manhattan.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 710,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The masked killer is played by John Foster, a real New York karate practitioner, in his only acting role. The credits call him 'Pazzo' (Italian for madman), but the film never names him.",
+      "icon": "knuckles",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tracy Griffith (Sandra Cook) made her feature debut here. She's the half-sister of Melanie Griffith, who plays Loretta.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jack Scalia (Nicky Parzeno) was a first-round baseball draft pick: the Montreal Expos took him third overall in 1971, before he turned to acting. This was his feature film debut.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Tom Berenger (Matt Rossi) turned down the lead in Miami Vice as Sonny Crockett. Fear City director Abel Ferrara later directed Miami Vice episodes himself.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1165,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Ola Ray, who plays the dancer Honey, was Michael Jackson's love interest in his 1983 'Thriller' video, one year before Fear City.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2025/01/18/fear-city-1984/"
+      }
+    },
+    {
+      "t": 1230,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before acting, Tom Berenger worked as a flight attendant for Eastern Air Lines. He later earned an Oscar nomination for Platoon (1986).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1360,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Billy Dee Williams (Detective Al Wheeler) played Lando Calrissian in The Empire Strikes Back and Return of the Jedi. He's also a serious painter whose work hangs in the Smithsonian.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1490,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Melanie Griffith (Loretta) made Brian De Palma's Body Double the same year. It won her the National Society of Film Critics Award for Best Supporting Actress.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rossano Brazzi (Carmine) was a 1950s matinee idol in Three Coins in the Fountain and the film version of South Pacific. Here he plays a Mafia don.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1685,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before playing mob boss Carmine here, Rossano Brazzi, the romantic lead of South Pacific, had played Count Frankenstein in the Italian horror film Frankenstein's Castle of Freaks.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2025/01/18/fear-city-1984/"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's songs include two by David Johansen, the New York Dolls frontman who was about to become the lounge act Buster Poindexter. Both were written by Ferrara collaborator Joe Delia.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1880,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The score was composed by Dick Halligan, a founding member of the jazz-rock band Blood, Sweat & Tears.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2010,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film premiered in France on July 18, 1984, as 'New York, deux heures du matin', about seven months before its U.S. release.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2140,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film had a budget of about $4 million, a big step up for director Abel Ferrara after his low-budget The Driller Killer and Ms. 45.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2270,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Three Oscar nominees are in the cast: Tom Berenger, Melanie Griffith and Michael V. Gazzo, who was nominated for The Godfather Part II.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2335,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Ward of Flickering Myth calls Fear City Abel Ferrara's first job as a director-for-hire, after his self-driven exploitation shockers The Driller Killer and Ms. 45.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.flickeringmyth.com/blu-ray-review-fear-city-1984"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The UK cinema release lost 1 minute 10 seconds to the BBFC. The censors cut the subway attack and removed every shot of nunchakus.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2530,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The US TV version keeps the exact running time of the theatrical cut, to the second. It cuts nudity, violence and swearing, then fills the time with extra scenes from the cutting-room floor.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2595,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Flickering Myth's Chris Ward says Abel Ferrara uses clever editing to make the violence feel more graphic than it is. There's actually very little splatter on screen.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.flickeringmyth.com/blu-ray-review-fear-city-1984"
+      }
+    },
+    {
+      "t": 2660,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Moria's Richard Scheib gave the film two stars out of five. He said it feels made by someone who has never been behind the scenes at a strip club, and is too clean and not sleazy enough.",
+      "icon": "mic",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/fear-city-1984.htm"
+      }
+    },
+    {
+      "t": 2790,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Fox reportedly balked at the MPAA's demands to cut the stripper scenes, the violence and a suggested lesbian relationship. The film then got a limited release and did little business.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/fear-city-1984.htm"
+      }
+    },
+    {
+      "t": 2920,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The New York Times' Janet Maslin praised director Abel Ferrara's skill with action scenes and 'nonverbal narration'. She said his visual talent isn't matched by an equal gift for character.",
+      "icon": "mic",
+      "byline": "Janet Maslin — The New York Times",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gene Siskel of the Chicago Tribune said Fear City cares only about surface thrills: exotic dancers, martial arts, knife attacks and knockout punches.",
+      "icon": "mic",
+      "byline": "Gene Siskel — Chicago Tribune",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3115,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bands About Movies jokes that you can tell how giallo Fear City is because the closing credits thank J & B Distillery, the whisky that is practically a character in Italian giallo films.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2025/01/18/fear-city-1984/"
+      }
+    },
+    {
+      "t": 3180,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Blueprint Review said the film feels like a riff on William Friedkin's Cruising, another sleazy New York serial-killer thriller.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueprintreview.co.uk/2024/03/fear-city-101-films/"
+      }
+    },
+    {
+      "t": 3310,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Abel Ferrara called the film a disappointment and said its failure nearly ended his directing career, until Michael Mann hired him to direct episodes of Miami Vice.",
+      "icon": "mic",
+      "byline": "Abel Ferrara — Director",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3375,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Billy Dee Williams (Detective Al Wheeler) reportedly had a clause in his Batman (1989) contract reserving Two-Face for him as Harvey Dent. Warner Bros. had to buy it out to cast Tommy Lee Jones.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3440,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Rotten Tomatoes has Fear City at 64% fresh, from 11 reviews, with an average rating of 5.6 out of 10.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3570,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Tilt Magazine called the film Ferrara's transitional work, an answer to Taxi Driver and a foundation for his later, more self-serious films.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3635,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Melanie Griffith (Loretta) once got a miniature doll of her mother, Tippi Hedren, from Alfred Hitchcock, in a wooden box. She freaked out, thinking it was a coffin.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Billy Dee Williams got his star on the Hollywood Walk of Fame on March 27, 1985, a few weeks after Fear City reached U.S. theaters.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3830,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's closing credits thank sponsors including Nike, Perrier, Members Only clothes, Candies shoes and Jack Daniels.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3895,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Before Fear City, Jack Scalia (Nicky Parzeno) modeled briefs in newspaper and magazine ads for Eminence Underwear in the late 1970s.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3960,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The unrated cut runs about 97 minutes against 95 for the theatrical version. Its extra footage was sourced from VHS/DVD and the rest from HD, so the picture quality visibly shifts.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://blueprintreview.co.uk/2024/03/fear-city-101-films/"
+      }
+    },
+    {
+      "t": 4090,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fear City is name-checked in the Abel Ferrara documentaries 'Not Guilty' (2003) and 'A Short Film About the Long Career of Abel Ferrara' (2004).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4155,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Five songs on the soundtrack are credited as courtesy of Prelude Records, the New York disco label. They include Sharon Redd, D Train and Hi-Gloss.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4220,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Critic Mike Malloy discussed Fear City in a video essay on the early-80s 'Cop Sleaze' movement, in which gritty cop thrillers focused on city vice.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4350,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Ferrara's Fear City co-writer Nicholas St. John went to high school with him and wrote many of his films, including Ms. 45, King of New York and Bad Lieutenant.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4415,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Vern of Outlaw Vern reports that Fear City writer Nicholas St. John, Ferrara's high-school friend, refused to work on Bad Lieutenant because of his Catholicism.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://outlawvern.com/2022/02/08/fear-city/"
+      }
+    },
+    {
+      "t": 4480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Greek and Dutch video releases of Fear City were fully uncut, while the Finnish version was heavily cut.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4610,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Ferrara's Fear City was shot by cinematographer James Lemmo, and the film's special effects were by Clay Pinney.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/horror/fear-city-1984.htm"
+      }
+    },
+    {
+      "t": 4740,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Among the disco tracks, the soundtrack includes 'Povero Amico Mio' by Italian singer Carlo Buti, licensed from EMI Italiana.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Flickering Myth notes the film's timing: Tom Berenger was just before Platoon, Rae Dawn Chong just before Commando, and Billy Dee Williams just after Return of the Jedi.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.flickeringmyth.com/blu-ray-review-fear-city-1984"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The end credits give special thanks to 'ladies of Fear City', including Jeri Singer, Tiffany Bearing and Tricia Brown, presumably the real dancers who appear in the club scenes.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
