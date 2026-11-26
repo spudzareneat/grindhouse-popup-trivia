@@ -1,0 +1,549 @@
+{
+  "schema": 1,
+  "imdbId": "tt30766582",
+  "title": "Screamboat",
+  "year": 2025,
+  "runtimeSec": 6120,
+  "generatedAt": "2026-11-26T06:13:56.859Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Steven LaMorte grew up on Staten Island, so a slasher set on its famous ferry is a hometown project for him.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0483747",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MDc0MTUtNGQxNy00Y2ZiLWI0NDYtMzI0ZGMzZTY0OTg2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 115,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The ferry used for filming is a decommissioned Staten Island Ferry that Saturday Night Live stars Colin Jost and Pete Davidson bought in 2022.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Steamboat Willie entered the public domain on January 1, 2024. The Screamboat project was announced the very next day.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "While scouting, director Steven LaMorte and star/producer Amy Schumacher reportedly rode the Staten Island Ferry 15 to 20 times in a single day.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 445,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Steven LaMorte says the princess-costumed party girls came from a real group he saw on the Staten Island Ferry every Saturday night in his twenties.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/screamboat-director-interview-steamboat-willie-disney-2000581124"
+      },
+      "person": "nm0483747",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MDc0MTUtNGQxNy00Y2ZiLWI0NDYtMzI0ZGMzZTY0OTg2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 490,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The birthday girls are Disney princesses in disguise: Cindi (Cinderella), Ariana (Ariel), Jazzy (Jasmine), Bella (Belle) and Rory (Aurora).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 551,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The ferry's name, Mortimer, was an early suggestion for what Walt Disney would call Mickey Mouse, before Walt's wife Lillian pushed for Mickey.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Amber, the paramedic played by producer Amy Schumacher, is named after Princess Amber from Disney's kids' series Sofia the First.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 851,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Deckhand Pete is named after Pegleg Pete, the cat villain who captained the boat in the original 1928 Steamboat Willie cartoon.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 905,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Fans guessed Selena, the aspiring designer played by Allison Pittel, was based on YouTuber Jenny Nicholson. Director Steven LaMorte flatly denied it.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/screamboat-director-interview-steamboat-willie-disney-2000581124"
+      },
+      "person": "nm0483747",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MDc0MTUtNGQxNy00Y2ZiLWI0NDYtMzI0ZGMzZTY0OTg2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Steven LaMorte previously made The Mean One (2022), a horror parody of the Grinch, another famous character turned slasher.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0483747",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MDc0MTUtNGQxNy00Y2ZiLWI0NDYtMzI0ZGMzZTY0OTg2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Producer Amy Schumacher says the team consulted a lawyer before shooting. Willie must always wear his hat: without it he'd read as post-1928 Mickey Mouse, who is still under copyright.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=59535"
+      }
+    },
+    {
+      "t": 1250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Willie actor David Howard Thornton is on the autism spectrum and used to be an elementary school teacher before becoming a horror star.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm7476686",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTQ1MjE5NF5BMl5BanBnXkFtZTgwMzEyOTY0NjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1465,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Willie is played by David Howard Thornton, best known as the silent, mime-like killer Art the Clown in the Terrifier films.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm7476686",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTQ1MjE5NF5BMl5BanBnXkFtZTgwMzEyOTY0NjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The mouse puppet and costume were designed by Quantum Creation FX, which helped keep Willie's kills practical.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 1650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Getting David Howard Thornton into Willie's makeup and fur suit took about three to four hours every shooting day, per director Steven LaMorte and producer Amy Schumacher.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=59535"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TMZ reported the shoot used so much fake blood on the borrowed ferry that a special cleaning crew had to be hired.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 1850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Halfway through day one, David Howard Thornton found a breathing technique inside the mask that made Willie's whiskers move. The crew hadn't planned it, says producer Amy Schumacher.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=59535"
+      }
+    },
+    {
+      "t": 1946,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Jesse Kove, who plays NYPD Lieutenant Diaz, is best known as David on the Netflix series Cobra Kai.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm2743389",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY3YzNhMTMtZGI0ZS00NmQwLWIyMWEtYmEyZmRlY2U2NTY1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2100,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Willie actor David Howard Thornton's first stage role as a kid was Mickey Mouse. Director Steven LaMorte says Thornton still does the voice in public, even when asked not to.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=59535"
+      },
+      "person": "nm7476686",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTQ1MjE5NF5BMl5BanBnXkFtZTgwMzEyOTY0NjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2211,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Dialogue is stuffed with Disney song titles. A party girl promising 'a whole new world' is a nod to Aladdin.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2340,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Another Disney song nod: a crew member says 'be our guest' and calls the lower deck a grand ballroom, echoing Beauty and the Beast.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Brian Quinn (Mitch McEverly) of Impractical Jokers served eight years as a real New York City firefighter with the FDNY.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1978079",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2M4OGM5ODktNzI2NC00NjdkLWE0OGEtNDEwYjMzYjdjOGQ1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2620,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "One Willie kill can take a crowd: an actor on each hand, a puppeteer on the mouse, someone twisting the torso, and David Howard Thornton about 30 feet back, says director Steven LaMorte.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=59535"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Tyler Posey, the Teen Wolf star who plays Radio Operator Mike, was once considered for the role of Jacob Black in Twilight (2008).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0692677",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTBlZGE1NWUtNzllMC00NTgyLWFjMmUtNWVmZTFjYTRjNzg4XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Michael Leavy, who plays Deckhand Bert Brunswick, also co-produced the film, and he appeared in Terrifier and Terrifier 2 alongside Willie actor David Howard Thornton.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      },
+      "person": "nm4738404",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzIzYjUyYjctMmM2Ny00Y2I0LTg5NTctZTY2NGE5ZDI0Mjk3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2998,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "'Can you feel the love tonight?' is another Disney song title slipped into the script, this one from The Lion King.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "David Howard Thornton stands roughly 6'5\" in the Willie suit, so props he holds had to be built oversized to keep the pint-sized mouse illusion working.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pophorror.com/?p=144822"
+      }
+    },
+    {
+      "t": 3185,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The 'pizza rat' joke nods to a viral New York subway video of a rat dragging a slice of pizza. 'Rizzo the rat' is the Muppets' rodent.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Even docked, the real ferry shook whenever big freighters passed, and shots on the moving ferry couldn't be locked off, the filmmakers told PopHorror.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pophorror.com/?p=144822"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Screamboat cost about $2 million to make and grossed only around $393,000 in its limited theatrical run.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The team decided early in scripting that Willie would be tiny, inspired by the 'Partners' statue of Walt Disney holding hands with Mickey Mouse.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/screamboat-director-interview-steamboat-willie-disney-2000581124"
+      }
+    },
+    {
+      "t": 3740,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In Barry's story, the scientist experimenting on Willie is the Mad Doctor from a 1933 Mickey cartoon, and a sketch of Oswald the Lucky Rabbit is visible.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "A planned cameo reference to the first Mouseketeer was dropped because, director Steven LaMorte says, the lawyers 'wouldn't clear it because she's a real person.'",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/screamboat-director-interview-steamboat-willie-disney-2000581124"
+      },
+      "person": "nm0483747",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MDc0MTUtNGQxNy00Y2ZiLWI0NDYtMzI0ZGMzZTY0OTg2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A tattooed fan at a horror convention told director Steven LaMorte he'd spotted the film's hidden Mary Poppins reference. LaMorte's reply: 'Mission accomplished!'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/screamboat-director-interview-steamboat-willie-disney-2000581124"
+      },
+      "person": "nm0483747",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0MDc0MTUtNGQxNy00Y2ZiLWI0NDYtMzI0ZGMzZTY0OTg2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Screamboat was shot on RED cinema cameras, and the production's data cards and drives were supplied by storage maker OWC.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.owc.com/blog/screamboat-horror-owc"
+      }
+    },
+    {
+      "t": 4450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Willie never speaks. David Howard Thornton developed his giggles and whistles himself in costume, after co-writer Matthew Garcia-Dunn suggested whistling as his way to communicate.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://pophorror.com/?p=144822"
+      },
+      "person": "nm7476686",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NTQ1MjE5NF5BMl5BanBnXkFtZTgwMzEyOTY0NjE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Screamboat was first set for release on January 24, 2025. It instead premiered April 1, 2025 at the Regal Union Square in Manhattan before a limited release April 2.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews were mixed: Rotten Tomatoes lists 51% positive from 35 critics, and Metacritic gives it 44 out of 100.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A sequel, Screamboat 2: Nothing Stays Dead, has been announced as in development.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 5200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Steven LaMorte told Gizmodo he got into filmmaking 'as a backdoor way to be an Imagineer.' He calls the Disney nods 'vital to the DNA of the flick,' not just Easter eggs.",
+      "icon": "mic",
+      "byline": "Steven LaMorte — Director",
+      "source": {
+        "type": "web",
+        "url": "https://gizmodo.com/screamboat-director-interview-steamboat-willie-disney-2000581124"
+      }
+    },
+    {
+      "t": 5400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety's Peter Debruge found it fun for 'desecrating powerful brands, like Disney.' RogerEbert.com's Brian Tallerico gave it two stars out of four.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Screamboat"
+      }
+    },
+    {
+      "t": 5700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film's gore logic, per director Steven LaMorte: Willie thinks he's still a cartoon and doesn't realize people bleed, so the kills were made over-the-top to be funny.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://rue-morgue.com/?p=59535"
+      }
+    },
+    {
+      "t": 6000,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "In the end credits, crew member Sean Kenney is credited as a 'lense technician,' a misspelling of 'lens.'",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
