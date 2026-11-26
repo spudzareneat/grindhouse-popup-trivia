@@ -1,0 +1,468 @@
+{
+  "schema": 1,
+  "imdbId": "tt0066412",
+  "title": "The Strange Vice of Mrs. Wardh",
+  "year": 1971,
+  "runtimeSec": 4860,
+  "generatedAt": "2026-11-26T05:50:02.855Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening quote is from Sigmund Freud's essay Thoughts for the Times on War and Death, about humanity descending from generations of murderers.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 190,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The 'h' in Wardh is a legal patch: just before release, an Italian woman named Mrs. Ward threatened to sue over the original title, so the film became 'Wardh'.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Composer Nora Orlandi is called the first female film composer of Italian cinema. She also led the wordless-vocal group I 4+4, who sang backup for Mina and Lucio Battisti.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Nora_Orlandi"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Budget: 170 million lire, a 70/30 co-production between producer Luciano Martino's Devon Film of Rome and Eduardo Manzanos Brochero's Copercines of Madrid.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 590,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Vienna is a business decision: the distributor believed Italian audiences would accept crime stories more readily if they were set abroad. Austria got 10 days of the 36-day shoot.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 655,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The title riffs on the 1946 film noir The Strange Love of Martha Ivers, according to the blog Watching Horror Films From Behind the Couch.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://watchinghorrorfilmsfrombehindthecouch.blogspot.com/2011/04/strange-vice-of-mrs-wardh.html"
+      }
+    },
+    {
+      "t": 720,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The script was already finished when Dario Argento's The Bird with the Crystal Plumage became a hit. Director Sergio Martino then added a serial-killer angle to cash in on Argento's formula.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The murder-for-insurance plot draws on the Genaro Fenaroli case, a life-insurance killing that became a media sensation in Italy.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 915,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Italian-Spanish co-production credits got creative: Conchita Airoldi is billed as 'Cristina Airoldi', and Spanish actor Manuel Gil (Dr. Arbe) as 'Maurice Gillas Pou'.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moviesandmania.com/2017/07/21/the-strange-vice-of-mrs-wardh-reviews-movie-film-giallo-thriller-1971-overview/"
+      }
+    },
+    {
+      "t": 980,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Despite the English-sounding names, it was acted mainly in Italian on set. The crew shot alternate inserts, like written notes, in English for export.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1110,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Credited cinematographer Emilio Foriscot was a Spaniard added to satisfy co-production rules. The real cinematographer was Italian Anton Giulio Borghesi.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Julie Wardh's vivid apartment interiors were filmed at Rome's Casa Papanice, designed by noted architect Paolo Portoghesi. Vienna's Haus des Buches library stood in for the exterior.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1370,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "George Hilton says he was friends with Edwige Fenech before producer Luciano Martino was smitten with her. Hilton made the introductions and was rewarded with a part in this film.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0385253",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTNiYTgwYjMtZDZlMC00OWM1LTk4NDItNmRlODkyODY5OGJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Hilton also recommended his Argentinian friend Alberto de Mendoza, who plays Julie's husband Neil, to producer Luciano Martino.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1630,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "This was the feature debut of Cristina 'Conchita' Airoldi (Carol Brandt). She had a modest acting career but found greater acclaim as a film producer.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0014808",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDA5MTY2MjktYThiZC00NzFlLWEzMTYtODAzZjUzOGUzMzc5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1760,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The note 'your vice is a room locked from the inside and only I have the key' became the title of director Sergio Martino's 1972 follow-up. Lucio Fulci claims he coined the phrase for a poster.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1890,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The BBFC refused the film a UK cinema certificate in July 1971. It took until 2011 for an uncut DVD from Shameless to get an 18 certificate.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2020,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Italian censors gave it an over-18 restriction, citing 'numerous murders in which violence is mixed with sex.' Part of a sex scene was also cut during its first Italian run.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In the US it opened in New York on 6 August 1971 as 'Next!'. It was later retitled 'The Next Victim', and a 1984 videotape called it 'Blade of the Ripper'.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2280,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The New York Times' Howard Thompson called it 'a flat, flabby pancake of a suspense melodrama' in August 1971.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2410,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Italian paper L'Unità dismissed the story as 'a pretext to show buttocks and breasts' and said director Sergio Martino's 'mental vice' was treating the audience like idiots.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2540,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The New York Daily News' Wanda Hale wrote that Edwige Fenech is 'a very beautiful actress, playing a very stupid woman,' and that the close-ups retard suspense.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2670,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "It grossed 612 million lire in Italy. In Spain, as 'La perversa señora Ward' in 1972, it drew 536,503 admissions.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2740,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Blogger Watching Horror Films From Behind the Couch notes that stars Edwige Fenech, Ivan Rassimov and George Hilton first appeared together here, then reteamed in Martino's All the Colors of the Dark.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "http://watchinghorrorfilmsfrombehindthecouch.blogspot.com/2011/04/strange-vice-of-mrs-wardh.html"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Nora Orlandi's eerie 'Dies Irae' flashback theme was recycled by Quentin Tarantino as Michael Madsen's theme in Kill Bill: Vol. 2, per Mondo Digital.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wardh"
+      }
+    },
+    {
+      "t": 2930,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The score by Nora Orlandi was first released on CD in 2000 by Hexacord. Vinyl followed in 2002.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3060,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 2004 the Venice Film Festival screened it in a selection of Italian genre films curated by Quentin Tarantino and Joe Dante.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3190,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Directors Hélène Cattet and Bruno Forzani modeled a scene in The Strange Colour of Your Body's Tears (2013) on one of Julie Wardh's flashbacks.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3320,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Genre historians and Italian critic Paolo Mereghetti see the film's Schönbrunn Palace Park murder as an influence on a similar scene in Dario Argento's Four Flies on Grey Velvet.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Turkey made an unlicensed remake in 1972, 'Thirsty for Love: Sex and Murder'. A pornographic Turkish take, 'Spasms', followed in 1980.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3580,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The 1984 US tape 'Blade of the Ripper' kept most of the violence but had a poor transfer and new digital credits. The 1985 'Next Victim' reissue looked better but cut much of the graphic content.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3710,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Edwige Fenech made three more gialli for her producer husband Luciano Martino in 1971-72, including The Case of the Bloody Iris. George Hilton co-starred in two of them.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0271763",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MzUwMDA0OF5BMl5BanBnXkFtZTcwNjc2MjIyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Before this, Uruguayan-born George Hilton became a spaghetti western star with Massacre Time (1966) and Sartana's Here... Trade Your Pistol for a Coffin (1970).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0385253",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTNiYTgwYjMtZDZlMC00OWM1LTk4NDItNmRlODkyODY5OGJkXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3885,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dread Central's Blu-ray review argues the film skips the genre's usual childhood-trauma backstory and that its ending would feel colder without the final denouement.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/reviews/331497/the-strange-vice-of-mrs-wardh-blu-ray-review-its-actually-pretty-common/"
+      }
+    },
+    {
+      "t": 3970,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital calls it a 'daring and surprisingly bleak shocker' that set the pace for years of gialli, and Edwige Fenech 'the ultimate giallo scream queen' to many fans.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wardh"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Cinema Retro's Adrian Smith called it a blend of Hitchcock's Frenzy and Clouzot's Les Diaboliques, with more red herrings than an M. Night Shyamalan film.",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4230,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Catholic film magazine Segnalazioni cinematografiche called it 'an artificial and incongruous thriller, full of tropes and tasteless effects.'",
+      "icon": "mic",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4360,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2015 Rome hosted an academic conference titled 'The Strange Vice of Mrs. Wardh and the Giallo', with panelists including Sergio Martino, George Hilton and writer Ernesto Gastaldi.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4490,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was adapted into photonovels in Italy's Cinesex attualità in 1971 and France's CinEscandale in 1977. Severin reprinted the latter in English in 2020.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4620,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Mondo Digital notes Edwige Fenech was dating producer Luciano Martino, director Sergio Martino's brother. That led to two more gialli and several sex comedies with Sergio.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/wardh"
+      },
+      "person": "nm0271763",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MzUwMDA0OF5BMl5BanBnXkFtZTcwNjc2MjIyOA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
