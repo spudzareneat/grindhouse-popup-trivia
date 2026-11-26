@@ -1,0 +1,334 @@
+{
+  "schema": 1,
+  "imdbId": "tt0235280",
+  "title": "Cheerleader Ninjas",
+  "year": 2002,
+  "runtimeSec": 5460,
+  "generatedAt": "2026-11-26T05:53:45.286Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The opening credits list 'Other Titles We Didn't Use,' including 'Crouching Tiger, Hidden .357,' 'Teen Sewer Tramps' and 'Used Love Dolls: We Got 'Em Cheap.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 250,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film Threat's Steve Anderson wrote that the movie has only three moods: comic, disgusting and pandering. He called it a thrill ride for every fifteen-year-old boy.",
+      "icon": "sunglasses",
+      "byline": "Steve Anderson — Film Threat",
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/cheerleader-ninjas-dvd/"
+      }
+    },
+    {
+      "t": 400,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Kevin Campbell joked he wanted this film to deliver all the T&A hijinks and nudity that the cheerleader hit Bring It On (2001) should have had.",
+      "icon": "mic",
+      "byline": "Kevin Campbell — Director",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0132646"
+    },
+    {
+      "t": 550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Film Threat's Eric Campos called this the 'real sequel' to Revenge of the Nerds (1984). That hit grossed about $40.9M on a $6-8M budget; critics panned it then, but it became a cult favorite.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Revenge_of_the_Nerds"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kevin Campbell's earlier credits were VHS how-to tapes like Video Workbench: How to Build WWII Aircraft and Basic Modeling. Model-kit tutorials to ninja cheerleaders is quite a leap.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0132646"
+    },
+    {
+      "t": 850,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The Happy Valley High Hamsters are played by Englewood High School in Colorado, whose real mascot is the Pirate. The school dates to 1913; its current building opened with the class of 1954.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Englewood_High_School_(Colorado)"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was shot at Englewood High School, so the Happy Valley High Hamsters were played by a real school's hallways.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film was accepted to the 8th annual San Antonio Underground Film Festival (June 14-16, 2002). Campbell submitted it for its 'alternative, avant-garde nature,' Film Threat reported.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/when-cheerleader-ninjas-attack/"
+      }
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jeff Nicholson, who plays teacher Stephen, drew the surreal graphic novel Through the Habitrails, first serialized in Stephen Bissette's Taboo. He has six Eisner Award nominations.",
+      "icon": "star",
+      "byline": "Jeff Nicholson",
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Jeff_Nicholson"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Film Threat's Eric Campos called it a 'real sequel' to Revenge of the Nerds and 'one of the craziest T&A comedies ever,' praising Kevin Campbell as 'a comic mastermind.'",
+      "icon": "sunglasses",
+      "byline": "Eric Campos — Film Threat",
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/cheerleader-ninjas/"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Reviews split hard. Film Threat gave it four stars, while The Encyclopedia of Underground Movies found it more gory than funny.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kira Reed (Fantasy Girl) later became a Playboy TV regular. Her show 69 Sexy Things 2 Do Before You Die was called Christie Hefner's favorite new show on the channel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0715529",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWU2YzA5MzAtZmQ3YS00ZWNlLWI5MGEtMjcwMWRiOTA5MTg3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film Threat's Eric Campos said director Kevin Campbell captures the feel of cheesy 1980s sex comedies and adds Troma-style lunacy. He called the result 'an ultimate party movie!'",
+      "icon": "mic",
+      "byline": "Eric Campos — Film Threat",
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/cheerleader-ninjas/"
+      }
+    },
+    {
+      "t": 2500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Film Threat's Eric Campos noted Kira Reed, who plays Fantasy Girl, was a familiar face from late-night Skinemax films, and she appears in the nerds' fantasy sequences.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/cheerleader-ninjas/"
+      },
+      "person": "nm0715529",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWU2YzA5MzAtZmQ3YS00ZWNlLWI5MGEtMjcwMWRiOTA5MTg3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2650,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Fantasy Girl Kira Reed later moved to producing. She won Daytime Emmys as a producer in 2016 and 2017 on the web drama The Bay, and she was nominated for acting on it in 2018.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Kira_Reed"
+      },
+      "person": "nm0715529",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWU2YzA5MzAtZmQ3YS00ZWNlLWI5MGEtMjcwMWRiOTA5MTg3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Jeff Nicholson, who plays Stephen, stopped drawing comics around 2005. He spent about 20 years at a utility company doing GIS work, retired at 55, and later revived his Ultra Klutz series.",
+      "icon": "star",
+      "byline": "Jeff Nicholson",
+      "source": {
+        "type": "web",
+        "url": "https://www.tcj.com/now-its-all-about-legacy-reconnecting-with-jeff-nicholson-after-his-two-decades-away-from-comics/"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Don't confuse it with Ninja Cheerleaders, the 2008 comedy starring George Takei. Cheerleader Ninjas came out about six years earlier.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film's reference list also includes Barb Wire (1996), Mork & Mindy (1978), Star Trek: The Next Generation and Return of the Jedi.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3500,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film name-checks Star Wars, Star Trek, The Exorcist, Top Gun, Highlander, Back to the Future and The X-Files, and spoofs Mighty Morphin Power Rangers.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Bands About Movies reviewed it in 2023 and said it 'sets out to be bad and overdelivers.' It also noted that Kira Reed supplies nearly all of the film's nudity.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/02/cheerleader-ninjas-2002"
+      }
+    },
+    {
+      "t": 4000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Jeff Nicholson, who plays teacher Stephen, is also a cartoonist. He created the comic book Ultra Klutz, according to Bands About Movies.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/02/cheerleader-ninjas-2002"
+      },
+      "person": "nm0629844",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA5MzY1NzIwNzZeQTJeQWpwZ15BbWU3MDU2NzAyMzE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Englewood High School, the film's real location, moved into a new 239,000-square-foot campus dedicated February 7, 2015. It now serves about 1,250 students.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://en.wikipedia.org/wiki/Englewood_High_School_(Colorado)"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Kevin Campbell returned to the internet-horror theme two decades later with the slasher Back Slash, according to Bands About Movies.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://bandsaboutmovies.com/2023/06/02/cheerleader-ninjas-2002"
+      },
+      "person": "nm0132646"
+    },
+    {
+      "t": 4750,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The uncredited topless body double in the catfight also doubled for head cheerleader Angela (Angela Brubaker). She appears in the film's lesbian dream sequence too.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5000,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Stay for the credits. The audio is credited to 'Deaf Dorkelston' and the fart noises to 'T.P. Brownpipe.' 'Dave the Sword-Clanging Guy' handles the sword effects.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5150,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The last credit thanks viewers 'so bored as to actually sit through all these credits,' and tells them never to let anyone ask them to pull their finger.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The credits show Kira Reed was one of the topless body doubles in the catfight, which is why the cheerleaders' blouses are intact again afterward.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0715529",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWU2YzA5MzAtZmQ3YS00ZWNlLWI5MGEtMjcwMWRiOTA5MTg3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    }
+  ]
+}
