@@ -1,0 +1,435 @@
+{
+  "schema": 1,
+  "imdbId": "tt0142074",
+  "title": "Alien Abduction: Incident in Lake County",
+  "year": 1998,
+  "runtimeSec": 5580,
+  "generatedAt": "2026-11-26T05:23:11.614Z",
+  "facts": [
+    {
+      "t": 120,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "When this aired on UPN in January 1998, many viewers thought it was real. It followed the tabloid special Real Vampires: Exposed!, which didn't help.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 210,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This TV remake of The McPherson Tape was made with Dick Clark Productions for UPN. Director Dean Alioto's no-budget 1989 tape had grown into a network event.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Dean Alioto's 1989 original, The McPherson Tape, cost about $6,500 to make. He's said the only thing that money could buy was a home video.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 390,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "After UFO fans mistook his film for real, director Dean Alioto went on national TV to debunk it. He says, \"I went on national TV and debunked my own movie.\"",
+      "icon": "mic",
+      "byline": "Dean Alioto — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      },
+      "person": "nm0019665",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk0NjViYjAtNjgwOC00MWIxLWJjMTktNzRiYmQ2M2VjNDExXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dean Alioto took the idea for his 1989 original from Whitley Strieber's memoir Communion, about Strieber's own alleged alien abduction.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 570,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Dean Alioto shot his 1989 original mostly in one night, with actors improvising dialogue. Distributors complained the overlapping chatter was hard to follow.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://uapf.substack.com/p/the-mcpherson-tape-the-ufo-hoax-that"
+      }
+    },
+    {
+      "t": 660,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "It was shot in Vancouver with an all-Canadian cast playing Montana folks. Actors were fined $1 each time a Canadian accent slipped out; Dean Alioto, who directed, says he collected $200 total.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The only distributor interested in Dean Alioto's 1989 original burned down before release, destroying the master and artwork. Alioto has joked the owner may have torched it for insurance.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The TV remake deal offered director Dean Alioto about $1.25 million. He told an interviewer it gave him a full-blown anxiety attack because he'd never handled that much money.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 930,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Copies of the 1989 original, with the end credits cut off, were passed around as real. It caused a stir at the 1993 International UFO Congress in Las Vegas.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 1020,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "UFO researcher Stanton Friedman wasn't told the show was fiction. Reports say he defended the original tape's authenticity.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 1110,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Retired Air Force intelligence officer Lt. Col. Donald Ware, a UFO-convention regular, was convinced the original McPherson Tape was credible. His rank made skeptics wary of dismissing it.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The film aired about six weeks before The Last Broadcast and 18 months before The Blair Witch Project, making it one of the earliest found-footage hits.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "UFO researcher Tom Dongo studied still frames of the original tape and said an alien's sunken eye matched dead aliens. He still allowed parts might be authentic after Dean Alioto was named as creator.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 1380,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Emmanuelle Chriqui (Renee) agreed to a topless shot, then got cold feet over what her father would think. The compromise was pasties, blurred out so it looks like she's topless.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1470,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "TV specials used clips of Dean Alioto's original tape as alien evidence, and it was treated as the Zapruder film of UFOlogy, though it was a $6,500 student-style movie.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://uapf.substack.com/p/the-mcpherson-tape-the-ufo-hoax-that"
+      }
+    },
+    {
+      "t": 1560,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original script ran only 45 minutes. Dean Alioto spent four days adding scenes, such as the appliances going haywire, to reach feature length.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1740,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Local papers printed notices after the 1998 broadcast clarifying that the events were fictional. Debunkers also noted the sheriff's department had no record of any McPherson family in Lake County.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 1920,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The network polled viewers after the broadcast and half thought the footage was real, even though the end credits listed actors playing the aliens.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2040,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Director Dean Alioto was just 24 when he shot the 1989 original that led to this remake.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://uapf.substack.com/p/the-mcpherson-tape-the-ufo-hoax-that"
+      }
+    },
+    {
+      "t": 2160,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kristian Ayre (Tommy) later played Radu on the Nickelodeon sci-fi show Space Cases, so he'd already been in space on kids' TV before this.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0043966"
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Dean Alioto believed his original tape was lost after the warehouse fire, until a 1994 phone call revealed screeners had reached video stores.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://dreadcentral.com/editorials/434834/can-we-talk-about-how-people-thought-the-mcpherson-tape-was-real"
+      }
+    },
+    {
+      "t": 2400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Actors improvised nearly everything in the 1989 original from a 10-page beat sheet. Dean Alioto also appeared in it as the brother holding the camera.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film is referenced in the 2013 movie Adjust Your Tracking, one of several later titles that nod to it.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The UPN broadcast added fake expert interviews. In one, a special effects expert is played by director Dean Alioto, who ad-libbed that if it's a hoax, he should have directed it.",
+      "icon": "mic",
+      "byline": "Dean Alioto — Director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The filmmakers expected the network to force out the swearing. The words were allowed but bleeped, and one actor was cut for being too reluctant to swear on camera.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The original McPherson Tape was restored for a one-time Fantastic Fest screening in 2019. With the master burned, Dean Alioto rebuilt it from a bootleg of an old advance tape.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "After Dean Alioto's original film was mistaken for real, a Fox show called Encounters ran a segment on 'the world's greatest UFO hoax'. He went on to debunk it, and it made the film more popular.",
+      "icon": "mic",
+      "byline": "Dean Alioto — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "UFO TV shows Unsolved Mysteries and Hard Copy also covered the original tape. Director Dean Alioto's film had been treated as real evidence on TV years before this remake.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/569496/the-mcpherson-tape/"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Gillian Barber (Mom) has appeared on The X-Files, Stargate SG-1, Supernatural and Smallville, the four longest-running North American sci-fi series, and has a black belt in Tae Kwon Do.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0053390",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDIzOTU3ODQtMGM5NC00OTVhLTk0ZjItYjhiN2Q3ZTdlYmQ1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3900,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The UPN cut was trimmed to 44 minutes and added a score, sensational narration and an on-screen timer. Director Dean Alioto's own cut runs a little over 91 minutes.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "When New Zealand's TVNZ aired it, the end credits were cut. That kept viewers from seeing that the McPhersons were played by actors, even with a disclaimer about the authenticity dispute.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dean Alioto says he once got a letter from a woman who watched this film while pregnant and claimed it almost made her miscarry.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Emmanuelle Chriqui (Renee) later played Sloan on HBO's Entourage and Lana Lang on Superman & Lois.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0004825",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTAxY2ZhMWItN2IyYS00YTllLWI5Y2YtMGU0ZTU0NTAxMGRmXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Benz Antoine (Matthew) was later nominated three times for Best Supporting Actor for playing the same cop, Tyler Joseph, in the series 19-2, in French and English versions.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0031162",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmVmZTViNTItYzYwYy00ZmUzLWJiYjgtYjJlNTY4MDgwODI5XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 5300,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Tommy's tearful confessional to the camera wasn't in the original script. Director Dean Alioto wrote it to pad the film's short running time.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
