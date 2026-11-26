@@ -1,0 +1,474 @@
+{
+  "schema": 1,
+  "imdbId": "tt0095989",
+  "title": "Return of the Killer Tomatoes!",
+  "year": 1988,
+  "runtimeSec": 5880,
+  "generatedAt": "2026-11-26T05:36:15.142Z",
+  "facts": [
+    {
+      "t": 329,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The opening theme song tells viewers that Herman Farbage, the garbage man from the 1978 original, wasn't killed after all and now has his own TV show.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 417,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The theme song jokes about a part three. Sure enough, director John De Bello made two more sequels: Killer Tomatoes Strike Back! (1991) and Killer Tomatoes Eat France! (1992).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 462,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Anthony Starke (Chad Finletter) later played Jimmy, the guy who speaks of himself in the third person, in the 1995 Seinfeld episode \"The Jimmy.\"",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0823289",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzI1MTA0M15BMl5BanBnXkFtZTcwMDMzMjQ3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 519,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Karen M. Waldron, who plays Tara Boumdeay, was born Karen Mistal, and some listings still credit her that way. She later acted in Space Cowboys (2000).",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0592960",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzA5NTFlNDYtYzgxMC00NWRjLWI2YmMtNjk4NTBlNGZlN2ViXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A pizzeria patron here is future U.S. congressman Gary Condit, a friend of co-writer J. Stephen Peace from the California Assembly. He became a household name in the 2001 Chandra Levy case.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 700,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "J. Stephen Peace, who plays pizza-shop owner Wilbur Finletter, co-wrote and produced the film. He later served in the California State Assembly and Senate.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 778,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "In the first film, the awful song \"Puberty Love\" was sung by director John De Bello's 14-year-old neighbor Matt Cameron, who grew up to drum for Soundgarden and Pearl Jam.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 844,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Before filming, John Astin (Professor Gangreen) asked director John De Bello if he should watch the original Attack of the Killer Tomatoes. De Bello told him not to bother.",
+      "icon": "mic",
+      "byline": "John De Bello — Director",
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 891,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Steve Lundquist, who plays Igor, is a real Olympic champion: he won gold in the 100-meter breaststroke and 400-meter medley relay at the 1984 Los Angeles Games.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0526557"
+    },
+    {
+      "t": 940,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look at the wall clocks behind Professor Gangreen: one reads \"Las Vegas\" and has no hands, likely a nod to casinos famously having no clocks.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "George Clooney (Matt Stevens) was an unknown here. His breakthrough came in 1994 as Dr. Doug Ross on ER, earning two Emmy nominations.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000123",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1084,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Fuzzy Tomato's cuddly-pest look fits the film's long spoof list, which includes the Star Trek episode \"The Trouble with Tribbles\" (1967) and E.T. the Extra-Terrestrial (1982).",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1353,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "George Clooney reportedly had fun making the film but was glad it didn't do well enough to typecast him, according to a FemaleFirst interview cited by Yahoo Entertainment.",
+      "icon": "mic",
+      "byline": "George Clooney",
+      "source": {
+        "type": "web",
+        "url": "https://www.yahoo.com/entertainment/return-killer-tomatoes-george-clooney-220000437.html"
+      },
+      "person": "nm0000123",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Anthony Starke (Chad Finletter) next turned up in the 1989 James Bond film Licence to Kill, one year after this goofy tomato sequel.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Clips of the original Attack of the Killer Tomatoes aired on the cartoon Muppet Babies, which helped the film's cult following grow before this sequel arrived.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.yahoo.com/entertainment/return-killer-tomatoes-george-clooney-220000437.html"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Karen Waldron (Tara Boumdeay) next appeared in the delightfully titled Cannibal Women in the Avocado Jungle of Death (1989), then on Baywatch.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The film was shot in the South Bay area of San Diego County, including National City and Chula Vista.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2357,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Charles White, the pushy TV reporter, is played by the film's own director and co-writer John De Bello. He later plays the harried director who yells that the production is out of money.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/returnofthekillertomatoes.htm"
+      }
+    },
+    {
+      "t": 2402,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The poster was first painted as a Campbell's Soup can with John Astin's face on the label. Over copyright worries, artist David R. Darrow's new label was physically glued over it.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2715,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The film jokes that it's out of money, but the real budget was reportedly about $1 million. It reportedly grossed around $5 million in the U.S.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "tmdb"
+      }
+    },
+    {
+      "t": 2780,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Richard Scheib of Moria gave the film one star, yet called the product placement gags its most amusing element, since they serve as the film's answer to its cash shortage.",
+      "icon": "sunglasses",
+      "byline": "Richard Scheib — Moria",
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/return-of-the-killer-tomatoes-1988.htm"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The product placement joke was also a real one: per Richard Scheib of Moria, Pepsi logos show up on Gangreen's lab coat and the lab exterior, plus a Kellogg's box.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/sciencefiction/returnofthekillertomatoes.htm"
+      }
+    },
+    {
+      "t": 2990,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Critics were unkind: Rotten Tomatoes lists 0% from 6 reviews, and TV Guide called the film an \"unnecessary sequel.\" Emanuel Levy gave it 2 out of 5.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3200,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The franchise grew from a UC Davis student project and was inspired by the Japanese film Matango, retitled Attack of the Mushroom People on U.S. TV. The 1978 original cost roughly $120,000.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 3400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "This was among George Clooney's first big-screen roles, after Grizzly II: The Revenge, which sat unreleased for years. He didn't return for the 1991 and 1992 Killer Tomatoes sequels.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.slashfilm.com/2072108/george-clooney-80s-horror-comedy-return-of-the-killer-tomatoes-streaming-prime-video"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer and production designer Costa Dillon plays several roles, billed as \"C.J. Clark Dillon,\" then \"Dillon again, who else,\" then \"Guess who?\" The credits also run backward, cast last.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3803,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Teri Weigel, who plays Matt's playmate, was a real Playboy Playmate (April 1986) and appeared on the cover of Playboy's November 1985 Women of Mensa issue.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3860,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In the Playboy issue George Clooney holds up, there's a Vidal Sassoon ad starring Steve Lundquist, the Olympic swimmer who plays Igor.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Chris Coffel of Bloody Disgusting compared it to The Simpsons: so many jokes you can't catch them in one viewing, a movie made for the VHS generation.",
+      "icon": "mic",
+      "byline": "Chris Coffel — Bloody Disgusting",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The first film's theme was played on January 13, 1990 as a wake-up call for Space Shuttle Columbia's crew, a joke since Columbia was retrieving 12.5 million tomato seeds.",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 4400,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "DVD Talk's Adam Tyner wrote that the film \"doesn't just break the fourth wall; it grinds it into a fine powder,\" with humor years ahead of its time.",
+      "icon": "mic",
+      "byline": "Adam Tyner — DVD Talk",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4564,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "John Astin said in a 2023 retrospective documentary that his Professor Gangreen was partly inspired by his father, a real scientist who worked on a death ray for the U.S. government.",
+      "icon": "mic",
+      "byline": "John Astin",
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0040014",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MjU3MzkxMF5BMl5BanBnXkFtZTYwOTEyMDI1._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4700,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "During the 1978 original, a rented helicopter crashed and was totaled, a $60,000 loss, though nobody was seriously hurt. Peace also nearly died in a car-chase stunt.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mentalfloss.com/article/82643/10-saucy-facts-about-attack-killer-tomatoes"
+      }
+    },
+    {
+      "t": 4900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "VultureHound's Lee Hazell likened the film to the Marx Brothers' manic energy and the Zucker brothers' gleeful stupidity, but docked a point for turning tomatoes into machine-gun-toting Chippendales.",
+      "icon": "mic",
+      "byline": "Lee Hazell — VultureHound",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5100,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The prison scenes were shot at a real facility: the Richard J. Donovan Correctional Facility on Alta Road in San Diego, one of the film's listed locations.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5266,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Rick Rockwell, who plays Jim Richardson, later became infamous as the groom on the 2000 TV special Who Wants to Marry a Multi-Millionaire?",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5480,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Dread Central's Anthony Arrigo called it a \"zany riot\" whose gags fly so fast it's almost impossible to catch every joke the first time, comparing it to Zucker/Abrams and Mel Brooks.",
+      "icon": "mic",
+      "byline": "Anthony Arrigo — Dread Central",
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5690,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The end credits run in reverse of the industry norm: crew first, musicians before the midpoint, and the main cast last.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5745,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The old woman who halts the credits to insist that viewers stay is said to be the director's mother, according to a Yahoo Entertainment retrospective by Stephen Wilds.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.yahoo.com/entertainment/return-killer-tomatoes-george-clooney-220000437.html"
+      }
+    },
+    {
+      "t": 5810,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The post-credits scene, where carrot soldiers gun down the hosts, ends with Gangreen's laugh and \"See you in France!\", teasing sequel Killer Tomatoes Eat France! (1992).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    }
+  ]
+}
