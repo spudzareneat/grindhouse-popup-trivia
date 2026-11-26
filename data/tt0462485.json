@@ -1,0 +1,463 @@
+{
+  "schema": 1,
+  "imdbId": "tt0462485",
+  "title": "Poultrygeist: Night of the Chicken Dead",
+  "year": 2006,
+  "runtimeSec": 6180,
+  "generatedAt": "2026-11-26T05:13:58.969Z",
+  "facts": [
+    {
+      "t": 100,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Trey Parker and Matt Stone of South Park were once set to cameo as Arbie's parents, but the scene was scrapped during shooting. That's why viewers never see them.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 160,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Look closely: the camera's own shadow slips onto one of the gravestones during this opening graveyard scene.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 273,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The chickens' clucking was performed by two people: co-director Gabriel Friedman and director Lloyd Kaufman themselves.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 369,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Arbie (Jason Yachanin) wears a shirt reading 'I love the Monster Hero', a plug for Troma's 1984 mascot movie The Toxic Avenger.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 450,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Revenge of the rats: director Lloyd Kaufman says a McDonald's opening next to Troma's New York office brought raccoon-sized rats to the building, helping inspire a movie about fast food gone wrong.",
+      "icon": "mic",
+      "byline": "Lloyd Kaufman — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://eyeforfilm.opalstacked.com/feature/2008-08-11-interview-with-lloyd-kaufman-from-troma-about-poultrygeist-feature-story-by-daniel-hooper"
+      }
+    },
+    {
+      "t": 543,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Composer Duggie Banas, who wrote the movie's musical numbers, got the gig by answering an online ad looking for composers willing to score a film for free.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lloyd Kaufman cites the book Fast Food Nation as a key influence. He says the zombies stand for consumers turned mindless by the media and fast food industry working together.",
+      "icon": "mic",
+      "byline": "Lloyd Kaufman — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://eyeforfilm.opalstacked.com/feature/2008-08-11-interview-with-lloyd-kaufman-from-troma-about-poultrygeist-feature-story-by-daniel-hooper"
+      }
+    },
+    {
+      "t": 735,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Every lead is named for a fast food chain: Arbie (Arby's), Wendy (Wendy's), Micki (McDonald's), Denny (Denny's), Carl Jr. (Carl's Jr.) and Paco Bell (Taco Bell).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 840,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Co-writer Gabriel Friedman, a Troma editor, had worked in fast food and earned more than he did at Troma. Director Lloyd Kaufman says that, plus his stash of chicken puns, started the project.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "interview",
+        "url": "https://www.dvdtalk.com/features/dvdtalk_intervi.html"
+      }
+    },
+    {
+      "t": 935,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Adult-film star Ron Jeremy plays Crazy Ron, the doom-shouting local eccentric. He's a parody of Crazy Ralph, the warning-giver in Friday the 13th.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1000,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "In 2004 Troma put out a call for special effects artists and songwriters, joking it wanted people who could 'raise chickens from the dead.' Composer Duggie Banas later joined from such a call.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://filmthreat.com/uncategorized/fast-food-troma-poultrygeist/"
+      }
+    },
+    {
+      "t": 1065,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Director Lloyd Kaufman says his wife helped pay for the film, and because she was an investor, she made him cut some of the toilet-cam and excrement shots.",
+      "icon": "mic",
+      "byline": "Lloyd Kaufman — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/lloyd-kaufman-1798213901"
+      }
+    },
+    {
+      "t": 1200,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Budget was roughly $500,000. Troma co-founders Lloyd Kaufman and Michael Herz paid much of it, and Kaufman and his wife even dipped into their retirement savings.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1290,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Director Lloyd Kaufman bills this as 'the first hardcore man-on-chicken scene in the history of 35mm film,' and as Troma's first film with singing and dancing.",
+      "icon": "mic",
+      "byline": "Lloyd Kaufman — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://www.dvdtalk.com/features/dvdtalk_intervi.html"
+      }
+    },
+    {
+      "t": 1371,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Continuity watch: after Jared falls off the toilet, the mess sprayed on the wall vanishes between shots.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1480,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "During 'Slow Fast Food Love' in Wendy's dorm room, posters for director Lloyd Kaufman's earlier Tromeo and Juliet and When Nature Calls are on her wall.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 1590,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Director Lloyd Kaufman calls this his favorite Troma film, saying it's 'the most original, best written, the most risk taking, the most political, and definitely the most entertaining.'",
+      "icon": "mic",
+      "byline": "Lloyd Kaufman — Director",
+      "source": {
+        "type": "interview",
+        "url": "https://eyeforfilm.opalstacked.com/feature/2008-08-11-interview-with-lloyd-kaufman-from-troma-about-poultrygeist-feature-story-by-daniel-hooper"
+      }
+    },
+    {
+      "t": 1700,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Crew volunteers answered Craigslist and message-board ads, and per Fangoria they traveled from Sweden, Germany, Australia and across the US to work for free.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2000,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Shot in Buffalo, New York in summer 2005, the production used over 80 crew members and 300 unpaid extras.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 2152,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Director Lloyd Kaufman, now on screen as the old mascot, was in Yale's class of 1968, the same class as filmmaker Oliver Stone and future president George W. Bush.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Kaufman says he halted shooting when the crew used miniature Baby Ruth bars instead of full-size ones for a gag. The shoot used a bankrupt Buffalo McDonald's he got for very little money.",
+      "icon": "mic",
+      "byline": "Lloyd Kaufman — Director",
+      "source": {
+        "type": "web",
+        "url": "https://www.avclub.com/lloyd-kaufman-1798213901"
+      }
+    },
+    {
+      "t": 2450,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The Psychotronic Review, after watching the making-of documentary, reports that lead Jason Yachanin (Arbie) was paid $900, and co-star Kate Graham (Wendy) was paid $1,800.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://psychotronicreview.com/2018/04/30/troma-economic-inequality/"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Co-director Gabriel Friedman hated the sound effects in the mix: 'They took the Flintstones library and threw it into our movie.' Each topless moment got a cowbell and cartoon whistles.",
+      "icon": "mic",
+      "byline": "Gabriel Friedman — Co-director",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2800,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "The working title was 'Good Night and Good Cluck.' Director Lloyd Kaufman dropped it to avoid confusion with George Clooney's Good Night, and Good Luck, released first.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The pun 'Poultrygeist' came from Charles Kaufman, director Lloyd Kaufman's brother, who used it for an episode of Ghost Busters he wrote in the 1980s.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "In 2011 a California man bought a DVD cleaning kit that contained a disguised copy of this movie. He called it 'horrifying' and 'a Triple-X rated movie.' It made national news; no charges were filed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Richard Scheib of Moria gave it three stars out of five, calling it a post-9/11 Troma film that offends nearly everyone, and so persistently moronic that its excess becomes admirable.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://moriareviews.com/?p=7963"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Lloyd Kaufman keeps a sign on his sets listing Troma's three rules: safety to humans, safety to property, make a good movie. The third is in much smaller print.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Troma, the studio behind this film, gave early breaks to South Park creators Trey Parker and Matt Stone and to future Guardians of the Galaxy director James Gunn, per JoBlo's Awfully Good column.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.joblo.com/awfully-good-tromas-poultrygeist/"
+      }
+    },
+    {
+      "t": 3944,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Denny's story of a chicken attack is a parody of Quint's USS Indianapolis speech in Jaws (1975).",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Joshua Olatunde (Denny) once taught physics to honors students in Namibia through Harvard's World Teach program, and interned at J.P. Morgan Chase.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm1969542",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTNhMzkyYjAtN2E4NS00M2UwLTlmNTgtZmNkOTYxMTgxNDE1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 4250,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The soundtrack album came out October 3, 2006, with punk tracks by The Dwarves and Zombina and the Skeletones. Every copy shipped with a bonus DVD containing the movie's first five minutes.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4367,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Mature Arbie yells 'Die You Zombie Bastards!' as he fires. Caleb Emerson, who plays Carl Jr., wrote and directed a film called Die You Zombie Bastards!",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Entertainment Weekly's Owen Gleiberman gave it a B+, calling it 'an exploitation movie with soul.' Slant Magazine gave it half a star out of four.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4725,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A sequel, Poultrygeist 2: Dawn of the Chicken Dead, was announced in 2025 by Mercedes the Muse. Lloyd Kaufman and Michael Herz later shelved it over explicit content, even by Troma standards.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4850,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Orlando Sentinel critic Roger Moore gave it two stars, calling it 'a 40-minute short struggling to escape a 103-minute feature.'",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5130,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "The priest's exorcism attempt riffs on Mel Gibson's The Passion of the Christ (2004), one of several spoofs in the film, along with Jaws, Jerry Maguire and Michael Jackson's Thriller.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 5300,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "A video game, Troma Presents: Poultrygeist, came out June 10, 2024. Despite the name and Troma's involvement, it contains no characters or elements from the film.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film premiered at the Brussels International Festival of Fantasy Film on April 14, 2007, and grossed only about $22,623 against a roughly $500,000 budget.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 5786,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "This car flip stunt was first filmed in 1991 for Troma's Sgt. Kabukiman N.Y.P.D. and has been recycled for comic effect in every Lloyd Kaufman-directed film since.",
+      "icon": "explosion",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    }
+  ]
+}
