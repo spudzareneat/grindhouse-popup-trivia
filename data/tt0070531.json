@@ -1,0 +1,451 @@
+{
+  "schema": 1,
+  "imdbId": "tt0070531",
+  "title": "Phase IV",
+  "year": 1974,
+  "runtimeSec": 5040,
+  "generatedAt": "2026-11-26T06:08:14.249Z",
+  "facts": [
+    {
+      "t": 65,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "There are no opening credits and no Paramount logo. The title \"Phase IV\" appears only at the very end, after \"Phase I,\" \"II\" and \"III\" are counted off in the closing credits.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 150,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Phase IV is the only feature film directed by Saul Bass, the graphic designer famous for the title sequences of Psycho, Vertigo and North by Northwest.",
+      "icon": "camera",
+      "byline": "Saul Bass — Director",
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000866",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5NzgzNjk2MF5BMl5BanBnXkFtZTgwNTg2MjMxMDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 240,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Phase IV began over cocktails in 1971: Paramount's Peter Bart asked producer Paul Radin what he was working on. Radin said an ant story, though he had nothing yet, then phoned Saul Bass.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 330,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film is set in Arizona, but the exteriors were shot in Kenya's Rift Valley. Interiors were built at Pinewood Studios in England.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 420,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wildlife photographer Ken Middleham shot the film's insect close-ups. He also shot the insect footage for the satirical nature documentary The Hellstrom Chronicle.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 520,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Writer Mayo Simon took inspiration from H. G. Wells' 1905 short story \"Empire of the Ants.\" Sci-fi author Barry N. Malzberg wrote the novelization from Simon's script, published in November 1973.",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 640,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Nigel Davenport (Dr. Hubbs) once read HAL 9000's lines off-camera on the set of 2001: A Space Odyssey. Stanley Kubrick found his English accent distracting and dropped him.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      },
+      "person": "nm0202638",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4MDg3NTAyNF5BMl5BanBnXkFtZTcwNTg4MzA3NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 780,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Murphy (scientist James Lesko) appeared in twelve productions by director Robert Altman, more than any other on-screen performer, including M*A*S*H and Nashville.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0614526",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyZDk0ODUtYTdmMS00MWNlLTgxYTctY2U3MmQ0OTM0ZDUwXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 860,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Several music cues in the film come from stock music libraries. A few of the same cues had been used in 1960s and 70s episodes of Doctor Who.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 970,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Alan Gifford (Mr. Eldridge) is best known for a small role in 2001: A Space Odyssey. Born in Massachusetts, he worked mostly in Britain.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0317506",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTBiYTg1ZjMtMWM2ZC00MTI5LWI2ZmMtNTI1MTcwMTgxYzFlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1100,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Body count: only 4 people die in this ant apocalypse.",
+      "icon": "skull",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1220,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Saul Bass wanted a nearly wordless, 2001-inspired sci-fi journey. Paramount sold it as an exploitation horror thriller, and Trailers From Hell says some gore was reportedly stripped out.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://trailersfromhell.com/phase-iv-4k/"
+      }
+    },
+    {
+      "t": 1340,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "Lynne Frederick (Kendra) was 20 playing 16. She wore a painful, specially designed iron-clad corset to flatten her figure. Saul Bass also urged her to live on chicken broth and black coffee.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0292802",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDU1YjdlMjItYWQ5Zi00YjcyLWJmMGEtYWM5ZWUyOWZhYzliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 1500,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Saul Bass drilled British-born Lynne Frederick on her lines over and over, listening for any trace of an English accent. Kendra is from Arizona. Michael Murphy told the story.",
+      "icon": "mic",
+      "byline": "Michael Murphy",
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1620,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Linda Blair was seriously considered for Kendra. She impressed Saul Bass with her audition and got a screen test, but was judged too young and too expensive.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1750,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Kendra is barefoot for the entire film. It was meant to stress her youth, innocence and country background.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 1900,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Nigel Davenport had worked with Lynne Frederick on No Blade of Grass (1970). He personally recommended her to Saul Bass for the role of Kendra.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2050,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "A MUBI essay on Phase IV notes that much of the ant footage is real wildlife photography. It is often hard to tell which shots are documentary and which are effects. It singles out the mantis attack.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mubi.com/notebook/posts/saul-bass-evolves-with-the-ants"
+      }
+    },
+    {
+      "t": 2170,
+      "rank": 2,
+      "anchor": "scene",
+      "text": "Lynne Frederick married comedy star Peter Sellers in 1977, three years after this film. After his death she was vilified over his will, and Hollywood effectively blacklisted her.",
+      "icon": "star",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0292802",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDU1YjdlMjItYWQ5Zi00YjcyLWJmMGEtYWM5ZWUyOWZhYzliXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 2280,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Wildlife photographer Ken Middleham filmed the macro footage of real ants at his own workshop in California, far from the Kenyan and English sets.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/article/7455-phase-iv-saul-bass-forgotten-cult-classic-gets-a-second-chance"
+      }
+    },
+    {
+      "t": 2385,
+      "rank": 1,
+      "anchor": "scene",
+      "text": "The blinking computers aren't prop lights. This console is the MCB44 display of a real 1963 Elliott 903, and a 1973 GEC 4080 is also on screen.",
+      "icon": "robot",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 2550,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Trailers From Hell reports that Saul Bass scripted erotic scenes between Michael Murphy and Lynne Frederick's characters that were never filmed.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://trailersfromhell.com/phase-iv-4k/"
+      }
+    },
+    {
+      "t": 2850,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Phase IV is called the first film to show a geometric crop circle, made by ants. It came two years before the first modern crop-circle reports in England, and may have inspired the pranksters.",
+      "icon": "saucer",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 3000,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "Saul Bass was a title-design legend. He made the Bell System logo (1969), the Hanna-Barbera swirling star (1979) and the Geffen Records logo (1980).",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      },
+      "person": "nm0000866",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5NzgzNjk2MF5BMl5BanBnXkFtZTgwNTg2MjMxMDE@._V1_QL75_UX120_CR0,0,120,120_.jpg"
+    },
+    {
+      "t": 3150,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Variety also slammed the ant photography as \"poor quality, looking like outtakes rejected by National Geographic.\" Inverse notes the cinematography is now the film's most praised feature.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/article/7455-phase-iv-saul-bass-forgotten-cult-classic-gets-a-second-chance"
+      }
+    },
+    {
+      "t": 3300,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Jay Cocks of Time called Phase IV \"good, eerie entertainment\" with moments of \"haunted visual intensity.\" Variety said the filmmakers \"didn't get the bugs worked out before release.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3450,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "A. H. Weiler of The New York Times wrote that Phase IV \"cries for a Phase V of fuller explanations.\"",
+      "icon": "reel",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3525,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "Phase IV's art director John Barry went on to be production designer on Star Wars (1977).",
+      "icon": "rocket",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://www.inverse.com/article/7455-phase-iv-saul-bass-forgotten-cult-classic-gets-a-second-chance"
+      }
+    },
+    {
+      "t": 3600,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Mondo Digital reports that Saul Bass fought Paramount over the film. A 1973 set visit says the shoot ran over schedule, and Bass was shut out of the marketing despite his poster-design fame.",
+      "icon": "money",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://mondo-digital.com/phaseiv.html"
+      }
+    },
+    {
+      "t": 3750,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Phase IV flopped in 1974. It later won the 1975 Grand Prix at the Trieste International Festival of Science Fiction Films in Italy.",
+      "icon": "trophy",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 3900,
+      "rank": 1,
+      "anchor": "spread",
+      "text": "Phase IV appeared on one of the very early episodes of Mystery Science Theater 3000 in 1989, during the show's KTMA era.",
+      "icon": "sunglasses",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4050,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "The film inspired Ant Attack, a 1983 ZX Spectrum game. Panos Cosmatos cites it as a major influence on his film Beyond the Black Rainbow, and Yeasayer's \"Ambling Alp\" video is a tribute.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4260,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Michael Murphy called the lost finale \"brilliant, psychedelic, fabulous stuff\" at a 2012 TCM screening. The Academy Film Archive had found the faded reel in Bass's papers.",
+      "icon": "mic",
+      "byline": "Michael Murphy",
+      "source": {
+        "type": "web",
+        "url": "https://unframed.lacma.org/node/1126"
+      }
+    },
+    {
+      "t": 4345,
+      "rank": 3,
+      "anchor": "scene",
+      "text": "The winged queens shown here are reportedly a species of wasp. Real ant queens shed their wings before growing their big white abdomens.",
+      "icon": "alien",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4480,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "Saul Bass reused shots from his cut finale in his title sequence for Martin Scorsese's Cape Fear (1991). Clips also turned up in the Phase IV trailer.",
+      "icon": "link",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4650,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The soundtrack was first released on vinyl by Waxwork Records in 2015. Brian Gascoigne was the chief composer, with electronic music by David Vorhaus and Desmond Briscoe.",
+      "icon": "boombox",
+      "byline": null,
+      "source": {
+        "type": "wikipedia"
+      }
+    },
+    {
+      "t": 4800,
+      "rank": 3,
+      "anchor": "spread",
+      "text": "The French TV version of Phase IV is cut. The close-up of a scientist being devoured by ants is missing.",
+      "icon": "censor",
+      "byline": null,
+      "source": {
+        "type": "imdb"
+      }
+    },
+    {
+      "t": 4960,
+      "rank": 2,
+      "anchor": "spread",
+      "text": "In Saul Bass's cut surreal finale, his own son and daughter appear with writing on their faces, and Bass himself has a brief cameo, according to Trailers From Hell.",
+      "icon": "camera",
+      "byline": null,
+      "source": {
+        "type": "web",
+        "url": "https://trailersfromhell.com/phase-iv-4k/"
+      }
+    }
+  ]
+}
